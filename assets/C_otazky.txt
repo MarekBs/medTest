@@ -20,7 +20,7 @@ h) schopnosťou tvoriť vodíkové väzby
 
 3. Pitná voda je:
 a) pravý roztok
-b) zložená len z molekúl H2O
+b) zložená len z molekúl H<sub>2</sub>O
 c) homogénna zmes
 d) zmes chemických látok
 e) nepravý roztok
@@ -44,12 +44,12 @@ b) chemické indivíduum
 c) homogénna látka
 d) dobré rozpúšťadlo iónových zlúčenín
 e) dobré rozpúšťadlo nepolárnych látok
-f) zložená z molekúl H2O
+f) zložená z molekúl H<sub>2</sub>O
 g) silný elektrolyt
 h) látka, ktorá nie je elektrolyt
 
 6. Elektróny:
-a) rovnakých atómov sa podieľajú na tvorbe nepolárnej kovalentnej väzby (napr. v molekule N2)
+a) rovnakých atómov sa podieľajú na tvorbe nepolárnej kovalentnej väzby (napr. v molekule N<sub>2</sub>)
 b) hovoríme o nich, že sú v základnom stave, ak majú najnižšiu energiu
 c) obsadzujú jednotlivé hladiny v atóme podľa ich klesajúcej energie
 d) môžu byť odtrhnuté od atómu a vznikajú pri tom anióny
@@ -66,12 +66,12 @@ d) nukleón
 e) hmota
 f) zlúčenina
 g) každé chemické indivíduum
-h) molekula, napr. H2
+h) molekula, napr. H<sub>2</sub>
 
 8. Chemické indivíduum môže byť:
 a) roztok NaCl v destilovanej vode
 b) len zlúčenina
-c) Al2O3
+c) Al<sub>2</sub>O<sub>3</sub>
 d) elektrón
 e) pitná voda
 f) morská voda
@@ -88,7 +88,7 @@ f) ktorá vznikne z molekuly vodíka stratou jedného elektrónu
 g) ktorá vznikne z atómu vodíka stratou jedného elektrónu
 h) elektroneutrálna
 
-10. Nuklidy 11H, 21H a 31H
+10. Nuklidy <table style="display:inline; border-collapse:collapse; vertical-align:baseline; position:relative; top:-0.4em; font-size:0.8em;"> <tr><td style="text-align:right; line-height:1;">1</td></tr> <tr><td style="text-align:right; line-height:1;">1</td></tr> </table>H, <table style="display:inline; border-collapse:collapse; vertical-align:baseline; position:relative; top:-0.4em; font-size:0.8em;"> <tr><td style="text-align:right; line-height:1;">2</td></tr> <tr><td style="text-align:right; line-height:1;">1</td></tr> </table>H a <table style="display:inline; border-collapse:collapse; vertical-align:baseline; position:relative; top:-0.4em; font-size:0.8em;"> <tr><td style="text-align:right; line-height:1;">3</td></tr> <tr><td style="text-align:right; line-height:1;">1</td></tr> </table>H
 a) sú izotopy
 b) majú rovnaký počet protónov
 c) majú rovnaký počet neutrónov
@@ -98,7 +98,7 @@ f) majú rôzny počet neutrónov
 g) majú rôzny počet protónov
 h) majú rovnaké protónové číslo
 
-11. Nuklidy 16 8O, 17 8O a 18 8O
+11. Nuklidy <table style="display:inline; border-collapse:collapse; vertical-align:baseline; position:relative; top:-0.4em; font-size:0.8em;"> <tr><td style="text-align:right; line-height:1;">16</td></tr> <tr><td style="text-align:right; line-height:1;">8</td></tr> </table>O, <table style="display:inline; border-collapse:collapse; vertical-align:baseline; position:relative; top:-0.4em; font-size:0.8em;"> <tr><td style="text-align:right; line-height:1;">17</td></tr> <tr><td style="text-align:right; line-height:1;">8</td></tr> </table>O a <table style="display:inline; border-collapse:collapse; vertical-align:baseline; position:relative; top:-0.4em; font-size:0.8em;"> <tr><td style="text-align:right; line-height:1;">18</td></tr> <tr><td style="text-align:right; line-height:1;">8</td></tr> </table>O
 a) sú v prírode zastúpené v rovnakom množstve
 b) majú rovnaký počet neutrónov
 c) majú rovnaký počet nukleónov
@@ -126,7 +126,7 @@ d) hlavné kvantové číslo dnes známych prvkov nadobúda hodnoty 1 až 7
 e) má vplyv na veľkosť hraničnej plochy orbitálov
 f) ak má hodnotu n = 3, maximálny počet elektrónov v elektrónovej vrstve je 16
 g) označuje sa písmenom l
-h) určuje energiu elektrónu v atóme vodíka podľa vzťahu En= B.n2
+h) určuje energiu elektrónu v atóme vodíka podľa vzťahu E<sub>n</sub>= B.n<sup>2</sup>
 
 14. Pre vedľajšie kvantové číslo platí:
 a) vymedzuje hodnoty magnetického kvantového čísla
@@ -143,20 +143,20 @@ a) 2
 b) 8
 c) 18
 d) 32
-e) možné vypočítať zo vzťahu 2n2
+e) možné vypočítať zo vzťahu 2n<sup>2</sup>
 f) 6
 g) 12
 h) 16
 
 16. Elektrónová hladina M môže obsahovať:
 a) maximálne 16 elektrónov
-b) len p orbitály
-c) len s a p orbitály
-d) s, p, d orbitály
+b) len <i>p</i> orbitály
+c) len <i>s</i> a <i>p</i> orbitály
+d) <i>s</i>, <i>p</i>, <i>d</i> orbitály
 e) maximálne 12 elektrónov
 f) maximálne 18 elektrónov
 g) maximálne 8 elektrónov
-h) 2n2 elektrónov, kde n = hlavné kvantové číslo
+h) <i>2n<sup>2</sup></i> elektrónov, kde <i>n</i> = hlavné kvantové číslo
 
 17. Neutrón:
 a) je častica, ktorej hmotnosť sa približne rovná hmotnosti molekuly vodíka
@@ -179,24 +179,24 @@ g) atómu sodíka sa ľahko odtrhne a vzniká z neho katión sodíka
 h) má hmotnosť približne 1830-krát nižšiu ako hmotnosť atómu vodíka
 
 19. Podľa Pauliho princípu:
-a) v orbitále px môže byť maximálne 1 elektrón
-b) v orbitále py môžu byť maximálne 2 elektróny
-c) v orbitále py môže byť maximálne 6 elektrónov
-d) v orbitále pz môže byť maximálne 10 elektrónov
-e) v orbitále s môže byť maximálne 1 elektrón
-f) v orbitále s môžu byť maximálne 2 elektróny
-g) v orbitáloch d môže byť maximálne 10 elektrónov
+a) v orbitále <i>p<sub>x</sub></i> môže byť maximálne 1 elektrón
+b) v orbitále <i>p<sub>y</sub></i> môžu byť maximálne 2 elektróny
+c) v orbitále <i>p<sub>y</sub></i> môže byť maximálne 6 elektrónov
+d) v orbitále <i>p<sub>z</sub></i> môže byť maximálne 10 elektrónov
+e) v orbitále <i>s</i> môže byť maximálne 1 elektrón
+f) v orbitále <i>s</i> môžu byť maximálne 2 elektróny
+g) v orbitáloch <i>d</i> môže byť maximálne 10 elektrónov
 h) v orbitále môžu byť najviac 2 elektróny s opačným spinom
 
 20. Podľa Hundovho pravidla je elektrónová konfigurácia atómu:
-a) bóru 11 5B:[He] 2s2 2px1
-b) síry 32 16S: 1s2 2s2 2px2 2py2 2pz2 3s2 3px2 3py1 3pz1
-c) dusíka 14 7N: 1s2 2s1 2px2 2py1 2pz1
-d) berýlia 9 4Be: 1s2 2s1 2px1
-e) lítia 7 3Li: 1s2 2s2
-f) bóru 11 5B: 1s2 2s2 2px1
-g) dusíka 14 7N: 1s2 2s2 2px1 2py1 2pz1
-h) draslíka 39 19K: [Ar] 5s1
+a) bóru <b><table style="display:inline; border-collapse:collapse; vertical-align:baseline; position:relative; top:-0.4em; right: -0.2em; font-size:0.8em;"> <tr><td style="text-align:right; line-height:1;">11</td></tr> <tr><td style="text-align:right; line-height:1;">5</td></tr> </table> B </b>:[He] 2s<sup>2</sup> 2p<sub>x</sub><sup>1</sup>
+b) síry <b><table style="display:inline; border-collapse:collapse; vertical-align:baseline; position:relative; top:-0.4em; right: -0.2em; font-size:0.8em;"> <tr><td style="text-align:right; line-height:1;">32</td></tr> <tr><td style="text-align:right; line-height:1;">16</td></tr> </table> S</b>: 1s<sup>2</sup> 2s<sup>2</sup> 2p<sub>x</sub><sup>2</sup> 2p<sub>y</sub><sup>2</sup> 2p<sub>z</sub><sup>2</sup> 3s<sup>2</sup> 3p<sub>x</sub><sup>2</sup> 3p<sub>y</sub><sup>1</sup> 3p<sub>z</sub><sup>1</sup>
+c) dusíka <b><table style="display:inline; border-collapse:collapse; vertical-align:baseline; position:relative; top:-0.4em; right: -0.2em; font-size:0.8em;"> <tr><td style="text-align:right; line-height:1;">14</td></tr> <tr><td style="text-align:right; line-height:1;">7</td></tr> </table> N</b>: 1s<sup>2</sup> 2s<sup>1</sup> 2p<sub>x</sub><sup>2</sup> 2p<sub>y</sub><sup>1</sup> 2p<sub>z</sub><sup>1</sup>
+d) berýlia <b><table style="display:inline; border-collapse:collapse; vertical-align:baseline; position:relative; top:-0.4em; right: -0.2em; font-size:0.8em;"> <tr><td style="text-align:right; line-height:1;">9</td></tr> <tr><td style="text-align:right; line-height:1;">4</td></tr> </table> Be</b>: 1s<sup>2</sup> 2s<sup>1</sup> 2p<sub>x</sub><sup>1</sup>
+e) lítia <b><table style="display:inline; border-collapse:collapse; vertical-align:baseline; position:relative; top:-0.4em; right: -0.2em; font-size:0.8em;"> <tr><td style="text-align:right; line-height:1;">7</td></tr> <tr><td style="text-align:right; line-height:1;">3</td></tr> </table> Li</b>: 1s<sup>2</sup> 2s<sup>2</sup>
+f) bóru <b><table style="display:inline; border-collapse:collapse; vertical-align:baseline; position:relative; top:-0.4em; right: -0.2em; font-size:0.8em;"> <tr><td style="text-align:right; line-height:1;">11</td></tr> <tr><td style="text-align:right; line-height:1;">5</td></tr> </table> B</b>: 1s<sup>2</sup> 2s<sup>2</sup> 2p<sub>x</sub><sup>1</sup>
+g) dusíka <b><table style="display:inline; border-collapse:collapse; vertical-align:baseline; position:relative; top:-0.4em; right: -0.2em; font-size:0.8em;"> <tr><td style="text-align:right; line-height:1;">14</td></tr> <tr><td style="text-align:right; line-height:1;">7</td></tr> </table> N</b>: 1s<sup>2</sup> 2s<sup>2</sup> 2p<sub>x</sub><sup>1</sup> 2p<sub>y</sub><sup>1</sup> 2p<sub>z</sub><sup>1</sup>
+h) draslíka <b><table style="display:inline; border-collapse:collapse; vertical-align:baseline; position:relative; top:-0.4em; right: -0.2em; font-size:0.8em;"> <tr><td style="text-align:right; line-height:1;">39</td></tr> <tr><td style="text-align:right; line-height:1;">19</td></tr> </table> K</b>: [Ar] 5s<sup>1</sup>
 
 21. Energia, ktorá sa spotrebuje na rozštiepenie určitej chemickej väzby:
 a) je rovnaká ako aktivačná energia
@@ -205,7 +205,7 @@ c) je vyššia ako energia, ktorá sa uvoľní pri jej vzniku
 d) je rovnaká ako ionizačná energia
 e) je disociačná energia väzby
 f) je nazývaná tiež väzbová energia
-g) udáva sa napr. v jednotkách kJ.mol-1
+g) udáva sa napr. v jednotkách kJ.mol<sup>-1</sup>
 h) je nižšia ako energia, ktorá sa uvoľní pri jej vzniku
 
 22. V molekule peroxidu vodíka:
@@ -255,10 +255,10 @@ c) kovovej
 d) kovalentnej nepolárnej
 e) vodíkovej
 f) iónovej
-g) ktorá sa nachádza aj v NH4+
+g) ktorá sa nachádza aj v NH4<sup>+</sup>
 h) ktorá je typická pre iónové zlúčeniny
 
-27. V NH4Cl medzi jednotlivými atómami môžu byť väzby:
+27. V NH<sub>4</sub>Cl medzi jednotlivými atómami môžu byť väzby:
 a) iónová
 b) donorovo-akceptorová
 c) kovalentná
@@ -270,23 +270,23 @@ h) σ a π
 
 28. Nepolárna je molekula:
 a) CO
-b) CO2
-c) N2
-d) CH3CH2OH
-e) O2
-f) H2O
-g) Cl2
+b) CO<sub>2</sub>
+c) N<sub>2</sub>
+d) CH<sub>3</sub>CH<sub>2</sub>OH
+e) O<sub>2</sub>
+f) H<sub>2</sub>O
+g) Cl<sub>2</sub>
 h) HCl
 
 29. Jednoduchá kovalentná väzba:
 a) je medzi atómami C-C a C-H nasýtených uhľovodíkov
-b) je v molekule H2
+b) je v molekule H<sub>2</sub>
 c) vzniká, ak rozdiel v hodnote elektronegativít viazaných atómov je vyšší ako 1,7
 d) je napríklad v molekule NaCl
 e) je v molekule etánu
 f) je v molekule etínu medzi atómami uhlíka
 g) vzniká, ak sa na tvorbe elektrónovej dvojice tejto väzby podieľajú obidva atómy
-h) je medzi atómami dusíka v molekule N2
+h) je medzi atómami dusíka v molekule N<sub>2</sub>
 
 30. Vodíková väzba:
 a) sa volá aj vodíkový mostík
@@ -310,11 +310,11 @@ h) O-glykozidové
 
 32. Vodíkové väzby sa tvoria:
 a) v molekulách DNA
-b) medzi molekulami H2O
-c) medzi molekulami NH3
-d) medzi molekulami CH4
-e) medzi molekulami C2H5OH
-f) medzi molekulami CH3-O-CH2-CH3
+b) medzi molekulami H<sub>2</sub>O
+c) medzi molekulami NH<sub>3</sub>
+d) medzi molekulami CH<sub>4</sub>
+e) medzi molekulami C<sub>2</sub>H<sub>5</sub>OH
+f) medzi molekulami CH<sub>3</sub>-O-CH<sub>2</sub>-CH<sub>3</sub>
 g) medzi molekulami HF
 h) v molekulách bielkovín a stabilizujú ich sekundárnu štruktúru
 
@@ -348,7 +348,7 @@ f) St, Sn, Au, Mg, Si, Se
 g) Sb, Sn, Al, Mg, Si, Se
 h) St, Sn, Au, Mg, Sl, Se
 
-36. Aké sú oxidačné čísla atómov prvkov v uvedených oxidoch, ak oxidačné číslo atómu kyslíka je -II: Mn2O7, HgO, Ag2O, P4O6, N2O5, SO3, SiO2:
+36. Aké sú oxidačné čísla atómov prvkov v uvedených oxidoch, ak oxidačné číslo atómu kyslíka je -II: Mn<sub>2</sub>O<sub>7</sub>, HgO, Ag<sub>2</sub>O, P<sub>4</sub>O<sub>6</sub>, N<sub>2</sub>O<sub>5</sub>, SO<sub>3</sub>, SiO<sub>2</sub>:
 a) V, I, II, III, V, IV, VI
 b) VII, II, II, III, V, VI, IV
 c) VII, II, I, III, V, IV, VI
@@ -358,11 +358,11 @@ f) I, VII, III, IV, VI, IV, IV
 g) VII, II, I, III, V, VI, IV
 h) V, II, I, III, V, VI, IV
 
-37. Hydroxidy majú všeobecný vzorec M(OH)n, pričom platí, že:
+37. Hydroxidy majú všeobecný vzorec M(OH)<sub>n</sub>, pričom platí, že:
 a) M je atóm kovu a n má hodnotu 1 - 7
 b) M je atóm kovu a n má hodnotu 1 - 4
-c) OHje hydroxidový ión
-d) OHje hydroxóniový ión
+c) OH<sup>-</sup> je hydroxidový ión
+d) OH<sup>-</sup> je hydroxóniový ión
 e) môžu vznikať reakciou zásadotvorných oxidov s vodou
 f) podľa Brönstedovej teórie sú donormi protónov
 g) reakciou s kyselinami tvoria soli
@@ -383,7 +383,7 @@ a) je energia potrebná na odtrhnutie elektrónu z atómu v plynnom stave
 b) informuje nás o tom, ako pevne je elektrón viazaný v atóme
 c) alkalických kovov (Li, Na, K) je vysoká
 d) súvisí s energiou elektrónu v atóme tak, že čím je táto energia nižšia, tým vyššia je energia potrebná na odtrhnutie elektrónu z atómu
-e) sa udáva napr. v jednotkách kJ.mol-1
+e) sa udáva napr. v jednotkách kJ.mol<sup>-1</sup>
 f) je nízka u kovov, ktoré sa ľahko redukujú
 g) je nízka u prvkov, ktoré sa ľahko oxidujú
 h) je tiež mierou na posúdenie, ako ľahko môže z atómu vzniknúť katión
@@ -418,7 +418,7 @@ f) amidové
 g) α (2-6) glykozidové
 h) rovnaké ako v molekulách glykogénu
 
-43. V molekule CH2 = CH2 sú:
+43. V molekule CH<sub>2</sub> = CH<sub>2</sub> sú:
 a) 2 σ väzby a 2 π väzby
 b) 1 σ väzba a 1 π väzba
 c) 5 σ väzieb a 1 π väzba
@@ -429,7 +429,7 @@ g) 2 σ väzby a 3 π väzby
 h) 5 σ väzieb a 3 π väzby
 
 44. Jednoduchá väzba:
-a) je napr. kovalentná väzba v molekulách H2 a F2
+a) je napr. kovalentná väzba v molekulách H<sub>2</sub> a F<sub>2</sub>
 b) je tvorená z dvoch elektrónových párov
 c) môže vzniknúť prekrytím dvoch s orbitálov
 d) môže vzniknúť prekrytím orbitálu s a p
@@ -454,7 +454,7 @@ b) môže sa štiepiť hydrolázami
 c) vzniká v procese proteosyntézy
 d) patrí medzi slabé väzby
 e) zodpovedá za primárnu štruktúru bielkovín
-f) je zoskupenie atómov -CO-NH
+f) je zoskupenie atómov -CO-NH-
 g) vyskytuje sa napríklad u dipeptidov
 h) môže byť štiepená amylázou
 
@@ -472,43 +472,43 @@ h) nachádzame aj v nukleozidoch
 a) látky, ktoré sú schopné odovzdávať protón
 b) všetky látky, ktoré farbia fenolftaleín na červenofialovo
 c) látky schopné odštiepiť atóm vodíka
-d) látky schopné odštiepiť H2
+d) látky schopné odštiepiť H<sub>2</sub>
 e) donormi protónu
 f) všetky látky, ktoré sa vo vode ionizujú za vzniku hydroxidových aniónov
-g) len elektroneutrálne molekuly, ktoré môžu odštiepiť H+
-h) elektroneutrálne molekuly a niektoré ióny (napr. HCO3-, H2PO4-), ktoré môžu byť donorom H+
+g) len elektroneutrálne molekuly, ktoré môžu odštiepiť H<sup>+</sup>
+h) elektroneutrálne molekuly a niektoré ióny (napr. HCO<sub>3</sub><sup>-</sup>, H<sub>2</sub>PO<sub>4</sub><sup>-</sup>), ktoré môžu byť donorom H<sup>+</sup>
 
 49. Podľa Brönstedovej teórie zásady sú:
 a) všetky látky, ktoré vo vodnom roztoku farbia lakmusový papierik na červeno
 b) akceptormi protónu
 c) látky schopné prijať protón
 d) všetky látky, ktoré majú v molekule skupinu -OH
-e) len látky schopné vo vode odštiepiť anión OH
+e) len látky schopné vo vode odštiepiť anión OH<sup>-</sup>
 f) len zlúčeniny zásadotvorných oxidov s vodou
 g) aj anióny viacsýtnych kyselín, ktoré môžu prijať protón
-h) napr. NH3, CH3COO-, Cl-, NH4+, C6H5NH3+
+h) napr. NH<sub>3</sub>, CH<sub>3</sub>COO<sup>-</sup>, Cl<sup>-</sup>, NH<sub>4</sub><sup>+</sup>, C<sub>6</sub>H<sub>5</sub>NH<sub>3</sub><sup>+</sup>
 
-50. Určte konjugované páry protolytickej reakcie HNO3+ H2O <--> H3O+ + NO3-:
-a) HNO3 a NO3-
-b) H2O a NO3-
-c) H3O+ a NO3-
-d) H2O a H3O+
-e) HNO3 a H2O
-f) HNO3 a H3O+
-g) H2O a OH
-h) H3O+ a H3O+
+50. Určte konjugované páry protolytickej reakcie HNO<sub>3</sub>+ H<sub>2</sub>O <--> H<sub>3</sub>O<sup>+</sup> + NO<sub>3</sub><sup>-</sup>:
+a) HNO<sub>3</sub> a NO<sub>3</sub><sup>-</sup>
+b) H<sub>2</sub>O a NO<sub>3</sub><sup>-</sup>
+c) H<sub>3</sub>O<sup>+</sup> a NO<sub>3</sub><sup>-</sup>
+d) H<sub>2</sub>O a H<sub>3</sub>O<sup>+</sup>
+e) HNO<sub>3</sub> a H<sub>2</sub>O
+f) HNO<sub>3</sub> a H<sub>3</sub>O<sup>+</sup>
+g) H<sub>2</sub>O a OH<sup>-</sup>
+h) H<sub>3</sub>O<sup>+</sup> a H<sub>3</sub>O<sup>+</sup>
 
-51. Určte konjugované páry protolytickej reakcie NH3 + HCl <--> NH4+ + Cl-:
-a) HCl a NH4+
-b) NH3 a Cl
-c) NH3 a NH4+
-d) NH3 a NH4Cl
-e) HCl a Cl
-f) NH3 a HCl
-g) NH4+ a Cl-
-h) HCl a NH4Cl
+51. Určte konjugované páry protolytickej reakcie NH<sub>3</sub> + HCl <--> NH<sub>4</sub><sup>+</sup> + Cl<sup>-</sup> :
+a) HCl a NH<sub>4</sub><sup>+</sup>
+b) NH<sub>3</sub> a Cl<sup>-</sup>
+c) NH<sub>3</sub> a NH<sub>4</sub><sup>+</sup>
+d) NH<sub>3</sub> a NH<sub>4</sub>Cl
+e) HCl a Cl<sup>-</sup>
+f) NH<sub>3</sub> a HCl
+g) NH<sub>4</sub><sup>+</sup> a Cl<sup>-</sup>
+h) HCl a NH<sub>4</sub>Cl
 
-52. Sila kyselín sa znižuje v rade: HClO4 > HClO3 > HClO2 > HClO. Potom v uvedenom poradí:
+52. Sila kyselín sa znižuje v rade: HClO<sub>4</sub> > HClO<sub>3</sub> > HClO<sub>2</sub> > HClO. Potom v uvedenom poradí:
 a) polarita väzieb O-H sa zvyšuje
 b) hodnota pK kyselín sa zvyšuje
 c) hodnota ionizačnej (disociačnej) konštanty sa znižuje
@@ -952,7 +952,7 @@ h) je proces, pri ktorom molekula organickej zlúčeniny prijíma dva atómy vod
 a) je každá chemická reakcia, pri ktorej atómy prvkov alebo ióny prijímajú elektróny
 b) je každá chemická reakcia, pri ktorej atómy prvkov alebo ióny odovzdávajú elektróny
 c) sa spája so znižovaním kladného oxidačného čísla atómov
-d) striebra vodíkom prebieha podľa reakcie Ag2S + H2 --> 2 Ag + H2S
+d) striebra vodíkom prebieha podľa reakcie Ag<sub>2</sub>S + H<sub>2</sub> --> 2 Ag + H<sub>2</sub>S
 e) je proces, pri ktorom látka prijíma dva vodíkové protóny
 f) organických zlúčenín sa nazýva dehydrogenácia
 g) je aj zlučovanie látok s vodíkom
@@ -974,7 +974,7 @@ b) ktoré sú akceptormi atómov vodíka pri dehydrogenácii látok
 c) ktoré pri oxidačno-redukčnej reakcii prijímajú elektróny
 d) ktoré sú donormi elektrónov pri chemickej reakcii
 e) ktoré sa pri chemickej reakcii redukujú
-f) medzi ktoré môžeme zaradiť KMnO4, H2O2a KClO3
+f) medzi ktoré môžeme zaradiť KMnO<sub>4</sub>, H<sub>2</sub>O<sub>2</sub> a KClO<sub>3</sub>
 g) ktoré majú schopnosť oxidovať iné látky, pričom sa redukujú
 h) ktoré majú schopnosť redukovať iné látky, pričom sa oxidujú
 
@@ -982,7 +982,7 @@ h) ktoré majú schopnosť redukovať iné látky, pričom sa oxidujú
 a) oxidačno-redukčná
 b) pri ktorej jedna látka (molekuly tej istej zlúčeniny, rovnaké ióny alebo atómy toho istého prvku) prijíma i odovzdáva elektróny
 c) pri ktorej rovnaké ióny alebo atómy toho istého prvku podliehajú oxidácii i redukcii 
-d) Cl2 + H2O --> HClO + HCl
+d) Cl<sub>2</sub> + H<sub>2</sub>O --> HClO + HCl
 e) 2 CH = O - OH- -> CH2OH + COO-
 f) 2 KMnO4 + 16 HCl --> 5 Cl2 + 2 MnCl2 + 2 KCl + 8 H2O
 g) 3 K2MnO4 + 2 H2O --> 2 KMnO4 + MnO2 + 4 KOH
