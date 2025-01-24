@@ -559,34 +559,34 @@ g) pOH = 7
 h) pH = 9
 
 57. Zásadito reaguje roztok, keď:
-a) c(H3O+) = 2.10-8 mol.l-1
-b) c(OH-) = 7.10-10 mol.l-1
-c) c(H3O+) = 1.10-7 mol.l-1
-d) c(H3O+) = 7.10-1 mol.l-1
-e) c(H3O+) = 1.10-6 mol.l-1
-f) c(OH-) = 1.10-7 mol.l-1
-g) c(OH-) = 7.10-3 mol.l-1
-h) c(H3O+) = 2.10-12 mol.l-1
+a) c(H<sub>3</sub>O<sup>+</sup>) = 2.10<sup>-8</sup> mol.l<sup>-1</sup>  
+b) c(OH<sup>-</sup>) = 7.10<sup>-10</sup> mol.l<sup>-1</sup>  
+c) c(H<sub>3</sub>O<sup>+</sup>) = 1.10<sup>-7</sup> mol.l<sup>-1</sup>  
+d) c(H<sub>3</sub>O<sup>+</sup>) = 7.10<sup>-1</sup> mol.l<sup>-1</sup>  
+e) c(H<sub>3</sub>O<sup>+</sup>) = 1.10<sup>-6</sup> mol.l<sup>-1</sup>  
+f) c(OH<sup>-</sup>) = 1.10<sup>-7</sup> mol.l<sup>-1</sup>  
+g) c(OH<sup>-</sup>) = 7.10<sup>-3</sup> mol.l<sup>-1</sup>  
+h) c(H<sub>3</sub>O<sup>+</sup>) = 2.10<sup>-12</sup> mol.l<sup>-1</sup>
 
 58. Kyslo reaguje roztok, keď:
-a) c(OH-) = 4.10-12 mol.dm-3
-b) c(H3O+) = 7.10-5 mol.dm-3
-c) c(OH-) = 3.10-5 mol.dm-3
-d) c(H3O+) = 7.10-10 mol.dm-3
-e) c(OH-) = 1.10-7 mol.dm-3
-f) c(H3O+) = 1.10-7 mol.dm-3
-g) c(H3O+) = 7.10-2 mol.dm-3
-h) c(OH-) = 8.10-9 mol.dm-3
+a) c(OH<sup>-</sup>) = 4.10<sup>-12</sup> mol.dm<sup>-3</sup>  
+b) c(H<sub>3</sub>O<sup>+</sup>) = 7.10<sup>-5</sup> mol.dm<sup>-3</sup>  
+c) c(OH<sup>-</sup>) = 3.10<sup>-5</sup> mol.dm<sup>-3</sup>  
+d) c(H<sub>3</sub>O<sup>+</sup>) = 7.10<sup>-10</sup> mol.dm<sup>-3</sup>  
+e) c(OH<sup>-</sup>) = 1.10<sup>-7</sup> mol.dm<sup>-3</sup>  
+f) c(H<sub>3</sub>O<sup>+</sup>) = 1.10<sup>-7</sup> mol.dm<sup>-3</sup>  
+g) c(H<sub>3</sub>O<sup>+</sup>) = 7.10<sup>-2</sup> mol.dm<sup>-3</sup>  
+h) c(OH<sup>-</sup>) = 8.10<sup>-9</sup> mol.dm<sup>-3</sup>
 
-59. Ak ionizačná konštanta kyseliny dusitej je 4,5.10-4, (log 4,5 = 0,65), potom platí, že:
-a) kyselina dusitá je slabá kyselina
-b) kyselina dusitá je silná kyselina
-c) kyselina dusitá je slabý elektrolyt
-d) roztok HNO2bude reagovať len so slabými zásadami
-e) hodnota pK = 3,35
-f) hodnota pK = 4,65
-g) v jej vodnom roztoku budú iba ióny H3O+ a NO2-
-h) vo vodnom roztoku bude rovnováha medzi molekulami HNO2a iónmi NO2- a H3O+ daná rovnovážnou konštantou
+59. Ak ionizačná konštanta kyseliny dusitej je 4,5.10<sup>-4</sup> (log 4,5 = 0,65), potom platí, že:  
+a) kyselina dusitá je slabá kyselina  
+b) kyselina dusitá je silná kyselina  
+c) kyselina dusitá je slabý elektrolyt  
+d) roztok HNO<sub>2</sub> bude reagovať len so slabými zásadami  
+e) hodnota pK = 3,35  
+f) hodnota pK = 4,65  
+g) v jej vodnom roztoku budú iba ióny H<sub>3</sub>O<sup>+</sup> a NO<sub>2</sub><sup>-</sup>  
+h) vo vodnom roztoku bude rovnováha medzi molekulami HNO<sub>2</sub> a iónmi NO<sub>2</sub><sup>-</sup> a H<sub>3</sub>O<sup>+</sup> daná rovnovážnou konštantou
 
 60. Ionizačná konštanta zásady:
 a) sa vždy číselne rovná ionizačnej konštante konjugovanej kyseliny
@@ -596,7 +596,7 @@ d) udáva silu zásady
 e) sa číselne rovná ionizačnému stupňu zásady
 f) charakterizuje schopnosť odštiepiť protón
 g) udáva rozpustnosť zásady v danom rozpúšťadle
-h) udáva množstvo iónov OH- v roztoku zásady
+h) udáva množstvo iónov OH<sup>-</sup> v roztoku zásady
 
 61. Kyslosť roztoku, charakterizovaná hodnotou pH alebo pOH, sa zvyšuje v poradí:
 a) pH 7 < pH 5 < pH 2 < pH 1
@@ -619,24 +619,24 @@ g) silnej zásady so slabou kyselinou, nezmení sa pôvodné pH (t.j. pH = 7)
 h) silnej kyseliny so silnou zásadou - nastane hydrolýza soli a pH roztoku bude vždy nižšie ako 7
 
 63. Zásaditú reakciu majú dvojice vodných roztokov solí:
-a) CH3COONa, KCN
-b) NH4Cl, CH3COONH4
-c) Fe2(SO4)3, Na2SO4
-d) CH3COOK, Na2S
-e) KClO4, Na2CO3
-f) NaCN, K2SO3
-g) K2SO4, Na2HPO4
-h) Mg(HCO3)2, NH4Cl
+a) CH<sub>3</sub>COONa, KCN  
+b) NH<sub>4</sub>Cl, CH<sub>3</sub>COONH<sub>4</sub>  
+c) Fe<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>, Na<sub>2</sub>SO<sub>4</sub>  
+d) CH<sub>3</sub>COOK, Na<sub>2</sub>S  
+e) KClO<sub>4</sub>, Na<sub>2</sub>CO<sub>3</sub>  
+f) NaCN, K<sub>2</sub>SO<sub>3</sub>  
+g) K<sub>2</sub>SO<sub>4</sub>, Na<sub>2</sub>HPO<sub>4</sub>  
+h) Mg(HCO<sub>3</sub>)<sub>2</sub>, NH<sub>4</sub>Cl
 
 64. Kyslú reakciu majú dvojice vodných roztokov:
-a) K2S, Ca(HCO3)2
-b) CH3COONa, Na3PO4
-c) (NH4)2SO4, Fe(NO3)3
-d) KCN, KNO3
-e) H2CO3, HNO2
-f) NaNO2, (NH4)2S
-g) NH4Cl, NH4NO3
-h) NaHCO3, KNO2
+a) K<sub>2</sub>S, Ca(HCO<sub>3</sub>)<sub>2</sub>  
+b) CH<sub>3</sub>COONa, Na<sub>3</sub>PO<sub>4</sub>  
+c) (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>, Fe(NO<sub>3</sub>)<sub>3</sub>  
+d) KCN, KNO<sub>3</sub>  
+e) H<sub>2</sub>CO<sub>3</sub>, HNO<sub>2</sub>  
+f) NaNO<sub>2</sub>, (NH<sub>4</sub>)<sub>2</sub>S  
+g) NH<sub>4</sub>Cl, NH<sub>4</sub>NO<sub>3</sub>  
+h) NaHCO<sub>3</sub>, KNO<sub>2</sub>
 
 65. Vyberte správne tvrdenie:
 a) po rozpustení solí vo vode vždy dostaneme neutrálne roztoky
@@ -649,34 +649,34 @@ g) po rozpustení soli silnej zásady so slabou kyselinou, bude pH jej vodného 
 h) hydrolýza soli je protolytická reakcia, pri ktorej ióny vzniknuté elektrolytickou ionizáciou soli reagujú s vodou
 
 66. Po rozpustení KCN vo vode (pH vody = 7):
-a) nemôže prebiehať čiastková reakcia: CN- + H2O <--> HCN + OH
+a) nemôže prebiehať čiastková reakcia: CN<sup>-</sup> + H<sub>2</sub>O <--> HCN + OH<sup>-</sup>
 b) v roztoku nastane ionizácia soli
 c) sa nezmení pôvodná hodnota pH vody
 d) pOH vzniknutého roztoku bude nižšie ako 7
-e) budú vo vzniknutom roztoku len molekuly KCN a H2O
+e) budú vo vzniknutom roztoku len molekuly KCN a H<sub>2</sub>O
 f) v roztoku nastane hydrolýza soli
 g) pH vzniknutého roztoku bude v kyslej oblasti
 h) sa pridaný lakmusový papierik zafarbí na červeno
 
 67. Vo vodných roztokoch hydrolýze takmer nepodliehajú soli:
-a) K2SO3, BiCl3
-b) RbCl, Na2SO4
-c) NaCN, (NH4)2S
-d) Li2SO4, NaClO4
-e) Cs2SO3, KF
-f) CH3COOK, K2HPO4
-g) K2SO4, NaCl
-h) Na2S, KCN
+a) K<sub>2</sub>SO<sub>3</sub>, BiCl<sub>3</sub>  
+b) RbCl, Na<sub>2</sub>SO<sub>4</sub>  
+c) NaCN, (NH<sub>4</sub>)<sub>2</sub>S  
+d) Li<sub>2</sub>SO<sub>4</sub>, NaClO<sub>4</sub>  
+e) Cs<sub>2</sub>SO<sub>3</sub>, KF  
+f) CH<sub>3</sub>COOK, K<sub>2</sub>HPO<sub>4</sub>  
+g) K<sub>2</sub>SO<sub>4</sub>, NaCl  
+h) Na<sub>2</sub>S, KCN
 
-68. Po rozpustení CH3COOK vo vode (pH vody = 7) bude vo vzniknutom roztoku:
-a) metylová žltá zafarbená na červeno
-b) hodnota pOH nižšia ako 7
-c) hodnota pH rovná 7
-d) hodnota pH nižšia ako 7
-e) hodnota pH, ktorá sa so vzrastajúcou koncentráciou soli bude znižovať, až po pH = 4,5
-f) rovnaká koncentrácia molekúl CH3COOK a iónov K+ a CH3COO
-g) prebiehať hydrolýza soli
-h) CH3COOK prakticky úplne ionizovaný
+68. Po rozpustení CH<sub>3</sub>COOK vo vode (pH vody = 7) bude vo vzniknutom roztoku:  
+a) metylová žltá zafarbená na červeno  
+b) hodnota pOH nižšia ako 7  
+c) hodnota pH rovná 7  
+d) hodnota pH nižšia ako 7  
+e) hodnota pH, ktorá sa so vzrastajúcou koncentráciou soli bude znižovať, až po pH = 4,5  
+f) rovnaká koncentrácia molekúl CH<sub>3</sub>COOK a iónov K<sup>+</sup> a CH<sub>3</sub>COO<sup>-</sup>  
+g) prebiehať hydrolýza soli  
+h) CH<sub>3</sub>COOK prakticky úplne ionizovaný
 
 69. Protolytické reakcie:
 a) sú také reakcie, pri ktorých kyseliny reagujú s neušľachtilými kovmi za vzniku vodíka
@@ -688,15 +688,15 @@ f) pri ktorých reagujú ióny soli s vodou, sa nazývajú hydrolýza
 g) sú formálne opakom elektrolýzy
 h) sú reakcie, pri ktorých kyselina odovzdáva protón a zásada protón prijíma
 
-70. Podľa Brönstedovej teórie kyseliny môžu byť:
-a) napr. ióny HCO3-, HSO4-, OH-, PO43-
-b) len elektroneutrálne molekuly
-c) len katióny, napr. NH4+
-d) elektroneutrálne molekuly, katióny a anióny, ktoré môžu odštiepiť H+
-e) len látky s vyšším počtom atómov vodíka v molekule
-f) látky, ktoré sú donorom protónu
-g) látky s vyšším počtom atómov kyslíka v molekule
-h) napr. ióny HSO3-, H2PO4-, HS-
+70. Podľa Brönstedovej teórie kyseliny môžu byť:  
+a) napr. ióny HCO<sub>3</sub><sup>-</sup>, HSO<sub>4</sub><sup>-</sup>, OH<sup>-</sup>, PO<sub>4</sub><sup>3-</sup>  
+b) len elektroneutrálne molekuly  
+c) len katióny, napr. NH<sub>4</sub><sup>+</sup>  
+d) elektroneutrálne molekuly, katióny a anióny, ktoré môžu odštiepiť H<sup>+</sup>  
+e) len látky s vyšším počtom atómov vodíka v molekule  
+f) látky, ktoré sú donorom protónu  
+g) látky s vyšším počtom atómov kyslíka v molekule  
+h) napr. ióny HSO<sub>3</sub><sup>-</sup>, H<sub>2</sub>PO<sub>4</sub><sup>-</sup>, HS<sup>-</sup>
 
 71. Silné a slabé zásady sa líšia:
 a) počtom -OH skupín, ktoré môžu prijať od inej molekuly
@@ -709,16 +709,16 @@ g) hodnotami stupňa ionizácie
 h) schopnosťou odovzdať protón
 
 72. Vyberte skupiny látok, ktoré sa vo vodných roztokoch prejavujú ako elektrolyty:
-a) CoCl2, Na2CO3, CHCl3, HCl, C2H6
-b) CH4, benzén, KMnO4, CH3COOH, K2SO4
-c) FeCl3, H2SO4, NaBr, CH3COOK, NH4Br
-d) CuSO4, HI, NaNO3, K3[Fe(CN)6]
-e) KCN, Na2CO3, C6H6, glukóza, CH2Cl2
-f) KCl, CH3COOK, NaI, (NH4)2S, FeCl2
-g) fruktóza, CH2Cl2, KBr, NiCl2, toluén
-h) CH4, chloroform, HCl, NaOH, H2S
+a) CoCl<sub>2</sub>, Na<sub>2</sub>CO<sub>3</sub>, CHCl<sub>3</sub>, HCl, C<sub>2</sub>H<sub>6</sub>  
+b) CH<sub>4</sub>, benzén, KMnO<sub>4</sub>, CH<sub>3</sub>COOH, K<sub>2</sub>SO<sub>4</sub>  
+c) FeCl<sub>3</sub>, H<sub>2</sub>SO<sub>4</sub>, NaBr, CH<sub>3</sub>COOK, NH<sub>4</sub>Br  
+d) CuSO<sub>4</sub>, HI, NaNO<sub>3</sub>, K<sub>3</sub>[Fe(CN)<sub>6</sub>]  
+e) KCN, Na<sub>2</sub>CO<sub>3</sub>, C<sub>6</sub>H<sub>6</sub>, glukóza, CH<sub>2</sub>Cl<sub>2</sub>  
+f) KCl, CH<sub>3</sub>COOK, NaI, (NH<sub>4</sub>)<sub>2</sub>S, FeCl<sub>2</sub>  
+g) fruktóza, CH<sub>2</sub>Cl<sub>2</sub>, KBr, NiCl<sub>2</sub>, toluén  
+h) CH<sub>4</sub>, chloroform, HCl, NaOH, H<sub>2</sub>S
 
-73. Pri 100-násobnom zriedení roztoku HCl, c = 0,01 mol.l-1, vodou, hodnota pH vzniknutého roztoku:
+73. Pri 100-násobnom zriedení roztoku HCl, c = 0,01 mol.l<sup>-1</sup>, vodou, hodnota pH vzniknutého roztoku:
 a) sa bude rovnať 2
 b) sa zníži o 2 oproti pôvodnému roztoku
 c) sa zvýši o 2 oproti pôvodnému roztoku
@@ -728,19 +728,19 @@ f) sa zvýši o 1 oproti pôvodnému roztoku
 g) sa bude číselne rovnať hodnote pOH vzniknutého roztoku
 h) sa zníži 100-násobne oproti pôvodnému roztoku
 
-74. Hodnota súčinu koncentrácií H3O+ a OHiónov (Kv):
-a) súvisí s hodnotou pH a platí: pH + pOH = pKv
-b) pri danej teplote je vo všetkých vodných roztokoch rovnaká
-c) sa nemení so zmenou teploty
-d) sa nazýva aj súčin rozpustnosti
-e) má pri teplote 25 °C hodnotu Kv= 1.10-14 mol2.l-2
-f) sa tiež nazýva autoprotolytická konštanta vody
-g) sa dá previesť do logaritmickej stupnice a platí: pKv = - log Kv
+74. Hodnota súčinu koncentrácií H<sub>3</sub>O<sup>+</sup> a OH<sup>-</sup> iónov (K<sub>v</sub>):  
+a) súvisí s hodnotou pH a platí: pH + pOH = pK<sub>v</sub>  
+b) pri danej teplote je vo všetkých vodných roztokoch rovnaká  
+c) sa nemení so zmenou teploty  
+d) sa nazýva aj súčin rozpustnosti  
+e) má pri teplote 25 °C hodnotu K<sub>v</sub> = 1.10<sup>-14</sup> mol<sup>2</sup>.l<sup>-2</sup>  
+f) sa tiež nazýva autoprotolytická konštanta vody  
+g) sa dá previesť do logaritmickej stupnice a platí: pK<sub>v</sub> = - log K<sub>v</sub>  
 h) sa označuje ako iónový súčin vody
 
 75. Pravé roztoky sú:
 a) iba roztoky silných elektrolytov
-b) tie, v ktorých je veľkosť rozpustených častíc vyššia ako 1.10-9 m
+b) tie, v ktorých je veľkosť rozpustených častíc vyššia ako 1.10<sup>-9</sup> m
 c) hrubodisperzné sústavy kvapaliny a tuhej látky
 d) homogénne zmesi plynu a tuhej látky
 e) iba vodné roztoky anorganických zlúčenín
@@ -749,14 +749,14 @@ g) napr. roztok vaječného bielka alebo roztok škrobu
 h) napr. roztok fruktózy a fyziologický roztok
 
 76. V pravých roztokoch je veľkosť rozpustených častíc:
-a) 1 - 102 mm
-b) 1 - 10 µm
-c) nižšia ako 1 nm
-d) 10 - 100 nm
-e) vyššia ako 1 nm
-f) 10 - 100 µm
-g) nižšia ako 1.10-9 m
-h) 1.10-6- 10.10-6 m
+a) 1 - 10<sup>2</sup> mm  
+b) 1 - 10 µm  
+c) nižšia ako 1 nm  
+d) 10 - 100 nm  
+e) vyššia ako 1 nm  
+f) 10 - 100 µm  
+g) nižšia ako 1.10<sup>-9</sup> m  
+h) 1.10<sup>-6</sup> - 10.10<sup>-6</sup> m
 
 77. Osmotický tlak (π):
 a) v roztoku zloženom z NaCl a glukózy závisí len od koncentrácie silného elektrolytu
@@ -768,47 +768,47 @@ f) krvi človeka je približne 780 kPa
 g) je rovnaký pri rôznych teplotách
 h) môžeme využiť na stanovenie molárnej hmotnosti rozpustenej látky (najmä pre makromolekulové látky) podľa vzťahu: M = m / (π*V) *R*T, kde M = molárna hmotnosť rozpustenej látky, m = hmotnosť rozpustenej látky, V = objem roztoku
 
-78. Osmotický tlak:
-a) je tlak, ktorým treba pôsobiť na povrch roztoku, aby sa zabránilo dialýze
-b) môžeme využiť na stanovenie molárnej hmotnosti rozpustenej látky (najmä pre makromolekulové látky) podľa vzťahu: M = m / (π*V) *R*T, kde M = molárna hmotnosť rozpustenej látky, m = hmotnosť rozpustenej látky, V = objem roztoku
-c) krvi človeka je podmienený najmä minerálnymi soľami
-d) elektrolytov je nižší ako neelektrolytov pri rovnakej koncentrácii (mol.l-1)
-e) je určený vonkajším tlakom, ktorým musíme pôsobiť na roztok s vyššou koncentráciou, aby sme zabránili vnikaniu rozpúšťadla do roztoku cez semipermeabilnú membránu 
-f) sa prejaví ak červené krvinky dáme do hypotonického prostredia - nastane ich hemolýza
-g) je rovnaký v roztoku glukózy, c = 0,3 mol.l-1, a v roztoku NaCl, c = 0,3 mol.l-1
+78. Osmotický tlak:  
+a) je tlak, ktorým treba pôsobiť na povrch roztoku, aby sa zabránilo dialýze  
+b) môžeme využiť na stanovenie molárnej hmotnosti rozpustenej látky (najmä pre makromolekulové látky) podľa vzťahu: M = m / (π*V) *R*T, kde M = molárna hmotnosť rozpustenej látky, m = hmotnosť rozpustenej látky, V = objem roztoku  
+c) krvi človeka je podmienený najmä minerálnymi soľami  
+d) elektrolytov je nižší ako neelektrolytov pri rovnakej koncentrácii (mol.l<sup>-1</sup>)  
+e) je určený vonkajším tlakom, ktorým musíme pôsobiť na roztok s vyššou koncentráciou, aby sme zabránili vnikaniu rozpúšťadla do roztoku cez semipermeabilnú membránu  
+f) sa prejaví ak červené krvinky dáme do hypotonického prostredia - nastane ich hemolýza  
+g) je rovnaký v roztoku glukózy, c = 0,3 mol.l<sup>-1</sup>, a v roztoku NaCl, c = 0,3 mol.l<sup>-1</sup>  
 h) nezávisí od štruktúry látok, ale od počtu častíc, ktoré vzniknú v roztoku po rozpustení elektrolytu v danom rozpúšťadle a jeho ionizácii
 
-79. O osmóze platí:
-a) u človeka je dôležitá pri podávaní injekcií do žily
-b) pomocou osmózy možno z vodného roztoku oddeliť hemoglobín od NaCl
-c) je to dej, ktorý umožňuje, že samovoľne prechádzajú molekuly bielkovín z vonkajšieho priestoru do bunky
-d) v dôsledku osmózy sa znižuje koncentrácia látky v koncentrovanejšom roztoku
-e) ak dáme červené krvinky do roztoku NaCl s koncentráciou c = 0,3 mol.l-1, ostanú nezmenené
-f) ak je roztok a rozpúšťadlo oddelené polopriepustnou membránou, rozpúšťadlo preniká do roztoku 
-g) je to dej, pri ktorom sa zvyšuje koncentrácia koncentrovanejšieho roztoku
+79. O osmóze platí:  
+a) u človeka je dôležitá pri podávaní injekcií do žily  
+b) pomocou osmózy možno z vodného roztoku oddeliť hemoglobín od NaCl  
+c) je to dej, ktorý umožňuje, že samovoľne prechádzajú molekuly bielkovín z vonkajšieho priestoru do bunky  
+d) v dôsledku osmózy sa znižuje koncentrácia látky v koncentrovanejšom roztoku  
+e) ak dáme červené krvinky do roztoku NaCl s koncentráciou c = 0,3 mol.l<sup>-1</sup>, ostanú nezmenené  
+f) ak je roztok a rozpúšťadlo oddelené polopriepustnou membránou, rozpúšťadlo preniká do roztoku  
+g) je to dej, pri ktorom sa zvyšuje koncentrácia koncentrovanejšieho roztoku  
 h) nastáva vtedy, ak sú dva roztoky o rôznej látkovej koncentrácii (molekúl, iónov) oddelené semipermeabilnou membránou
 
-80. Vodný roztok AgNO3 (Mr= 170) s koncentráciou 0,5 mol.l-1 obsahuje:
-a) 0,25 mol AgNO3 v 50 mililitroch roztoku
-b) 1 mol AgNO3 v dvoch litroch vody
-c) 0,5 mmol AgNO3 v jednom mililitri roztoku
-d) 85 mg AgNO3 v jednom cm3 roztoku
-e) 0,25 mol AgNO3 v 0,5 dm3 vody
-f) 2 mol AgNO3 v 4000 ml roztoku
-g) 170 g AgNO3 v 2000 ml roztoku
-h) 170 g AgNO3 v jednom dm3 roztoku
+80. Vodný roztok AgNO<sub>3</sub> (Mr = 170) s koncentráciou 0,5 mol.l<sup>-1</sup> obsahuje:  
+a) 0,25 mol AgNO<sub>3</sub> v 50 mililitroch roztoku  
+b) 1 mol AgNO<sub>3</sub> v dvoch litroch vody  
+c) 0,5 mmol AgNO<sub>3</sub> v jednom mililitri roztoku  
+d) 85 mg AgNO<sub>3</sub> v jednom cm<sup>3</sup> roztoku  
+e) 0,25 mol AgNO<sub>3</sub> v 0,5 dm<sup>3</sup> vody  
+f) 2 mol AgNO<sub>3</sub> v 4000 ml roztoku  
+g) 170 g AgNO<sub>3</sub> v 2000 ml roztoku  
+h) 170 g AgNO<sub>3</sub> v jednom dm<sup>3</sup> roztoku
 
 81. Vyberte, ktoré tvrdenie o roztokoch je správne:
 a) medzi rozpúšťadlom a rozpúšťanou látkou môže prebehnúť chemická reakcia
 b) pri rozpúšťaní glukózy vo vode prebehne medzi obomi látkami chemická reakcia
 c) vzájomná rozpustnosť kvapalín závisí od súdržných síl medzi ich molekulami a tiež od teploty
 d) rozpustnosť sa môže vyjadriť aj graficky, tzv. krivkami rozpustnosti
-e) molový zlomok látky v roztoku sa vyjadruje v jednotkách mol.l-1
+e) molový zlomok látky v roztoku sa vyjadruje v jednotkách mol.l<sup>-1</sup>
 f) plynné roztoky vznikajú rozpúšťaním plynov v kvapalinách
 g) všetky kvapaliny sú navzájom miešateľné v každom pomere
 h) rozpúšťanie látok môže byť sprevádzané uvoľňovaním alebo pohlcovaním tepla
 
-82. Máme 3 vodné roztoky: A (NiCl2), c = 0,1 mol.l-1; B (KCl), c = 0,15 mol.l-1; C (sacharóza), c = 0,3 mol.l-1. Vyberte, ktoré tvrdenie je správne:
+82. Máme 3 vodné roztoky: A (NiCl<sub>2</sub>), c = 0,1 mol.l<sup>-1</sup>; B (KCl), c = 0,15 mol.l<sup>-1</sup>; C (sacharóza), c = 0,3 mol.l<sup>-1</sup>. Vyberte, ktoré tvrdenie je správne:
 a) najvyšší osmotický tlak má roztok C
 b) najnižší osmotický tlak má roztok A
 c) vo všetkých uvedených roztokoch je rovnaký osmotický tlak
@@ -818,65 +818,65 @@ f) roztok B je hypertonický voči roztoku A
 g) roztoky A, B a C sú izotonické
 h) roztok A je hypotonický voči roztoku C
 
-83. Vodný roztok FeCl3 s hmotnostným zlomkom w(FeCl3) = 0,008 obsahuje:
-a) 0,8 g FeCl3 v 100 g roztoku
-b) 1,6 g FeCl3 a 200 g vody
-c) 0,8 g FeCl3 v 1000 g roztoku
-d) 2 g FeCl3 v 250 g roztoku
-e) 0,008 % FeCl3
-f) 8 % FeCl3
-g) 4 g FeCl3 a 496 g H2O
-h) 800 mg FeCl3 a 99,2 g H2O
+83. Vodný roztok FeCl<sub>3</sub> s hmotnostným zlomkom w(FeCl<sub>3</sub>) = 0,008 obsahuje:  
+a) 0,8 g FeCl<sub>3</sub> v 100 g roztoku  
+b) 1,6 g FeCl<sub>3</sub> a 200 g vody  
+c) 0,8 g FeCl<sub>3</sub> v 1000 g roztoku  
+d) 2 g FeCl<sub>3</sub> v 250 g roztoku  
+e) 0,008 % FeCl<sub>3</sub>  
+f) 8 % FeCl<sub>3</sub>  
+g) 4 g FeCl<sub>3</sub> a 496 g H<sub>2</sub>O  
+h) 800 mg FeCl<sub>3</sub> a 99,2 g H<sub>2</sub>O
 
-84. Máme tri vodné roztoky: A (ZnCl2), c = 0,2 mol.l-1; B (NiSO4), c = 0,3 mol.l-1 a C (fruktóza), c = 0,3 mol.l-1. Vyberte správne tvrdenie:
-a) vo všetkých roztokoch je rovnaký osmotický tlak
-b) roztoky A a B sú navzájom izotonické
-c) roztoky B a C sú navzájom izotonické
-d) roztok A je hypotonický voči roztoku B
-e) roztoky A a B sú hypertonické voči roztoku C
-f) roztok C je hypertonický voči roztoku A
-g) najnižší osmotický tlak má roztok C
+84. Máme tri vodné roztoky: A (ZnCl<sub>2</sub>), c = 0,2 mol.l<sup>-1</sup>; B (NiSO<sub>4</sub>), c = 0,3 mol.l<sup>-1</sup> a C (fruktóza), c = 0,3 mol.l<sup>-1</sup>. Vyberte správne tvrdenie:  
+a) vo všetkých roztokoch je rovnaký osmotický tlak  
+b) roztoky A a B sú navzájom izotonické  
+c) roztoky B a C sú navzájom izotonické  
+d) roztok A je hypotonický voči roztoku B  
+e) roztoky A a B sú hypertonické voči roztoku C  
+f) roztok C je hypertonický voči roztoku A  
+g) najnižší osmotický tlak má roztok C  
 h) roztoky B a C sú hypertonické voči roztoku A
 
-85. Máme fyziologický roztok NaCl (c = 0,15 mol.l-1). Vyberte, ktoré roztoky sú s roztokom NaCl izotonické:
-a) CuSO4, c = 0,1 mol.l-1
-b) fruktóza, c = 0,3 mol.l-1
-c) NiCl2, c = 0,15 mol.l-1
-d) CdSO4, c = 0,15 mol.l-1
-e) KNO3, c = 300 mmol.l-1
-f) FeCl2, c = 100 mmol.l-1
-g) sacharóza, c = 0,15 mol.l-1
-h) FeCl3, c = 75 mmol.l-1
+85. Máme fyziologický roztok NaCl (c = 0,15 mol.l<sup>-1</sup>). Vyberte, ktoré roztoky sú s roztokom NaCl izotonické:  
+a) CuSO<sub>4</sub>, c = 0,1 mol.l<sup>-1</sup>  
+b) fruktóza, c = 0,3 mol.l<sup>-1</sup>  
+c) NiCl<sub>2</sub>, c = 0,15 mol.l<sup>-1</sup>  
+d) CdSO<sub>4</sub>, c = 0,15 mol.l<sup>-1</sup>  
+e) KNO<sub>3</sub>, c = 300 mmol.l<sup>-1</sup>  
+f) FeCl<sub>2</sub>, c = 100 mmol.l<sup>-1</sup>  
+g) sacharóza, c = 0,15 mol.l<sup>-1</sup>  
+h) FeCl<sub>3</sub>, c = 75 mmol.l<sup>-1</sup>
 
-86. Máme roztok Ba(NO3)2 s koncentráciou 0,2 mol.l-1. Vyberte, ktoré roztoky sú voči roztoku Ba(NO3)2hypertonické:
-a) AgNO3, c = 0,5 mol.l-1
-b) FeSO4, c = 300 mmol.l-1
-c) Fe2(SO4)3, c = 0,15 mol.l-1
-d) NiCl2, c = 300 mmol.l-1
-e) KMnO4, c = 0,3 mol.l-1
-f) ZnI2, c = 0,4 mol.l-1
-g) fruktóza, c = 0,6 mol.l-1
-h) KIO3, c = 0,25 mol.l-1
+86. Máme roztok Ba(NO<sub>3</sub>)<sub>2</sub> s koncentráciou 0,2 mol.l<sup>-1</sup>. Vyberte, ktoré roztoky sú voči roztoku Ba(NO<sub>3</sub>)<sub>2</sub> hypertonické:  
+a) AgNO<sub>3</sub>, c = 0,5 mol.l<sup>-1</sup>  
+b) FeSO<sub>4</sub>, c = 300 mmol.l<sup>-1</sup>  
+c) Fe<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>, c = 0,15 mol.l<sup>-1</sup>  
+d) NiCl<sub>2</sub>, c = 300 mmol.l<sup>-1</sup>  
+e) KMnO<sub>4</sub>, c = 0,3 mol.l<sup>-1</sup>  
+f) ZnI<sub>2</sub>, c = 0,4 mol.l<sup>-1</sup>  
+g) fruktóza, c = 0,6 mol.l<sup>-1</sup>  
+h) KIO<sub>3</sub>, c = 0,25 mol.l<sup>-1</sup>
 
-87. Difúzia:
-a) je formálne opakom osmózy
-b) môže nastať napr. vtedy, keď do kadičky s vodou hodíme kryštál KMnO4
-c) je prechod rozpúšťadla cez polopriepustnú membránu
-d) je prechod nízkomolekulových látok cez semipermeabilnú membránu
-e) je samovoľný prechod častíc látky z miest s vyššou koncentráciou na miesta s nižšou koncentráciou
-f) je prechod rozpúšťadla z miest s vyššou koncentráciou na miesta s nižšou koncentráciou
-g) nastáva v sústave dvoch roztokov oddelených polopriepustnou membránou
+87. Difúzia:  
+a) je formálne opakom osmózy  
+b) môže nastať napr. vtedy, keď do kadičky s vodou hodíme kryštál KMnO<sub>4</sub>  
+c) je prechod rozpúšťadla cez polopriepustnú membránu  
+d) je prechod nízkomolekulových látok cez semipermeabilnú membránu  
+e) je samovoľný prechod častíc látky z miest s vyššou koncentráciou na miesta s nižšou koncentráciou  
+f) je prechod rozpúšťadla z miest s vyššou koncentráciou na miesta s nižšou koncentráciou  
+g) nastáva v sústave dvoch roztokov oddelených polopriepustnou membránou  
 h) je formálne opakom dialýzy
 
-88. Fyziologický roztok je vodný roztok NaCl (Mr= 58) s koncentráciou 0,15 mol.l-1. Obsahuje:
-a) 30 mmol NaCl v 200 ml roztoku
-b) 0,15 mol NaCl v jednom litri H2O
-c) 17,4 g NaCl v dvoch litroch roztoku
-d) 4,35 g NaCl v 500 ml H2O
-e) 0,3 mmol NaCl v dvoch mililitroch roztoku
-f) 8,7 g NaCl v jednom litri roztoku
-g) 0,87 mg NaCl v 100 ml roztoku
-h) 150 mmol NaCl v jednom dm3 roztoku
+88. Fyziologický roztok je vodný roztok NaCl (Mr = 58) s koncentráciou 0,15 mol.l<sup>-1</sup>. Obsahuje:  
+a) 30 mmol NaCl v 200 ml roztoku  
+b) 0,15 mol NaCl v jednom litri H<sub>2</sub>O  
+c) 17,4 g NaCl v dvoch litroch roztoku  
+d) 4,35 g NaCl v 500 ml H<sub>2</sub>O  
+e) 0,3 mmol NaCl v dvoch mililitroch roztoku  
+f) 8,7 g NaCl v jednom litri roztoku  
+g) 0,87 mg NaCl v 100 ml roztoku  
+h) 150 mmol NaCl v jednom dm<sup>3</sup> roztoku
 
 89. Koncentrácia látkového množstva c(A) látky A je:
 a) určená podielom hmotnosti rozpustenej látky m(A) a objemu roztoku (V): c(A) = m(A) / V
@@ -885,38 +885,38 @@ c) počet molov látky A v 1000 ml rozpúšťadla
 d) daná vzťahom: c(A) = n(A) / V, kde n(A) = látkové množstvo rozpustenej látky A, V = objem roztoku
 e) určená podielom látkového množstva rozpustenej látky n(A) a celkového látkového množstva n roztoku
 f) daná vzťahom: c(A) = n(A) / n, kde n(A) = látkové množstvo rozpustenej látky A, n = celkové látkové množstvo sústavy
-g) počet molov látky A v jednom dm3 roztoku
+g) počet molov látky A v jednom dm<sup>3</sup> roztoku
 h) určená podielom látkového množstva rozpustenej látky n(A) a objemu rozpúšťadla
 
-90. V nasýtenom roztoku soli:
-a) sa za časovú jednotku rozpustí také množstvo látky, aké sa jej opäť z roztoku vylúči
-b) je pri určitých definovaných podmienkach to isté zloženie
-c) sa osmotický tlak počíta podľa vzťahu: π = c* R / T kde: c = koncentrácia roztoku, R = plynová konštanta, T = teplota v Kelvinoch
-d) je pri definovaných podmienkach rozpustené maximálne množstvo soli
-e) sa ustáli dynamická rovnováha medzi nerozpustenou časťou látky a roztokom
-f) sa ustáli rovnovážny stav, keď za časovú jednotku sa rozpustí látka s takou hmotnosťou, ako je hmotnosť látky, ktorá je už v roztoku rozpustená
-g) je vždy koncentrácia 1 mol.l-1
+90. V nasýtenom roztoku soli:  
+a) sa za časovú jednotku rozpustí také množstvo látky, aké sa jej opäť z roztoku vylúči  
+b) je pri určitých definovaných podmienkach to isté zloženie  
+c) sa osmotický tlak počíta podľa vzťahu: π = c * R / T kde: c = koncentrácia roztoku, R = plynová konštanta, T = teplota v Kelvinoch  
+d) je pri definovaných podmienkach rozpustené maximálne množstvo soli  
+e) sa ustáli dynamická rovnováha medzi nerozpustenou časťou látky a roztokom  
+f) sa ustáli rovnovážny stav, keď za časovú jednotku sa rozpustí látka s takou hmotnosťou, ako je hmotnosť látky, ktorá je už v roztoku rozpustená  
+g) je vždy koncentrácia 1 mol.l<sup>-1</sup>  
 h) je vždy koncentrácia 10 % (w %)
 
-91. Zmiešavaciu rovnicu:
-a) môžeme vyjadriť vzťahom: c(A) = m(A) / V*M(A)
-b) môžeme použiť na výpočet pH tlmivých roztokov po ich príprave z dvoch základných roztokov
-c) môžeme vyjadriť vzťahom: m1w1+ m2w2= m3w3, kde: m1a m2sú hmotnosti východiskových roztokov, m3je hmotnosť výsledného roztoku a symbol w označuje hmotnostné zlomky príslušných roztokov
-d) používame na výpočet hodnôt ionizačných konštánt aminokyselín
-e) používame na výpočet zloženia výsledného roztoku po zmiešaní dvoch roztokov s rôznou koncentráciou
-f) môžeme vyjadriť vzťahom: c(A) = n(A) / V, kde n(A) = látkové množstvo látky A, V = objem roztoku
-g) používame na výpočet hodnôt izoelektrických bodov neutrálnych aminokyselín podľa vzťahu: pI = (pK1 + pK2) / 2
-h) môžeme vyjadriť vzťahom: m1(A) + m2(A) = m3(A), kde m1a m2sú hmotnosti východiskových roztokov a m3je hmotnosť výsledného roztoku látky A
+91. Zmiešavaciu rovnicu:  
+a) môžeme vyjadriť vzťahom: c(A) = m(A) / V * M(A)  
+b) môžeme použiť na výpočet pH tlmivých roztokov po ich príprave z dvoch základných roztokov  
+c) môžeme vyjadriť vzťahom: m<sub>1</sub>w<sub>1</sub> + m<sub>2</sub>w<sub>2</sub> = m<sub>3</sub>w<sub>3</sub>, kde: m<sub>1</sub> a m<sub>2</sub> sú hmotnosti východiskových roztokov, m<sub>3</sub> je hmotnosť výsledného roztoku a symbol w označuje hmotnostné zlomky príslušných roztokov  
+d) používame na výpočet hodnôt ionizačných konštánt aminokyselín  
+e) používame na výpočet zloženia výsledného roztoku po zmiešaní dvoch roztokov s rôznou koncentráciou  
+f) môžeme vyjadriť vzťahom: c(A) = n(A) / V, kde n(A) = látkové množstvo látky A, V = objem roztoku  
+g) používame na výpočet hodnôt izoelektrických bodov neutrálnych aminokyselín podľa vzťahu: pI = (pK<sub>1</sub> + pK<sub>2</sub>) / 2  
+h) môžeme vyjadriť vzťahom: m<sub>1</sub>(A) + m<sub>2</sub>(A) = m<sub>3</sub>(A), kde m<sub>1</sub> a m<sub>2</sub> sú hmotnosti východiskových roztokov a m<sub>3</sub> je hmotnosť výsledného roztoku látky A
 
 92. Vyberte, ktoré tvrdenie je správne:
 a) koncentrácia látkového množstva c(A) látky A udáva počet molov látky A v jednom litri roztoku
-b) koncentrácia látkového množstva c(A) látky A je počet molov látky A v jednom dm3 rozpúšťadla
-c) hmotnostná koncentrácia látky A je určená podielom hmotnosti m(A) látky A a objemu roztoku V; jednotkou je kg.m-3, alebo sa môže použiť aj kg.dm-3, g.l-1
+b) koncentrácia látkového množstva c(A) látky A je počet molov látky A v jednom dm<sup>3</sup> rozpúšťadla
+c) hmotnostná koncentrácia látky A je určená podielom hmotnosti m(A) látky A a objemu roztoku V; jednotkou je kg.m<sup>-3</sup>, alebo sa môže použiť aj kg.dm<sup>-3</sup>, g.l<sup>-1</sup>
 d) hmotnostný zlomok látky A je počet gramov látky A v 1000 g roztoku
 e) objemový zlomok látky A je určený podielom objemu V(A) látky A a objemu roztoku V
-f) objemový zlomok látky A je počet mililitrov látky A v 100 ml H2O
-g) keď w(NaCl) = 0,13, roztok obsahuje 13 g NaCl + 100 g H2O
-h) roztok s koncentráciou c = 2 mol.l-1 obsahuje dva mol látky v dvoch litroch roztoku
+f) objemový zlomok látky A je počet mililitrov látky A v 100 ml H<sub>2</sub>O
+g) keď w(NaCl) = 0,13, roztok obsahuje 13 g NaCl + 100 g H<sub>2</sub>O
+h) roztok s koncentráciou c = 2 mol.l<sup>-1</sup> obsahuje dva mol látky v dvoch litroch roztoku
 
 93. Osmóza:
 a) je dej, ktorý nemôže prebiehať v organizme človeka
@@ -925,18 +925,18 @@ c) nastane, keď sú dva roztoky NaCl s rôznou koncentráciou oddelené semiper
 d) je samovoľný prechod častíc látky z miest s vyššou koncentráciou na miesta s nižšou koncentráciou
 e) nemôže nastať, keď do krvi človeka dáme sterilnú destilovanú vodu
 f) je prechod molekúl rozpúšťadla cez polopriepustnú membránu z roztoku s nižšou koncentráciou do roztoku s vyššou koncentráciou
-g) pri rovnakej koncentrácii (mol.l-1) je rovnaká v roztokoch elektrolytov aj neelektrolytov
+g) pri rovnakej koncentrácii (mol.l<sup>-1</sup>) je rovnaká v roztokoch elektrolytov aj neelektrolytov
 h) je opačný pochod ako difúzia
 
-94. Vodný roztok dihydrogenfosforečnanu sodného (Mr= 120) s koncentráciou 0,5 mol.l-1 pripravíme, keď:
-a) k 120 g NaH2PO4 pridáme toľko vody, aby sme dostali 2000 ml roztoku
-b) k 60 g Na2HPO4 pridáme toľko vody, aby sme dostali jeden dm3 roztoku
-c) rozpustíme 6 g NaH2PO4 vo vode tak, aby výsledný objem roztoku bol 100 mililitrov
-d) rozpustíme 60 g NaH2PO4 v 1000 ml vody
-e) rozpustíme 60 mg Na2HPO4 vo vode tak, aby výsledný objem roztoku bol jeden ml
-f) rozpustíme 0,25 mol NaH2PO4 vo vode tak, aby výsledný objem roztoku bol 0,5 dm3
-g) rozpustíme 60 g Na3PO4 vo vode na výsledný objem roztoku 1000 ml
-h) rozpustíme 120 mg NaH2PO4 vo vode tak, aby výsledný objem roztoku bol 2 ml
+94. Vodný roztok dihydrogenfosforečnanu sodného (Mr= 120) s koncentráciou 0,5 mol.l<sup>-1</sup> pripravíme, keď:
+a) k 120 g NaH<sub>2</sub>PO<sub>4</sub> pridáme toľko vody, aby sme dostali 2000 ml roztoku
+b) k 60 g Na<sub>2</sub>HPO<sub>4</sub> pridáme toľko vody, aby sme dostali jeden dm<sup>3</sup> roztoku
+c) rozpustíme 6 g NaH<sub>2</sub>PO<sub>4</sub> vo vode tak, aby výsledný objem roztoku bol 100 mililitrov
+d) rozpustíme 60 g NaH<sub>2</sub>PO<sub>4</sub> v 1000 ml vody
+e) rozpustíme 60 mg Na<sub>2</sub>HPO<sub>4</sub> vo vode tak, aby výsledný objem roztoku bol jeden ml
+f) rozpustíme 0,25 mol NaH<sub>2</sub>PO<sub>4</sub> vo vode tak, aby výsledný objem roztoku bol 0,5 dm<sup>3</sup>
+g) rozpustíme 60 g Na<sub>3</sub>PO<sub>4</sub> vo vode na výsledný objem roztoku 1000 ml
+h) rozpustíme 120 mg NaH<sub>2</sub>PO<sub>4</sub> vo vode tak, aby výsledný objem roztoku bol 2 ml
 
 95. Oxidácia:
 a) je každá chemická reakcia, pri ktorej atómy prvkov alebo ióny prijímajú elektróny
@@ -981,22 +981,22 @@ h) ktoré majú schopnosť redukovať iné látky, pričom sa oxidujú
 99. Dismutácia je reakcia:
 a) oxidačno-redukčná
 b) pri ktorej jedna látka (molekuly tej istej zlúčeniny, rovnaké ióny alebo atómy toho istého prvku) prijíma i odovzdáva elektróny
-c) pri ktorej rovnaké ióny alebo atómy toho istého prvku podliehajú oxidácii i redukcii 
+c) pri ktorej rovnaké ióny alebo atómy toho istého prvku podliehajú oxidácii i redukcii
 d) Cl<sub>2</sub> + H<sub>2</sub>O --> HClO + HCl
-e) 2 CH = O - OH- -> CH2OH + COO-
-f) 2 KMnO4 + 16 HCl --> 5 Cl2 + 2 MnCl2 + 2 KCl + 8 H2O
-g) 3 K2MnO4 + 2 H2O --> 2 KMnO4 + MnO2 + 4 KOH
-h) 3 HNO2 --> HNO3 + 2 NO + H2O
+e) 2 CH = O - OH<sup>-</sup> -> CH<sub>2</sub>OH + COO<sup>-</sup>
+f) 2 KMnO<sub>4</sub> + 16 HCl --> 5 Cl<sub>2</sub> + 2 MnCl<sub>2</sub> + 2 KCl + 8 H<sub>2</sub>O
+g) 3 K<sub>2</sub>MnO<sub>4</sub> + 2 H<sub>2</sub>O --> 2 KMnO<sub>4</sub> + MnO<sub>2</sub> + 4 KOH
+h) 3 HNO<sub>2</sub> --> HNO<sub>3</sub> + 2 NO + H<sub>2</sub>O
 
 100. Atóm jódu má oxidačné číslo VII v zlúčeninách:
 a) NaIO
-b) I2O7
-c) PbI2
-d) NH4I
-e) HIO3
-f) KIO4
-g) H3IO5
-h) H5IO6
+b) I<sub>2</sub>O<sub>7</sub>
+c) PbI<sub>2</sub>
+d) NH<sub>4</sub>I
+e) HIO<sub>3</sub>
+f) KIO<sub>4</sub>
+g) H<sub>3</sub>IO<sub>5</sub>
+h) H<sub>5</sub>IO<sub>6</sub>
 
 101. Atóm chrómu má oxidačné číslo VI v zlúčeninách:
 a) Cr2O3
