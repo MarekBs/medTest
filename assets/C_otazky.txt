@@ -998,79 +998,79 @@ f) KIO<sub>4</sub>
 g) H<sub>3</sub>IO<sub>5</sub>
 h) H<sub>5</sub>IO<sub>6</sub>
 
-101. Atóm chrómu má oxidačné číslo VI v zlúčeninách:
-a) Cr2O3
-b) KCr(SO4)2.12 H2O
-c) Cr(OH)3
-d) K2CrO4
-e) K2Cr2O7
-f) CrO3
-g) CrCl3
-h) PbCrO4
+101. Atóm chrómu má oxidačné číslo VI v zlúčeninách: 
+a) Cr<sub>2</sub>O<sub>3</sub>
+b) KCr(SO<sub>4</sub>)<sub>2</sub>·12 H<sub>2</sub>O
+c) Cr(OH)<sub>3</sub>
+d) K<sub>2</sub>CrO<sub>4</sub>
+e) K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>
+f) CrO<sub>3</sub>
+g) CrCl<sub>3</sub>
+h) PbCrO<sub>4</sub>
 
 102. Atóm železa má oxidačné číslo III v zlúčeninách:
-a) Fe(SCN)3
-b) (NH4)2Fe(SO4)2.6 H2O
-c) Fe(CH3COO)3
-d) NH4Fe(SO4)2.12 H2O
-e) K4[Fe(CN)6]
-f) K3[Fe(CN)6]
-g) Fe(HCO3)2
-h) Fe(OH)2NO3
+a) Fe(SCN)<sub>3</sub>
+b) (NH<sub>4</sub>)<sub>2</sub>Fe(SO<sub>4</sub>)<sub>2</sub>·6 H<sub>2</sub>O
+c) Fe(CH<sub>3</sub>COO)<sub>3</sub>
+d) NH<sub>4</sub>Fe(SO<sub>4</sub>)<sub>2</sub>·12 H<sub>2</sub>O
+e) K<sub>4</sub>[Fe(CN)<sub>6</sub>]
+f) K<sub>3</sub>[Fe(CN)<sub>6</sub>]
+g) Fe(HCO<sub>3</sub>)<sub>2</sub>
+h) Fe(OH)<sub>2</sub>NO<sub>3</sub>
 
 103. Atóm kyslíka má oxidačné číslo -I v zlúčeninách:
-a) Na2O2
+a) Na<sub>2</sub>O<sub>2</sub>
 b) BaO
-c) K2O2
-d) BaO2
-e) Ba(OH)2
-f) H2O2
+c) K<sub>2</sub>O<sub>2</sub>
+d) BaO<sub>2</sub>
+e) Ba(OH)<sub>2</sub>
+f) H<sub>2</sub>O<sub>2</sub>
 g) H-O-O-H
-h) H2O
+h) H<sub>2</sub>O
 
 104. Atóm mangánu má oxidačné číslo VII v zlúčeninách:
-a) MnSO4
-b) Ca(MnO4)2
-c) Mn2O7
-d) KMnO4
-e) K2MnO4
-f) H2MnO3
+a) MnSO<sub>4</sub>
+b) Ca(MnO<sub>4</sub>)<sub>2</sub>
+c) Mn<sub>2</sub>O<sub>7</sub>
+d) KMnO<sub>4</sub>
+e) K<sub>2</sub>MnO<sub>4</sub>
+f) H<sub>2</sub>MnO<sub>3</sub>
 g) MnS
-h) CaMnO4
+h) CaMnO<sub>4</sub>
 
 105. Atóm síry má oxidačné číslo -II v zlúčeninách:
-a) H2S
-b) Co2(SO4)3
-c) Sb2S5
-d) Mg(HS)2
-e) HS-C2H5
-f) H3C-S-S-CH3
-g) KHSO4
+a) H<sub>2</sub>S
+b) Co<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>
+c) Sb<sub>2</sub>S<sub>5</sub>
+d) Mg(HS)<sub>2</sub>
+e) HS-C<sub>2</sub>H<sub>5</sub>
+f) H<sub>3</sub>C-S-S-CH<sub>3</sub>
+g) KHSO<sub>4</sub>
 h) CdS
 
 106. Atóm fosforu má oxidačné číslo III v zlúčeninách:
-a) HPO3
-b) Mg(H2PO4)2
-c) Ca3(PO4)2.CaF2
-d) Na2HPO4
-e) H3PO3
-f) P4O6
-g) O = OH / P / OH - O - CH3
-h) PI3
+a) HPO<sub>3</sub>
+b) Mg(H<sub>2</sub>PO<sub>4</sub>)<sub>2</sub>
+c) Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>·CaF<sub>2</sub>
+d) Na<sub>2</sub>HPO<sub>4</sub>
+e) H<sub>3</sub>PO<sub>3</sub>
+f) P<sub>4</sub>O<sub>6</sub>
+g) <img src=106g.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=60/>
+h) PI<sub>3</sub>
 
-107. Pre chemickú reakciu Mg + NiCl2 <--> MgCl2 + Ni platí:
-a) horčík sa redukuje 
+107. Pre chemickú reakciu Mg + NiCl<sub>2</sub> <--> MgCl<sub>2</sub> + Ni platí:
+a) horčík sa redukuje
 b) chlór sa redukuje
 c) nikelnatý katión sa redukuje
-d) katión Ni2+ sa oxiduje
-e) reakcia prebieha v smere zľava doprava a katión Ni2+ je oxidovadlo
-f) reakcia prebieha v smere sprava doľava, pretože Ni stojí v elektrochemickom rade napätia kovov za Mg a preto môže Mg2+ ióny redukovať
+d) katión Ni<sup>2+</sup> sa oxiduje
+e) reakcia prebieha v smere zľava doprava a katión Ni<sup>2+</sup> je oxidovadlo
+f) reakcia prebieha v smere sprava doľava, pretože Ni stojí v elektrochemickom rade napätia kovov za Mg a preto môže Mg<sup>2+</sup> ióny redukovať
 g) horčík je redukovadlo
 h) horčík sa oxiduje
 
-108. Pre reakciu Zn + CuSO4 <--> ZnSO4 + Cu platí:
+108. Pre reakciu Zn + CuSO<sub>4</sub> <--> ZnSO<sub>4</sub> + Cu platí:
 a) meďnatý katión sa redukuje
-b) katión Cu2+ je oxidovadlo
+b) katión Cu<sup>2+</sup> je oxidovadlo
 c) reakcia je oxidačno-redukčná
 d) oxidačné čísla prvkov sa nemenia
 e) meďnatý katión sa oxiduje
@@ -1078,17 +1078,17 @@ f) zinok sa redukuje
 g) prebieha v smere zľava doprava
 h) zinok je redukovadlo, lebo v elektrochemickom rade napätia kovov stojí pred meďou
 
-109. Pre chemickú reakciu Fe + 2 HCl (zried.) --> FeCl2 + H2 platí:
+109. Pre chemickú reakciu Fe + 2 HCl (zried.) --> FeCl<sub>2</sub> + H<sub>2</sub> platí:
 a) Fe sa oxiduje
 b) Fe sa redukuje
 c) reakcia je oxidačno-redukčná
 d) chloridový anión sa oxiduje
 e) reakcia prebieha a Fe je redukovadlo
 f) reakcia neprebieha
-g) katión H+ je oxidovadlo
-h) katión H+ sa redukuje
+g) katión H<sup>+</sup> je oxidovadlo
+h) katión H<sup>+</sup> sa redukuje
 
-110. Pre chemickú reakciu Zn + H2SO4(zried.) --> ZnSO4+ H2 platí:
+110. Pre chemickú reakciu Zn + H<sub>2</sub>SO<sub>4</sub> (zried.) --> ZnSO<sub>4</sub> + H<sub>2</sub> platí:
 a) katióny vodíka sa redukujú
 b) zinok sa redukuje
 c) reakcia je oxidačno-redukčná
@@ -1098,55 +1098,55 @@ f) reakcia prebieha a zinok je redukovadlo
 g) reakcia neprebieha
 h) zinok sa oxiduje
 
-111. Ak do roztoku železnatej a zinočnatej soli ponoríme kúsky železa a zinku, prebieha reakcia:
-a) Fe + Zn2+ --> Zn + Fe2+
-b) Fe2+ + Zn --> Zn2+ + Fe
-c) 2 Fe + 3 Zn2+ --> 2 Fe3+ + 3 Zn
+111. Ak do roztoku železnatej a zinočnatej soli ponoríme kúsky železa a zinku, prebieha reakcia: 
+a) Fe + Zn<sup>2+</sup> &#10230; Zn + Fe<sup>2+</sup>
+b) Fe<sup>2+</sup> + Zn &#10230; Zn<sup>2+</sup> + Fe
+c) 2 Fe + 3 Zn<sup>2+</sup> &#10230; 2 Fe<sup>3+</sup> + 3 Zn
 d) redukcie katiónu železa účinkom kovového zinku
 e) pri ktorej sa oxiduje elementárne železo
 f) pri ktorej sa oxiduje kovový zinok
 g) oxidačno-redukčná
 h) v ktorej vystupuje kovový zinok ako redukovadlo
 
-112. Pre schému oxidačno-redukčnej reakcie zvoľte vhodné čiastkové reakcie, prípadne overte, či sú uvedené stechiometrické koeficienty správne Cu + HNO3 --> Cu(NO3)2 + NO2 + H2O :
-a) NV + 3 e- --> NII
-b) Cu0 + 2 e- --> CuII
-c) Cu0 - 2 e- --> CuII
-d) Cu0 - 1 e- --> CuI
-e) NIII + 1 e- --> NII
-f) NV + 1 e- --> NIV
-g) CuI - 1 e- --> CuII
-h) 1 + 4 --> 1 + 2 + 2
+112. Pre schému oxidačno-redukčnej reakcie zvoľte vhodné čiastkové reakcie, prípadne overte, či sú uvedené stechiometrické koeficienty správne Cu + HNO<sub>3</sub> &#10230; Cu(NO<sub>3</sub>)<sub>2</sub> + NO<sub>2</sub> + H<sub>2</sub>O :
+a) N<sup>V</sup> + 3 e<sup>-</sup> &#10230; N<sup>II</sup>
+b) Cu<sup>0</sup> + 2 e<sup>-</sup> &#10230; Cu<sup>II</sup>
+c) Cu<sup>0</sup> - 2 e<sup>-</sup> &#10230; Cu<sup>II</sup>
+d) Cu<sup>0</sup> - 1 e<sup>-</sup> &#10230; Cu<sup>I</sup>
+e) N<sup>III</sup> + 1 e<sup>-</sup> &#10230; N<sup>II</sup>
+f) N<sup>V</sup> + 1 e<sup>-</sup> &#10230; N<sup>IV</sup>
+g) Cu<sup>I</sup> - 1 e<sup>-</sup> &#10230; Cu<sup>II</sup>
+h) 1 + 4 &#10230; 1 + 2 + 2
 
-113. Pre schému oxidačno-redukčnej reakcie zvoľte vhodné čiastkové reakcie, prípadne overte, či sú uvedené stechiometrické koeficienty správne H2O2 + KMnO4 + H2SO4 --> O2 + MnSO4 + K2SO4 + H2O :
-a) MnVII + 5 e- --> MnII
-b) MnVI + 4 e- --> MnII
-c) SVI + 2 e- --> SIV
-d) 2 O-I- 2 e- --> O20
-e) MnVI- 4 e- --> MnII
-f) MnVII + 3 e- --> MnIV
-g) O-I + 1 e- --> O-II
-h) 5 + 2 + 3 --> 5 + 2 + 1 + 8
+113. Pre schému oxidačno-redukčnej reakcie zvoľte vhodné čiastkové reakcie, prípadne overte, či sú uvedené stechiometrické koeficienty správne H<sub>2</sub>O<sub>2</sub> + KMnO<sub>4</sub> + H<sub>2</sub>SO<sub>4</sub> &#10230; O<sub>2</sub> + MnSO<sub>4</sub> + K<sub>2</sub>SO<sub>4</sub> + H<sub>2</sub>O :
+a) Mn<sup>VII</sup> + 5 e<sup>-</sup> &#10230; Mn<sup>II</sup>
+b) Mn<sup>VI</sup> + 4 e<sup>-</sup> &#10230; Mn<sup>II</sup>
+c) S<sup>VI</sup> + 2 e<sup>-</sup> &#10230; S<sup>IV</sup>
+d) 2 O<sup>-I</sup> - 2 e<sup>-</sup> &#10230; O<sub>2</sub><sup>0</sup>
+e) Mn<sup>VI</sup> - 4 e<sup>-</sup> &#10230; Mn<sup>II</sup>
+f) Mn<sup>VII</sup> + 3 e<sup>-</sup> &#10230; Mn<sup>IV</sup>
+g) O<sup>-I</sup> + 1 e<sup>-</sup> &#10230; O<sup>-II</sup>
+h) 5 + 2 + 3 &#10230; 5 + 2 + 1 + 8
 
-114. Pre schému oxidačno-redukčnej reakcie zvoľte vhodné čiastkové reakcie, prípadne overte, či sú uvedené stechiometrické koeficienty správne Cl2 + NaOH --> NaCl + NaClO + H2O :
-a) Cl0 - 2 e- --> ClII
-b) ClII + 1 e- --> ClI
-c) Cl0 + 1 e- --> Cl-I
-d) NaI - 1 e- --> Na0
-e) Cl0 - 1 e- --> ClI
-f) O-I + 1 e- --> O-II
-g) H-I - 1 e- --> HI
-h) 1 + 2 --> 1 + 1 + 1
+114. Pre schému oxidačno-redukčnej reakcie zvoľte vhodné čiastkové reakcie, prípadne overte, či sú uvedené stechiometrické koeficienty správne Cl<sub>2</sub> + NaOH &#10230; NaCl + NaClO + H<sub>2</sub>O :
+a) Cl<sup>0</sup> - 2 e<sup>-</sup> &#10230; Cl<sup>II</sup>
+b) Cl<sup>II</sup> + 1 e<sup>-</sup> &#10230; Cl<sup>I</sup>
+c) Cl<sup>0</sup> + 1 e<sup>-</sup> &#10230; Cl<sup>-I</sup>
+d) Na<sup>I</sup> - 1 e<sup>-</sup> &#10230; Na<sup>0</sup>
+e) Cl<sup>0</sup> - 1 e<sup>-</sup> &#10230; Cl<sup>I</sup>
+f) O<sup>-I</sup> + 1 e<sup>-</sup> &#10230; O<sup>-II</sup>
+g) H<sup>-I</sup> - 1 e<sup>-</sup> &#10230; H<sup>I</sup>
+h) 1 + 2 &#10230; 1 + 1 + 1
 
-115. Pre schému oxidačno-redukčnej reakcie zvoľte vhodné čiastkové reakcie, prípadne overte, či sú uvedené stechiometrické koeficienty správne KMnO4 + Na2SO3 + H2O --> Na2SO4 + MnO2 + KOH : 
-a) MnVII + 5 e- --> MnII
-b) MnVII + 3 e- --> MnIV
-c) SVI + 2 e- --> SIV
-d) HI + 2 e- --> H-I
-e) KII - 1 e- --> KI
-f) SIV - 2 e- --> SVI
-g) MnVI + 2 e --> MnIV
-h) 2 + 3 + 1 --> 3 + 2 + 4
+115. Pre schému oxidačno-redukčnej reakcie zvoľte vhodné čiastkové reakcie, prípadne overte, či sú uvedené stechiometrické koeficienty správne KMnO<sub>4</sub> + Na<sub>2</sub>SO<sub>3</sub> + H<sub>2</sub>O &#10230; Na<sub>2</sub>SO<sub>4</sub> + MnO<sub>2</sub> + KOH :
+a) Mn<sup>VII</sup> + 5 e<sup>-</sup> &#10230; Mn<sup>II</sup>
+b) Mn<sup>VII</sup> + 3 e<sup>-</sup> &#10230; Mn<sup>IV</sup>
+c) S<sup>VI</sup> + 2 e<sup>-</sup> &#10230; S<sup>IV</sup>
+d) H<sup>I</sup> + 2 e<sup>-</sup> &#10230; H<sup>-I</sup>
+e) K<sup>II</sup> - 1 e<sup>-</sup> &#10230; K<sup>I</sup>
+f) S<sup>IV</sup> - 2 e<sup>-</sup> &#10230; S<sup>VI</sup>
+g) Mn<sup>VI</sup> + 2 e &#10230; Mn<sup>IV</sup>
+h) 2 + 3 + 1 &#10230; 3 + 2 + 4
 
 116. Pre schému oxidačno-redukčnej reakcie zvoľte vhodné čiastkové reakcie, prípadne overte, či sú uvedené stechiometrické koeficienty správne H2O2 --> H2O + O2:
 a) 2 HI- 2 e- --> H20
@@ -1459,7 +1459,7 @@ g) sú príčinou redukčných vlastností vodíka (vo väčšine reakcií)
 h) sú menej reaktívne ako molekuly vodíka
 
 147. Označte, ktoré reakcie binárnych zlúčenín vodíka s vodou môžu prebiehať:
-a) HBr + H2O ---> H3O+ + Br
+a) HBr + H2O &#10230; H3O+ + Br
 b) KH + H2O --> H2 + KOH
 c) CaH2 + 2 H2O --> 2 H2 + Ca(OH)2
 d) PH3 + 4 H2O --> 4 H2 + H3PO4
