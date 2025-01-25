@@ -488,7 +488,7 @@ f) len zlúčeniny zásadotvorných oxidov s vodou
 g) aj anióny viacsýtnych kyselín, ktoré môžu prijať protón
 h) napr. NH<sub>3</sub>, CH<sub>3</sub>COO<sup>-</sup>, Cl<sup>-</sup>, NH<sub>4</sub><sup>+</sup>, C<sub>6</sub>H<sub>5</sub>NH<sub>3</sub><sup>+</sup>
 
-50. Určte konjugované páry protolytickej reakcie HNO<sub>3</sub>+ H<sub>2</sub>O <--> H<sub>3</sub>O<sup>+</sup> + NO<sub>3</sub><sup>-</sup>:
+50. Určte konjugované páry protolytickej reakcie HNO<sub>3</sub>+ H<sub>2</sub>O <&#10230 H<sub>3</sub>O<sup>+</sup> + NO<sub>3</sub><sup>-</sup>:
 a) HNO<sub>3</sub> a NO<sub>3</sub><sup>-</sup>
 b) H<sub>2</sub>O a NO<sub>3</sub><sup>-</sup>
 c) H<sub>3</sub>O<sup>+</sup> a NO<sub>3</sub><sup>-</sup>
@@ -498,7 +498,7 @@ f) HNO<sub>3</sub> a H<sub>3</sub>O<sup>+</sup>
 g) H<sub>2</sub>O a OH<sup>-</sup>
 h) H<sub>3</sub>O<sup>+</sup> a H<sub>3</sub>O<sup>+</sup>
 
-51. Určte konjugované páry protolytickej reakcie NH<sub>3</sub> + HCl <--> NH<sub>4</sub><sup>+</sup> + Cl<sup>-</sup> :
+51. Určte konjugované páry protolytickej reakcie NH<sub>3</sub> + HCl <&#10230 NH<sub>4</sub><sup>+</sup> + Cl<sup>-</sup> :
 a) HCl a NH<sub>4</sub><sup>+</sup>
 b) NH<sub>3</sub> a Cl<sup>-</sup>
 c) NH<sub>3</sub> a NH<sub>4</sub><sup>+</sup>
@@ -649,7 +649,7 @@ g) po rozpustení soli silnej zásady so slabou kyselinou, bude pH jej vodného 
 h) hydrolýza soli je protolytická reakcia, pri ktorej ióny vzniknuté elektrolytickou ionizáciou soli reagujú s vodou
 
 66. Po rozpustení KCN vo vode (pH vody = 7):
-a) nemôže prebiehať čiastková reakcia: CN<sup>-</sup> + H<sub>2</sub>O <--> HCN + OH<sup>-</sup>
+a) nemôže prebiehať čiastková reakcia: CN<sup>-</sup> + H<sub>2</sub>O <&#10230 HCN + OH<sup>-</sup>
 b) v roztoku nastane ionizácia soli
 c) sa nezmení pôvodná hodnota pH vody
 d) pOH vzniknutého roztoku bude nižšie ako 7
@@ -952,7 +952,7 @@ h) je proces, pri ktorom molekula organickej zlúčeniny prijíma dva atómy vod
 a) je každá chemická reakcia, pri ktorej atómy prvkov alebo ióny prijímajú elektróny
 b) je každá chemická reakcia, pri ktorej atómy prvkov alebo ióny odovzdávajú elektróny
 c) sa spája so znižovaním kladného oxidačného čísla atómov
-d) striebra vodíkom prebieha podľa reakcie Ag<sub>2</sub>S + H<sub>2</sub> --> 2 Ag + H<sub>2</sub>S
+d) striebra vodíkom prebieha podľa reakcie Ag<sub>2</sub>S + H<sub>2</sub> &#10230 2 Ag + H<sub>2</sub>S
 e) je proces, pri ktorom látka prijíma dva vodíkové protóny
 f) organických zlúčenín sa nazýva dehydrogenácia
 g) je aj zlučovanie látok s vodíkom
@@ -982,11 +982,11 @@ h) ktoré majú schopnosť redukovať iné látky, pričom sa oxidujú
 a) oxidačno-redukčná
 b) pri ktorej jedna látka (molekuly tej istej zlúčeniny, rovnaké ióny alebo atómy toho istého prvku) prijíma i odovzdáva elektróny
 c) pri ktorej rovnaké ióny alebo atómy toho istého prvku podliehajú oxidácii i redukcii
-d) Cl<sub>2</sub> + H<sub>2</sub>O --> HClO + HCl
+d) Cl<sub>2</sub> + H<sub>2</sub>O &#10230 HClO + HCl
 e) 2 CH = O - OH<sup>-</sup> -> CH<sub>2</sub>OH + COO<sup>-</sup>
-f) 2 KMnO<sub>4</sub> + 16 HCl --> 5 Cl<sub>2</sub> + 2 MnCl<sub>2</sub> + 2 KCl + 8 H<sub>2</sub>O
-g) 3 K<sub>2</sub>MnO<sub>4</sub> + 2 H<sub>2</sub>O --> 2 KMnO<sub>4</sub> + MnO<sub>2</sub> + 4 KOH
-h) 3 HNO<sub>2</sub> --> HNO<sub>3</sub> + 2 NO + H<sub>2</sub>O
+f) 2 KMnO<sub>4</sub> + 16 HCl &#10230 5 Cl<sub>2</sub> + 2 MnCl<sub>2</sub> + 2 KCl + 8 H<sub>2</sub>O
+g) 3 K<sub>2</sub>MnO<sub>4</sub> + 2 H<sub>2</sub>O &#10230 2 KMnO<sub>4</sub> + MnO<sub>2</sub> + 4 KOH
+h) 3 HNO<sub>2</sub> &#10230 HNO<sub>3</sub> + 2 NO + H<sub>2</sub>O
 
 100. Atóm jódu má oxidačné číslo VII v zlúčeninách:
 a) NaIO
@@ -1058,7 +1058,7 @@ f) P<sub>4</sub>O<sub>6</sub>
 g) <img src=106g.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=60/>
 h) PI<sub>3</sub>
 
-107. Pre chemickú reakciu Mg + NiCl<sub>2</sub> <--> MgCl<sub>2</sub> + Ni platí:
+107. Pre chemickú reakciu Mg + NiCl<sub>2</sub> <&#10230 MgCl<sub>2</sub> + Ni platí:
 a) horčík sa redukuje
 b) chlór sa redukuje
 c) nikelnatý katión sa redukuje
@@ -1068,7 +1068,7 @@ f) reakcia prebieha v smere sprava doľava, pretože Ni stojí v elektrochemicko
 g) horčík je redukovadlo
 h) horčík sa oxiduje
 
-108. Pre reakciu Zn + CuSO<sub>4</sub> <--> ZnSO<sub>4</sub> + Cu platí:
+108. Pre reakciu Zn + CuSO<sub>4</sub> <&#10230 ZnSO<sub>4</sub> + Cu platí:
 a) meďnatý katión sa redukuje
 b) katión Cu<sup>2+</sup> je oxidovadlo
 c) reakcia je oxidačno-redukčná
@@ -1078,7 +1078,7 @@ f) zinok sa redukuje
 g) prebieha v smere zľava doprava
 h) zinok je redukovadlo, lebo v elektrochemickom rade napätia kovov stojí pred meďou
 
-109. Pre chemickú reakciu Fe + 2 HCl (zried.) --> FeCl<sub>2</sub> + H<sub>2</sub> platí:
+109. Pre chemickú reakciu Fe + 2 HCl (zried.) &#10230 FeCl<sub>2</sub> + H<sub>2</sub> platí:
 a) Fe sa oxiduje
 b) Fe sa redukuje
 c) reakcia je oxidačno-redukčná
@@ -1088,7 +1088,7 @@ f) reakcia neprebieha
 g) katión H<sup>+</sup> je oxidovadlo
 h) katión H<sup>+</sup> sa redukuje
 
-110. Pre chemickú reakciu Zn + H<sub>2</sub>SO<sub>4</sub> (zried.) --> ZnSO<sub>4</sub> + H<sub>2</sub> platí:
+110. Pre chemickú reakciu Zn + H<sub>2</sub>SO<sub>4</sub> (zried.) &#10230 ZnSO<sub>4</sub> + H<sub>2</sub> platí:
 a) katióny vodíka sa redukujú
 b) zinok sa redukuje
 c) reakcia je oxidačno-redukčná
@@ -1148,135 +1148,135 @@ f) S<sup>IV</sup> - 2 e<sup>-</sup> &#10230; S<sup>VI</sup>
 g) Mn<sup>VI</sup> + 2 e &#10230; Mn<sup>IV</sup>
 h) 2 + 3 + 1 &#10230; 3 + 2 + 4
 
-116. Pre schému oxidačno-redukčnej reakcie zvoľte vhodné čiastkové reakcie, prípadne overte, či sú uvedené stechiometrické koeficienty správne H2O2 --> H2O + O2:
-a) 2 HI- 2 e- --> H20
-b) 2 O-I + 2 e- 2 --> O-II
-c) 2 O-I- 2 e- --> O20
-d) 2 O-II- 4 e- --> O20
-e) 2 O-II- 2 e- 2 --> O-I
-f) 2 HI + 2 e- --> H20
-g) 2 --> 2 + 1
-h) 3 --> 2 + 1
+116. Pre schému oxidačno-redukčnej reakcie zvoľte vhodné čiastkové reakcie, prípadne overte, či sú uvedené stechiometrické koeficienty správne H<sub>2</sub>O<sub>2</sub> &#10230 H<sub>2</sub>O + O<sub>2</sub>:  
+a) 2 H<sup>I</sup> - 2 e<sup>-</sup> &#10230 H<sub>2</sub><sup>0</sup>  
+b) 2 O<sup>-I</sup> + 2 e<sup>-</sup> &#10230 2 O<sup>-II</sup>  
+c) 2 O<sup>-I</sup>- 2 e<sup>-</sup> &#10230 O<sub>2</sub><sup>0</sup>  
+d) 2 O<sup>-II</sup>- 4 e<sup>-</sup> &#10230 O<sub>2</sub><sup>0</sup>  
+e) 2 O<sup>-II</sup>- 2 e<sup>-</sup> &#10230 2 O<sup>-I</sup>  
+f) 2 H<sup>I</sup> + 2 e<sup>-</sup> &#10230 H<sub>2</sub><sup>0</sup> 
+g) 2 &#10230 2 + 1  
+h) 3 &#10230 2 + 1  
 
-117. Pre schému oxidačno-redukčnej reakcie zvoľte vhodné čiastkové reakcie, prípadne overte, či sú uvedené stechiometrické koeficienty správne SO2+ H2S --> S + H2O :
-a) S-II- 2 e- --> S0
-b) SII- 2 e- --> S0
-c) O-II- 1 e- --> O-I
-d) SIV + 4 e- --> S0
-e) SVI + 6 e- --> S0
-f) S-I- 1 e- --> S0
-g) H-I- 2 e- --> HI
-h) 1 + 2 --> 3 + 2
+117. Pre schému oxidačno-redukčnej reakcie zvoľte vhodné čiastkové reakcie, prípadne overte, či sú uvedené stechiometrické koeficienty správne SO<sub>2</sub> + H<sub>2</sub>S &#10230 S + H<sub>2</sub>O:  
+a) S<sup>-II</sup>- 2 e<sup>-</sup> &#10230 S<sup>0</sup>  
+b) S<sup>II</sup>- 2 e<sup>-</sup> &#10230 S<sup>0</sup>  
+c) O<sup>-II</sup>- 1 e<sup>-</sup> &#10230 O<sup>-I</sup>  
+d) S<sup>IV</sup> + 4 e<sup>-</sup> &#10230 S<sup>0</sup>  
+e) S<sup>VI</sup> + 6 e<sup>-</sup> &#10230 S<sup>0</sup>  
+f) S<sup>-I</sup>- 1 e<sup>-</sup> &#10230 S<sup>0</sup>  
+g) H<sup>-I</sup>- 2 e<sup>-</sup> &#10230 H<sup>I</sup>  
+h) 1 + 2 &#10230 3 + 2  
 
-118. Pre schému oxidačno-redukčnej reakcie zvoľte vhodné čiastkové reakcie, prípadne overte, či sú uvedené stechiometrické koeficienty správne Na2Cr2O7 + HCl --> NaCl + CrCl3 + Cl2 + H2O :
-a) 2 Cl-I - 2 e- --> Cl20
-b) 2 Cl-I - 2 e- --> CrIII
-c) CrVI + 3 e- --> CrIII
-d) ClI + 2 e- --> Cl-I
-e) NaII + 1 e- --> NaI
-f) CrVII + 4 e- --> CrIII
-g) O-I + 1 e- --> O-II
-h) 1 + 14 --> 2 + 2 + 3 + 7
+118. Pre schému oxidačno-redukčnej reakcie zvoľte vhodné čiastkové reakcie, prípadne overte, či sú uvedené stechiometrické koeficienty správne Na<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> + HCl &#10230 NaCl + CrCl<sub>3</sub> + Cl<sub>2</sub> + H<sub>2</sub>O:  
+a) 2 Cl<sup>-I</sup> - 2 e<sup>-</sup> &#10230 Cl<sub>2</sub><sup>0</sup>  
+b) 2 Cl<sup>-I</sup> - 2 e<sup>-</sup> &#10230 Cr<sup>III</sup>  
+c) Cr<sup>VI</sup> + 3 e<sup>-</sup> &#10230 Cr<sup>III</sup>  
+d) Cl<sup>I</sup> + 2 e<sup>-</sup> &#10230 Cl<sup>-I</sup>  
+e) Na<sup>II</sup> + 1 e<sup>-</sup> &#10230 Na<sup>I</sup>  
+f) Cr<sup>VII</sup> + 4 e<sup>-</sup> &#10230 Cr<sup>III</sup>  
+g) O<sup>-I</sup> + 1 e<sup>-</sup> &#10230 O<sup>-II</sup>  
+h) 1 + 14 &#10230 2 + 2 + 3 + 7  
 
-119. Jód sa oxiduje v reakciách:
-a) Cl2 + 2 KI --> I2 + 2 KCl
-b) 2 KI + O3+ H2O --> I2 + 2 KOH + O2
-c) 3 I2 + 10 HNO3 --> 6 HIO3 + 10 NO + 2 H2O
-d) NaIO3 + NaClO --> NaIO4 + NaCl
-e) Pb(NO3)2 + 2 KI --> PbI2 + 2 KNO3
-f) I2 + H2S --> 2 HI + S
-g) I2 + 5 Cl2 + 6 H2O --> 2 HIO3 + 10 HCl
-h) Na3AsO3 + I2+ H2O --> Na3AsO4 + 2 HI
+119. Jód sa oxiduje v reakciách:  
+a) Cl<sub>2</sub> + 2 KI &#10230 I<sub>2</sub> + 2 KCl  
+b) 2 KI + O<sub>3</sub> + H<sub>2</sub>O &#10230 I<sub>2</sub> + 2 KOH + O<sub>2</sub>  
+c) 3 I<sub>2</sub> + 10 HNO<sub>3</sub> &#10230 6 HIO<sub>3</sub> + 10 NO + 2 H<sub>2</sub>O  
+d) NaIO<sub>3</sub> + NaClO &#10230 NaIO<sub>4</sub> + NaCl  
+e) Pb(NO<sub>3</sub>)<sub>2</sub> + 2 KI &#10230 PbI<sub>2</sub> + 2 KNO<sub>3</sub>  
+f) I<sub>2</sub> + H<sub>2</sub>S &#10230 2 HI + S  
+g) I<sub>2</sub> + 5 Cl<sub>2</sub> + 6 H<sub>2</sub>O &#10230 2 HIO<sub>3</sub> + 10 HCl  
+h) Na<sub>3</sub>AsO<sub>3</sub> + I<sub>2</sub> + H<sub>2</sub>O &#10230 Na<sub>3</sub>AsO<sub>4</sub> + 2 HI  
 
-120. Síra sa oxiduje v reakcii:
-a) Fe2 S3 + 4 HCl --> 2 FeCl2 + 2 H2 + 3 S
-b) 2 Cr + 6 H2SO4 --> Cr2(SO4)3 + 3 SO2+ 6 H2O
-c) I2 + H2S --> 2 HI + S
-d) NaOH + SO2 --> NaHSO3
-e) 2 FeCl3 + H2S --> 2 FeCl2 + S + 2 HCl
-f) K2Cr2O7 + S --> Cr2O3+ K2SO4
-g) Cl2 + SO2 + 2 H2O --> 2 HCl + H2SO4
-h) 4 FeS2 + 11 O2 --> 2 Fe2O3+ 8 SO2
+120. Síra sa oxiduje v reakcii:  
+a) Fe<sub>2</sub>S<sub>3</sub> + 4 HCl &#10230 2 FeCl<sub>2</sub> + 2 H<sub>2</sub> + 3 S  
+b) 2 Cr + 6 H<sub>2</sub>SO<sub>4</sub> &#10230 Cr<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> + 3 SO<sub>2</sub> + 6 H<sub>2</sub>O  
+c) I<sub>2</sub> + H<sub>2</sub>S &#10230 2 HI + S  
+d) NaOH + SO<sub>2</sub> &#10230 NaHSO<sub>3</sub>  
+e) 2 FeCl<sub>3</sub> + H<sub>2</sub>S &#10230 2 FeCl<sub>2</sub> + S + 2 HCl  
+f) K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> + S &#10230 Cr<sub>2</sub>O<sub>3</sub> + K<sub>2</sub>SO<sub>4</sub>  
+g) Cl<sub>2</sub> + SO<sub>2</sub> + 2 H<sub>2</sub>O &#10230 2 HCl + H<sub>2</sub>SO<sub>4</sub>  
+h) 4 FeS<sub>2</sub> + 11 O<sub>2</sub> &#10230 2 Fe<sub>2</sub>O<sub>3</sub> + 8 SO<sub>2</sub>  
 
-121. Vyberte reakcie, v ktorých je H2O2 oxidovadlo:
-a) H2O2 + 2 FeSO4 + H2SO4 --> Fe2(SO4)3+ 2 H2O
-b) 5 H2O2 + 2 KMnO4 + 3 H2SO4 --> 5 O2 + 2 MnSO4 + K2SO4 + 8 H2O
-c) H2O2 + PbO2 + 2 HNO3 --> Pb(NO3)2 + O2 + 2 H2O
-d) H2O2 + 2 KI + H2SO4 --> I2 + K2SO4 + 2 H2O
-e) Mn2+ + H2O2 + 2 OH- --> MnO2 + 2 H2O
-f) H2O2+ H2S --> 2 H2O + S
-g) Ag2O + H2O2 --> 2 Ag + H2O + O2
-h) H2O2 + Fe2+ --> Fe3+ + OH- + OH•
+121. Vyberte reakcie, v ktorých je H<sub>2</sub>O<sub>2</sub> oxidovadlo:  
+a) H<sub>2</sub>O<sub>2</sub> + 2 FeSO<sub>4</sub> + H<sub>2</sub>SO<sub>4</sub> &#10230 Fe<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> + 2 H<sub>2</sub>O  
+b) 5 H<sub>2</sub>O<sub>2</sub> + 2 KMnO<sub>4</sub> + 3 H<sub>2</sub>SO<sub>4</sub> &#10230 5 O<sub>2</sub> + 2 MnSO<sub>4</sub> + K<sub>2</sub>SO<sub>4</sub> + 8 H<sub>2</sub>O  
+c) H<sub>2</sub>O<sub>2</sub> + PbO<sub>2</sub> + 2 HNO<sub>3</sub> &#10230 Pb(NO<sub>3</sub>)<sub>2</sub> + O<sub>2</sub> + 2 H<sub>2</sub>O  
+d) H<sub>2</sub>O<sub>2</sub> + 2 KI + H<sub>2</sub>SO<sub>4</sub> &#10230 I<sub>2</sub> + K<sub>2</sub>SO<sub>4</sub> + 2 H<sub>2</sub>O  
+e) Mn<sup>2+</sup> + H<sub>2</sub>O<sub>2</sub> + 2 OH<sup>-</sup> &#10230 MnO<sub>2</sub> + 2 H<sub>2</sub>O  
+f) H<sub>2</sub>O<sub>2</sub> + H<sub>2</sub>S &#10230 2 H<sub>2</sub>O + S  
+g) Ag<sub>2</sub>O + H<sub>2</sub>O<sub>2</sub> &#10230 2 Ag + H<sub>2</sub>O + O<sub>2</sub>  
+h) H<sub>2</sub>O<sub>2</sub> + Fe<sup>2+</sup> &#10230 Fe<sup>3+</sup> + OH<sup>-</sup> + OH<sup>•</sup>  
 
-122. Rýchlosť chemickej reakcie:
-a) u plynov závisí od tlaku
-b) závisí od koncentrácie reagujúcich látok
-c) je ovplyvnená prítomnosťou katalyzátorov
-d) je priamo úmerná súčinu molárnych koncentrácií reagujúcich látok
-e) možno vyjadriť ako zmenu koncentrácie reaktantov za časovú jednotku
-f) nezávisí od veľkosti aktivačnej energie
-g) je určená rovnovážnou konštantou
-h) závisí od teploty
+122. Rýchlosť chemickej reakcie:  
+a) u plynov závisí od tlaku  
+b) závisí od koncentrácie reagujúcich látok  
+c) je ovplyvnená prítomnosťou katalyzátorov  
+d) je priamo úmerná súčinu molárnych koncentrácií reagujúcich látok  
+e) možno vyjadriť ako zmenu koncentrácie reaktantov za časovú jednotku  
+f) nezávisí od veľkosti aktivačnej energie  
+g) je určená rovnovážnou konštantou  
+h) závisí od teploty  
 
-123. Rovnovážny stav reakcie:
-a) je stav, pri ktorom reakcia prebieha rovnakou rýchlosťou v oboch smeroch
-b) je stav, keď sa reaktanty úplne premenili na produkty
-c) vyjadruje rovnovážna konštanta
-d) je stav, keď sa v reakčnej zmesi koncentrácie reaktantov rovnajú koncentráciám produktov
-e) závisí od aktivačnej energie
-f) možno ovplyvniť zmenou teploty reakčnej zmesi
-g) možno ovplyvniť zmenou koncentrácie produktov
-h) možno ovplyvniť prítomnosťou katalyzátorov
+123. Rovnovážny stav reakcie:  
+a) je stav, pri ktorom reakcia prebieha rovnakou rýchlosťou v oboch smeroch  
+b) je stav, keď sa reaktanty úplne premenili na produkty  
+c) vyjadruje rovnovážna konštanta  
+d) je stav, keď sa v reakčnej zmesi koncentrácie reaktantov rovnajú koncentráciám produktov  
+e) závisí od aktivačnej energie  
+f) možno ovplyvniť zmenou teploty reakčnej zmesi  
+g) možno ovplyvniť zmenou koncentrácie produktov  
+h) možno ovplyvniť prítomnosťou katalyzátorov  
 
-124. Chemická rovnováha reakcie 2 HBr <--> H2 + Br2 s hodnotou reakčného tepla Qm= +70 kJ.mol-1 sa posunie na stranu reaktantu:
-a) zvýšením teploty
-b) znížením teploty
-c) odstraňovaním H2 z reakčnej zmesi
-d) pridaním Br2 do reakčnej zmesi
-e) pridaním katalyzátora
-f) pridaním HBr do reakčnej zmesi
-g) odstraňovaním HBr z reakčnej zmesi
-h) pridaním H2 do reakčnej zmesi
+124. Chemická rovnováha reakcie 2 HBr <--> H<sub>2</sub> + Br<sub>2</sub> s hodnotou reakčného tepla Q<sub>m</sub>= +70 kJ.mol<sup>-1</sup> sa posunie na stranu reaktantu:  
+a) zvýšením teploty  
+b) znížením teploty  
+c) odstraňovaním H<sub>2</sub> z reakčnej zmesi  
+d) pridaním Br<sub>2</sub> do reakčnej zmesi  
+e) pridaním katalyzátora  
+f) pridaním HBr do reakčnej zmesi  
+g) odstraňovaním HBr z reakčnej zmesi  
+h) pridaním H<sub>2</sub> do reakčnej zmesi  
 
-125. Rovnováha reakcie 2 NO + O2 <--> 2 NO2s hodnotou reakčného tepla Qm= -117 kJ.mol-1 sa posúva na stranu reaktantov:
-a) znížením teploty
-b) zvýšením teploty
-c) odstraňovaním NO2 z reakčnej zmesi
-d) pridaním O2 do reakčnej zmesi
-e) zvýšením tlaku v reakčnej zmesi (ide o reakciu v plynnej fáze)
-f) znížením tlaku v reakčnej zmesi
-g) pridaním NO do reakčnej zmesi
-h) pridaním NO2 do reakčnej zmesi
+125. Rovnováha reakcie 2 NO + O<sub>2</sub> <--> 2 NO<sub>2</sub> s hodnotou reakčného tepla Q<sub>m</sub>= -117 kJ.mol<sup>-1</sup> sa posúva na stranu reaktantov:  
+a) znížením teploty  
+b) zvýšením teploty  
+c) odstraňovaním NO<sub>2</sub> z reakčnej zmesi  
+d) pridaním O<sub>2</sub> do reakčnej zmesi  
+e) zvýšením tlaku v reakčnej zmesi (ide o reakciu v plynnej fáze)  
+f) znížením tlaku v reakčnej zmesi  
+g) pridaním NO do reakčnej zmesi  
+h) pridaním NO<sub>2</sub> do reakčnej zmesi  
 
-126. Vyberte správny vzťah pre rovnovážnu konštantu reakcie N2 + 3 H2 <--> 2 NH3:
-a) K= [NH3] / [H2]3*[N2]
-b) K= [NH3]2 / [H2]3*[N2]
-c) K= [N2]*[H2]3 / [NH3]2
-d) K= [N2]*[H2]3
-e) K= [NH3]2 / [H2]3+[N2]
-f) K= [H2]3+[N2] / [NH3]2
-g) K= [H2]*[H2]*[NH3] / 3
-h) K= [N2] + [H2] + [NH3] / 3
+126. Vyberte správny vzťah pre rovnovážnu konštantu reakcie N<sub>2</sub> + 3 H<sub>2</sub> <--> 2 NH<sub>3</sub>:
+a) K = [NH<sub>3</sub>] / [H<sub>2</sub>]<sup>3</sup>[N<sub>2</sub>]
+b) K = [NH<sub>3</sub>]<sup>2</sup> / [H<sub>2</sub>]<sup>3</sup>[N<sub>2</sub>]
+c) K = [N<sub>2</sub>][H<sub>2</sub>]<sup>3</sup> / [NH<sub>3</sub>]<sup>2</sup>
+d) K = [N<sub>2</sub>][H<sub>2</sub>]<sup>3</sup>
+e) K = [NH<sub>3</sub>]<sup>2</sup> / [H<sub>2</sub>]<sup>3</sup> + [N<sub>2</sub>]
+f) K = [H<sub>2</sub>]<sup>3</sup> + [N<sub>2</sub>] / [NH<sub>3</sub>]<sup>2</sup>
+g) K = [H<sub>2</sub>] × [H<sub>2</sub>] × [NH<sub>3</sub>] / 3
+h) K = [N<sub>2</sub>] + [H<sub>2</sub>] + [NH<sub>3</sub>] / 3
 
-127. Vyberte správny vzťah pre rovnovážnu konštantu reakcie 4 KClO3 <--> KCl + 3 KClO4 :
-a) K= [KCl]*[KClO4] / [KClO3]4
-b) K= [KCl]*[KClO4]2 / [KClO3]3
-c) K= [KClO3]4 / [KCl]*[KClO4]3
-d) K= [KCl]*[KClO4]3 / [KClO3]4
-e) K= [KCl] + [KClO4]3 / [KClO3]4
-f) K= [KClO3]4 / [KCl] + [KClO4]3
-g) K= [KClO3]*[KCl]*[KClO4] / 3
-h) K= [KClO3] + [KCl] + [KClO4] / 3
+127. Vyberte správny vzťah pre rovnovážnu konštantu reakcie 4 KClO<sub>3</sub> <--> KCl + 3 KClO<sub>4</sub>:
+a) K = [KCl][KClO<sub>4</sub>] / [KClO<sub>3</sub>]<sup>4</sup>
+b) K = [KCl][KClO<sub>4</sub>]<sup>2</sup> / [KClO<sub>3</sub>]<sup>3</sup>
+c) K = [KClO<sub>3</sub>]<sup>4</sup> / [KCl][KClO<sub>4</sub>]<sup>3</sup>
+d) K = [KCl][KClO<sub>4</sub>]<sup>3</sup> / [KClO<sub>3</sub>]<sup>4</sup>
+e) K = [KCl] + [KClO<sub>4</sub>]<sup>3</sup> / [KClO<sub>3</sub>]<sup>4</sup>
+f) K = [KClO<sub>3</sub>]<sup>4</sup> / [KCl] + [KClO<sub>4</sub>]<sup>3</sup>
+g) K = [KClO<sub>3</sub>] [KCl] [KClO<sub>4</sub>] / 3
+h) K = [KClO<sub>3</sub>] + [KCl] + [KClO<sub>4</sub>] / 3
 
 128. Ktoré z uvedených rovníc vyjadrujú exotermický dej:
-a) 2 SO3 --> 2 SO2 + O2; Qm= +195 kJ.mol-1
-b) CO + 1/2 O2 --> CO2; Qm= -283 kJ.mol-1
-c) 4 NH3 + 5 O2 --> 4 NO + 6 H2O; Qm= -906 kJ.mol-1
-d) N2 + 3 H2 --> 2 NH3; Qm= -93 kJ.mol-1
-e) 2 H2 + O2 --> 2 H2O; Qm = -452 kJ.mol-1
-f) 2 H2O --> 2 H2 + O2; Qm= + 452 kJ.mol-1
-g) C + O2 --> CO2; Qm= -394 kJ.mol-1
-h) CH4 + 2 O2 --> CO2 + 2 H2O; Qm= -804 kJ.mol-1
+a) 2 SO<sub>3</sub> &#10230 2 SO<sub>2</sub> + O<sub>2</sub>; Q<sub>m</sub> = +195 kJ·mol<sup>-1</sup>
+b) CO + ½ O<sub>2</sub> &#10230 CO<sub>2</sub>; Q<sub>m</sub> = -283 kJ·mol<sup>-1</sup>
+c) 4 NH<sub>3</sub> + 5 O<sub>2</sub> &#10230 4 NO + 6 H<sub>2</sub>O; Q<sub>m</sub> = -906 kJ·mol<sup>-1</sup>
+d) N<sub>2</sub> + 3 H<sub>2</sub> &#10230 2 NH<sub>3</sub>; Q<sub>m</sub> = -93 kJ·mol<sup>-1</sup>
+e) 2 H<sub>2</sub> + O<sub>2</sub> &#10230 2 H<sub>2</sub>O; Q<sub>m</sub> = -452 kJ·mol<sup>-1</sup>
+f) 2 H<sub>2</sub>O &#10230 2 H<sub>2</sub> + O<sub>2</sub>; Q<sub>m</sub> = +452 kJ·mol<sup>-1</sup>
+g) C + O<sub>2</sub> &#10230 CO<sub>2</sub>; Q<sub>m</sub> = -394 kJ·mol<sup>-1</sup>
+h) CH<sub>4</sub> + 2 O<sub>2</sub> &#10230 CO<sub>2</sub> + 2 H<sub>2</sub>O; Q<sub>m</sub> = -804 kJ·mol<sup>-1</sup>
 
 129. Aktivačná energia reakcie:
 a) sa uplatňuje len pri exotermických chemických dejoch
@@ -1288,27 +1288,27 @@ f) je vyjadrená reakčným teplom
 g) závisí od reakčného tepla
 h) závisí od rovnovážnej konštanty
 
-130. Pre reakciu 2 NO2 <--> N2O4; Qm= -57 kJ.mol-1 platí:
+130. Pre reakciu 2 NO<sub>2</sub> <--> N<sub>2</sub>O<sub>4</sub>; Q<sub>m</sub> = -57 kJ·mol<sup>-1</sup> platí:
 a) zvýšením teploty sa posúva rovnovážny stav reakcie na stranu reaktantov
-b) v smere tvorby N2O4 je endotermická
+b) v smere tvorby N<sub>2</sub>O<sub>4</sub> je endotermická
 c) zvýšením teploty sa posúva rovnovážny stav reakcie na stranu produktov
-d) v smere tvorby N2O4 je exotermická
+d) v smere tvorby N<sub>2</sub>O<sub>4</sub> je exotermická
 e) ide o oxidačno-redukčný dej
 f) znížením teploty sa posúva rovnovážny stav reakcie na stranu reaktantov
 g) zvýšením tlaku (pri reakcii v plynnej fáze) sa rovnovážny stav reakcie posúva na stranu produktov
 h) znížením tlaku (pri reakcii v plynnej fáze) sa rovnovážny stav reakcie posúva na stranu produktov
 
-131. Pre reakciu 2 SO3 <--> 2 SO2 + O2; Qm= +195 kJ.mol-1 platí:
-a) v smere tvorby SO3 je exotermická
+131. Pre reakciu 2 SO<sub>3</sub> <--> 2 SO<sub>2</sub> + O<sub>2</sub>; Q<sub>m</sub> = +195 kJ·mol<sup>-1</sup> platí:
+a) v smere tvorby SO<sub>3</sub> je exotermická
 b) znížením teploty sa posúva rovnovážny stav reakcie na stranu reaktantu
 c) zvýšením teploty sa posúva rovnovážny stav reakcie na stranu produktov
-d) v smere rozkladu SO3 je exotermická
+d) v smere rozkladu SO<sub>3</sub> je exotermická
 e) ide o oxidačno-redukčný dej
 f) zvýšením tlaku (pri reakcii v plynnej fáze) sa rovnovážny stav reakcie posúva na stranu reaktantov
 g) zvýšením tlaku (pri reakcii v plynnej fáze) sa rovnovážny stav reakcie posúva na stranu produktov
-h) v smere tvorby SO2 je exotermická
+h) v smere tvorby SO<sub>2</sub> je exotermická
 
-132. Podľa Hessovho zákona hodnota reakčného tepla Qm danej reakcie:
+132. Podľa Hessovho zákona hodnota reakčného tepla Q<sub>m</sub> danej reakcie:
 a) závisí od spôsobu, akým reakcia prebehla
 b) závisí od počtu medzistupňov, ktorými sa reakcia uskutočnila
 c) sa s rastúcim počtom medzistupňov reakcie znižuje
@@ -1335,8 +1335,8 @@ c) potenciálna energia produktov je vyššia ako potenciálna energia reaktanto
 d) sú zdrojom energie
 e) všetky majú charakter redoxných dejov
 f) všetky majú charakter protolytických reakcií
-g) že hodnota Qm má kladné znamienko
-h) že hodnota Qm má záporné znamienko
+g) že hodnota Q<sub>m</sub> má kladné znamienko
+h) že hodnota Q<sub>m</sub> má záporné znamienko
 
 135. Zvýšenie koncentrácie reaktantov pri exotermickej reakcii:
 a) spôsobí posun rovnováhy reakcie v smere endotermickej reakcie
@@ -1348,155 +1348,155 @@ f) nezmení koncentráciu produktov
 g) neovplyvňuje smer reakcie
 h) spôsobí zníženie množstva uvoľneného reakčného tepla
 
-136. Energetickou bilanciou chemickej reakcie sa zistí:
-a) rozdiel molových väzbových energií vznikajúcich väzieb a väzieb zanikajúcich
-b) len hodnota molových väzbových energií reaktantov
-c) len hodnota molových väzbových energií produktov
-d) hodnota reakčného tepla Qm
-e) hodnota rýchlostnej konštanty
-f) hodnota aktivačnej energie
-g) či je daná reakcia exotermická alebo endotermická
-h) typ alebo mechanizmus reakcie
+136. Energetickou bilanciou chemickej reakcie sa zistí:  
+a) rozdiel molových väzbových energií vznikajúcich väzieb a väzieb zanikajúcich  
+b) len hodnota molových väzbových energií reaktantov  
+c) len hodnota molových väzbových energií produktov  
+d) hodnota reakčného tepla Q<sub>m</sub>  
+e) hodnota rýchlostnej konštanty  
+f) hodnota aktivačnej energie  
+g) či je daná reakcia exotermická alebo endotermická  
+h) typ alebo mechanizmus reakcie  
 
-137. Molekulový vodík je reaktívnejší ako molekulový dusík, lebo:
-a) pri vzniku molekuly H2 z atómov vodíka sa uvoľní nižšie množstvo energie ako pri vzniku molekuly N2
-b) pri vzniku molekuly N2 z atómov dusíka sa uvoľní vyššie množstvo energie ako pri vzniku molekuly H2
-c) väzbová energia v molekule N2 je vyššia ako v molekule H2
-d) väzbová energia v molekule H2 je nižšia ako v molekule N2
-e) reakčné teplo Qm vzniku molekuly H2 z atómov vodíka je nižšie ako pri vzniku molekuly N2
-f) molekulový vodík je menej stabilný ako molekulový dusík
-g) dusík má vyššiu teplotu varu ako vodík
-h) H2 má nižšiu relatívnu molekulovú hmotnosť ako N2
+137. Molekulový vodík je reaktívnejší ako molekulový dusík, lebo:  
+a) pri vzniku molekuly H<sub>2</sub> z atómov vodíka sa uvoľní nižšie množstvo energie ako pri vzniku molekuly N<sub>2</sub>  
+b) pri vzniku molekuly N<sub>2</sub> z atómov dusíka sa uvoľní vyššie množstvo energie ako pri vzniku molekuly H<sub>2</sub>  
+c) väzbová energia v molekule N<sub>2</sub> je vyššia ako v molekule H<sub>2</sub>  
+d) väzbová energia v molekule H<sub>2</sub> je nižšia ako v molekule N<sub>2</sub>  
+e) reakčné teplo Q<sub>m</sub> vzniku molekuly H<sub>2</sub> z atómov vodíka je nižšie ako pri vzniku molekuly N<sub>2</sub>  
+f) molekulový vodík je menej stabilný ako molekulový dusík  
+g) dusík má vyššiu teplotu varu ako vodík  
+h) H<sub>2</sub> má nižšiu relatívnu molekulovú hmotnosť ako N<sub>2</sub>  
 
-138. Reakčné teplo Qm je teplo:
-a) ktoré reakčné systémy pri chemickej reakcii len uvoľňujú
-b) ktoré reakčné systémy pri chemickej reakcii vymieňajú s okolím
-c) ktoré sa pri chemických reakciách spotrebuje alebo uvoľňuje
-d) ktoré môže mať len kladné znamienko
-e) ktorého hodnotu ovplyvňuje prítomnosť katalyzátora v reakčnej zmesi
-f) ktorého hodnota nezávisí od prítomnosti katalyzátora v reakčnej zmesi
-g) ktoré vyjadruje rýchlosť chemickej reakcie
-h) ktoré môže mať v reakciách kladné alebo záporné znamienko
+138. Reakčné teplo Q<sub>m</sub> je teplo:  
+a) ktoré reakčné systémy pri chemickej reakcii len uvoľňujú  
+b) ktoré reakčné systémy pri chemickej reakcii vymieňajú s okolím  
+c) ktoré sa pri chemických reakciách spotrebuje alebo uvoľňuje  
+d) ktoré môže mať len kladné znamienko  
+e) ktorého hodnotu ovplyvňuje prítomnosť katalyzátora v reakčnej zmesi  
+f) ktorého hodnota nezávisí od prítomnosti katalyzátora v reakčnej zmesi  
+g) ktoré vyjadruje rýchlosť chemickej reakcie  
+h) ktoré môže mať v reakciách kladné alebo záporné znamienko  
 
-139. Reakčné teplo Qm reakcie C(s) + 1/2 O2 (g) --> CO(g) vypočítané z reakčných  tepiel reakcií: C(s) + O2 (g) --> CO2 (g); Qm = -393 kJ.mol-1  CO(g) + 1/2 O2 (g) --> CO2 (g); Qm = -283 kJ.mol-1 bude mať v zmysle Hessovho zákona hodnotu:
-a) -676 kJ.mol-1
-b) -110 kJ.mol-1
-c) +110 kJ.mol-1
-d) +676 kJ.mol-1
-e) rovnú súčtu reakčných tepiel tvorby CO2 z elementárneho uhlíka a z CO
-f) rovnú rozdielu reakčných tepiel tvorby CO2 z elementárneho uhlíka a z CO
-g) prislúchajúcu exotermickému deju
-h) prislúchajúcu endotermickému deju
+139. Reakčné teplo Q<sub>m</sub> reakcie C(s) + 1/2 O<sub>2</sub>(g) &#10230 CO(g) vypočítané z reakčných tepiel reakcií: C(s) + O<sub>2</sub>(g) &#10230 CO<sub>2</sub>(g); Q<sub>m</sub> = -393 kJ·mol<sup>-1</sup> CO(g) + 1/2 O<sub>2</sub>(g) &#10230 CO<sub>2</sub>(g); Q<sub>m</sub> = -283 kJ·mol<sup>-1</sup> bude mať v zmysle Hessovho zákona hodnotu:  
+a) -676 kJ·mol<sup>-1</sup>  
+b) -110 kJ·mol<sup>-1</sup>  
+c) +110 kJ·mol<sup>-1</sup>  
+d) +676 kJ·mol<sup>-1</sup>  
+e) rovnú súčtu reakčných tepiel tvorby CO<sub>2</sub> z elementárneho uhlíka a z CO  
+f) rovnú rozdielu reakčných tepiel tvorby CO<sub>2</sub> z elementárneho uhlíka a z CO  
+g) prislúchajúcu exotermickému deju  
+h) prislúchajúcu endotermickému deju  
 
-140. O aktivačnej energii Ea platí, že:
-a) čím je jej hodnota nižšia, tým je rýchlosť chemickej reakcie vyššia
-b) jej hodnotu ovplyvňuje prítomnosť katalyzátora
-c) jej hodnotu určuje rozdiel potenciálnej energie aktivovaného komplexu reakcie a potenciálnej energie produktov reakcie
-d) čím je jej hodnota vyššia, tým je rýchlosť chemickej reakcie nižšia
-e) ovplyvňuje hodnotu rovnovážnej konštanty reakcie
-f) neovplyvňuje rýchlosť chemickej reakcie
-g) sa uplatňuje pri exotermických aj endotermických reakciách
-h) sa uplatňuje len pri endotermických reakciách
+140. O aktivačnej energii E<sub>a</sub> platí, že:  
+a) čím je jej hodnota nižšia, tým je rýchlosť chemickej reakcie vyššia  
+b) jej hodnotu ovplyvňuje prítomnosť katalyzátora  
+c) jej hodnotu určuje rozdiel potenciálnej energie aktivovaného komplexu reakcie a potenciálnej energie produktov reakcie  
+d) čím je jej hodnota vyššia, tým je rýchlosť chemickej reakcie nižšia  
+e) ovplyvňuje hodnotu rovnovážnej konštanty reakcie  
+f) neovplyvňuje rýchlosť chemickej reakcie  
+g) sa uplatňuje pri exotermických aj endotermických reakciách  
+h) sa uplatňuje len pri endotermických reakciách  
 
-141. Hodnotu reakčného tepla Qm chemickej reakcie určuje:
-a) prítomnosť katalyzátorov
-b) reakčná rýchlosť
-c) hodnota rovnovážnej konštanty
-d) hodnota aktivačnej energie
-e) rozdiel relatívnych atómových alebo molekulových hmotností reaktantov a produktov reakcie
-f) množstvo uvoľnenej alebo spotrebovanej energie pri reakcii
-g) množstvo energie, ktoré reakčná sústava vymieňa s okolím
-h) pH reakčného prostredia
+141. Hodnotu reakčného tepla Q<sub>m</sub> chemickej reakcie určuje:  
+a) prítomnosť katalyzátorov  
+b) reakčná rýchlosť  
+c) hodnota rovnovážnej konštanty  
+d) hodnota aktivačnej energie  
+e) rozdiel relatívnych atómových alebo molekulových hmotností reaktantov a produktov reakcie  
+f) množstvo uvoľnenej alebo spotrebovanej energie pri reakcii  
+g) množstvo energie, ktoré reakčná sústava vymieňa s okolím  
+h) pH reakčného prostredia  
 
-142. O izotopoch vodíka platí:
-a) majú rovnaké fyzikálne vlastnosti
-b) líšia sa počtom neutrónov v jadre
-c) líšia sa počtom protónov v jadre
-d) líšia sa počtom elektrónov v elektrónovom obale
-e) majú rovnaké nukleónové číslo
-f) v organických zlúčeninách sa z izotopov vodíka najčastejšie vyskytuje deutérium
-g) majú rovnaké protónové číslo
-h) deutérium má jadro deuterón, zložené z jedného protónu a jedného neutrónu
+142. O izotopoch vodíka platí:  
+a) majú rovnaké fyzikálne vlastnosti  
+b) líšia sa počtom neutrónov v jadre  
+c) líšia sa počtom protónov v jadre  
+d) líšia sa počtom elektrónov v elektrónovom obale  
+e) majú rovnaké nukleónové číslo  
+f) v organických zlúčeninách sa z izotopov vodíka najčastejšie vyskytuje deutérium  
+g) majú rovnaké protónové číslo  
+h) deutérium má jadro deuterón, zložené z jedného protónu a jedného neutrónu  
 
-143. Hydridový anión:
-a) vzniká z atómu vodíka prijatím valenčného elektrónu od atómu s nízkou hodnotou elektronegativity
-b) vzniká z atómu vodíka odovzdaním elektrónu atómu iného prvku
-c) vzniká reakciou protónu a jedného elektrónu
-d) sa označuje H
-e) sa označuje H+
-f) vzniká odobratím dvoch elektrónov z molekuly H2
-g) vytvára s katiónmi alkalických kovov hydridy
-h) vzniká reakciou protónu a atómu vodíka
+143. Hydridový anión:  
+a) vzniká z atómu vodíka prijatím valenčného elektrónu od atómu s nízkou hodnotou elektronegativity  
+b) vzniká z atómu vodíka odovzdaním elektrónu atómu iného prvku  
+c) vzniká reakciou protónu a jedného elektrónu  
+d) sa označuje H<sup>-</sup>  
+e) sa označuje H<sup>+</sup>  
+f) vzniká odobratím dvoch elektrónov z molekuly H<sub>2</sub>  
+g) vytvára s katiónmi alkalických kovov hydridy  
+h) vzniká reakciou protónu a atómu vodíka  
 
-144. Označte, ktoré tvrdenie o vodíku je správne:
-a) v zlúčeninách s fluórom, kyslíkom a dusíkom sa môže jeho atóm viazať so susednými molekulami kovalentnou väzbou 
-b) je prvým členom periodickej sústavy prvkov 
-c) s dusíkom sa nemôže zlučovať priamo, reakcia: N2+ 3 H2 --> 2 NH3 neprebieha ani pri vyššej teplote a ani za použitia katalyzátorov
-d) vodík môže redukovať aj sulfidy, napr. Ag2S + H2 --> 2 Ag + H2S
-e) tvorí ternárne (trojprvkové) zlúčeniny - hydridy - so všetkými prvkami periodickej sústavy prvkov
-f) atómy vodíka majú najjednoduchšiu elektrónovú konfiguráciu 1s1
-g) rýchle difunduje pórovitými stenami pevných látok
-h) pri nízkych teplotách (- 253 °C) kondenzuje na bezfarebnú kvapalinu
+144. Označte, ktoré tvrdenie o vodíku je správne:  
+a) v zlúčeninách s fluórom, kyslíkom a dusíkom sa môže jeho atóm viazať so susednými molekulami kovalentnou väzbou  
+b) je prvým členom periodickej sústavy prvkov  
+c) s dusíkom sa nemôže zlučovať priamo, reakcia: N<sub>2</sub> + 3 H<sub>2</sub> &#10230 2 NH<sub>3</sub> neprebieha ani pri vyššej teplote a ani za použitia katalyzátorov  
+d) vodík môže redukovať aj sulfidy, napr. Ag<sub>2</sub>S + H<sub>2</sub> &#10230 2 Ag + H<sub>2</sub>S  
+e) tvorí ternárne (trojprvkové) zlúčeniny - hydridy - so všetkými prvkami periodickej sústavy prvkov  
+f) atómy vodíka majú najjednoduchšiu elektrónovú konfiguráciu 1s<sup>1</sup>  
+g) rýchle difunduje pórovitými stenami pevných látok  
+h) pri nízkych teplotách (-253 °C) kondenzuje na bezfarebnú kvapalinu  
 
-145. Protón:
-a) má silné redukčné účinky
-b) sa môže uplatniť ako akceptor elektrónového páru
-c) sa označuje H+
-d) s vodou vytvára katión H3O+
-e) sa viaže s katiónom H+ a vzniká molekula vodíka
-f) môže poskytovať elektrónový pár iným atómom
-g) je nestály a viaže sa s látkou, ktorá má voľný elektrónový pár
-h) vzniká odobratím elektrónu z atómu vodíka
+145. Protón:  
+a) má silné redukčné účinky  
+b) sa môže uplatniť ako akceptor elektrónového páru  
+c) sa označuje H<sup>+</sup>  
+d) s vodou vytvára katión H<sub>3</sub>O<sup>+</sup>  
+e) sa viaže s katiónom H<sup>+</sup> a vzniká molekula vodíka  
+f) môže poskytovať elektrónový pár iným atómom  
+g) je nestály a viaže sa s látkou, ktorá má voľný elektrónový pár  
+h) vzniká odobratím elektrónu z atómu vodíka  
 
 146. Atómy vodíka:
-a) majú vlastnosti veľmi podobné ako atómy ostatných prvkov v I.A (1.) skupine periodickej sústavy prvkov
-b) sú reaktívnejšie ako molekuly vodíka
-c) môžu prijať alebo odovzdať elektróny a takto vždy vytvoriť protóny
-d) vytvorením chemickej väzby (napr. v molekule H2) nadobúdajú stabilnejšiu elektrónovú konfiguráciu
-e) vznikajú rozštiepením molekuly vodíka dodaním potrebnej energie
-f) sú príčinou prevažne oxidačných vlastností vodíka
-g) sú príčinou redukčných vlastností vodíka (vo väčšine reakcií)
-h) sú menej reaktívne ako molekuly vodíka
+a) majú vlastnosti veľmi podobné ako atómy ostatných prvkov v I.A (1.) skupine periodickej sústavy prvkov  
+b) sú reaktívnejšie ako molekuly vodíka  
+c) môžu prijať alebo odovzdať elektróny a takto vždy vytvoriť protóny  
+d) vytvorením chemickej väzby (napr. v molekule H<sub>2</sub>) nadobúdajú stabilnejšiu elektrónovú konfiguráciu  
+e) vznikajú rozštiepením molekuly vodíka dodaním potrebnej energie  
+f) sú príčinou prevažne oxidačných vlastností vodíka  
+g) sú príčinou redukčných vlastností vodíka (vo väčšine reakcií)  
+h) sú menej reaktívne ako molekuly vodíka  
 
-147. Označte, ktoré reakcie binárnych zlúčenín vodíka s vodou môžu prebiehať:
-a) HBr + H2O &#10230; H3O+ + Br
-b) KH + H2O --> H2 + KOH
-c) CaH2 + 2 H2O --> 2 H2 + Ca(OH)2
-d) PH3 + 4 H2O --> 4 H2 + H3PO4
-e) BaH2 + 2 H2O --> 2 H2 + Ba(OH)2
-f) C2H6 + 2 H2O --> 5 H2 + 2 CO2
-g) AsH3 + 3 H2O --> H3AsO3 + 3 H2
-h) NaH + H2O --> H2 + NaOH
+147. Označte, ktoré reakcie binárnych zlúčenín vodíka s vodou môžu prebiehať:  
+a) HBr + H<sub>2</sub>O &#10230; H<sub>3</sub>O<sup>+</sup> + Br<sup>-</sup>  
+b) KH + H<sub>2</sub>O &#10230 H<sub>2</sub> + KOH  
+c) CaH<sub>2</sub> + 2 H<sub>2</sub>O &#10230 2 H<sub>2</sub> + Ca(OH)<sub>2</sub>  
+d) PH<sub>3</sub> + 4 H<sub>2</sub>O &#10230 4 H<sub>2</sub> + H<sub>3</sub>PO<sub>4</sub>  
+e) BaH<sub>2</sub> + 2 H<sub>2</sub>O &#10230 2 H<sub>2</sub> + Ba(OH)<sub>2</sub>  
+f) C<sub>2</sub>H<sub>6</sub> + 2 H<sub>2</sub>O &#10230 5 H<sub>2</sub> + 2 CO<sub>2</sub>  
+g) AsH<sub>3</sub> + 3 H<sub>2</sub>O &#10230 H<sub>3</sub>AsO<sub>3</sub> + 3 H<sub>2</sub>  
+h) NaH + H<sub>2</sub>O &#10230 H<sub>2</sub> + NaOH  
 
-148. Zlúčenina SrH2:
-a) môže vzniknúť reakciou prvkov stroncia a vodíka
-b) sa nazýva hydrid strontnatý
-c) má atómy vodíka s oxidačným číslom I
-d) má atómy vodíka s oxidačným číslom -I
-e) má v štruktúre hydridový anión H
-f) nemôže reagovať s vodou
-g) má atóm stroncia s oxidačným číslom II
-h) sa nazýva peroxid strontnatý
+148. Zlúčenina SrH<sub>2</sub>:  
+a) môže vzniknúť reakciou prvkov stroncia a vodíka  
+b) sa nazýva hydrid strontnatý  
+c) má atómy vodíka s oxidačným číslom I  
+d) má atómy vodíka s oxidačným číslom -I  
+e) má v štruktúre hydridový anión H<sup>-</sup>  
+f) nemôže reagovať s vodou  
+g) má atóm stroncia s oxidačným číslom II  
+h) sa nazýva peroxid strontnatý  
 
-149. O binárnych zlúčeninách vodíka platí:
-a) hydridy obsahujú katión H+
-b) hydridy sú napr. NaH a CaH2
-c) v prípade H2S, HCl, NH3 sú atómy vodíka viazané s príslušným prvkom kovalentnými väzbami 
-d) hydridy sú ternárne zlúčeniny vodíka s inými prvkami
-e) zlúčeniny s nepolárnymi kovalentnými väzbami nereagujú s vodou
-f) hydridy obsahujú anióny H- viazané s prvkami, ktoré majú najnižšie hodnoty elektronegativity (alkalické kovy a kovy alkalických zemín)
-g) hydridy reagujú s vodou podľa rovnice: H2O + H- --> OH- + H2
-h) ich vlastnosti závisia hlavne od polarity väzby medzi atómom vodíka a atómom druhého prvku - podľa toho ich možno rozdeliť na iónové a kovalentné
+149. O binárnych zlúčeninách vodíka platí:  
+a) hydridy obsahujú katión H<sup>+</sup>  
+b) hydridy sú napr. NaH a CaH<sub>2</sub>  
+c) v prípade H<sub>2</sub>S, HCl, NH<sub>3</sub> sú atómy vodíka viazané s príslušným prvkom kovalentnými väzbami  
+d) hydridy sú ternárne zlúčeniny vodíka s inými prvkami  
+e) zlúčeniny s nepolárnymi kovalentnými väzbami nereagujú s vodou  
+f) hydridy obsahujú anióny H<sup>-</sup> viazané s prvkami, ktoré majú najnižšie hodnoty elektronegativity (alkalické kovy a kovy alkalických zemín)  
+g) hydridy reagujú s vodou podľa rovnice: H<sub>2</sub>O + H<sup>-</sup> &#10230 OH<sup>-</sup> + H<sub>2</sub>  
+h) ich vlastnosti závisia hlavne od polarity väzby medzi atómom vodíka a atómom druhého prvku - podľa toho ich možno rozdeliť na iónové a kovalentné  
 
-150. Deutérium:
-a) má jadro zložené z jedného protónu a jedného neutrónu
-b) podobne ako trícium má jadro zložené z jedného protónu a dvoch neutrónov
-c) je izotop vodíka
-d) je nuklid ľahkého vodíka
-e) má značku D
-f) sa môže použiť na sledovanie mechanizmu reakcií a reakčnej kinetiky
-g) je ťažká voda
-h) s kyslíkom tvorí oxid deutérny D2O
+150. Deutérium:  
+a) má jadro zložené z jedného protónu a jedného neutrónu  
+b) podobne ako trícium má jadro zložené z jedného protónu a dvoch neutrónov  
+c) je izotop vodíka  
+d) je nuklid ľahkého vodíka  
+e) má značku D  
+f) sa môže použiť na sledovanie mechanizmu reakcií a reakčnej kinetiky  
+g) je ťažká voda  
+h) s kyslíkom tvorí oxid deutérny D<sub>2</sub>O  
 
 151. V prírode, hlavne vo vode a v organických zlúčeninách, sa z uvedených izotopov vodíka (prócium, deutérium a trícium):
 a) v najnižšom množstve vyskytuje trícium
@@ -1510,13 +1510,13 @@ h) najčastejšie vyskytuje izotop
 
 152. Vodík:
 a) sa pri bežných podmienkach na Zemi nevyskytuje ako atómový vodík
-b) môžeme pripraviť reakciou vodnej pary s rozžeraveným koksom podľa rovnice: C + H2O --> CO + H2
+b) môžeme pripraviť reakciou vodnej pary s rozžeraveným koksom podľa rovnice: C + H2O &#10230 CO + H2
 c) má chemické vlastnosti veľmi podobné ako ostatné prvky I.A skupiny
 d) v laboratóriu možno pripraviť elektrolýzou vody
 e) patrí medzi s2 prvky
 f) sa vo vesmíre vyskytuje v plynnom obale Slnka, stálic a v hmlovinách
 g) je po héliu druhý najľahší prvok v sústave prvkov
-h) môže reagovať s chlórom podľa rovnice: H2+ Cl2 --> 2 HCl
+h) môže reagovať s chlórom podľa rovnice: H2+ Cl2 &#10230 2 HCl
 
 153. Katión H+:
 a) sa tiež nazýva prócium
@@ -1573,7 +1573,7 @@ a) je izotop kyslíka
 b) vzniká z molekuly a atómu kyslíka a má vzorec O3
 c) vzniká v atmosfére pri búrkach
 d) sa pripravuje frakčnou destiláciou skvapalneného vzduchu
-e) vzniká reakciou: O + O2 --> O3
+e) vzniká reakciou: O + O2 &#10230 O3
 f) má redukčné účinky
 g) ľahko uvoľňuje atómový kyslík, preto má oxidačné účinky
 h) má rovnakú molárnu hmotnosť ako molekulový kyslík (O2)
@@ -1591,7 +1591,7 @@ h) sú zlúčeniny, v ktorých má atóm kyslíka vyššiu hodnotu elektronegati
 160. Kyselinotvorné oxidy:
 a) sú mnohé molekulové oxidy, napr. CO2, SO3
 b) sú najmä oxidy iónového charakteru
-c) reagujú s vodou podľa reakcie: O2- + H2O --> 2 OH-
+c) reagujú s vodou podľa reakcie: O2- + H2O &#10230 2 OH-
 d) sú oxidy kovových prvkov s oxidačným číslom vyšším ako V
 e) reagujú s vodou za vzniku kyselín
 f) ktoré sú nerozpustné vo vode, sa rozpúšťajú v roztokoch hydroxidov za vzniku solí
@@ -1599,7 +1599,7 @@ g) sú oxidy prvkov I.A a II.A (1. a 2.) skupiny periodickej sústavy prvkov
 h) vôbec priamo nereagujú s vodou
 
 161. Zásadotvorné oxidy:
-a) sú napr. iónové oxidy, ktoré reagujú s vodou podľa rovnice: O2- + H2O --> 2 OH-
+a) sú napr. iónové oxidy, ktoré reagujú s vodou podľa rovnice: O2- + H2O &#10230 2 OH-
 b) sú oxidy kovových prvkov s oxidačným číslom nižším ako IV
 c) ktoré sú nerozpustné vo vode, reagujú s kyselinami za vzniku solí
 d) sa zlučujú s vodou za tvorby solí
@@ -1623,8 +1623,8 @@ a) môže prebiehať reťazovým mechanizmom
 b) nespôsobí zmenu oxidačného čísla atómu kyslíka
 c) väčšinou patrí medzi endotermické reakcie
 d) prebieha najrýchlejšie pri teplotách do 5 °C
-e) napr. v reakcii: 4 Li + O2 --> 2 Li2O vedie k zmene oxidačného čísla atómu kyslíka z 0 na -I 
-f) je napr. reakcia: 2 H2 + O2 --> 2 H2O
+e) napr. v reakcii: 4 Li + O2 &#10230 2 Li2O vedie k zmene oxidačného čísla atómu kyslíka z 0 na -I 
+f) je napr. reakcia: 2 H2 + O2 &#10230 2 H2O
 g) pri ktorej vzniká tepelné a svetelné žiarenie, sa nazýva horenie
 h) môže prebiehať aj vo vodnom prostredí
 
@@ -1679,7 +1679,7 @@ g) prítomnosť voľných elektrónových párov na atóme kyslíka v molekule v
 h) voda je v roztokoch prítomná len vo forme iónov H3O+ a OH-
 
 169. O roztoku H2O2 platí:
-a) môže vystupovať ako oxidovadlo v reakcii: S2- + 4 H2O2 --> SO42- + 4 H2O
+a) môže vystupovať ako oxidovadlo v reakcii: S2- + 4 H2O2 &#10230 SO42- + 4 H2O
 b) môže reagovať so silnými hydroxidmi a vytvárať soli hydrogenperoxidy MIHO2 a peroxidy M2IO2
 c) používa sa ako bieliaci prostriedok a na dezinfekciu v medicíne (3 %-ný vodný roztok)
 d) používa sa na neutralizáciu slabých kyselín
@@ -1709,9 +1709,9 @@ g) (KH)2O2, Sr2O2 , NaO2
 h) K2HO, Sr2O , Na2O2
 
 172. Trvalú tvrdosť vody:
-a) možno odstrániť varom podľa rovnice: CaCO3 + H2O + CO2 <--> Ca(HCO3)2
+a) možno odstrániť varom podľa rovnice: CaCO3 + H2O + CO2 <&#10230 Ca(HCO3)2
 b) spôsobuje najmä síran vápenatý a síran horečnatý
-c) možno odstrániť podľa reakcie: Ca(HSO4) 2 --> CaSO4 + H2O + SO3
+c) možno odstrániť podľa reakcie: Ca(HSO4) 2 &#10230 CaSO4 + H2O + SO3
 d) spôsobuje hlavne CaSO4 a MgSO4
 e) nemožno odstrániť varom
 f) možno odstrániť pridaním Na2CO3 - vznikne CaCO3 a MgCO3
@@ -1720,11 +1720,11 @@ h) spôsobujú hlavne CaCO3 a MgCO3
 
 173. Prechodnú tvrdosť vody:
 a) spôsobuje CaSO4 rozpustený v pramenitých vodách
-b) možno odstrániť rozkladom solí, ktoré ju spôsobujú, t.j. NaHCO3 a KHCO3, podľa rovnice: 2 NaHCO3 --> Na2CO3+ H2CO3
+b) možno odstrániť rozkladom solí, ktoré ju spôsobujú, t.j. NaHCO3 a KHCO3, podľa rovnice: 2 NaHCO3 &#10230 Na2CO3+ H2CO3
 c) spôsobujú Ca(HCO3)2a Mg(HCO3)2
 d) nemožno odstrániť varom
 e) spôsobujú hlavne hydrogenuhličitan horečnatý a hydrogenuhličitan vápenatý
-f) možno odstrániť varom podľa reakcie: Ca(HCO3)2 --> CaCO3+ H2O + CO2
+f) možno odstrániť varom podľa reakcie: Ca(HCO3)2 &#10230 CaCO3+ H2O + CO2
 g) spôsobujú najmä CaHPO4a MgHPO4
 h) spôsobujú hydrogenuhličitany alkalických kovov a kovov alkalických zemín
 
@@ -1759,7 +1759,7 @@ g) sú plyny
 h) sú v tuhom skupenstve
 
 177. Elektrónovú konfiguráciu najbližšieho nasledujúceho vzácneho plynu môžu atómy halogénov získať:
-a) iba pri vytvorení molekuly z dvoch rovnakých atómov (Br + Br --> Br2)
+a) iba pri vytvorení molekuly z dvoch rovnakých atómov (Br + Br &#10230 Br2)
 b) pri vzniku katiónu, napr. Cl3+, Br5+
 c) po prijatí jedného elektrónu
 d) vznikom halogenidového aniónu X- v iónových zlúčeninách
@@ -1780,7 +1780,7 @@ h) chloristej a chlorečnej
 
 179. Halogén s vyššou hodnotou elektronegativity:
 a) má väčšiu schopnosť tvoriť halogenidový ión X- ako halogén s nižšou hodnotou elektronegativity
-b) môže reagovať s halogénom s nižšou hodnotou elektronegativity podľa rovnice:F2 + 2 NaBr --> 2 NaF + Br2
+b) môže reagovať s halogénom s nižšou hodnotou elektronegativity podľa rovnice:F2 + 2 NaBr &#10230 2 NaF + Br2
 c) spôsobuje dismutáciu molekuly halogénu s nižšou hodnotou elektronegativity
 d) má v zlúčenine s vodíkom (H-X) polárnejšiu väzbu ako halogén s nižšou hodnotou elektronegativity
 e) nereaguje s halogénom, ktorý má nižšiu hodnotu elektronegativity
@@ -1944,7 +1944,7 @@ b) s vodou sa mieša v každom pomere
 c) v zriedenom roztoku stráca svoje kyslé vlastnosti a zvyšuje svoje oxidačné vlastnosti
 d) vzniká reakciou SO3 s vodou
 e) tvorí soli hydrogensírany a sírany
-f) vzniká reakciou: SO2 + H2O --> H2SO4
+f) vzniká reakciou: SO2 + H2O &#10230 H2SO4
 g) pri riedení lejeme vodu do H2SO4
 h) koncentrovaná má silné oxidačné a dehydratačné účinky
 
@@ -2005,7 +2005,7 @@ c) má výrazné oxidačné účinky, ktoré závisia od jej koncentrácie, od t
 d) je silná kyselina
 e) sa s vodou mieša v každom pomere
 f) tvorí soli typu MINO2
-g) sa v laboratóriu môže pripraviť reakciou: 2 NaNO3 + H2SO4 --> 2 HNO3 + Na2SO4
+g) sa v laboratóriu môže pripraviť reakciou: 2 NaNO3 + H2SO4 &#10230 2 HNO3 + Na2SO4
 h) spolu s HCl, v pomere 1:3, tvorí lúčavku kráľovskú
 
 202. O amónnych soliach platí tvrdenie:
@@ -2015,7 +2015,7 @@ c) môžu byť zložené z katiónu NH4 + a kyselinového aniónu X- a mať vše
 d) amónne soli rozpustné vo vode podliehajú hydrolýze
 e) takmer všetky sú dobre rozpustné vo vode
 f) vo vodných roztokoch neionizujú
-g) zásaditý charakter katiónu NH4 + vyjadruje protolytická reakcia: NH4+ + H2O --> NH3+ H3O+
+g) zásaditý charakter katiónu NH4 + vyjadruje protolytická reakcia: NH4+ + H2O &#10230 NH3+ H3O+
 h) ak majú v molekule anión X- odvodený od silnej kyseliny, pH ich vodných roztokov je nižšie ako 7
 
 203. O dusíku platí:
@@ -2066,11 +2066,11 @@ d) je najreaktívnejšou modifikáciou fosforu
 e) svetielkuje
 f) na vzduchu je veľmi reaktívny a uchováva sa pod vodou
 g) je nejedovatou modifikáciou fosforu
-h) pri horení dáva oxidy: P4 --O2--> P4O6 --O2--> P4O10
+h) pri horení dáva oxidy: P4 --O2&#10230 P4O6 --O2&#10230 P4O10
 
 208. Kyselina trihydrogenfosforečná:
 a) sa nenachádza v zlúčeninách: ATP, ADP a AMP
-b) vzniká reakciou: P4O10 + 6 H2O --> 4 H3PO4
+b) vzniká reakciou: P4O10 + 6 H2O &#10230 4 H3PO4
 c) má význam v metabolizme sacharidov
 d) tvorí soli, ktoré sú všetky dobre rozpustné vo vode
 e) je súčasťou nukleových kyselín
@@ -2123,7 +2123,7 @@ a) má schopnosť sa viazať ako ligand na atómy prechodných kovov a byť zlo�
 b) vzniká pri spaľovaní uhlíka za nedostatočného prístupu vzduchu
 c) je súčasťou výfukových plynov spaľovacích motorov a znečisťuje životné prostredie
 d) má štruktúrny vzorec: O=C=O a jeho molekula je symetrická, nepolárna
-e) môže vznikať reakciou: C + CO2 <--> 2 CO
+e) môže vznikať reakciou: C + CO2 <&#10230 2 CO
 f) je zložkou vodného plynu (zmes CO + H2)
 g) môže oxidovať oxidy kovov na elementárne kovy
 h) vzniká termickým rozkladom CaCO3
@@ -2150,7 +2150,7 @@ h) patrí medzi silné kyseliny
 
 216. O kremíku platí tvrdenie:
 a) pri bežných podmienkach je v plynnom skupenstve
-b) tvorí oxid kremičitý, ktorý pri tavení s alkalickými hydroxidmi reaguje podľa všeobecnej rovnice: SiO2+ 2 MIOH --> M2ISiO3+ H2O
+b) tvorí oxid kremičitý, ktorý pri tavení s alkalickými hydroxidmi reaguje podľa všeobecnej rovnice: SiO2+ 2 MIOH &#10230 M2ISiO3+ H2O
 c) binárne zlúčeniny vodíka s kremíkom majú všeobecný vzorec: SinH2n+2
 d) tvorí binárne zlúčeniny s prvkami s nižšou hodnotou elektronegativity (kovy) - ktoré sa nazývajú silicidy
 e) s kyslíkom tvorí SiO2 , ktorý je stály voči vode aj kyselinám (okrem HF)
@@ -2189,14 +2189,14 @@ g) anión CNje silná zásada a preto rozpustné kyanidy vo vode silne hydrolyz
 h) všetky kyanidy sú prudko jedovaté
 
 220. Podstatu vzniku krasových útvarov vyjadruje rovnica:
-a) 2 NaHCO3 --> Na2CO3 + H2O + CO2
-b) CaCO3 --> CaO + CO2
-c) Ca(HCO3)2 <--> CaCO3 + CO2 + H2O
-d) Ca(HSO4)2 <--> CaSO4 + SO3 + H2O
-e) Mg(NO3)2 --> MgO + N2O5
-f) MgCO3 --> MgO + CO2
-g) CaSO4 --> CaO + SO3
-h) Mg(HSO4)2 <--> MgSO4 + SO3 + H2O
+a) 2 NaHCO3 &#10230 Na2CO3 + H2O + CO2
+b) CaCO3 &#10230 CaO + CO2
+c) Ca(HCO3)2 <&#10230 CaCO3 + CO2 + H2O
+d) Ca(HSO4)2 <&#10230 CaSO4 + SO3 + H2O
+e) Mg(NO3)2 &#10230 MgO + N2O5
+f) MgCO3 &#10230 MgO + CO2
+g) CaSO4 &#10230 CaO + SO3
+h) Mg(HSO4)2 <&#10230 MgSO4 + SO3 + H2O
 
 221. Prvky B, Al, Ga, In, Tl:
 a) vo valenčnej vrstve majú elektrónovú konfiguráciu ns2np1
@@ -2226,7 +2226,7 @@ d) v zlúčeninách má atóm hliníka oxidačné čísla III a V
 e) môže sa nachádzať v komplexných zlúčeninách, napr. hexafluorohlinitan sodný, tetrahydroxohlinitan lítny
 f) v zlúčenine Al(HSO4)3 má atóm hliníka oxidačné číslo I
 g) vyrába sa elektrolýzou taveniny Al2O3s kryolitom
-h) pri zohrievaní na vzduchu reaguje podľa rovnice: 4 Al + 3 O2 --> 2 Al2O3
+h) pri zohrievaní na vzduchu reaguje podľa rovnice: 4 Al + 3 O2 &#10230 2 Al2O3
 
 224. Hliník:
 a) má veľkú redukčnú schopnosť
@@ -2251,9 +2251,9 @@ h) patria medzi prvky s vysokou hodnotou elektronegativity
 226. O alkalických kovoch môžeme tvrdiť:
 a) katióny alkalických kovov M+ majú elektrónovú konfiguráciu predchádzajúceho vzácneho plynu
 b) sú pomerne mäkké a dajú sa krájať nožom
-c) ich atómy sa ľahko redukujú na ióny podľa všeobecnej rovnice: M + e --> M-
+c) ich atómy sa ľahko redukujú na ióny podľa všeobecnej rovnice: M + e &#10230 M-
 d) ich atómy majú v zlúčeninách oxidačné číslo I
-e) ich atómy sa oxidujú na ióny podľa všeobecnej rovnice: M --> M2+ + 2e
+e) ich atómy sa oxidujú na ióny podľa všeobecnej rovnice: M &#10230 M2+ + 2e
 f) v zlúčeninách sa ich atómy vyskytujú ako anióny
 g) všetky izotopy francia sú rádioaktívne
 h) ich oxidy sú zásadotvorné
@@ -2285,7 +2285,7 @@ c) patria medzi prvky s nízkou hodnotou elektronegativity
 d) v prírode sa nachádzajú voľné aj viazané v zlúčeninách
 e) sú reaktívnejšie ako prvky umiestnené v II.B (12.) skupine periodickej sústavy prvkov
 f) sú silné oxidovadlá
-g) majú atómy, ktoré sa môžu oxidovať podľa všeobecnej rovnice: M --> M2+ + 2e
+g) majú atómy, ktoré sa môžu oxidovať podľa všeobecnej rovnice: M &#10230 M2+ + 2e
 h) tvoria zlúčeniny, ktoré sú všetky rozpustné vo vode
 
 230. Pre prvky s platí:
@@ -2331,9 +2331,9 @@ h) tvoria zlúčeniny, ktoré majú prevažne iónový charakter (okrem vodíka)
 234. O alkalických kovoch platí:
 a) pri horení na vzduchu vzniká z lítia Li2O a zo sodíka vzniká Na2O2
 b) zlúčeniny obsahujúce sodík farbia plameň na červeno
-c) majú redukčné vlastnosti, čo je možno vyjadriť reakciou s vodíkom: 2 M + H2 --> 2 M+H-
+c) majú redukčné vlastnosti, čo je možno vyjadriť reakciou s vodíkom: 2 M + H2 &#10230 2 M+H-
 d) majú zo všetkých prvkov najvyššie hodnoty ionizačných energií
-e) sodík a draslík reagujú s vodou podľa všeobecnej rovnice: 2 M + 2 H2O --> 2 MOH + H2
+e) sodík a draslík reagujú s vodou podľa všeobecnej rovnice: 2 M + 2 H2O &#10230 2 MOH + H2
 f) tvoria hydridy, ktoré s vodou reagujú za vzniku hydroxidov
 g) sodík sa môže pripraviť elektrolýzou taveniny NaCl
 h) elektrónovú konfiguráciu na predposlednej elektrónovej vrstve majú rovnakú ako má najbližší predchádzajúci vzácny plyn na poslednej vrstve
@@ -2434,9 +2434,9 @@ b) prvky skupiny železa (tzv. triáda železa) sa nachádzajú v šiestej (dlhe
 c) železo patrí medzi ušľachtilé kovy
 d) atómy kobaltu a niklu môžu na väzby s atómami iných prvkov využiť okrem ns orbitálu aj (n - 1)d orbitály
 e) železo môže tvoriť zlúčeniny: sulfidy a halogenidy
-f) vo vodnom roztoku ľahko prebieha úplná ionizácia uvedenej zlúčeniny podľa rovnice: K2[Ni(CN)4] <--> 2 K+ + Ni2+ + 4 CN
+f) vo vodnom roztoku ľahko prebieha úplná ionizácia uvedenej zlúčeniny podľa rovnice: K2[Ni(CN)4] <&#10230 2 K+ + Ni2+ + 4 CN
 g) po rozpustení zlúčeniny FeSO4. 7 H2O vo vode dostaneme intenzívne modro sfarbený roztok
-h) pri procese hrdzavenia železa prebieha reakcia, ktorú možno vyjadriť rovnicou: 4 Fe + 2 H2O + 3 O2 <--> 2 Fe2O3. H2O 
+h) pri procese hrdzavenia železa prebieha reakcia, ktorú možno vyjadriť rovnicou: 4 Fe + 2 H2O + 3 O2 <&#10230 2 Fe2O3. H2O 
 
 245. V komplexnej zlúčenine Na3[Sc(OH)6]:
 a) je atóm sodíka akceptorom elektrónov
@@ -2504,14 +2504,14 @@ b) katióny Cu+ a Cu2+ môžu byť súčasťou komplexných zlúčenín
 c) atómy prvkov I.B (11.) skupiny majú vo valenčnej vrstve (n) jeden s a jeden p elektrón
 d) atómy prvkov I.B (11.) skupiny sa od atómov prvkov I.A (1.) skupiny líšia tým, že v predposlednej elektrónovej vrstve (n-1) nemajú iba oktet, ale majú aj 10 d elektrónov. Vo valenčnej vrstve (n) majú rovnako jeden elektrón
 e) zastúpenie zlata v zliatinách sa udáva v karátoch - rýdze zlato má 585 karátov
-f) strieborné predmety v prostredí sulfánu na vzduchu postupne očernejú, pretože prebieha reakcia: 4 Ag + 2 H2S + O2 --> 2 Ag2S + 2 H2O 
+f) strieborné predmety v prostredí sulfánu na vzduchu postupne očernejú, pretože prebieha reakcia: 4 Ag + 2 H2S + O2 &#10230 2 Ag2S + 2 H2O 
 g) halogenidy strieborné sú citlivé na svetlo, čo sa využíva vo fotografii (hlavne AgBr)
 h) v zlúčenine Na[AuCl4]. 2 H2O má centrálny atóm oxidačné číslo IV a koordinačné číslo 3
 
 252. Pre meď a jej zlúčeniny platí:
 a) v zlúčenine Na2[Cu(OH)4] má atóm medi koordinačné číslo 2 a oxidačné číslo I
 b) atóm medi s oxidačným číslom II nemôže byť centrálnym atómom v komplexných zlúčeninách
-c) síran meďnatý je súčasťou Fehlingovho činidla na dôkaz redukčných vlastností organických látok (napr. monosacharidov), pričom dochádza k reakcii: Cu2+ + e --> Cu1+
+c) síran meďnatý je súčasťou Fehlingovho činidla na dôkaz redukčných vlastností organických látok (napr. monosacharidov), pričom dochádza k reakcii: Cu2+ + e &#10230 Cu1+
 d) meď a striebro nevedú elektrický prúd
 e) mnohé meďnaté zlúčeniny sa rozpúšťajú vo vode za vzniku modrých roztokov
 f) v zlúčeninách majú atómy medi oxidačné čísla I a II
@@ -2525,7 +2525,7 @@ c) ortuť môže mať v zlúčeninách oxidačné číslo I, napr. Hg2Cl2 (kalom
 d) atómy prvkov II.B (12.) skupiny majú valenčné elektróny rozmiestnené vo vrstvách K, L, M a N
 e) ortuť tvorí zliatinu s hliníkom a železom, ktorá sa nazýva alpaka
 f) atómy prvkov II.B (12.) skupiny majú v ns orbitáloch dva s elektróny a vo vrstve (n-1) majú 18 elektrónov
-g) kadmium môže reagovať s kyselinou chlorovodíkovou podľa rovnice: Cd + 2 HCl --> CdCl2 + H2
+g) kadmium môže reagovať s kyselinou chlorovodíkovou podľa rovnice: Cd + 2 HCl &#10230 CdCl2 + H2
 h) atómy prvkov II.B (12.) skupiny majú menšie atómové polomery ako atómy prvkov II.A (2.) skupiny v tej istej perióde a sú aj menej reaktívne
 
 254. Označte správne názvy zlúčenín [Fe(H2O)6]Cl2 a Cs2[Pt(OH)6]:
@@ -3228,7 +3228,7 @@ f) 60 mol
 g) 120 mol
 h) 90 mol
 
-324. Vratná reakcia vyjadrená reakciou A + 2B <--> C má v rovnovážnom stave koncentráciu reagujúcich látok: [A] = 0,5 mol/l, [B] = 1,6 mol/l, [C] = 2,56 mol/l. Vypočítajte rovnovážnu konštantu a počiatočné koncentrácie látok A a B:
+324. Vratná reakcia vyjadrená reakciou A + 2B <&#10230 C má v rovnovážnom stave koncentráciu reagujúcich látok: [A] = 0,5 mol/l, [B] = 1,6 mol/l, [C] = 2,56 mol/l. Vypočítajte rovnovážnu konštantu a počiatočné koncentrácie látok A a B:
 a) K = 3,2; [A] = 2,1 mol/l; [B] = 4,16 mol/l
 b) K = 2; [A] = 2,1 mol/l; [B] = 4,16 mol/l
 c) K = 2; [A] = 3,06 mol/l; [B] = 6,72 mol/l
@@ -3238,7 +3238,7 @@ f) K = 0,5; [A] = 3,06 mol/l; [B] = 6,12 mol/l
 g) K = 0,32; [A] = 2,1 mol/l; [B] = 3,2 mol/l
 h) K = 0,3125;[A] = 3,56 mol/l; [B] = 5,76 mol/l
 
-325. Rovnovážna konštanta reakcie CO2 + H2 <--> CO + H2O pri 850 °C sa rovná jednej. Počiatočná koncentrácia CO2je 0,5 mol/l a H2je 0,7 mol/l. Označte správne výsledky (mol/l) pre koncentráciu daných látok v rovnovážnom stave:
+325. Rovnovážna konštanta reakcie CO2 + H2 <&#10230 CO + H2O pri 850 °C sa rovná jednej. Počiatočná koncentrácia CO2je 0,5 mol/l a H2je 0,7 mol/l. Označte správne výsledky (mol/l) pre koncentráciu daných látok v rovnovážnom stave:
 a) [CO2] = 0,4083
 b) [H2] = 0,4083
 c) [CO] = 0,2917
@@ -3248,7 +3248,7 @@ f) [H2] = 0,2083
 g) [CO] = 0,5834
 h) [H2O] = 0,2917
 
-326. V rovnovážnom stave reakcie N2 + 3 H2 <--> 2 NH3 mali zúčastnené látky nasledovné koncentrácie: [N2] = 4,5 mol/l, [H2] = 7 mol/l, [NH3] = 8 mol/l. Aká bola pôvodná koncentrácia vodíka a dusíka? Aká je rovnovážna konštanta tejto reakcie za daných podmienok?
+326. V rovnovážnom stave reakcie N2 + 3 H2 <&#10230 2 NH3 mali zúčastnené látky nasledovné koncentrácie: [N2] = 4,5 mol/l, [H2] = 7 mol/l, [NH3] = 8 mol/l. Aká bola pôvodná koncentrácia vodíka a dusíka? Aká je rovnovážna konštanta tejto reakcie za daných podmienok?
 a) [H2] = 12,5 mol/l
 b) [H2] = 31 mol/l
 c) K = 4
@@ -3258,7 +3258,7 @@ f) K = 4,15.10-2
 g) [N2] = 8,5 mol/l
 h) [H2] = 19 mol/l
 
-327. Chlorid fosforečný sa rozkladá pri zahrievaní podľa rovnice PCl5 <--> PCl3 + Cl2. Pri určitej teplote sa z ôsmich mol PCl5, ktorý je v uzavretej nádobe o objeme 10 litrov, rozložilo 2 mol. Vypočítajte rovnovážnu konštantu reakcie pri tejto teplote a koncentráciu látok (mol/l), pri akej sa ustálila rovnováha:
+327. Chlorid fosforečný sa rozkladá pri zahrievaní podľa rovnice PCl5 <&#10230 PCl3 + Cl2. Pri určitej teplote sa z ôsmich mol PCl5, ktorý je v uzavretej nádobe o objeme 10 litrov, rozložilo 2 mol. Vypočítajte rovnovážnu konštantu reakcie pri tejto teplote a koncentráciu látok (mol/l), pri akej sa ustálila rovnováha:
 a) K = 0,1
 b) [PCl3] = 0,6
 c) [PCl3] = 0,2
@@ -3268,7 +3268,7 @@ f) [PCl5] = 0,6
 g) [PCl3] = 2
 h) [Cl2] = 2
 
-328. Reakcia 2 SO2 + O2 <--> 2 SO3 má východiskovú koncentráciu SO2 0,4 mol.l-1 a O2 0,2 mol.l-1. V rovnovážnom stave sa zistila koncentrácia SO2 0,1 mol.l-1. Vypočítajte koncentráciu (mol.l-1) SO3 a kyslíka v rovnovážnom stave a rovnovážnu konštantu tejto reakcie:
+328. Reakcia 2 SO2 + O2 <&#10230 2 SO3 má východiskovú koncentráciu SO2 0,4 mol.l-1 a O2 0,2 mol.l-1. V rovnovážnom stave sa zistila koncentrácia SO2 0,1 mol.l-1. Vypočítajte koncentráciu (mol.l-1) SO3 a kyslíka v rovnovážnom stave a rovnovážnu konštantu tejto reakcie:
 a) K = 10
 b) K = 180
 c) K = 60
@@ -3288,7 +3288,7 @@ f) kyselina octová = 4,92
 g) ester = 3,08
 h) voda = 1,92
 
-330. Rovnováha reakcie H2 + I2 <--> 2HI sa ustálila pri koncentráciách [H2] = 0,50 mol.l-1, [I2] = 0,30 mol.l-1 a [HI] = 1,6 mol.l-1. Vypočítajte východiskové koncentrácie (mol.l-1) jódu a vodíka a označte správne koncentrácie jednotlivých látok. Označte správnu hodnotu rovnovážnej konštanty reakcie:
+330. Rovnováha reakcie H2 + I2 <&#10230 2HI sa ustálila pri koncentráciách [H2] = 0,50 mol.l-1, [I2] = 0,30 mol.l-1 a [HI] = 1,6 mol.l-1. Vypočítajte východiskové koncentrácie (mol.l-1) jódu a vodíka a označte správne koncentrácie jednotlivých látok. Označte správnu hodnotu rovnovážnej konštanty reakcie:
 a) [H2] = 1,1
 b) [I2] = 1,1
 c) [H2] = 1,6
@@ -3998,7 +3998,7 @@ f) 1-chlórbután
 g) opticky aktívna zlúčenina
 h) zlúčenina s chirálnym atómom uhlíka
 
-401. Reakcia CH ≡ CH + 2H2 --> CH3 - CH3 je:
+401. Reakcia CH ≡ CH + 2H2 &#10230 CH3 - CH3 je:
 a) redukcia
 b) katalyzovaná ušlachtilými kovmi
 c) radikálová adícia
@@ -4038,7 +4038,7 @@ f) formaldehyd
 g) etanol
 h) acetylid
 
-405. Reakcia R-CH2-CH2-NH2 --> R-CH = CH2 + NH3 je:
+405. Reakcia R-CH2-CH2-NH2 &#10230 R-CH = CH2 + NH3 je:
 a) deaminácia sekundárneho amínu
 b) eliminačná
 c) substitučná
@@ -4048,7 +4048,7 @@ f) deaminácia primárneho amínu
 g) deaminácia
 h) reťazová reakcia
 
-406. Reakcia CH3OH + HCOOH --H+--> HCOOCH3 + H2O je: 
+406. Reakcia CH3OH + HCOOH --H+&#10230 HCOOCH3 + H2O je: 
 a) hydrolýza
 b) reakcia vzniku mravčanu metylového
 c) reakcia vzniku metylesteru kyseliny metánovej
@@ -4309,84 +4309,84 @@ g) reakcia vzniku 2-propanolu
 h) reakcia vzniku 1-propanolu
 
 432. Vyberte správne reakcie:
-a) CH≡CH + HCl --> CH2 = CHCl
-b) CH≡CH + HBr --> CH2-CHBr
-c) CH≡CH + Br2 --> Br2CH-CHBr2
-d) CH≡CH + 2Br2 --> BrCH = CHBr
-e) CH3-CH = CH-CH3 + H2O -- H+ -->CH3-CH2-CH/OH-CH3
-f) CH3-CH = CH-CH3 + H2O -- H+ -->CH3-CH/OH-CH2-CH3
-g) CH3-CH2-CH = CH2 + H2O -- H+ -->CH3-CH2-CH2-CH2/OH
-h) CH3-CH2-CH = CH2 + H2O -- H+ -->CH3-CH2-CH/OH-CH3
+a) CH≡CH + HCl &#10230 CH2 = CHCl
+b) CH≡CH + HBr &#10230 CH2-CHBr
+c) CH≡CH + Br2 &#10230 Br2CH-CHBr2
+d) CH≡CH + 2Br2 &#10230 BrCH = CHBr
+e) CH3-CH = CH-CH3 + H2O -- H+ &#10230CH3-CH2-CH/OH-CH3
+f) CH3-CH = CH-CH3 + H2O -- H+ &#10230CH3-CH/OH-CH2-CH3
+g) CH3-CH2-CH = CH2 + H2O -- H+ &#10230CH3-CH2-CH2-CH2/OH
+h) CH3-CH2-CH = CH2 + H2O -- H+ &#10230CH3-CH2-CH/OH-CH3
 
 433. Vyberte správne reakcie alebo reakčné schémy:
-a) C6H5-CH = CH-C6H5 + H2O -- H+ --> C6H5-CH/OH-CH2-C6H5 
-b) CH3-CH = CH2 + H2O --H+ --> CH3-CH2-CH2-OH
-c) + H2O -- H+ --> OH
-d) + H2O -- H+ --> OH
-e) CH3-CH2OH -- AL2O3 (350-450°C) --> CH2 = CH2 + H2O  
-f) CaC2 + H2O --> C2H2 + CaOH
-g) CaC2 + 2H2O --> C2H2 + Ca(OH)2
-h) CH≡CH + H2O -- H2SO4 (HgSO4) --> [CH2=CH-OH] --> CH3-H/H = O
+a) C6H5-CH = CH-C6H5 + H2O -- H+ &#10230 C6H5-CH/OH-CH2-C6H5 
+b) CH3-CH = CH2 + H2O --H+ &#10230 CH3-CH2-CH2-OH
+c) + H2O -- H+ &#10230 OH
+d) + H2O -- H+ &#10230 OH
+e) CH3-CH2OH -- AL2O3 (350-450°C) &#10230 CH2 = CH2 + H2O  
+f) CaC2 + H2O &#10230 C2H2 + CaOH
+g) CaC2 + 2H2O &#10230 C2H2 + Ca(OH)2
+h) CH≡CH + H2O -- H2SO4 (HgSO4) &#10230 [CH2=CH-OH] &#10230 CH3-H/H = O
 
 434. Reakcia úplného spaľovania látok je:
-a) C6H5-CH3 + 9 O2 --> 7 CO2 + 4 H2O
-b) CH3-(CH2)3-CH3 + 8 O2 --> 5 CO2 + 6 H2O
-c) CH4 + O2 --> CH2O + H2O
-d) 2 CH4 + 4 O2 --> 2 CO2 + 4 H2O
-e) 2 C6H6 + 3 O2 --> 2 CH3COOH + 2 H2O
-f) CH2=CH2 + 2 KMnO4 + 4 H2O --> 3 HO-CH2-CH2-OH + 2 MnO2 + 2 KOH
-g) C6H12O6 + 6 O2 --> 6 CO2 + 6 H2O
-h) C16H32O2 + 23 O2 --> 16 CO2 + 16 H2O
+a) C6H5-CH3 + 9 O2 &#10230 7 CO2 + 4 H2O
+b) CH3-(CH2)3-CH3 + 8 O2 &#10230 5 CO2 + 6 H2O
+c) CH4 + O2 &#10230 CH2O + H2O
+d) 2 CH4 + 4 O2 &#10230 2 CO2 + 4 H2O
+e) 2 C6H6 + 3 O2 &#10230 2 CH3COOH + 2 H2O
+f) CH2=CH2 + 2 KMnO4 + 4 H2O &#10230 3 HO-CH2-CH2-OH + 2 MnO2 + 2 KOH
+g) C6H12O6 + 6 O2 &#10230 6 CO2 + 6 H2O
+h) C16H32O2 + 23 O2 &#10230 16 CO2 + 16 H2O
 
 435. Vyberte správne reakcie alebo reakčné schémy:
-a) CH3-CH = CH2 + H2O -- H+ --> CH3-CH2-CH2-OH 
-b) CH3-CH = CH2 + H2O -- H+ --> CH3-CH/OH - CH3
-c) CH3-CH = CH2 + HCl --> CH3-CH/Cl-CH3
-d) CH3-CH = CH2 + HCl --> CH3-CH2-CH2-Cl
-e) CH3-CH3 -- 900°C (kazalyz.)--> CH2 = CH2 + H2
-f) CH3-CH3 -- 25°C --> CH2 = CH2 + H2
-g) CH4+CL-CL -- teplo (svetlo)--> CH3Cl + HCl 
-h) CH2 = CH-CH2-CH = CH2+2Br2 --> CH2/Br - CH/Br - CH2 - CH/Br - CH2/Br
+a) CH3-CH = CH2 + H2O -- H+ &#10230 CH3-CH2-CH2-OH 
+b) CH3-CH = CH2 + H2O -- H+ &#10230 CH3-CH/OH - CH3
+c) CH3-CH = CH2 + HCl &#10230 CH3-CH/Cl-CH3
+d) CH3-CH = CH2 + HCl &#10230 CH3-CH2-CH2-Cl
+e) CH3-CH3 -- 900°C (kazalyz.)&#10230 CH2 = CH2 + H2
+f) CH3-CH3 -- 25°C &#10230 CH2 = CH2 + H2
+g) CH4+CL-CL -- teplo (svetlo)&#10230 CH3Cl + HCl 
+h) CH2 = CH-CH2-CH = CH2+2Br2 &#10230 CH2/Br - CH/Br - CH2 - CH/Br - CH2/Br
 
 436. Ktoré schémy vystihujú vznik hlavného reakčného produktu substitučnej reakcie:
-a) NO2 + Br2 -- FeBr3 --> Br - NO2 + HBr 
-b) NO2 -- HNO3 + H2SO4 --> NO2 - NO2 
-c) NO2 -- HNO3 + H2SO4 --> O2N - NO2
-d) COOH + Br2 -- FeBr3 --> Br - COOH + HBr
-e) NO2 + Cl2 -- AlCl3 --> Cl - NO2 + HCl
-f) CH3 + CL2 -- FeCl3 --> Cl-CH3 + HCl
-g) NO2 + H2SO4(konc.) -- teplo --> SO3H - NO2  
-h) SO3H + HNO3(konc.) -- teplo --> O2N - SO3H
+a) NO2 + Br2 -- FeBr3 &#10230 Br - NO2 + HBr 
+b) NO2 -- HNO3 + H2SO4 &#10230 NO2 - NO2 
+c) NO2 -- HNO3 + H2SO4 &#10230 O2N - NO2
+d) COOH + Br2 -- FeBr3 &#10230 Br - COOH + HBr
+e) NO2 + Cl2 -- AlCl3 &#10230 Cl - NO2 + HCl
+f) CH3 + CL2 -- FeCl3 &#10230 Cl-CH3 + HCl
+g) NO2 + H2SO4(konc.) -- teplo &#10230 SO3H - NO2  
+h) SO3H + HNO3(konc.) -- teplo &#10230 O2N - SO3H
 
 437. Vyberte správne reakčné schémy:
-a) CH3Cl -- AlCl3 --> CH3 + HCl
-b) H3C - CH3 -- O (katalyz.) --> HOOC - COOH
-c) CHO -- O --> COOH
-d) O -- O --> OH
-e) CH2 = CH2 -- O2 (katalyz.) --> H2C - CH2/O -- H2 (H2O) --> HO-C2-CH2-OH
-f) NO2 + 6HCl + 3 Fe --> NH2 + 3FeCl2 + 2H2O
-g) NH2 + 6HCl + 3 Fe --> NO2 + 3FeCl2 + 2H2O
-h) CH3-S-S-CH2-CH3 -- +2H --> CH3-SH + CH3-CH2-SH
+a) CH3Cl -- AlCl3 &#10230 CH3 + HCl
+b) H3C - CH3 -- O (katalyz.) &#10230 HOOC - COOH
+c) CHO -- O &#10230 COOH
+d) O -- O &#10230 OH
+e) CH2 = CH2 -- O2 (katalyz.) &#10230 H2C - CH2/O -- H2 (H2O) &#10230 HO-C2-CH2-OH
+f) NO2 + 6HCl + 3 Fe &#10230 NH2 + 3FeCl2 + 2H2O
+g) NH2 + 6HCl + 3 Fe &#10230 NO2 + 3FeCl2 + 2H2O
+h) CH3-S-S-CH2-CH3 -- +2H &#10230 CH3-SH + CH3-CH2-SH
 
 438. Vyberte správne reakcie:
-a) CH3CHO + 2[Ag(NH3)2]+ + 3OH- --> CH3COO- + 2Ag + 4 NH3 + 2 H2O
-b) CH3CHO + 2[Ag(NH3)2]+ + 3OH- --> CH3CH2OH + 2Ag + 4 NH3+ 2 H2O
-c) CH3CHO + 2[Ag(NH3)2]+ + 3OH- --> CH3COO- + 2Ag+ + 4 NH3+ 2 H2O
-d) CH3-C/H = O + 2CU2+ + 5OH- -- teplo --> CH3-C/O- = O + Cu2O + 3 H2O
-e) CH3-C/H = O + 2Cu2+ + 3OH- -- teplo --> CH3-CH2-OH + Cu2O + 2 H2O 
-f) 2 CH3-CH2-SH -- +2H --> CH3-CH2-S-S-CH2-CH3
-g) 2 CH3-CH2-SH -- -2H --> C2H5-S-S-C2H5
-h) CH3-S-S-CH3 -- +2H --> 2CH3-SH
+a) CH3CHO + 2[Ag(NH3)2]+ + 3OH- &#10230 CH3COO- + 2Ag + 4 NH3 + 2 H2O
+b) CH3CHO + 2[Ag(NH3)2]+ + 3OH- &#10230 CH3CH2OH + 2Ag + 4 NH3+ 2 H2O
+c) CH3CHO + 2[Ag(NH3)2]+ + 3OH- &#10230 CH3COO- + 2Ag+ + 4 NH3+ 2 H2O
+d) CH3-C/H = O + 2CU2+ + 5OH- -- teplo &#10230 CH3-C/O- = O + Cu2O + 3 H2O
+e) CH3-C/H = O + 2Cu2+ + 3OH- -- teplo &#10230 CH3-CH2-OH + Cu2O + 2 H2O 
+f) 2 CH3-CH2-SH -- +2H &#10230 CH3-CH2-S-S-CH2-CH3
+g) 2 CH3-CH2-SH -- -2H &#10230 C2H5-S-S-C2H5
+h) CH3-S-S-CH3 -- +2H &#10230 2CH3-SH
 
 439. Vyberte správne reakcie:
-a) CH3 - C ≡ CH + HBr -- H+ --> CH3 - C/Br = CH2
-b) CH3 - C ≡ CH + HBr -- H+ --> CH3 - C/H = CH/Br
-c) CH3 - C/Br = CH2 + HBr -- H+ --> CH3 - CH/Br - CH2/Br
-d) CH3 - C/Br = CH2 + HBr -- H+ --> CH3 - CH3 - C/Br - CH3
-e) CH3 - C ≡ CH + H - OH -- H+ --> |CH3 - C/OH = CH/H | --> CH3 - C/CH3 = O
-f) CH3 - C ≡ CH + H - OH -- H+ --> |CH3 - C/H = CH/OH | --> CH3 - C/H = O
-g) +H - OH -- H+ --> OH
-h) +H - OH -- H+ --> OH
+a) CH3 - C ≡ CH + HBr -- H+ &#10230 CH3 - C/Br = CH2
+b) CH3 - C ≡ CH + HBr -- H+ &#10230 CH3 - C/H = CH/Br
+c) CH3 - C/Br = CH2 + HBr -- H+ &#10230 CH3 - CH/Br - CH2/Br
+d) CH3 - C/Br = CH2 + HBr -- H+ &#10230 CH3 - CH3 - C/Br - CH3
+e) CH3 - C ≡ CH + H - OH -- H+ &#10230 |CH3 - C/OH = CH/H | &#10230 CH3 - C/CH3 = O
+f) CH3 - C ≡ CH + H - OH -- H+ &#10230 |CH3 - C/H = CH/OH | &#10230 CH3 - C/H = O
+g) +H - OH -- H+ &#10230 OH
+h) +H - OH -- H+ &#10230 OH
 
 440. Z etylénu sa vyrába:
 a) styrén
@@ -4428,7 +4428,7 @@ f) je vinylchlorid
 g) je styrén
 h) je etylchlorid
 
-444. Reakcia CH4 + Br2 -- 300°C (UV) --> CH2Br + HBr je:
+444. Reakcia CH4 + Br2 -- 300°C (UV) &#10230 CH2Br + HBr je:
 a) adícia
 b) radikálová substitúcia
 c) rekcia vzniku bromoformu
@@ -4439,14 +4439,14 @@ g) elektrofilná substitúcia
 h) nukleofilná substitúcia
 
 445. Ktoré z týchto reakcií môžu prebiehať:
-a) alkén + HBr → brómalkán
-b) alkén + H2 → alkán
-c) alkén + OH- → alkohol
-d) alkán + HCl → chlóralkán
-e) alkén + Br2 → dibrómalkán
-f) alkén + KMnO4 → zmes produktov s atómom kyslíka v molekule
-g) alkén + HCl → chlóralkán
-h) alkén + H2O → ketón 
+a) alkén + HBr &#10230 brómalkán
+b) alkén + H2 &#10230 alkán
+c) alkén + OH- &#10230 alkohol
+d) alkán + HCl &#10230 chlóralkán
+e) alkén + Br2 &#10230 dibrómalkán
+f) alkén + KMnO4 &#10230 zmes produktov s atómom kyslíka v molekule
+g) alkén + HCl &#10230 chlóralkán
+h) alkén + H2O &#10230 ketón 
 
 446. Úplnou hydrogenáciou benzénu vzniká:
 a) metylbenzén
@@ -4838,7 +4838,7 @@ f) tyrozín
 g) cyklohexanol
 h) o-krezol
 
-485. Doplňte štruktúru neznámej východiskovej látky (X) v reakcii CH3 - CH2 - COOH + X <-- H+ --> CH3 - CH2 - CO - OCH2CH2CH3 + H2O :
+485. Doplňte štruktúru neznámej východiskovej látky (X) v reakcii CH3 - CH2 - COOH + X <-- H+ &#10230 CH3 - CH2 - CO - OCH2CH2CH3 + H2O :
 a) CH3-CH2CHO
 b) CH3-CH2-OH
 c) CH3-CH2COOH
@@ -4999,14 +4999,14 @@ g) rezorcinol
 h) hydrochinón
 
 501. Vyberte reakcie alebo reakčné schémy, ktoré sú správne a ich produktom je žlto sfarbený jodoform:
-a) CH3-CHO + 3 I2 + 4 KOH --> CHI3+ HCOOK +3 KI + 3H2O
-b) CH3OH + 2 I2 + 3 KOH --> CH3I + 3KI + 2 H2O
-c) CH3CH2OH + 4 I2 + 6 NaOH --> CHI3 + HCOONa + 5NaI+ 5H2O
-d) CH3-CO-CH3 + 3 I2 + 4KOH --> CHI3 + CH3COOK + 3KI + 3H2O
-e) CH3 - CH/OH - COOH + 5 KOH + 3 I2 --> 2 HCOOK + CHI3 + 3 KI + 4 H2O
-f) CH4 + I2 --> CH3I + HI
-g) CH3 - CH2I + Mg -- (C2H5)2O --> CH3 - CH2MgI
-h) CH3I + I2 --> CH2I2+ HI
+a) CH3-CHO + 3 I2 + 4 KOH &#10230 CHI3+ HCOOK +3 KI + 3H2O
+b) CH3OH + 2 I2 + 3 KOH &#10230 CH3I + 3KI + 2 H2O
+c) CH3CH2OH + 4 I2 + 6 NaOH &#10230 CHI3 + HCOONa + 5NaI+ 5H2O
+d) CH3-CO-CH3 + 3 I2 + 4KOH &#10230 CHI3 + CH3COOK + 3KI + 3H2O
+e) CH3 - CH/OH - COOH + 5 KOH + 3 I2 &#10230 2 HCOOK + CHI3 + 3 KI + 4 H2O
+f) CH4 + I2 &#10230 CH3I + HI
+g) CH3 - CH2I + Mg -- (C2H5)2O &#10230 CH3 - CH2MgI
+h) CH3I + I2 &#10230 CH2I2+ HI
 
 502. O zlúčenine CH3-CH2-O-CH2-CH3 môžeme tvrdiť, že:
 a) je to ketón
@@ -5899,23 +5899,23 @@ g) kyslou hydrolýzou esterov
 h) hydrolýzou anhydridov karboxylových kyselín
 
 591. Reakciu dekarboxylácie kyseliny malónovej vyjadruje rovnica:
-a) CH3-CH2-COOH --> CH3-CH3+ CO2
-b) CH3-CH2-COOH + CO2 --> HOOC-CH2-CH2-COOH
-c) HOOC-CH2-COOH --> CO2+ HOOC-CH3
-d) HOOC-CH=CH-COOH --> HOOC-CH=CH2+ CO2
-e) HOOC-CH2-COOH --> CH4+ 2CO
-f) 2 HOOC-CH=CH-COOH --> HOOC-CH=CH-CH=CH-COOH + 2 CO2
-g) 2 HOOC-CH=CH-COOH --> HOOC-CH=CH-CH=CH-COOH + 2CO + H2
-h) CH2(COOH)2 --> CH3-COOH + CO2
+a) CH3-CH2-COOH &#10230 CH3-CH3+ CO2
+b) CH3-CH2-COOH + CO2 &#10230 HOOC-CH2-CH2-COOH
+c) HOOC-CH2-COOH &#10230 CO2+ HOOC-CH3
+d) HOOC-CH=CH-COOH &#10230 HOOC-CH=CH2+ CO2
+e) HOOC-CH2-COOH &#10230 CH4+ 2CO
+f) 2 HOOC-CH=CH-COOH &#10230 HOOC-CH=CH-CH=CH-COOH + 2 CO2
+g) 2 HOOC-CH=CH-COOH &#10230 HOOC-CH=CH-CH=CH-COOH + 2CO + H2
+h) CH2(COOH)2 &#10230 CH3-COOH + CO2
 
 592. Reakciu neutralizácie kyseliny propiónovej s hydroxidom sodným vyjadruje rovnica:
-a) CH3-CH2-COOH + NaOH --> NaOOC-CH2-CH3+ H2O
-b) CH3-CH2-COOH + 2 NaOH --> CH3-CH2-CONa2+ H2O
-c) HOOC-CH2-COOH + 2 NaOH --> NaOOC-CH2-COONa + 2H2O
-d) CH3-COOH + NaOH --> CH3COONa + H2O
-e) C2H5-COOH + NaOH --> C2H5-COONa + H2O
-f) CH3-CH2-COOH + NaOH --> CH3-CH2-CONa + H2O
-g) CH3-CH2-COH + NaOH --> CH3-CH2-COONa + H2
+a) CH3-CH2-COOH + NaOH &#10230 NaOOC-CH2-CH3+ H2O
+b) CH3-CH2-COOH + 2 NaOH &#10230 CH3-CH2-CONa2+ H2O
+c) HOOC-CH2-COOH + 2 NaOH &#10230 NaOOC-CH2-COONa + 2H2O
+d) CH3-COOH + NaOH &#10230 CH3COONa + H2O
+e) C2H5-COOH + NaOH &#10230 C2H5-COONa + H2O
+f) CH3-CH2-COOH + NaOH &#10230 CH3-CH2-CONa + H2O
+g) CH3-CH2-COH + NaOH &#10230 CH3-CH2-COONa + H2
 h) esterifikácie
 
 593. Esterifikácia:
@@ -5949,14 +5949,14 @@ g) 1 mol kyseliny oxálovej
 h) 0,5 mol kyseliny šťaveľovej
 
 596. Vyberte správnu reakciu vzniku propylesteru kyseliny octovej:
-a) CH3-CH2-CH2-OH + CH3-COCl --> CH3-CO-O-CH2-CH2-CH3+ HCl
-b) CH3-CO-O-CO-CH3 + 2 CH3-CH2-CH2-OH --> 2 CH3-CH2-CH2-O-CO-CH3 + H2O
-c) CH3-COOH + HO-CH2-CH3 --> CH3-CO-O-CH2-CH3+ H2O
-d) CH3-CH2-COOH + CH3-CH2-OH --> CH3-O-CO-CH2-CH3+ H2O
-e) CH3-CH2-COOH + CH3-CH2-OH --> CH3-O-CH2-CH2-COOH + H2O
-f) CH3-CH2-COOH + CH3-CH2-OH --> CH3-CH2-O-CO-CH2-CH3+ H2O
-g) CH3-COOH + CH3-CH2-CH2-OH --> CH3-CO-O-CH2-CH2-CH3+ H2O
-h) CH3-CH2-CH2-OH + HOOC-CH3 --> CH3-CO-O- CH2-CH2-CH3+ H2O
+a) CH3-CH2-CH2-OH + CH3-COCl &#10230 CH3-CO-O-CH2-CH2-CH3+ HCl
+b) CH3-CO-O-CO-CH3 + 2 CH3-CH2-CH2-OH &#10230 2 CH3-CH2-CH2-O-CO-CH3 + H2O
+c) CH3-COOH + HO-CH2-CH3 &#10230 CH3-CO-O-CH2-CH3+ H2O
+d) CH3-CH2-COOH + CH3-CH2-OH &#10230 CH3-O-CO-CH2-CH3+ H2O
+e) CH3-CH2-COOH + CH3-CH2-OH &#10230 CH3-O-CH2-CH2-COOH + H2O
+f) CH3-CH2-COOH + CH3-CH2-OH &#10230 CH3-CH2-O-CO-CH2-CH3+ H2O
+g) CH3-COOH + CH3-CH2-CH2-OH &#10230 CH3-CO-O-CH2-CH2-CH3+ H2O
+h) CH3-CH2-CH2-OH + HOOC-CH3 &#10230 CH3-CO-O- CH2-CH2-CH3+ H2O
 
 597. Kyselina maslová má vzorec:
 a) HOOC-CH2-COOH
@@ -6219,14 +6219,14 @@ g) cysteín
 h) glukóza
 
 623. Vyberte správnu reakciu, ktorá vyjadruje oxidáciu kyseliny mliečnej:
-a) CH3 - CO - COOH + H2O --> CH3 - CH/OH - COOH
-b) CH3 - CH/OH - COOH + CO2 --> 2 CH3 - COOH + 1/2 O2
-c) CH3 - CH/OH - COOH -- -2H --> CH3 - C/O - COOH
-d) CH3 - CH2 - CH/OH - COOH + 1/2 O2 --> CH3 - CH2 - C/O - COOH + H2O 
-e) CH3-CH(OH)-CH2-COOH --> CH3-CO-CH2-COOH + 2H
-f) CH3-CH(OH)-COOH --> CH3-CO-COOH + 2H
-g) CH3-CH(OH)-COOH + O2 --> HOOC-CO-COOH + 4 H+
-h) CH3 - CH/OH - COOH + NAD+ --> CH3 - CO - COOH + NADH + H+
+a) CH3 - CO - COOH + H2O &#10230 CH3 - CH/OH - COOH
+b) CH3 - CH/OH - COOH + CO2 &#10230 2 CH3 - COOH + 1/2 O2
+c) CH3 - CH/OH - COOH -- -2H &#10230 CH3 - C/O - COOH
+d) CH3 - CH2 - CH/OH - COOH + 1/2 O2 &#10230 CH3 - CH2 - C/O - COOH + H2O 
+e) CH3-CH(OH)-CH2-COOH &#10230 CH3-CO-CH2-COOH + 2H
+f) CH3-CH(OH)-COOH &#10230 CH3-CO-COOH + 2H
+g) CH3-CH(OH)-COOH + O2 &#10230 HOOC-CO-COOH + 4 H+
+h) CH3 - CH/OH - COOH + NAD+ &#10230 CH3 - CO - COOH + NADH + H+
 
 624. Kyselina mliečna môže vznikať:
 a) adíciou dvoch atómov vodíka na kyselinu pyrohroznovú
@@ -6629,14 +6629,14 @@ g) kyselina benzoová
 h) benzén
 
 664. Vyberte správnu reakciu vzniku acylpyrínu:
-a) HOOC-C6H4-OH + CH3-CH2-OH --> CH3-CH2-O-CO-C6H4-OH + H2O
-b) HOOC-C6H4-OH + CH3-CH2-OH --> HOOC-C6H4-O-CH2-CH3+ H2O
-c) HOOC-C6H4-OH + CH3-COOH --> HOOC-C6H4-O-CO-CH3+ H2O
-d) HOOC-C6H4-OH + CH3-COOH --> C6H5-CO-O-CH3+ 2H2O
-e) HO3S-C6H4-OH + CH3-COOH --> HO3S-C6H4-O-CO-CH3+ H2O
-f) HO3S-C6H4-OH + CH3-CH2-OH --> HO3S-C6H4-O-CH2-CH3+ H2O
-g) HO3S-C6H4-COOH + CH3-CH2-OH --> HO3S-C6H4-CO-O-CH2-CH3+ H2O
-h) HOOC-C4H5-OH + CH3-COOH --> HOOC-C4H5-O-CO-CH3+ H2O 
+a) HOOC-C6H4-OH + CH3-CH2-OH &#10230 CH3-CH2-O-CO-C6H4-OH + H2O
+b) HOOC-C6H4-OH + CH3-CH2-OH &#10230 HOOC-C6H4-O-CH2-CH3+ H2O
+c) HOOC-C6H4-OH + CH3-COOH &#10230 HOOC-C6H4-O-CO-CH3+ H2O
+d) HOOC-C6H4-OH + CH3-COOH &#10230 C6H5-CO-O-CH3+ 2H2O
+e) HO3S-C6H4-OH + CH3-COOH &#10230 HO3S-C6H4-O-CO-CH3+ H2O
+f) HO3S-C6H4-OH + CH3-CH2-OH &#10230 HO3S-C6H4-O-CH2-CH3+ H2O
+g) HO3S-C6H4-COOH + CH3-CH2-OH &#10230 HO3S-C6H4-CO-O-CH2-CH3+ H2O
+h) HOOC-C4H5-OH + CH3-COOH &#10230 HOOC-C4H5-O-CO-CH3+ H2O 
 
 665. Zlúčenina CH3-O-CO-CH3 vzniká z:
 a) metánu a kyseliny octovej
