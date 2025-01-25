@@ -488,7 +488,7 @@ f) len zlúčeniny zásadotvorných oxidov s vodou
 g) aj anióny viacsýtnych kyselín, ktoré môžu prijať protón
 h) napr. NH<sub>3</sub>, CH<sub>3</sub>COO<sup>-</sup>, Cl<sup>-</sup>, NH<sub>4</sub><sup>+</sup>, C<sub>6</sub>H<sub>5</sub>NH<sub>3</sub><sup>+</sup>
 
-50. Určte konjugované páry protolytickej reakcie HNO<sub>3</sub>+ H<sub>2</sub>O <&#10230 H<sub>3</sub>O<sup>+</sup> + NO<sub>3</sub><sup>-</sup>:
+50. Určte konjugované páry protolytickej reakcie HNO<sub>3</sub>+ H<sub>2</sub>O <--> H<sub>3</sub>O<sup>+</sup> + NO<sub>3</sub><sup>-</sup>:
 a) HNO<sub>3</sub> a NO<sub>3</sub><sup>-</sup>
 b) H<sub>2</sub>O a NO<sub>3</sub><sup>-</sup>
 c) H<sub>3</sub>O<sup>+</sup> a NO<sub>3</sub><sup>-</sup>
@@ -498,7 +498,7 @@ f) HNO<sub>3</sub> a H<sub>3</sub>O<sup>+</sup>
 g) H<sub>2</sub>O a OH<sup>-</sup>
 h) H<sub>3</sub>O<sup>+</sup> a H<sub>3</sub>O<sup>+</sup>
 
-51. Určte konjugované páry protolytickej reakcie NH<sub>3</sub> + HCl <&#10230 NH<sub>4</sub><sup>+</sup> + Cl<sup>-</sup> :
+51. Určte konjugované páry protolytickej reakcie NH<sub>3</sub> + HCl <--> NH<sub>4</sub><sup>+</sup> + Cl<sup>-</sup> :
 a) HCl a NH<sub>4</sub><sup>+</sup>
 b) NH<sub>3</sub> a Cl<sup>-</sup>
 c) NH<sub>3</sub> a NH<sub>4</sub><sup>+</sup>
@@ -649,7 +649,7 @@ g) po rozpustení soli silnej zásady so slabou kyselinou, bude pH jej vodného 
 h) hydrolýza soli je protolytická reakcia, pri ktorej ióny vzniknuté elektrolytickou ionizáciou soli reagujú s vodou
 
 66. Po rozpustení KCN vo vode (pH vody = 7):
-a) nemôže prebiehať čiastková reakcia: CN<sup>-</sup> + H<sub>2</sub>O <&#10230 HCN + OH<sup>-</sup>
+a) nemôže prebiehať čiastková reakcia: CN<sup>-</sup> + H<sub>2</sub>O <--> HCN + OH<sup>-</sup>
 b) v roztoku nastane ionizácia soli
 c) sa nezmení pôvodná hodnota pH vody
 d) pOH vzniknutého roztoku bude nižšie ako 7
@@ -1058,7 +1058,7 @@ f) P<sub>4</sub>O<sub>6</sub>
 g) <img src=106g.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=60/>
 h) PI<sub>3</sub>
 
-107. Pre chemickú reakciu Mg + NiCl<sub>2</sub> <&#10230 MgCl<sub>2</sub> + Ni platí:
+107. Pre chemickú reakciu Mg + NiCl<sub>2</sub> <--> MgCl<sub>2</sub> + Ni platí:
 a) horčík sa redukuje
 b) chlór sa redukuje
 c) nikelnatý katión sa redukuje
@@ -1068,7 +1068,7 @@ f) reakcia prebieha v smere sprava doľava, pretože Ni stojí v elektrochemicko
 g) horčík je redukovadlo
 h) horčík sa oxiduje
 
-108. Pre reakciu Zn + CuSO<sub>4</sub> <&#10230 ZnSO<sub>4</sub> + Cu platí:
+108. Pre reakciu Zn + CuSO<sub>4</sub> <--> ZnSO<sub>4</sub> + Cu platí:
 a) meďnatý katión sa redukuje
 b) katión Cu<sup>2+</sup> je oxidovadlo
 c) reakcia je oxidačno-redukčná
@@ -1506,25 +1506,25 @@ d) v najnižšom množstve vyskytuje prócium
 e) vyskytujú najmä deutérium a trícium
 f) najčastejšie vyskytuje voľné deutérium
 g) v najvyššom množstve vyskytuje prócium
-h) najčastejšie vyskytuje izotop 
+h) najčastejšie vyskytuje izotop <table style="display:inline; border-collapse:collapse; vertical-align:baseline; position:relative; top:-0.4em; font-size:0.8em;"> <tr><td style="text-align:right; line-height:1;">1</td></tr> <tr><td style="text-align:right; line-height:1;">1</td></tr> </table>H
 
 152. Vodík:
 a) sa pri bežných podmienkach na Zemi nevyskytuje ako atómový vodík
-b) môžeme pripraviť reakciou vodnej pary s rozžeraveným koksom podľa rovnice: C + H2O &#10230 CO + H2
+b) môžeme pripraviť reakciou vodnej pary s rozžeraveným koksom podľa rovnice: C + H<sub>2</sub>O &#10230 CO + H<sub>2</sub>
 c) má chemické vlastnosti veľmi podobné ako ostatné prvky I.A skupiny
 d) v laboratóriu možno pripraviť elektrolýzou vody
-e) patrí medzi s2 prvky
+e) patrí medzi s<sup>2</sup> prvky
 f) sa vo vesmíre vyskytuje v plynnom obale Slnka, stálic a v hmlovinách
 g) je po héliu druhý najľahší prvok v sústave prvkov
-h) môže reagovať s chlórom podľa rovnice: H2+ Cl2 &#10230 2 HCl
+h) môže reagovať s chlórom podľa rovnice: H<sub>2</sub> + Cl<sub>2</sub> &#10230 2 HCl
 
-153. Katión H+:
+153. Katión H<sup>+</sup>:
 a) sa tiež nazýva prócium
 b) vzniká odovzdaním elektrónu z atómu vodíka
 c) s vodou tvorí hydroxidový ión
 d) s vodou tvorí oxóniový katión
 e) vzniká z atómu vodíka po prijatí elektrónu od atómu iného prvku
-f) sa môže spojiť s protónom a vytvoriť tak molekulu H2
+f) sa môže spojiť s protónom a vytvoriť tak molekulu H<sub>2</sub>
 g) môže byť donor elektrónového páru
 h) je nestály a viaže sa s látkou, ktorá má voľný elektrónový pár
 
@@ -1550,33 +1550,33 @@ h) kyslík zvyčajne oxiduje iné prvky
 
 156. Ak prijme atóm kyslíka dva elektróny, vznikne:
 a) oktetová konfigurácia predchádzajúceho vzácneho plynu hélia
-b) anión O2-
-c) oxidový anión O2-
-d) oxidový katión O2+
-e) peroxid O22-
-f) molekula O2, ktorá má dva nespárené elektróny
-g) jednomocný dvojatómový katión O2+
+b) anión O<sub>2</sub><sup>-</sup>
+c) oxidový anión O<sup>2-</sup>
+d) oxidový katión O<sup>2+</sup>
+e) peroxid O<sub>2</sub><sup>2-</sup>
+f) molekula O<sub>2</sub>, ktorá má dva nespárené elektróny
+g) jednomocný dvojatómový katión O<sub>2</sub><sup>+</sup>
 h) atóm kyslíka s oxidačným číslom -II
 
 157. Kyslík:
-a) molekulový (O2) je stálejší ako atómový kyslík
+a) molekulový (O<sub>2</sub>) je stálejší ako atómový kyslík
 b) rozpustený vo vode má význam pre život vodných živočíchov
 c) je pri štandardných podmienkach bezfarebný plyn
 d) s vodou tvorí oxóniové katióny
-e) môžeme získať rozkladom H2O2za katalytického účinku MnO2
+e) môžeme získať rozkladom H<sub>2</sub>O<sub>2</sub> za katalytického účinku MnO<sub>2</sub>
 f) molekulový vznikne z dvoch atómov kyslíka a získa tak stabilnejšiu elektrónovú konfiguráciu (neónu)
 g) molekulový je stálejší ako ozón
-h) sa nedá pripraviť tepelným rozkladom KMnO4
+h) sa nedá pripraviť tepelným rozkladom KMnO<sub>4</sub>
 
 158. Ozón:
 a) je izotop kyslíka
-b) vzniká z molekuly a atómu kyslíka a má vzorec O3
+b) vzniká z molekuly a atómu kyslíka a má vzorec O<sub>3</sub>
 c) vzniká v atmosfére pri búrkach
 d) sa pripravuje frakčnou destiláciou skvapalneného vzduchu
-e) vzniká reakciou: O + O2 &#10230 O3
+e) vzniká reakciou: O + O<sub>2</sub> &#10230 O<sub>3</sub>
 f) má redukčné účinky
 g) ľahko uvoľňuje atómový kyslík, preto má oxidačné účinky
-h) má rovnakú molárnu hmotnosť ako molekulový kyslík (O2)
+h) má rovnakú molárnu hmotnosť ako molekulový kyslík (O<sub>2</sub>)
 
 159. Oxidy:
 a) sú zlúčeniny, v ktorých atóm kyslíka má nižšiu hodnotu elektronegativity ako atóm druhého prvku zlúčeniny (okrem fluóru)
@@ -1589,9 +1589,9 @@ g) s polymérnou štruktúrou majú atómy viazané prevažne kovalentnými väz
 h) sú zlúčeniny, v ktorých má atóm kyslíka vyššiu hodnotu elektronegativity ako atóm druhého prvku zlúčeniny (okrem fluóru)
 
 160. Kyselinotvorné oxidy:
-a) sú mnohé molekulové oxidy, napr. CO2, SO3
+a) sú mnohé molekulové oxidy, napr. CO<sub>2</sub>, SO<sub>3</sub>
 b) sú najmä oxidy iónového charakteru
-c) reagujú s vodou podľa reakcie: O2- + H2O &#10230 2 OH-
+c) reagujú s vodou podľa reakcie: O<sup>2-</sup> + H<sub>2</sub>O &#10230 2 OH<sup>-</sup>
 d) sú oxidy kovových prvkov s oxidačným číslom vyšším ako V
 e) reagujú s vodou za vzniku kyselín
 f) ktoré sú nerozpustné vo vode, sa rozpúšťajú v roztokoch hydroxidov za vzniku solí
@@ -1599,7 +1599,7 @@ g) sú oxidy prvkov I.A a II.A (1. a 2.) skupiny periodickej sústavy prvkov
 h) vôbec priamo nereagujú s vodou
 
 161. Zásadotvorné oxidy:
-a) sú napr. iónové oxidy, ktoré reagujú s vodou podľa rovnice: O2- + H2O &#10230 2 OH-
+a) sú napr. iónové oxidy, ktoré reagujú s vodou podľa rovnice: O<sup>2-</sup> + H<sub>2</sub>O &#10230 2 OH<sup>-</sup>
 b) sú oxidy kovových prvkov s oxidačným číslom nižším ako IV
 c) ktoré sú nerozpustné vo vode, reagujú s kyselinami za vzniku solí
 d) sa zlučujú s vodou za tvorby solí
@@ -1623,8 +1623,8 @@ a) môže prebiehať reťazovým mechanizmom
 b) nespôsobí zmenu oxidačného čísla atómu kyslíka
 c) väčšinou patrí medzi endotermické reakcie
 d) prebieha najrýchlejšie pri teplotách do 5 °C
-e) napr. v reakcii: 4 Li + O2 &#10230 2 Li2O vedie k zmene oxidačného čísla atómu kyslíka z 0 na -I 
-f) je napr. reakcia: 2 H2 + O2 &#10230 2 H2O
+e) napr. v reakcii: 4 Li + O<sub>2</sub> &#10230 2 Li<sub>2</sub>O vedie k zmene oxidačného čísla atómu kyslíka z 0 na -I
+f) je napr. reakcia: 2 H<sub>2</sub> + O<sub>2</sub> &#10230 2 H<sub>2</sub>O
 g) pri ktorej vzniká tepelné a svetelné žiarenie, sa nazýva horenie
 h) môže prebiehať aj vo vodnom prostredí
 
@@ -1676,15 +1676,15 @@ d) voda je v chémii najdôležitejším rozpúšťadlom
 e) voda v prírode vždy obsahuje určité množstvo rozpustených látok
 f) voda je silný elektrolyt
 g) prítomnosť voľných elektrónových párov na atóme kyslíka v molekule vody má vplyv na fyzikálne a chemické vlastnosti vody
-h) voda je v roztokoch prítomná len vo forme iónov H3O+ a OH-
+h) voda je v roztokoch prítomná len vo forme iónov H<sub>3</sub>O<sup>+</sup> a OH<sup>-</sup>
 
-169. O roztoku H2O2 platí:
-a) môže vystupovať ako oxidovadlo v reakcii: S2- + 4 H2O2 &#10230 SO42- + 4 H2O
-b) môže reagovať so silnými hydroxidmi a vytvárať soli hydrogenperoxidy MIHO2 a peroxidy M2IO2
+169. O roztoku H<sub>2</sub>O<sub>2</sub> platí:
+a) môže vystupovať ako oxidovadlo v reakcii: S<sup>2-</sup> + 4 H<sub>2</sub>O<sub>2</sub> &#10230 SO<sub>4</sub><sup>2-</sup> + 4 H<sub>2</sub>O
+b) môže reagovať so silnými hydroxidmi a vytvárať soli hydrogenperoxidy M<sup>I</sup>HO<sub>2</sub> a peroxidy M<sub>2</sub><sup>I</sup>O<sub>2</sub>
 c) používa sa ako bieliaci prostriedok a na dezinfekciu v medicíne (3 %-ný vodný roztok)
 d) používa sa na neutralizáciu slabých kyselín
-e) v kyslom prostredí môže redukovať MnVII na MnII
-f) koncentráciu peroxidu vodíka môžeme stanoviť na základe objemu kyslíka uvoľneného pri rozklade H2O2(katalyzátor MnO2)
+e) v kyslom prostredí môže redukovať Mn<sup>VII</sup> na Mn<sup>II</sup>
+f) koncentráciu peroxidu vodíka môžeme stanoviť na základe objemu kyslíka uvoľneného pri rozklade H<sub>2</sub>O<sub>2</sub>(katalyzátor MnO<sub>2</sub>)
 g) že sa správa ako slabá zásada
 h) že má hodnotu pH v rozpätí 7 - 9
 
@@ -1699,33 +1699,33 @@ g) sú atómy vodíka navzájom viazané kovalentnou väzbou
 h) má atóm vodíka oxidačné číslo I
 
 171. Hydrogenperoxid draselný, peroxid strontnatý a peroxid sodný majú vzorce:
-a) KHO2 , SrO2 , Na(O2)2
-b) K2O2 , SrHO2 , Na2O2
-c) KO2 , Sr(O2)2 , NaHO2
-d) KHO2 , SrO2 , Na2O2
-e) KHO, Sr2O, NaHO2
-f) K(O2)2 , SrH(O2)2 , Na2O2
-g) (KH)2O2, Sr2O2 , NaO2
-h) K2HO, Sr2O , Na2O2
+a) KHO<sub>2</sub> , SrO<sub>2</sub> , Na(O<sub>2</sub>)<sub>2</sub>
+b) K<sub>2</sub>O<sub>2</sub> , SrHO<sub>2</sub> , Na<sub>2</sub>O<sub>2</sub>
+c) KO<sub>2</sub> , Sr(O<sub>2</sub>)<sub>2</sub> , NaHO<sub>2</sub>
+d) KHO<sub>2</sub> , SrO<sub>2</sub> , Na<sub>2</sub>O<sub>2</sub>
+e) KHO, Sr<sub>2</sub>O, NaHO<sub>2</sub>
+f) K(O<sub>2</sub>)<sub>2</sub> , SrH(O<sub>2</sub>)<sub>2</sub> , Na<sub>2</sub>O<sub>2</sub>
+g) (KH)<sub>2</sub>O<sub>2</sub>, Sr<sub>2</sub>O<sub>2</sub> , NaO<sub>2</sub>
+h) K<sub>2</sub>HO, Sr<sub>2</sub>O , Na<sub>2</sub>O<sub>2</sub>
 
 172. Trvalú tvrdosť vody:
-a) možno odstrániť varom podľa rovnice: CaCO3 + H2O + CO2 <&#10230 Ca(HCO3)2
+a) možno odstrániť varom podľa rovnice: CaCO<sub>3</sub> + H<sub>2</sub>O + CO<sub>2</sub> <--> Ca(HCO<sub>3</sub>)<sub>2</sub>
 b) spôsobuje najmä síran vápenatý a síran horečnatý
-c) možno odstrániť podľa reakcie: Ca(HSO4) 2 &#10230 CaSO4 + H2O + SO3
-d) spôsobuje hlavne CaSO4 a MgSO4
+c) možno odstrániť podľa reakcie: Ca(HSO<sub>4</sub>)<sub>2</sub> &#10230 CaSO<sub>4</sub> + H<sub>2</sub>O + SO<sub>3</sub>
+d) spôsobuje hlavne CaSO<sub>4</sub> a MgSO<sub>4</sub>
 e) nemožno odstrániť varom
-f) možno odstrániť pridaním Na2CO3 - vznikne CaCO3 a MgCO3
-g) možno odstrániť pridaním CaCO3
-h) spôsobujú hlavne CaCO3 a MgCO3
+f) možno odstrániť pridaním Na<sub>2</sub>CO<sub>3</sub> - vznikne CaCO<sub>3</sub> a MgCO<sub>3</sub>
+g) možno odstrániť pridaním CaCO<sub>3</sub>
+h) spôsobujú hlavne CaCO<sub>3</sub> a MgCO<sub>3</sub>
 
 173. Prechodnú tvrdosť vody:
-a) spôsobuje CaSO4 rozpustený v pramenitých vodách
-b) možno odstrániť rozkladom solí, ktoré ju spôsobujú, t.j. NaHCO3 a KHCO3, podľa rovnice: 2 NaHCO3 &#10230 Na2CO3+ H2CO3
-c) spôsobujú Ca(HCO3)2a Mg(HCO3)2
+a) spôsobuje CaSO<sub>4</sub> rozpustený v pramenitých vodách
+b) možno odstrániť rozkladom solí, ktoré ju spôsobujú, t.j. NaHCO<sub>3</sub> a KHCO<sub>3</sub>, podľa rovnice: 2 NaHCO<sub>3</sub> &#10230 Na<sub>2</sub>CO<sub>3</sub> + H<sub>2</sub>CO<sub>3</sub>
+c) spôsobujú Ca(HCO<sub>3</sub>)<sub>2</sub> a Mg(HCO<sub>3</sub>)<sub>2</sub>
 d) nemožno odstrániť varom
 e) spôsobujú hlavne hydrogenuhličitan horečnatý a hydrogenuhličitan vápenatý
-f) možno odstrániť varom podľa reakcie: Ca(HCO3)2 &#10230 CaCO3+ H2O + CO2
-g) spôsobujú najmä CaHPO4a MgHPO4
+f) možno odstrániť varom podľa reakcie: Ca(HCO<sub>3</sub>)<sub>2</sub> &#10230 CaCO<sub>3</sub> + H<sub>2</sub>O + CO<sub>2</sub>
+g) spôsobujú najmä CaHPO<sub>4</sub> a MgHPO<sub>4</sub>
 h) spôsobujú hydrogenuhličitany alkalických kovov a kovov alkalických zemín
 
 174. Ako p prvky označujeme:
@@ -1753,34 +1753,34 @@ a) sa nachádzajú v nízkom množstve v atmosfére
 b) sú veľmi stabilné
 c) sú kvapaliny
 d) sa vyskytujú ako nezlúčené atómy
-e) vo valenčnej vrstve majú elektrónovú konfiguráciu s2p6 (okrem He)
+e) vo valenčnej vrstve majú elektrónovú konfiguráciu s<sup>2</sup>p<sup>6</sup> (okrem He)
 f) vyskytujú sa ako dvojatómové molekuly
 g) sú plyny
 h) sú v tuhom skupenstve
 
 177. Elektrónovú konfiguráciu najbližšieho nasledujúceho vzácneho plynu môžu atómy halogénov získať:
-a) iba pri vytvorení molekuly z dvoch rovnakých atómov (Br + Br &#10230 Br2)
-b) pri vzniku katiónu, napr. Cl3+, Br5+
+a) iba pri vytvorení molekuly z dvoch rovnakých atómov (Br + Br &#10230 Br<sub>2</sub>)
+b) pri vzniku katiónu, napr. Cl<sup>3+</sup>, Br<sup>5+</sup>
 c) po prijatí jedného elektrónu
-d) vznikom halogenidového aniónu X- v iónových zlúčeninách
+d) vznikom halogenidového aniónu X<sup>-</sup> v iónových zlúčeninách
 e) pri reakcii s alkalickými kovmi
 f) po odovzdaní jedného elektrónu
-g) v kovalentných zlúčeninách vytvorením jednej sigma a jednej  väzby
-h) vytvorením aniónu X2- v iónových zlúčeninách
+g) v kovalentných zlúčeninách vytvorením jednej sigma a jednej π väzby
+h) vytvorením aniónu X<sup>2-</sup> v iónových zlúčeninách
 
-178. Cl2O a Cl2O7 sú anhydridy kyselín:
-a) HClO4 a HClO2
-b) HClO a HClO3
-c) HClO3 a HClO
-d) HClO a HClO4
+178. Cl<sub>2</sub>O a Cl<sub>2</sub>O<sub>7</sub> sú anhydridy kyselín:
+a) HClO<sub>4</sub> a HClO<sub>2</sub>
+b) HClO a HClO<sub>3</sub>
+c) HClO<sub>3</sub> a HClO
+d) HClO a HClO<sub>4</sub>
 e) chloritej a chlórnej
 f) chlórnej a chloristej
 g) chlorečnej a chloritej
 h) chloristej a chlorečnej
 
 179. Halogén s vyššou hodnotou elektronegativity:
-a) má väčšiu schopnosť tvoriť halogenidový ión X- ako halogén s nižšou hodnotou elektronegativity
-b) môže reagovať s halogénom s nižšou hodnotou elektronegativity podľa rovnice:F2 + 2 NaBr &#10230 2 NaF + Br2
+a) má väčšiu schopnosť tvoriť halogenidový ión X<sup>-</sup> ako halogén s nižšou hodnotou elektronegativity
+b) môže reagovať s halogénom s nižšou hodnotou elektronegativity podľa rovnice: F<sub>2</sub> + 2 NaBr &#10230 2 NaF + Br<sub>2</sub>
 c) spôsobuje dismutáciu molekuly halogénu s nižšou hodnotou elektronegativity
 d) má v zlúčenine s vodíkom (H-X) polárnejšiu väzbu ako halogén s nižšou hodnotou elektronegativity
 e) nereaguje s halogénom, ktorý má nižšiu hodnotu elektronegativity
@@ -1804,7 +1804,7 @@ b) 5 % (w %) roztok jódu v etanole
 c) 5 % (w %) roztok jódu v dietyléteri a používa sa na čistenie okolia rán
 d) 3 % (w %) roztok jodidu draselného vo vode
 e) dezinfekčný prostriedok na čistenie okolia rán
-f) 5 % (w %) roztok jódu v C2H5OH
+f) 5 % (w %) roztok jódu v C<sub>2</sub>H<sub>5</sub>OH
 g) 3 % (w %) roztok KI v etanole
 h) 5 % (w %) roztok jódu v chloroforme
 
@@ -1829,13 +1829,13 @@ g) sú všetky bez výnimky jedom pre organizmus človeka
 h) iónové sú tie, v ktorých sa halogén viaže s kovom, ktorý má nízku hodnotu elektronegativity
 
 184. Určte vzorec alebo názov soli, ktorá vznikne z oxokyseliny chlóru, v ktorej má atóm chlóru oxidačné číslo VII a hydroxidu železa, v ktorom má atóm železa oxidačné číslo II:
-a) Fe(ClO4)2
+a) Fe(ClO<sub>4</sub>)<sub>2</sub>
 b) chloristan železitý
-c) Fe(ClO3)2
-d) Fe(ClO2)3
+c) Fe(ClO<sub>3</sub>)<sub>2</sub>
+d) Fe(ClO<sub>2</sub>)<sub>3</sub>
 e) chlorečnan železnatý
-f) Fe(ClO4)3
-g) Fe(ClO3)3
+f) Fe(ClO<sub>4</sub>)<sub>3</sub>
+g) Fe(ClO<sub>3</sub>)<sub>3</sub>
 h) chloristan železnatý
 
 185. O halogenovodíkoch platí:
@@ -1849,9 +1849,9 @@ g) ich vodné roztoky, okrem HF, sú silné kyseliny
 h) nedajú sa pripraviť priamou syntézou z prvkov
 
 186. Dezinfekčný prostriedok chlórové vápno je zmes:
-a) Ca(ClO)2 + Ca(ClO2)2
+a) Ca(ClO)<sub>2</sub> + Ca(ClO<sub>2</sub>)<sub>2</sub>
 b) chlorečnanu sodného a chlórnanu vápenatého
-c) CaCl2 a Ca(ClO)2
+c) CaCl<sub>2</sub> a Ca(ClO)<sub>2</sub>
 d) chlórnanu sodného a chlorečnanu vápenatého
 e) chlórnanu vápenatého a chloridu vápenatého
 f) chloridu sodného a chlórnanu sodného
@@ -1871,11 +1871,11 @@ h) halogén s vyššou hodnotou elektronegativity môže oxidovať halogén s ni
 188. Medzi chalkogény patria:
 a) prvky VI.A (16.) skupiny periodickej sústavy prvkov
 b) prvky VI. periódy periodickej sústavy prvkov
-c) prvky, ktorých elektrónová konfigurácia valenčnej vrstvy (n) je ns2np6
+c) prvky, ktorých elektrónová konfigurácia valenčnej vrstvy (n) je ns<sup>2</sup>np<sup>6</sup>
 d) prvky O, S, Se, Te, Po
 e) prvky, ktoré majú vo valenčnej vrstve štyri p elektróny
 f) prvky, ktoré majú vo valenčnej vrstve šesť elektrónov
-g) prvky p5
+g) prvky p<sup>5</sup>
 h) prvky, ktorým chýbajú do elektrónovej konfigurácie najbližšieho nasledujúceho vzácneho plynu dva elektróny
 
 189. O síre platí:
@@ -1883,19 +1883,19 @@ a) nepatrí medzi biogénne prvky
 b) vyskytuje sa vo viacerých kryštalických modifikáciách (tzv. alotropia)
 c) nachádza sa v nukleových kyselinách
 d) atóm síry má vo valenčnej vrstve šesť elektrónov a maximálne kladné oxidačné číslo má šesť
-e) dobre sa rozpúšťa v CS2
+e) dobre sa rozpúšťa v CS<sub>2</sub>
 f) používa sa pri výrobe prostriedkov proti rastlinným škodcom
 g) vôbec sa nenachádza v aminokyselinách
 h) kryštalická síra sa nerozpúšťa vo vode
 
 190. Sulfán:
 a) má v reakciách redukčné účinky, pričom väčšinou vzniká síra
-b) má vzorec CS2
+b) má vzorec CS<sub>2</sub>
 c) je prudko jedovatý plyn
 d) je soľ kyseliny sírovodíkovej
 e) je soľ kyseliny sulfánovej
 f) je vo vode čiastočne rozpustný a tvorí sulfánovú vodu (kyselinu sulfánovú)
-g) má vzorec H2S
+g) má vzorec H<sub>2</sub>S
 h) možno pripraviť reakciou vodíka so sírou
 
 191. Od kyseliny sulfánovej odvodzujeme soli:
@@ -1903,83 +1903,83 @@ a) ktoré sú dobre rozpustné vo vode, ale nehydrolyzujú
 b) sulfidy a hydrogensulfidy
 c) sulfáty a hydrogensulfáty
 d) sulfity a hydrogensulfity
-e) v ktorých sú anióny HS- alebo S2-
+e) v ktorých sú anióny HS<sup>-</sup> alebo S<sup>2-</sup>
 f) sulfidy, ktoré keď sú rozpustné vo vode, ľahko hydrolyzujú
-g) v ktorých sú anióny HSO3- alebo SO32-
-h) ktoré majú anión SCN- a nazývajú sa aj sulfokyanatany (rodanidy)
+g) v ktorých sú anióny HSO<sub>3</sub><sup>-</sup> alebo SO<sub>3</sub><sup>2-</sup>
+h) ktoré majú anión SCN<sup>-</sup> a nazývajú sa aj sulfokyanatany (rodanidy)
 
 192. Oxid siričitý:
 a) má oxidačné aj redukčné účinky
 b) má atómy síry a kyslíka spojené iónovou väzbou
 c) má len oxidačné vlastnosti
-d) možno priamo oxidovať na SO3
-e) má vzorec SO2
+d) možno priamo oxidovať na SO<sub>3</sub>
+e) má vzorec SO<sub>2</sub>
 f) sa priemyselne vyrába spaľovaním síry na vzduchu
-g) sa rozpúšťa vo vode, pričom vzniká H2SO3
+g) sa rozpúšťa vo vode, pričom vzniká H<sub>2</sub>SO<sub>3</sub>
 h) je plyn, ktorý je nežiadúcou zložkou ovzdušia
 
 193. Určte vzorec alebo názov soli, získanej reakciou oxokyseliny, v ktorej má atóm síry oxidačné číslo VI, s hydroxidom železa, v ktorom má atóm železa oxidačné číslo II:
-a) FeSO3
-b) Fe2S3
-c) FeSO4
-d) Fe2(SO4)3
+a) FeSO<sub>3</sub>
+b) Fe<sub>2</sub>S<sub>3</sub>
+c) FeSO<sub>4</sub>
+d) Fe<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>
 e) siričitan železnatý
 f) síran železnatý
 g) síran železitý
 h) sulfid železnatý
 
 194. Kamenec draselno-chromitý má vzorec:
-a) KCr(SO3)2.12 H2O
-b) K2Cr(SO3)2.12 H2O
-c) KCr(SO4)2.12 H2O
-d) K2SO3- CrSO4.12 H2O
-e) KCrS2O7.12 H2O
-f) KCr(S2O4)2.12 H2O
-g) K[Cr(SO3)4].12 H2O
-h) K2S2O4- CrS2O6.12 H2O
+a) KCr(SO<sub>3</sub>)<sub>2</sub>.12 H<sub>2</sub>O
+b) K<sub>2</sub>Cr(SO<sub>3</sub>)<sub>2</sub>.12 H<sub>2</sub>O
+c) KCr(SO<sub>4</sub>)<sub>2</sub>.12 H<sub>2</sub>O
+d) K<sub>2</sub>SO<sub>3</sub> - CrSO<sub>4</sub>.12 H<sub>2</sub>O
+e) KCrS<sub>2</sub>O<sub>7</sub>.12 H<sub>2</sub>O
+f) KCr(S<sub>2</sub>O<sub>4</sub>)<sub>2</sub>.12 H<sub>2</sub>O
+g) K[Cr(SO<sub>3</sub>)<sub>4</sub>].12 H<sub>2</sub>O
+h) K<sub>2</sub>S<sub>2</sub>O<sub>4</sub> - CrS<sub>2</sub>O<sub>6</sub>.12 H<sub>2</sub>O
 
 195. Pre kyselinu sírovú platí tvrdenie:
-a) pri rozpúšťaní H2SO4 vo vode sa uvoľňuje veľké množstvo tepla
+a) pri rozpúšťaní H<sub>2</sub>SO<sub>4</sub> vo vode sa uvoľňuje veľké množstvo tepla
 b) s vodou sa mieša v každom pomere
 c) v zriedenom roztoku stráca svoje kyslé vlastnosti a zvyšuje svoje oxidačné vlastnosti
-d) vzniká reakciou SO3 s vodou
+d) vzniká reakciou SO<sub>3</sub> s vodou
 e) tvorí soli hydrogensírany a sírany
-f) vzniká reakciou: SO2 + H2O &#10230 H2SO4
-g) pri riedení lejeme vodu do H2SO4
+f) vzniká reakciou: SO<sub>2</sub> + H<sub>2</sub>O &#10230; H<sub>2</sub>SO<sub>4</sub>
+g) pri riedení lejeme vodu do H<sub>2</sub>SO<sub>4</sub>
 h) koncentrovaná má silné oxidačné a dehydratačné účinky
 
 196. Elektrónová konfigurácia valenčnej vrstvy chalkogénov je:
 a) taká, že týmto prvkom do elektrónovej konfigurácie najbližšieho nasledujúceho vzácneho plynu chýbajú dva elektróny
-b) ns2np3
-c) ns2np4
-d) ns2np2
-e) ns1np5
-f) ns1np4 
+b) ns<sup>2</sup>np<sup>3</sup>
+c) ns<sup>2</sup>np<sup>4</sup>
+d) ns<sup>2</sup>np<sup>2</sup>
+e) ns<sup>1</sup>np<sup>5</sup>
+f) ns<sup>1</sup>np<sup>4</sup>
 g) rovnaká ako vo valenčnej vrstve halogénov
-h) ns2npx2npy1npz1
+h) ns<sup>2</sup>np<sub>x</sub><sup>2</sup>np<sub>y</sub><sup>1</sup>np<sub>z</sub><sup>1</sup>
 
 197. Elektrónová konfigurácia atómu dusíka (Z = 7) je:
-a) [Ne]2s22p3
-b) [He]2s22px12py12pz1
+a) [Ne]2s<sup>2</sup>2p<sup>3</sup>
+b) [He]2s<sup>2</sup>2p<sub>x</sub><sup>1</sup>2p<sub>y</sub><sup>1</sup>2p<sub>z</sub><sup>1</sup>
 c) rovnaká ako atómu fosforu (Z = 15)
-d) 1s22s22p3
-e) [He]3s23p3
+d) 1s<sup>2</sup>2s<sup>2</sup>2p<sup>3</sup>
+e) [He]3s<sup>2</sup>3p<sup>3</sup>
 f) rovnaká ako atómu arzénu
 g) taká, že atóm dusíka má tri nespárené elektróny
-h) [He]2s22p3
+h) [He]2s<sup>2</sup>2p<sup>3</sup>
 
 198. Prvky V.A (15.) skupiny periodickej sústavy prvkov:
-a) patria medzi p3 prvky
+a) patria medzi p<sup>3</sup> prvky
 b) dusík a fosfor patria medzi základné biogénne prvky
 c) majú vo valenčnej vrstve päť elektrónov
 d) sú: N, P, V, Nb, Ta
 e) majú elektróny rozložené vo vrstvách K, L a M
-f) majú vo valenčnej vrstve elektrónovú konfiguráciu ns2np3
+f) majú vo valenčnej vrstve elektrónovú konfiguráciu ns<sup>2</sup>np<sup>3</sup>
 g) sa všetky nachádzajú v prírode len v zlúčeninách
 h) sú: dusík, fosfor, arzén, antimón a bizmut
 
 199. Molekuly dusíka:
-a) sú veľmi stabilné, pretože energia väzby N≡N je veľmi vysoká (946 kJ.mol-1)
+a) sú veľmi stabilné, pretože energia väzby N≡N je veľmi vysoká (946 kJ.mol<sup>-1</sup>)
 b) majú atómy dusíka spojené polárnymi kovalentnými väzbami
 c) majú elektrónový štruktúrny vzorec |N=N|
 d) sú súčasťou atmosféry v množstve asi 78 % (obj.)
@@ -2123,7 +2123,7 @@ a) má schopnosť sa viazať ako ligand na atómy prechodných kovov a byť zlo�
 b) vzniká pri spaľovaní uhlíka za nedostatočného prístupu vzduchu
 c) je súčasťou výfukových plynov spaľovacích motorov a znečisťuje životné prostredie
 d) má štruktúrny vzorec: O=C=O a jeho molekula je symetrická, nepolárna
-e) môže vznikať reakciou: C + CO2 <&#10230 2 CO
+e) môže vznikať reakciou: C + CO2 <--> 2 CO
 f) je zložkou vodného plynu (zmes CO + H2)
 g) môže oxidovať oxidy kovov na elementárne kovy
 h) vzniká termickým rozkladom CaCO3
@@ -2191,12 +2191,12 @@ h) všetky kyanidy sú prudko jedovaté
 220. Podstatu vzniku krasových útvarov vyjadruje rovnica:
 a) 2 NaHCO3 &#10230 Na2CO3 + H2O + CO2
 b) CaCO3 &#10230 CaO + CO2
-c) Ca(HCO3)2 <&#10230 CaCO3 + CO2 + H2O
-d) Ca(HSO4)2 <&#10230 CaSO4 + SO3 + H2O
+c) Ca(HCO3)2 <--> CaCO3 + CO2 + H2O
+d) Ca(HSO4)2 <--> CaSO4 + SO3 + H2O
 e) Mg(NO3)2 &#10230 MgO + N2O5
 f) MgCO3 &#10230 MgO + CO2
 g) CaSO4 &#10230 CaO + SO3
-h) Mg(HSO4)2 <&#10230 MgSO4 + SO3 + H2O
+h) Mg(HSO4)2 <--> MgSO4 + SO3 + H2O
 
 221. Prvky B, Al, Ga, In, Tl:
 a) vo valenčnej vrstve majú elektrónovú konfiguráciu ns2np1
@@ -2434,9 +2434,9 @@ b) prvky skupiny železa (tzv. triáda železa) sa nachádzajú v šiestej (dlhe
 c) železo patrí medzi ušľachtilé kovy
 d) atómy kobaltu a niklu môžu na väzby s atómami iných prvkov využiť okrem ns orbitálu aj (n - 1)d orbitály
 e) železo môže tvoriť zlúčeniny: sulfidy a halogenidy
-f) vo vodnom roztoku ľahko prebieha úplná ionizácia uvedenej zlúčeniny podľa rovnice: K2[Ni(CN)4] <&#10230 2 K+ + Ni2+ + 4 CN
+f) vo vodnom roztoku ľahko prebieha úplná ionizácia uvedenej zlúčeniny podľa rovnice: K2[Ni(CN)4] <--> 2 K+ + Ni2+ + 4 CN
 g) po rozpustení zlúčeniny FeSO4. 7 H2O vo vode dostaneme intenzívne modro sfarbený roztok
-h) pri procese hrdzavenia železa prebieha reakcia, ktorú možno vyjadriť rovnicou: 4 Fe + 2 H2O + 3 O2 <&#10230 2 Fe2O3. H2O 
+h) pri procese hrdzavenia železa prebieha reakcia, ktorú možno vyjadriť rovnicou: 4 Fe + 2 H2O + 3 O2 <--> 2 Fe2O3. H2O 
 
 245. V komplexnej zlúčenine Na3[Sc(OH)6]:
 a) je atóm sodíka akceptorom elektrónov
@@ -3228,7 +3228,7 @@ f) 60 mol
 g) 120 mol
 h) 90 mol
 
-324. Vratná reakcia vyjadrená reakciou A + 2B <&#10230 C má v rovnovážnom stave koncentráciu reagujúcich látok: [A] = 0,5 mol/l, [B] = 1,6 mol/l, [C] = 2,56 mol/l. Vypočítajte rovnovážnu konštantu a počiatočné koncentrácie látok A a B:
+324. Vratná reakcia vyjadrená reakciou A + 2B <--> C má v rovnovážnom stave koncentráciu reagujúcich látok: [A] = 0,5 mol/l, [B] = 1,6 mol/l, [C] = 2,56 mol/l. Vypočítajte rovnovážnu konštantu a počiatočné koncentrácie látok A a B:
 a) K = 3,2; [A] = 2,1 mol/l; [B] = 4,16 mol/l
 b) K = 2; [A] = 2,1 mol/l; [B] = 4,16 mol/l
 c) K = 2; [A] = 3,06 mol/l; [B] = 6,72 mol/l
@@ -3238,7 +3238,7 @@ f) K = 0,5; [A] = 3,06 mol/l; [B] = 6,12 mol/l
 g) K = 0,32; [A] = 2,1 mol/l; [B] = 3,2 mol/l
 h) K = 0,3125;[A] = 3,56 mol/l; [B] = 5,76 mol/l
 
-325. Rovnovážna konštanta reakcie CO2 + H2 <&#10230 CO + H2O pri 850 °C sa rovná jednej. Počiatočná koncentrácia CO2je 0,5 mol/l a H2je 0,7 mol/l. Označte správne výsledky (mol/l) pre koncentráciu daných látok v rovnovážnom stave:
+325. Rovnovážna konštanta reakcie CO2 + H2 <--> CO + H2O pri 850 °C sa rovná jednej. Počiatočná koncentrácia CO2je 0,5 mol/l a H2je 0,7 mol/l. Označte správne výsledky (mol/l) pre koncentráciu daných látok v rovnovážnom stave:
 a) [CO2] = 0,4083
 b) [H2] = 0,4083
 c) [CO] = 0,2917
@@ -3248,7 +3248,7 @@ f) [H2] = 0,2083
 g) [CO] = 0,5834
 h) [H2O] = 0,2917
 
-326. V rovnovážnom stave reakcie N2 + 3 H2 <&#10230 2 NH3 mali zúčastnené látky nasledovné koncentrácie: [N2] = 4,5 mol/l, [H2] = 7 mol/l, [NH3] = 8 mol/l. Aká bola pôvodná koncentrácia vodíka a dusíka? Aká je rovnovážna konštanta tejto reakcie za daných podmienok?
+326. V rovnovážnom stave reakcie N2 + 3 H2 <--> 2 NH3 mali zúčastnené látky nasledovné koncentrácie: [N2] = 4,5 mol/l, [H2] = 7 mol/l, [NH3] = 8 mol/l. Aká bola pôvodná koncentrácia vodíka a dusíka? Aká je rovnovážna konštanta tejto reakcie za daných podmienok?
 a) [H2] = 12,5 mol/l
 b) [H2] = 31 mol/l
 c) K = 4
@@ -3258,7 +3258,7 @@ f) K = 4,15.10-2
 g) [N2] = 8,5 mol/l
 h) [H2] = 19 mol/l
 
-327. Chlorid fosforečný sa rozkladá pri zahrievaní podľa rovnice PCl5 <&#10230 PCl3 + Cl2. Pri určitej teplote sa z ôsmich mol PCl5, ktorý je v uzavretej nádobe o objeme 10 litrov, rozložilo 2 mol. Vypočítajte rovnovážnu konštantu reakcie pri tejto teplote a koncentráciu látok (mol/l), pri akej sa ustálila rovnováha:
+327. Chlorid fosforečný sa rozkladá pri zahrievaní podľa rovnice PCl5 <--> PCl3 + Cl2. Pri určitej teplote sa z ôsmich mol PCl5, ktorý je v uzavretej nádobe o objeme 10 litrov, rozložilo 2 mol. Vypočítajte rovnovážnu konštantu reakcie pri tejto teplote a koncentráciu látok (mol/l), pri akej sa ustálila rovnováha:
 a) K = 0,1
 b) [PCl3] = 0,6
 c) [PCl3] = 0,2
@@ -3268,7 +3268,7 @@ f) [PCl5] = 0,6
 g) [PCl3] = 2
 h) [Cl2] = 2
 
-328. Reakcia 2 SO2 + O2 <&#10230 2 SO3 má východiskovú koncentráciu SO2 0,4 mol.l-1 a O2 0,2 mol.l-1. V rovnovážnom stave sa zistila koncentrácia SO2 0,1 mol.l-1. Vypočítajte koncentráciu (mol.l-1) SO3 a kyslíka v rovnovážnom stave a rovnovážnu konštantu tejto reakcie:
+328. Reakcia 2 SO2 + O2 <--> 2 SO3 má východiskovú koncentráciu SO2 0,4 mol.l-1 a O2 0,2 mol.l-1. V rovnovážnom stave sa zistila koncentrácia SO2 0,1 mol.l-1. Vypočítajte koncentráciu (mol.l-1) SO3 a kyslíka v rovnovážnom stave a rovnovážnu konštantu tejto reakcie:
 a) K = 10
 b) K = 180
 c) K = 60
@@ -3288,7 +3288,7 @@ f) kyselina octová = 4,92
 g) ester = 3,08
 h) voda = 1,92
 
-330. Rovnováha reakcie H2 + I2 <&#10230 2HI sa ustálila pri koncentráciách [H2] = 0,50 mol.l-1, [I2] = 0,30 mol.l-1 a [HI] = 1,6 mol.l-1. Vypočítajte východiskové koncentrácie (mol.l-1) jódu a vodíka a označte správne koncentrácie jednotlivých látok. Označte správnu hodnotu rovnovážnej konštanty reakcie:
+330. Rovnováha reakcie H2 + I2 <--> 2HI sa ustálila pri koncentráciách [H2] = 0,50 mol.l-1, [I2] = 0,30 mol.l-1 a [HI] = 1,6 mol.l-1. Vypočítajte východiskové koncentrácie (mol.l-1) jódu a vodíka a označte správne koncentrácie jednotlivých látok. Označte správnu hodnotu rovnovážnej konštanty reakcie:
 a) [H2] = 1,1
 b) [I2] = 1,1
 c) [H2] = 1,6
