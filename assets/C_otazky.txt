@@ -2004,45 +2004,45 @@ b) tvorí soli hydrogendusičnany a dusičnany
 c) má výrazné oxidačné účinky, ktoré závisia od jej koncentrácie, od teploty a od druhu oxidovanej látky
 d) je silná kyselina
 e) sa s vodou mieša v každom pomere
-f) tvorí soli typu MINO2
-g) sa v laboratóriu môže pripraviť reakciou: 2 NaNO3 + H2SO4 &#10230 2 HNO3 + Na2SO4
+f) tvorí soli typu M<sup>I</sup>NO<sub>2</sub>
+g) sa v laboratóriu môže pripraviť reakciou: 2 NaNO<sub>3</sub> + H<sub>2</sub>SO<sub>4</sub> ⟶ 2 HNO<sub>3</sub> + Na<sub>2</sub>SO<sub>4</sub>
 h) spolu s HCl, v pomere 1:3, tvorí lúčavku kráľovskú
 
 202. O amónnych soliach platí tvrdenie:
-a) katión NH4 + má kyslý charakter
+a) katión NH<sub>4</sub><sup>+</sup> má kyslý charakter
 b) uhličitan amónny je nestály a asi pri 60 °C sa rozkladá
-c) môžu byť zložené z katiónu NH4 + a kyselinového aniónu X- a mať všeobecný vzorec NH4X
+c) môžu byť zložené z katiónu NH<sub>4</sub><sup>+</sup> a kyselinového aniónu X<sup>-</sup> a mať všeobecný vzorec NH<sub>4</sub>X
 d) amónne soli rozpustné vo vode podliehajú hydrolýze
 e) takmer všetky sú dobre rozpustné vo vode
 f) vo vodných roztokoch neionizujú
-g) zásaditý charakter katiónu NH4 + vyjadruje protolytická reakcia: NH4+ + H2O &#10230 NH3+ H3O+
-h) ak majú v molekule anión X- odvodený od silnej kyseliny, pH ich vodných roztokov je nižšie ako 7
+g) zásaditý charakter katiónu NH<sub>4</sub><sup>+</sup> vyjadruje protolytická reakcia: NH<sub>4</sub><sup>+</sup> + H<sub>2</sub>O ⟶ NH<sub>3</sub> + H<sub>3</sub>O<sup>+</sup>
+h) ak majú v molekule anión X<sup>-</sup> odvodený od silnej kyseliny, pH ich vodných roztokov je nižšie ako 7
 
 203. O dusíku platí:
 a) maximálne kladné oxidačné číslo jeho atómu je V a záporné oxidačné číslo je -III
 b) vo valenčnej vrstve má jeho atóm dva s elektróny a päť p elektrónov
 c) nachádza sa viazaný v liadku amónnom, ktorý sa používa ako priemyselné hnojivo
 d) v zlúčeninách sa atóm dusíka môže viazať jednoduchou, dvojitou alebo trojitou väzbou
-e) s vodíkom tvorí zlúčeniny: NH3, N2H4 (hydrazín) a N3H (azoimid)
-f) je viazaný v zlúčenine, ktorá sa tiež nazýva “rajský plyn”
-g) tvorí tri oxidy: N2O, NO3, N2O7
+e) s vodíkom tvorí zlúčeniny: NH<sub>3</sub>, N<sub>2</sub>H<sub>4</sub> (hydrazín) a N<sub>3</sub>H (azoimid)
+f) je viazaný v zlúčenine, ktorá sa tiež nazýva „rajský plyn“
+g) tvorí tri oxidy: N<sub>2</sub>O, NO<sub>3</sub>, N<sub>2</sub>O<sub>7</sub>
 h) nachádza sa viazaný v močovine
 
-204. O fosfore, (Z = 15), platí tvrdenie:
-a) s vodíkom tvorí fosfán PH3 a difosfán P2H4
+204. O fosfore (Z = 15), platí tvrdenie:
+a) s vodíkom tvorí fosfán PH<sub>3</sub> a difosfán P<sub>2</sub>H<sub>4</sub>
 b) vo forme vápenatých a horečnatých solí sa vyskytuje v kostiach a v zuboch
-c) s halogénmi (X) tvorí zlúčeniny typu P2X3 a P2X5
+c) s halogénmi (X) tvorí zlúčeniny typu P<sub>2</sub>X<sub>3</sub> a P<sub>2</sub>X<sub>5</sub>
 d) patrí medzi biogénne prvky
 e) má elektróny rozložené vo vrstvách K, L, M a N
 f) vytvára prevažne iónové zlúčeniny
 g) vytvára prevažne zlúčeniny s kovalentnými väzbami
-h) s kyslíkom tvorí oxidy P4O6 a P4O10
+h) s kyslíkom tvorí oxidy P<sub>4</sub>O<sub>6</sub> a P<sub>4</sub>O<sub>10</sub>
 
 205. O dusíku platí tvrdenie:
 a) atóm dusíka má kladné oxidačné číslo len v zlúčeninách s kyslíkom a fluórom, ktoré majú vyššiu hodnotu elektronegativity
 b) vyrába sa frakčnou destiláciou skvapalneného vzduchu
 c) v atmosfére sa vyskytuje prevažne vo forme atómového dusíka
-d) používa sa tam, kde je treba vytvoriť inertnú atmosféru 
+d) používa sa tam, kde je treba vytvoriť inertnú atmosféru
 e) atóm dusíka v niektorých zlúčeninách sa môže viazať s inými molekulami aj vodíkovými väzbami
 f) jeho molekula má elektrónový štruktúrny vzorec |N≡N|
 g) nachádza sa v hnojive nazvanom superfosfát
@@ -2050,9 +2050,9 @@ h) ak má atóm dusíka v zlúčenine voľný elektrónový pár, môže sa viaz
 
 206. O fosfore platí:
 a) vyskytuje sa vo viacerých alotropických modifikáciách
-b) s vodíkom tvorí fosfán PH3a difosfán P2H4
+b) s vodíkom tvorí fosfán PH<sub>3</sub> a difosfán P<sub>2</sub>H<sub>4</sub>
 c) má tri nespárené elektróny v orbitáloch 3p
-d) má izotop 32P, ktorý sa využíva pri štúdiu reakčných mechanizmov
+d) má izotop <sup>32</sup>P, ktorý sa využíva pri štúdiu reakčných mechanizmov
 e) vyskytuje sa ako biely, červený a čierny fosfor
 f) prírodnou surovinou na výrobu fosforu je minerál dolomit
 g) nachádza sa v glykolipidoch
@@ -2061,16 +2061,16 @@ h) atóm fosforu sa môže viazať s inými molekulami aj väzbou kyslíkovým m
 207. Biely fosfor:
 a) je podstatne menej reaktívny ako červený a čierny fosfor
 b) je tvorený štvoratómovými molekulami
-c) sa dobre rozpúšťa vo vode a tak priamo tvorí H3PO4
+c) sa dobre rozpúšťa vo vode a tak priamo tvorí H<sub>3</sub>PO<sub>4</sub>
 d) je najreaktívnejšou modifikáciou fosforu
 e) svetielkuje
 f) na vzduchu je veľmi reaktívny a uchováva sa pod vodou
 g) je nejedovatou modifikáciou fosforu
-h) pri horení dáva oxidy: P4 --O2&#10230 P4O6 --O2&#10230 P4O10
+h) pri horení dáva oxidy: P<sub>4</sub> <table style="display:inline; vertical-align:bottom; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 1;">O<sub>2</sub></td> </tr> <tr> <td style="padding: 0; line-height: 1.1;">⟶</td> </tr> </table> P<sub>4</sub>O<sub>6</sub> <table style="display:inline; vertical-align:bottom; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 1;">O<sub>2</sub></td> </tr> <tr> <td style="padding: 0; line-height: 1.1;">⟶</td> </tr> </table> P<sub>4</sub>O<sub>10</sub>
 
 208. Kyselina trihydrogenfosforečná:
 a) sa nenachádza v zlúčeninách: ATP, ADP a AMP
-b) vzniká reakciou: P4O10 + 6 H2O &#10230 4 H3PO4
+b) vzniká reakciou: P<sub>4</sub>O<sub>10</sub> + 6 H<sub>2</sub>O ⟶ 4 H<sub>3</sub>PO<sub>4</sub>
 c) má význam v metabolizme sacharidov
 d) tvorí soli, ktoré sú všetky dobre rozpustné vo vode
 e) je súčasťou nukleových kyselín
@@ -2078,37 +2078,37 @@ f) je trojsýtna, stredne silná kyselina
 g) už pri obyčajnej teplote je veľmi reaktívna a má silné oxidačné účinky
 h) tvorí len dva typy solí: hydrogenfosforečnany a fosforečnany
 
-209. Keď zreaguje 1mol kyseliny trihydrogenfosforečnej a 1mol hydroxidu, v ktorom má atóm železa oxidačné číslo II, vznikne:
-a) Fe3(PO4)2
-b) FeHPO4
-c) Fe2(HPO4)3
-d) Fe(H2PO4)2
+209. Keď zreaguje 1 mol kyseliny trihydrogenfosforečnej a 1 mol hydroxidu, v ktorom má atóm železa oxidačné číslo II, vznikne:
+a) Fe<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>
+b) FeHPO<sub>4</sub>
+c) Fe<sub>2</sub>(HPO<sub>4</sub>)<sub>3</sub>
+d) Fe(H<sub>2</sub>PO<sub>4</sub>)<sub>2</sub>
 e) dihydrogenfosforečnan železnatý
-f) FePO4
+f) FePO<sub>4</sub>
 g) hydrogenfosforečnan železitý
 h) hydrogenfosforečnan železnatý
 
 210. Chloristan bizmutitý, dihydrogenfosforečnan strontnatý a dihydrogenarzeničnan amónny majú vzorce:
-a) Bi(ClO2)2, SrHPO4, (NH4)3AsO4
-b) Bi(ClO3)3, Sr3(PO4)2, NH4AsO3
-c) Bi(ClO4)3, Sr(H2PO4)2, NH4H2AsO4
-d) BiClO4, SrH2P2O7, (NH4)2AsO2
-e) BiCl3, Sr3(PO4)2, (NH4)3AsO3
-f) Bi(ClO)4, Sr(H2PO4)2, NH4H2AsO4
-g) Bi(ClO)3, Sr2P2O7, (NH4)3AsO3
-h) Bi(ClO4)3, Sr(H2PO4)2, (NH4)2H2AsO4
+a) Bi(ClO<sub>2</sub>)<sub>2</sub>, SrHPO<sub>4</sub>, (NH<sub>4</sub>)<sub>3</sub>AsO<sub>4</sub>
+b) Bi(ClO<sub>3</sub>)<sub>3</sub>, Sr<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>, NH<sub>4</sub>AsO<sub>3</sub>
+c) Bi(ClO<sub>4</sub>)<sub>3</sub>, Sr(H<sub>2</sub>PO<sub>4</sub>)<sub>2</sub>, NH<sub>4</sub>H<sub>2</sub>AsO<sub>4</sub>
+d) BiClO<sub>4</sub>, SrH<sub>2</sub>P<sub>2</sub>O<sub>7</sub>, (NH<sub>4</sub>)<sub>2</sub>AsO<sub>2</sub>
+e) BiCl<sub>3</sub>, Sr<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>, (NH<sub>4</sub>)<sub>3</sub>AsO<sub>3</sub>
+f) Bi(ClO)<sub>4</sub>, Sr(H<sub>2</sub>PO<sub>4</sub>)<sub>2</sub>, NH<sub>4</sub>H<sub>2</sub>AsO<sub>4</sub>
+g) Bi(ClO)<sub>3</sub>, Sr<sub>2</sub>P<sub>2</sub>O<sub>7</sub>, (NH<sub>4</sub>)<sub>3</sub>AsO<sub>3</sub>
+h) Bi(ClO<sub>4</sub>)<sub>3</sub>, Sr(H<sub>2</sub>PO<sub>4</sub>)<sub>2</sub>, (NH<sub>4</sub>)<sub>2</sub>H<sub>2</sub>AsO<sub>4</sub>
 
 211. O uhlíku (Z = 6) platí:
-a) atóm uhlíka nemôže tvoriť zlúčeniny, v ktorých sú na jeden atóm uhlíka viazané rôzne atómy halogénov, napr. CF2Cl2 , CFCl3
-b) atóm uhlíka môže mať oxidačné číslo -IV v zlúčeninách s prvkami, ktoré majú nižšiu hodnotu elektronegativity (napr. s vodíkom v metáne)
+a) atóm uhlíka nemôže tvoriť zlúčeniny, v ktorých sú na jeden atóm uhlíka viazané rôzne atómy halogénov, napr. CF<sub>2</sub>Cl<sub>2</sub>, CFCl<sub>3</sub>
+b) atóm uhlíka môže mať oxidačné číslo -IV v zlúčeninách s prvkami, ktoré majú nižšiu hodnotu elektronegativity (napr. s vodíkom v métáne)
 c) je najrozšírenejším prvkom v prírode
 d) v prírode sa vyskytuje voľný aj viazaný v zlúčeninách
 e) patrí medzi biogénne prvky
-f) atóm uhlíka sa nachádza v zlúčeninách HCN, CS2 a COCl2, ktoré sa v medicíne používajú ako liečivá
+f) atóm uhlíka sa nachádza v zlúčeninách HCN, CS<sub>2</sub> a COCl<sub>2</sub>, ktoré sa v medicíne používajú ako liečivá
 g) atóm uhlíka vo väčšine zlúčenín vystupuje ako štvorväzbový
-h) patrí medzi p 2 prvky
+h) patrí medzi p<sup>2</sup> prvky
 
-212. Zlúčenina COCl2:
+212. Zlúčenina COCl<sub>2</sub>:
 a) sa pripravuje priamym zlučovaním oxidu uhoľnatého s chlórom
 b) sa nazýva guanidín
 c) je dichloridom oxidu uhoľnatého
@@ -2123,47 +2123,47 @@ a) má schopnosť sa viazať ako ligand na atómy prechodných kovov a byť zlo�
 b) vzniká pri spaľovaní uhlíka za nedostatočného prístupu vzduchu
 c) je súčasťou výfukových plynov spaľovacích motorov a znečisťuje životné prostredie
 d) má štruktúrny vzorec: O=C=O a jeho molekula je symetrická, nepolárna
-e) môže vznikať reakciou: C + CO2 <--> 2 CO
-f) je zložkou vodného plynu (zmes CO + H2)
+e) môže vznikať reakciou: C + CO<sub>2</sub> <--> 2 CO
+f) je zložkou vodného plynu (zmes CO + H<sub>2</sub>)
 g) môže oxidovať oxidy kovov na elementárne kovy
-h) vzniká termickým rozkladom CaCO3
+h) vzniká termickým rozkladom CaCO<sub>3</sub>
 
 214. O uhlíku (Z = 6) platí tvrdenie:
-a) elektrónová konfigurácia atómu uhlíka v základnom stave je 1s22s22px12py1
+a) elektrónová konfigurácia atómu uhlíka v základnom stave je 1s<sup>2</sup>2s<sup>2</sup>2p<sub>x</sub><sup>1</sup>2p<sub>y</sub><sup>1</sup>
 b) atóm uhlíka má v základnom stave dva nespárené elektróny v orbitáloch 2p
-c) pri zlučovaní môže uplatňovať tetraedrickú hybridizáciu SP3
+c) pri zlučovaní môže uplatňovať tetraedrickú hybridizáciu SP<sup>3</sup>
 d) vo väčšine zlúčenín vystupuje ako dvojväzbový
-e) energia väzieb C-C, C=C, C≡C je rovnaká 
+e) energia väzieb C-C, C=C, C≡C je rovnaká
 f) atóm uhlíka môže s atómami iných prvkov tvoriť polárne aj nepolárne kovalentné väzby
 g) pre atóm uhlíka je typické, že v zlúčenine sa s atómom iného prvku môže viazať vodíkovou väzbou
 h) ak má atóm uhlíka v zlúčenine voľný elektrónový pár, môže vystupovať ako donor elektrónov a viazať sa koordinačnou väzbou (napr. karbonyly prechodných kovov)
 
 215. Kyselina uhličitá:
 a) sa dá z roztoku izolovať v kryštalickej forme
-b) tvorí soli, v ktorých sú anióny HCO3 - alebo CO32-
+b) tvorí soli, v ktorých sú anióny HCO<sub>3</sub><sup>-</sup> alebo CO<sub>3</sub><sup>2-</sup>
 c) sa nachádza aj v ľudskom organizme
-d) tvorí soli uhličitany, ktoré nemožno rozložiť pôsobením silnejších kyselín ako je H2CO3
-e) vzniká rozpúšťaním CO2 vo vode a prevažnou časťou v roztoku sú hydratované molekuly CO2 · x H2O
+d) tvorí soli uhličitany, ktoré nemožno rozložiť pôsobením silnejších kyselín ako je H<sub>2</sub>CO<sub>3</sub>
+e) vzniká rozpúšťaním CO<sub>2</sub> vo vode a prevažnou časťou v roztoku sú hydratované molekuly CO<sub>2</sub> · x H<sub>2</sub>O
 f) tvorí soli uhličitany, ktoré vo vodnom roztoku podliehajú hydrolýze (ak sú rozpustné)
-g) tvorí anión HCO3- , ktorý môže byť v niektorých protolytických reakciách zásadou
+g) tvorí anión HCO<sub>3</sub><sup>-</sup> , ktorý môže byť v niektorých protolytických reakciách zásadou
 h) patrí medzi silné kyseliny
 
 216. O kremíku platí tvrdenie:
 a) pri bežných podmienkach je v plynnom skupenstve
-b) tvorí oxid kremičitý, ktorý pri tavení s alkalickými hydroxidmi reaguje podľa všeobecnej rovnice: SiO2+ 2 MIOH &#10230 M2ISiO3+ H2O
-c) binárne zlúčeniny vodíka s kremíkom majú všeobecný vzorec: SinH2n+2
+b) tvorí oxid kremičitý, ktorý pri tavení s alkalickými hydroxidmi reaguje podľa všeobecnej rovnice: SiO<sub>2</sub> + 2 M<sup>I</sup>OH ⟶ M<sub>2</sub><sup>I</sup>SiO<sub>3</sub> + H<sub>2</sub>O
+c) binárne zlúčeniny vodíka s kremíkom majú všeobecný vzorec: Si<sub>n</sub>H<sub>2n+2</sub>
 d) tvorí binárne zlúčeniny s prvkami s nižšou hodnotou elektronegativity (kovy) - ktoré sa nazývajú silicidy
-e) s kyslíkom tvorí SiO2 , ktorý je stály voči vode aj kyselinám (okrem HF)
+e) s kyslíkom tvorí SiO<sub>2</sub> , ktorý je stály voči vode aj kyselinám (okrem HF)
 f) väzby Si-Si sú pevnejšie ako väzby C-C
 g) s vodíkom tvorí silikáty
-h) s chlórom tvorí chlorid kremičitý - SiCl4 a s vodíkom silány
+h) s chlórom tvorí chlorid kremičitý - SiCl<sub>4</sub> a s vodíkom silány
 
 217. O prvkoch IV.A (14.) skupiny periodickej sústavy platí:
 a) v prírode sa okrem uhlíka vyskytujú len v zlúčeninách
 b) vo valenčnej vrstve majú štyri elektróny
 c) C je nekov, Si, Ge, Sn a Pb sú kovy
 d) atómy uhlíka, kremíka a germánia sa v zlúčeninách viažu aj dvojitými a trojitými väzbami
-e) vo valenčnej vrstve majú elektrónovú konfiguráciu: ns2np2
+e) vo valenčnej vrstve majú elektrónovú konfiguráciu: ns<sub>2</sub>np<sub>2</sub>
 f) tvoria rovnaké zlúčeniny s veľmi podobnými vlastnosťami
 g) patria medzi biogénne mikroprvky
 h) do elektrónovej konfigurácie najbližšieho nasledujúceho vzácneho plynu im chýbajú štyri elektróny
@@ -2173,48 +2173,48 @@ a) atóm kremíka má v zlúčeninách s elektronegatívnejšími prvkami najča
 b) kremík, podobne ako uhlík, môže tvoriť reťazce spojené jednoduchou (Si-Si) a dvojitou kovalentnou väzbou (Si=Si), pričom väzby sú rovnako silné, rozdiel je len v dĺžke reťazcov
 c) kremík tvorí s vodíkom zlúčeniny, ktoré sa nazývajú silány
 d) kremík je najrozšírenejším prvkom v prírode
-e) SiO2 sa môže taviť s alkalickými hydroxidmi za vzniku rozpustných silánov
+e) SiO<sub>2</sub> sa môže taviť s alkalickými hydroxidmi za vzniku rozpustných silánov
 f) kremík sa v nízkom množstve vyskytuje v telách vyšších živočíchov a v niektorých rastlinách
-g) kremík môže tvoriť zlúčeniny: SiS2 , SiC a halogenidy typu SiX4
+g) kremík môže tvoriť zlúčeniny: SiS<sub>2</sub> , SiC a halogenidy typu SiX<sub>4</sub>
 h) sklo vzniká tavením kremenného piesku so zmesou alkalických uhličitanov
 
 219. Určte, ktoré tvrdenie o kyanidoch je správne:
-a) kyanidy majú v molekule anión OCN
+a) kyanidy majú v molekule anión OCN<sup>-</sup>
 b) kyanidový anión môže byť ligandom v komplexných zlúčeninách
 c) kyanidový anión môže byť centrálnym atómom v koordinačných zlúčeninách
 d) kyanidy sú soli kyseliny kyanatej
 e) kyanidy sa odvodzujú od kyseliny kyanovodíkovej
 f) z kyanidov je jedovatý len KCN (cyankáli)
-g) anión CNje silná zásada a preto rozpustné kyanidy vo vode silne hydrolyzujú
+g) anión CN<sup>-</sup> je silná zásada a preto rozpustné kyanidy vo vode silne hydrolyzujú
 h) všetky kyanidy sú prudko jedovaté
 
 220. Podstatu vzniku krasových útvarov vyjadruje rovnica:
-a) 2 NaHCO3 &#10230 Na2CO3 + H2O + CO2
-b) CaCO3 &#10230 CaO + CO2
-c) Ca(HCO3)2 <--> CaCO3 + CO2 + H2O
-d) Ca(HSO4)2 <--> CaSO4 + SO3 + H2O
-e) Mg(NO3)2 &#10230 MgO + N2O5
-f) MgCO3 &#10230 MgO + CO2
-g) CaSO4 &#10230 CaO + SO3
-h) Mg(HSO4)2 <--> MgSO4 + SO3 + H2O
+a) 2 NaHCO<sub>3</sub> ⟶ Na<sub>2</sub>CO<sub>3</sub> + H<sub>2</sub>O + CO<sub>2</sub>
+b) CaCO<sub>3</sub> ⟶ CaO + CO<sub>2</sub>
+c) Ca(HCO<sub>3</sub>)<sub>2</sub> <--> CaCO<sub>3</sub> + CO<sub>2</sub> + H<sub>2</sub>O
+d) Ca(HSO<sub>4</sub>)<sub>2</sub> <--> CaSO<sub>4</sub> + SO<sub>3</sub> + H<sub>2</sub>O
+e) Mg(NO<sub>3</sub>)<sub>2</sub> ⟶ MgO + N<sub>2</sub>O<sub>5</sub>
+f) MgCO<sub>3</sub> ⟶ MgO + CO<sub>2</sub>
+g) CaSO<sub>4</sub> ⟶ CaO + SO<sub>3</sub>
+h) Mg(HSO<sub>4</sub>)<sub>2</sub> <--> MgSO<sub>4</sub> + SO<sub>3</sub> + H<sub>2</sub>O
 
 221. Prvky B, Al, Ga, In, Tl:
-a) vo valenčnej vrstve majú elektrónovú konfiguráciu ns2np1
+a) vo valenčnej vrstve majú elektrónovú konfiguráciu ns<sup>2</sup>np<sup>1</sup>
 b) patria medzi prechodné prvky
 c) v prírode sa vyskytujú len viazané v zlúčeninách
 d) všetky tvoria zlúčeniny, v ktorých sú ich atómy viazané výlučne kovalentnými väzbami
 e) vyznačujú sa rovnakou chemickou reaktivitou a schopnosťou vo vodných roztokoch tvoriť katióny
-f) patria medzi p1 prvky
+f) patria medzi p<sup>1</sup> prvky
 g) vo valenčnej vrstve majú tri elektróny v orbitáloch p
 h) okrem bóru sú všetky kovy
 
 222. Keď zreagujú 3 móly kyseliny sírovej a 2 móly hydroxidu hlinitého vznikne:
-a) 3 mol H2O
+a) 3 mol H<sub>2</sub>O
 b) 1 mol síranu hlinitého
-c) 1 mol Al2(SO3)3
-d) 2 mol Al2(SO4)3
-e) 6 mol H2O
-f) 1 mol Al2(SO4)3
+c) 1 mol Al<sub>2</sub>(SO<sub>3</sub>)<sub>3</sub>
+d) 2 mol Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>
+e) 6 mol H<sub>2</sub>O
+f) 1 mol Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>
 g) 2 mol síranu hlinitého
 h) 1 mol tiosíranu hlinitého
 
@@ -2224,9 +2224,9 @@ b) má veľkú oxidačnú schopnosť
 c) alobal používaný v potravinárstve je chemicky hliník
 d) v zlúčeninách má atóm hliníka oxidačné čísla III a V
 e) môže sa nachádzať v komplexných zlúčeninách, napr. hexafluorohlinitan sodný, tetrahydroxohlinitan lítny
-f) v zlúčenine Al(HSO4)3 má atóm hliníka oxidačné číslo I
-g) vyrába sa elektrolýzou taveniny Al2O3s kryolitom
-h) pri zohrievaní na vzduchu reaguje podľa rovnice: 4 Al + 3 O2 &#10230 2 Al2O3
+f) v zlúčenine Al(HSO<sub>4</sub>)<sub>3</sub> má atóm hliníka oxidačné číslo I
+g) vyrába sa elektrolýzou taveniny Al<sub>2</sub>O<sub>3</sub>s kryolitom
+h) pri zohrievaní na vzduchu reaguje podľa rovnice: 4 Al + 3 O<sub>2</sub> → 2 Al<sub>2</sub>O<sub>3</sub>
 
 224. Hliník:
 a) má veľkú redukčnú schopnosť
@@ -2242,18 +2242,18 @@ h) tvorí hydroxid hlinitý, ktorý môže reagovať s vodnými roztokmi silnýc
 a) majú atómy, ktoré majú o jeden valenčný elektrón menej ako predchádzajúci vzácny plyn
 b) nazývajú sa tiež kovy alkalických zemín
 c) sú kovy
-d) patria medzi s1 prvky
+d) patria medzi s<sup>1</sup> prvky
 e) sa tiež nazývajú alkalické kovy
 f) majú jeden valenčný elektrón p
 g) nachádzajú sa v I.A (1.) skupine periodickej sústavy prvkov
 h) patria medzi prvky s vysokou hodnotou elektronegativity
 
 226. O alkalických kovoch môžeme tvrdiť:
-a) katióny alkalických kovov M+ majú elektrónovú konfiguráciu predchádzajúceho vzácneho plynu
+a) katióny alkalických kovov M<sup>+</sup> majú elektrónovú konfiguráciu predchádzajúceho vzácneho plynu
 b) sú pomerne mäkké a dajú sa krájať nožom
-c) ich atómy sa ľahko redukujú na ióny podľa všeobecnej rovnice: M + e &#10230 M-
+c) ich atómy sa ľahko redukujú na ióny podľa všeobecnej rovnice: M + e → M<sup>-</sup>
 d) ich atómy majú v zlúčeninách oxidačné číslo I
-e) ich atómy sa oxidujú na ióny podľa všeobecnej rovnice: M &#10230 M2+ + 2e
+e) ich atómy sa oxidujú na ióny podľa všeobecnej rovnice: M → M<sup>2+</sup> + 2e
 f) v zlúčeninách sa ich atómy vyskytujú ako anióny
 g) všetky izotopy francia sú rádioaktívne
 h) ich oxidy sú zásadotvorné
@@ -2278,22 +2278,22 @@ f) reagujú s kyselinami za vzniku vodíka
 g) označujeme ako neušľachtilé
 h) majú nulový elektródový potenciál
 
-229. Prvky s2:
+229. Prvky s<sup>2</sup>:
 a) tvoria zlúčeniny, v ktorých majú ich atómy oxidačné číslo II
 b) nazývajú sa tiež alkalické kovy
 c) patria medzi prvky s nízkou hodnotou elektronegativity
 d) v prírode sa nachádzajú voľné aj viazané v zlúčeninách
 e) sú reaktívnejšie ako prvky umiestnené v II.B (12.) skupine periodickej sústavy prvkov
 f) sú silné oxidovadlá
-g) majú atómy, ktoré sa môžu oxidovať podľa všeobecnej rovnice: M &#10230 M2+ + 2e
+g) majú atómy, ktoré sa môžu oxidovať podľa všeobecnej rovnice: M → M<sup>2+</sup> + 2e
 h) tvoria zlúčeniny, ktoré sú všetky rozpustné vo vode
 
 230. Pre prvky s platí:
 a) všetky patria medzi kovy (okrem vodíka a He)
-b) atómy prvkov s1 majú v zlúčeninách oxidačné číslo I
+b) atómy prvkov s<sup>1</sup> majú v zlúčeninách oxidačné číslo I
 c) v zlúčeninách sa ich atómy vyskytujú ako anióny
 d) ich atómy majú o jeden alebo dva elektróny viacej ako atómy predchádzajúcich vzácnych plynov
-e) atómy prvkov s2 majú v zlúčeninách typické oxidačné číslo II
+e) atómy prvkov s<sup>2</sup> majú v zlúčeninách typické oxidačné číslo II
 f) ich atómy majú o jeden alebo dva elektróny menej ako atómy predchádzajúcich vzácnych plynov
 g) nachádzajú sa v I.A a II.A. (1. a 2.) skupine periodickej sústavy prvkov (okrem He)
 h) na väzbu s inými prvkami poskytujú ich atómy elektrónový pár
@@ -2301,7 +2301,7 @@ h) na väzbu s inými prvkami poskytujú ich atómy elektrónový pár
 231. Horčík:
 a) zaraďujeme medzi nekovové prvky
 b) zaraďujeme medzi chalkogény
-c) môžeme pripraviť elektrolýzou taveniny MgCl2
+c) môžeme pripraviť elektrolýzou taveniny MgCl<sub>2</sub>
 d) sa môže nachádzať v zelených rastlinách
 e) zaraďujeme medzi prvky III. periódy v sústave prvkov
 f) patrí medzi alkalické kovy
@@ -2313,12 +2313,12 @@ a) je pri bežných podmienkach tuhá látka
 b) sa nazýva aj “hasené vápno”
 c) pri reakcii s vodou spôsobí, že pH vzniknutého roztoku bude vyššie ako 7
 d) pod názvom “baryt” sa používa ako hnojivo
-e) sa môže pripraviť rozkladom CaCO3
+e) sa môže pripraviť rozkladom CaCO<sub>3</sub>
 f) je kyselinotvorný oxid
 g) s vodou nereaguje
 h) reaguje s vodou za vzniku hydroxidu
 
-233. Prvky s1:
+233. Prvky s<sup>1</sup>:
 a) tvoria soli, ktoré sú väčšinou rozpustné vo vode (okrem vodíka)
 b) sú: Be, Mg, Ca, Sr, Ba, Ra
 c) sa vyznačujú dobrou elektrickou a tepelnou vodivosťou (okrem H)
@@ -2329,27 +2329,27 @@ g) všetky tvoria katióny s oxidačným číslom I a II
 h) tvoria zlúčeniny, ktoré majú prevažne iónový charakter (okrem vodíka)
 
 234. O alkalických kovoch platí:
-a) pri horení na vzduchu vzniká z lítia Li2O a zo sodíka vzniká Na2O2
+a) pri horení na vzduchu vzniká z lítia Li<sub>2</sub>O a zo sodíka vzniká Na<sub>2</sub>O<sub>2</sub>
 b) zlúčeniny obsahujúce sodík farbia plameň na červeno
-c) majú redukčné vlastnosti, čo je možno vyjadriť reakciou s vodíkom: 2 M + H2 &#10230 2 M+H-
+c) majú redukčné vlastnosti, čo je možno vyjadriť reakciou s vodíkom: 2 M + H<sub>2</sub> &#10230 2 M<sup>+</sup>H<sup>-</sup>
 d) majú zo všetkých prvkov najvyššie hodnoty ionizačných energií
-e) sodík a draslík reagujú s vodou podľa všeobecnej rovnice: 2 M + 2 H2O &#10230 2 MOH + H2
+e) sodík a draslík reagujú s vodou podľa všeobecnej rovnice: 2 M + 2 H<sub>2</sub>O &#10230 2 MOH + H<sub>2</sub>
 f) tvoria hydridy, ktoré s vodou reagujú za vzniku hydroxidov
 g) sodík sa môže pripraviť elektrolýzou taveniny NaCl
 h) elektrónovú konfiguráciu na predposlednej elektrónovej vrstve majú rovnakú ako má najbližší predchádzajúci vzácny plyn na poslednej vrstve
 
 235. Pri porovnaní sily (zásaditosti) roztokov hydroxidov alkalických kovov a kovov alkalických zemín platí, že:
-a) KOH je silnejší ako Ca(OH)2
+a) KOH je silnejší ako Ca(OH)<sub>2</sub>
 b) CsOH je silnejší ako NaOH
 c) LiOH je slabší ako NaOH
 d) KOH je slabší ako LiOH
 e) NaOH je slabší ako RbOH
-f) Ca(OH)2 je silnejší ako Ba(OH)2
-g) Sr(OH)2 je silnejší ako CsOH
-h) RbOH je silnejší ako Ca(OH)2
+f) Ca(OH)<sub>2</sub> je silnejší ako Ba(OH)<sub>2</sub>
+g) Sr(OH)<sub>2</sub> je silnejší ako CsOH
+h) RbOH je silnejší ako Ca(OH)<sub>2</sub>
 
-236. Kovové prvky s1 a s2:
-a) sa líšia tým, že prvky s1 tvoria zásadotvorné oxidy a prvky s2tvoria oxidy, ktoré sú kyselinotvorné
+236. Kovové prvky s<sup>1</sup> a s<sup>2</sup>:
+a) sa líšia tým, že prvky s<sup>1</sup> tvoria zásadotvorné oxidy a prvky s<sup>2</sup> tvoria oxidy, ktoré sú kyselinotvorné
 b) tvoria hydroxidy
 c) sú silné redukovadlá
 d) ľahko odovzdávajú valenčné elektróny a tvoria katióny
@@ -2362,14 +2362,14 @@ h) sú v zlúčeninách viazané väčšinou iónovou väzbou
 a) majú vysoké teploty topenia a varu (okrem Hg)
 b) môžu byť ligandmi v koordinačných zlúčeninách
 c) dobre vedú teplo a elektrický prúd
-d) podľa oxidačného čísla majú ich zlúčeniny v roztokoch rôzne sfarbenie, napr. zlúčeniny CrVI sú žlté a zlúčeniny CrIII sú zelené
+d) podľa oxidačného čísla majú ich zlúčeniny v roztokoch rôzne sfarbenie, napr. zlúčeniny Cr<sup>VI</sup> sú žlté a zlúčeniny Cr<sup>III</sup> sú zelené
 e) nazývajú sa tiež neprechodné prvky
 f) mnohé d prvky a ich zlúčeniny pôsobia ako katalyzátory chemických reakcií
 g) patria medzi kovy alkalických zemín
 h) v zlúčeninách môžu mať ich atómy rôzne oxidačné čísla
 
 238. Medzi d prvky patria:
-a) prvky, ktorých atómy majú elektróny v orbitáloch ns a tiež v orbitáloch (n - 1)d1-10, kde: n = 4 - 7
+a) prvky, ktorých atómy majú elektróny v orbitáloch ns a tiež v orbitáloch (n - 1)d<sup>1-10</sup>, kde: n = 4 - 7
 b) prechodné prvky
 c) prvky, ktorých katióny sú vo vodných roztokoch prevažne bezfarebné
 d) napr. N, O, S, Cl
@@ -2389,26 +2389,26 @@ g) môžu byť donormi elektrónov v koordinačných zlúčeninách
 h) ióny a zlúčeniny d prvkov sú väčšinou farebné
 
 240. Vyberte neutrálne molekuly alebo ióny, ktoré môžu byť ligandmi v komplexných zlúčeninách:
-a) H2, Na+, CO32-
-b) F-, Cl-, CN
-c) H2O, NH3, CO
+a) H<sub>2</sub>, Na<sup>+</sup>, CO<sub>3</sub><sup>2-</sup>
+b) F<sup>-</sup>, Cl<sup>-</sup>, CN<sup>-</sup>
+c) H<sub>2</sub>O, NH<sub>3</sub>, CO
 d) všetky tie, ktoré môžu byť akceptormi elektrónov
-e) CN-, OH-, I
-f) Br-, H2O, CO
-g) O22-, S2-, SCN
-h) O22-, H3O+, CH4
+e) CN<sup>-</sup>, OH<sup>-</sup>, I<sup>-</sup>
+f) Br<sup>-</sup>, H<sub>2</sub>O, CO
+g) O<sub>2</sub><sup>2-</sup>, S<sup>2-</sup>, SCN<sup>-</sup>
+h) O<sub>2</sub><sup>2-</sup>, H<sub>3</sub>O<sup>+</sup>, CH<sub>4</sub>
 
-241. V komplexnej zlúčenine [Ni(NH3)6](NO3)2:
-a) je ligandom katión [Ni(NH3)6]2+
-b) sú ligandmi molekuly NH3
-c) sú ligandmi anióny NO3-
+241. V komplexnej zlúčenine [Ni(NH<sub>3</sub>)<sub>6</sub>](NO<sub>3</sub>)<sub>2</sub>:
+a) je ligandom katión [Ni(NH<sub>3</sub>)<sub>6</sub>]<sup>2+</sup>
+b) sú ligandmi molekuly NH<sub>3</sub>
+c) sú ligandmi anióny NO<sub>3</sub><sup>-</sup>
 d) je atóm niklu donorom elektrónového páru
 e) je nikel centrálnym atómom
 f) je oxidačné číslo centrálneho atómu II
 g) má centrálny atóm koordinačné číslo 6
-h) sa anión NO3- viaže koordinačnou väzbou na centrálny atóm
+h) sa anión NO<sub>3</sub><sup>-</sup> viaže koordinačnou väzbou na centrálny atóm
 
-242. Ak sú molekuly H2O, NH3 a CO ligandami v komplexných zlúčeninách, vo vzorcoch ich čítame:
+242. Ak sú molekuly H<sub>2</sub>O, NH<sub>3</sub> a CO ligandami v komplexných zlúčeninách, vo vzorcoch ich čítame:
 a) akvo, ammo, karboxyl
 b) hydro, ammin, karboxyl
 c) akva, amino, karbo
@@ -2434,39 +2434,39 @@ b) prvky skupiny železa (tzv. triáda železa) sa nachádzajú v šiestej (dlhe
 c) železo patrí medzi ušľachtilé kovy
 d) atómy kobaltu a niklu môžu na väzby s atómami iných prvkov využiť okrem ns orbitálu aj (n - 1)d orbitály
 e) železo môže tvoriť zlúčeniny: sulfidy a halogenidy
-f) vo vodnom roztoku ľahko prebieha úplná ionizácia uvedenej zlúčeniny podľa rovnice: K2[Ni(CN)4] <--> 2 K+ + Ni2+ + 4 CN
-g) po rozpustení zlúčeniny FeSO4. 7 H2O vo vode dostaneme intenzívne modro sfarbený roztok
-h) pri procese hrdzavenia železa prebieha reakcia, ktorú možno vyjadriť rovnicou: 4 Fe + 2 H2O + 3 O2 <--> 2 Fe2O3. H2O 
+f) vo vodnom roztoku ľahko prebieha úplná ionizácia uvedenej zlúčeniny podľa rovnice: K<sub>2</sub>[Ni(CN)<sub>4</sub>] <--> 2 K<sup>+</sup> + Ni<sup>2+</sup> + 4 CN<sup>-</sup>
+g) po rozpustení zlúčeniny FeSO<sub>4</sub>. 7 H<sub>2</sub>O vo vode dostaneme intenzívne modro sfarbený roztok
+h) pri procese hrdzavenia železa prebieha reakcia, ktorú možno vyjadriť rovnicou: 4 Fe + 2 H<sub>2</sub>O + 3 O<sub>2</sub> <--> 2 Fe<sub>2</sub>O<sub>3</sub>. H<sub>2</sub>O 
 
-245. V komplexnej zlúčenine Na3[Sc(OH)6]:
+245. V komplexnej zlúčenine Na<sub>3</sub>[Sc(OH)<sub>6</sub>]:
 a) je atóm sodíka akceptorom elektrónov
 b) je koordinačné číslo centrálneho atómu 6
-c) je ligandom katión Sc3+
-d) ligandmi sú anióny OH
+c) je ligandom katión Sc<sup>3+</sup>
+d) ligandmi sú anióny OH<sup>-</sup>
 e) je atóm skandia akceptorom elektrónov
 f) je oxidačné číslo atómu skandia II
 g) má centrálny atóm oxidačné číslo III
-h) je anión OH- centrálnym atómom
+h) je anión OH<sup>-</sup> centrálnym atómom
 
 246. Vyberte, ktoré oxidačné číslo centrálneho atómu je pre danú koordinačnú zlúčeninu uvedené správne:
-a) IV v (NH4)2[Ce(NO3)6]
-b) II v K3[Co(CN)6]
-c) III v [Fe(H2O)6]Cl2
-d) IV v Cs2[Pt(OH)6]
-e) II v [Pt(NH3)6]Cl4
-f) I v K[Au(CN)2]
-g) I v [Cu(H2O)4]SO4
-h) II v K2[Ni(CN)4]
+a) IV v (NH<sub>4</sub>)<sub>2</sub>[Ce(NO<sub>3</sub>)<sub>6</sub>]
+b) II v K<sub>3</sub>[Co(CN)<sub>6</sub>]
+c) III v [Fe(H<sub>2</sub>O)<sub>6</sub>]Cl<sub>2</sub>
+d) IV v Cs<sub>2</sub>[Pt(OH)<sub>6</sub>]
+e) II v [Pt(NH<sub>3</sub>)<sub>6</sub>]Cl<sub>4</sub>
+f) I v K[Au(CN)<sub>2</sub>]
+g) I v [Cu(H<sub>2</sub>O)<sub>4</sub>]SO<sub>4</sub>
+h) II v K<sub>2</sub>[Ni(CN)<sub>4</sub>]
 
 247. Medzi molekuly obsahujúce koordinačnú väzbu patria:
 a) žlčové kyseliny a žlčové farbivá
-b) hemoglobín a vitamín B12
-c) vitamín B12 a myoglobín
+b) hemoglobín a vitamín B<sub>12</sub>
+c) vitamín B<sub>12</sub> a myoglobín
 d) myoglobín a chlorofyl
 e) vitamín A a bilirubín
 f) vitamín D a riboflavín
 g) chlorofyl a hemoglobín
-h) purínové zásady a vitamín B6
+h) purínové zásady a vitamín B<sub>6</sub>
 
 248. O elektrónovej konfigurácii atómu platí:
 a) je usporiadanie elektrónov v elektrónovom obale atómu v jednotlivých orbitáloch
@@ -2491,7 +2491,7 @@ h) ródium a irídium môžu tvoriť kamence, v ktorých majú ich atómy oxida�
 250. O komplexných zlúčeninách platí:
 a) centrálnymi atómami sú prevažne prvky I.A (1.) skupiny periodickej sústavy prvkov
 b) komplex môže byť katión, anión alebo neutrálny
-c) centrálny atóm je najčastejšie molekula, napr. NH3, H2O, alebo ión, napr. Cl-, CN
+c) centrálny atóm je najčastejšie molekula, napr. NH<sub>3</sub>, H<sub>2</sub>O, alebo ión, napr. Cl<sup>-</sup>, CN<sup>-</sup>
 d) centrálny atóm má voľný elektrónový pár
 e) donormi elektrónov sú ligandy
 f) medzi centrálnym atómom a ligandami je koordinačná väzba
