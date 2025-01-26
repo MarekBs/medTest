@@ -2226,7 +2226,7 @@ d) v zlúčeninách má atóm hliníka oxidačné čísla III a V
 e) môže sa nachádzať v komplexných zlúčeninách, napr. hexafluorohlinitan sodný, tetrahydroxohlinitan lítny
 f) v zlúčenine Al(HSO<sub>4</sub>)<sub>3</sub> má atóm hliníka oxidačné číslo I
 g) vyrába sa elektrolýzou taveniny Al<sub>2</sub>O<sub>3</sub>s kryolitom
-h) pri zohrievaní na vzduchu reaguje podľa rovnice: 4 Al + 3 O<sub>2</sub> → 2 Al<sub>2</sub>O<sub>3</sub>
+h) pri zohrievaní na vzduchu reaguje podľa rovnice: 4 Al + 3 O<sub>2</sub> &#x27F6; 2 Al<sub>2</sub>O<sub>3</sub>
 
 224. Hliník:
 a) má veľkú redukčnú schopnosť
@@ -2251,9 +2251,9 @@ h) patria medzi prvky s vysokou hodnotou elektronegativity
 226. O alkalických kovoch môžeme tvrdiť:
 a) katióny alkalických kovov M<sup>+</sup> majú elektrónovú konfiguráciu predchádzajúceho vzácneho plynu
 b) sú pomerne mäkké a dajú sa krájať nožom
-c) ich atómy sa ľahko redukujú na ióny podľa všeobecnej rovnice: M + e → M<sup>-</sup>
+c) ich atómy sa ľahko redukujú na ióny podľa všeobecnej rovnice: M + e &#x27F6; M<sup>-</sup>
 d) ich atómy majú v zlúčeninách oxidačné číslo I
-e) ich atómy sa oxidujú na ióny podľa všeobecnej rovnice: M → M<sup>2+</sup> + 2e
+e) ich atómy sa oxidujú na ióny podľa všeobecnej rovnice: M &#x27F6; M<sup>2+</sup> + 2e
 f) v zlúčeninách sa ich atómy vyskytujú ako anióny
 g) všetky izotopy francia sú rádioaktívne
 h) ich oxidy sú zásadotvorné
@@ -2285,7 +2285,7 @@ c) patria medzi prvky s nízkou hodnotou elektronegativity
 d) v prírode sa nachádzajú voľné aj viazané v zlúčeninách
 e) sú reaktívnejšie ako prvky umiestnené v II.B (12.) skupine periodickej sústavy prvkov
 f) sú silné oxidovadlá
-g) majú atómy, ktoré sa môžu oxidovať podľa všeobecnej rovnice: M → M<sup>2+</sup> + 2e
+g) majú atómy, ktoré sa môžu oxidovať podľa všeobecnej rovnice: M &#x27F6; M<sup>2+</sup> + 2e
 h) tvoria zlúčeniny, ktoré sú všetky rozpustné vo vode
 
 230. Pre prvky s platí:
@@ -2500,35 +2500,35 @@ h) centrálny atóm je akceptorom elektrónov
 
 251. Pre atómy prvkov I.B (11.) skupiny a ich zlúčeniny platí:
 a) atómy striebra majú v zlúčeninách oxidačné číslo I a atómy zlata I a III
-b) katióny Cu+ a Cu2+ môžu byť súčasťou komplexných zlúčenín
+b) katióny Cu<sup>+</sup> a Cu<sup>2+</sup> môžu byť súčasťou komplexných zlúčenín
 c) atómy prvkov I.B (11.) skupiny majú vo valenčnej vrstve (n) jeden s a jeden p elektrón
 d) atómy prvkov I.B (11.) skupiny sa od atómov prvkov I.A (1.) skupiny líšia tým, že v predposlednej elektrónovej vrstve (n-1) nemajú iba oktet, ale majú aj 10 d elektrónov. Vo valenčnej vrstve (n) majú rovnako jeden elektrón
-e) zastúpenie zlata v zliatinách sa udáva v karátoch - rýdze zlato má 585 karátov
-f) strieborné predmety v prostredí sulfánu na vzduchu postupne očernejú, pretože prebieha reakcia: 4 Ag + 2 H2S + O2 &#10230 2 Ag2S + 2 H2O 
+e) zastúpenie zlata v zliatinách sa udáva v karátoch – rýdze zlato má 585 karátov
+f) strieborné predmety v prostredí sulfánu na vzduchu postupne očernejú, pretože prebieha reakcia: 4 Ag + 2 H<sub>2</sub>S + O<sub>2</sub> &#x27F6; 2 Ag<sub>2</sub>S + 2 H<sub>2</sub>O
 g) halogenidy strieborné sú citlivé na svetlo, čo sa využíva vo fotografii (hlavne AgBr)
-h) v zlúčenine Na[AuCl4]. 2 H2O má centrálny atóm oxidačné číslo IV a koordinačné číslo 3
+h) v zlúčenine Na[AuCl<sub>4</sub>]·2 H<sub>2</sub>O má centrálny atóm oxidačné číslo IV a koordinačné číslo 3
 
 252. Pre meď a jej zlúčeniny platí:
-a) v zlúčenine Na2[Cu(OH)4] má atóm medi koordinačné číslo 2 a oxidačné číslo I
+a) v zlúčenine Na<sub>2</sub>[Cu(OH)<sub>4</sub>] má atóm medi koordinačné číslo 2 a oxidačné číslo I
 b) atóm medi s oxidačným číslom II nemôže byť centrálnym atómom v komplexných zlúčeninách
-c) síran meďnatý je súčasťou Fehlingovho činidla na dôkaz redukčných vlastností organických látok (napr. monosacharidov), pričom dochádza k reakcii: Cu2+ + e &#10230 Cu1+
+c) síran meďnatý je súčasťou Fehlingovho činidla na dôkaz redukčných vlastností organických látok (napr. monosacharidov), pričom dochádza k reakcii: Cu<sup>2+</sup> + e &#x27F6; Cu<sup>1+</sup>
 d) meď a striebro nevedú elektrický prúd
 e) mnohé meďnaté zlúčeniny sa rozpúšťajú vo vode za vzniku modrých roztokov
 f) v zlúčeninách majú atómy medi oxidačné čísla I a II
-g) zlúčenina CuSO4. 5H2O sa tiež nazýva modrá skalica
-h) zlúčenina Cu2S sa nazýva sulfid meďnatý
+g) zlúčenina CuSO<sub>4</sub>·5 H<sub>2</sub>O sa tiež nazýva modrá skalica
+h) zlúčenina Cu<sub>2</sub>S sa nazýva sulfid meďnatý
 
 253. Pre prvky II.B (12.) skupiny a ich zlúčeniny platí:
 a) zlúčeniny ortuti nie sú pre ľudský organizmus toxické, toxická je len kovová ortuť
 b) atómy prvkov II.B (12.) skupiny, podobne ako atómy prvkov II.A (2.) skupiny, majú v predposlednej vrstve (n-1) osem elektrónov
-c) ortuť môže mať v zlúčeninách oxidačné číslo I, napr. Hg2Cl2 (kalomel), alebo II, napr. HgCl2 (sublimát)
+c) ortuť môže mať v zlúčeninách oxidačné číslo I, napr. Hg<sub>2</sub>Cl<sub>2</sub> (kalomel), alebo II, napr. HgCl<sub>2</sub> (sublimát)
 d) atómy prvkov II.B (12.) skupiny majú valenčné elektróny rozmiestnené vo vrstvách K, L, M a N
 e) ortuť tvorí zliatinu s hliníkom a železom, ktorá sa nazýva alpaka
 f) atómy prvkov II.B (12.) skupiny majú v ns orbitáloch dva s elektróny a vo vrstve (n-1) majú 18 elektrónov
-g) kadmium môže reagovať s kyselinou chlorovodíkovou podľa rovnice: Cd + 2 HCl &#10230 CdCl2 + H2
+g) kadmium môže reagovať s kyselinou chlorovodíkovou podľa rovnice: Cd + 2 HCl &#x27F6; CdCl<sub>2</sub> + H<sub>2</sub>
 h) atómy prvkov II.B (12.) skupiny majú menšie atómové polomery ako atómy prvkov II.A (2.) skupiny v tej istej perióde a sú aj menej reaktívne
 
-254. Označte správne názvy zlúčenín [Fe(H2O)6]Cl2 a Cs2[Pt(OH)6]:
+254. Označte správne názvy zlúčenín [Fe(H<sub>2</sub>O)<sub>6</sub>]Cl<sub>2</sub> a Cs<sub>2</sub>[Pt(OH)<sub>6</sub>]:
 a) chlorid hexaakvoželeznatý, hexaakvaplatičitan cézny
 b) chlorid hexaakvaželezitý, hexaakvaplatičitan cézny
 c) chlorid hexaakvaželeznatý, hexahydroxoplatičitan cézny
@@ -2539,7 +2539,7 @@ g) hexaakvaželeznatan chlórny, hexahydroxoplatičitan cézny
 h) chlorid hexaakvaželezitý, hexahydroxiplatnatan céznatý
 
 255. O rádioaktivite platí tvrdenie:
-a) vonkajšie podmienky nemôžu ovplyvniť typ rádioaktívneho žiarenia (, ß alebo γ)
+a) vonkajšie podmienky nemôžu ovplyvniť typ rádioaktívneho žiarenia (α, ß alebo γ)
 b) lúče α, ß a γ sa nelíšia v tom, ako sa správajú v elektrickom a magnetickom poli
 c) nezávisí od toho, či je atóm súčasťou prvku alebo zlúčeniny
 d) rádioaktivitu možno charakterizovať aj dobou polovičného rozpadu (polčas rozpadu), v ktorej počet pôvodných rádioaktívnych atómov sa zníži na polovicu
@@ -2554,7 +2554,7 @@ b) žiarenie ß je prúd elektrónov, ktoré môže zadržať vrstva olova hrúb
 c) žiarenie γ je elektromagnetické vlnenie s veľmi krátkou vlnovou dĺžkou (0,5 - 40 pm)
 d) žiarenie γ je najmenej prenikavou časťou jadrového žiarenia
 e) žiarenia α, ß a γ sa líšia správaním sa v elektrickom a magnetickom poli
-f) po vyžiarení častice  vznikne atóm prvku, ktorý má protónové číslo nižšie o dve a nukleónové číslo nižšie o štyri, ako mal pôvodný atóm
+f) po vyžiarení častice α vznikne atóm prvku, ktorý má protónové číslo nižšie o dve a nukleónové číslo nižšie o štyri, ako mal pôvodný atóm
 g) žiarenie α je prúd rýchlych jadier atómov hélia a v magnetickom poli sa odchyľuje ako prúd kladných nábojov
 h) žiarenie γ má rovnakú energiu ako svetelné žiarenie
 
@@ -2568,17 +2568,17 @@ f) lúče ß sa v magnetickom poli odchyľujú ako prúd záporných nábojov
 g) žiarenie ß je prenikavejšie ako žiarenie α
 h) žiarenie gama je spojené s tvorbou nového prvku, ktorý bude v periodickej sústave prvkov umiestnený dve miesta vpravo oproti pôvodnému prvku
 
-258. Zo skúmaného roztoku chloridu draselného sme vyzrážali ióny Cl- dusičnanom strieborným v podobe chloridu strieborného. Hmotnosť odfiltrovaného a vysušeného AgCl bola 0,26 g. Vypočítajte obsah Cl- v skúmanej vzorke. Ar(K) = 39; Ar(Cl) = 35,5; Ar(Ag) = 107,9
+258. Zo skúmaného roztoku chloridu draselného sme vyzrážali ióny Cl<sup>-</sup> dusičnanom strieborným v podobe chloridu strieborného. Hmotnosť odfiltrovaného a vysušeného AgCl bola 0,26 g. Vypočítajte obsah Cl<sup>-</sup> v skúmanej vzorke. A<sub>r</sub>(K) = 39; A<sub>r</sub>(Cl) = 35,5; A<sub>r</sub>(Ag) = 107,9
 a) 0,164 g
 b) 180 mg
 c) 64 mg
 d) 18 mmol
-e) 6,4 . 10-3 mol
+e) 6,4 · 10<sup>-3</sup> mol
 f) 640 mg
-g) 1,8 . 10-3 mol
+g) 1,8 · 10<sup>-3</sup> mol
 h) 180 mmol
 
-259. Pacientovi sa pri vyšetrení žalúdka odobralo sondou behom 30 minút 45 ml žalúdkovej šťavy. Do kadičky sme z nej odobrali 5 ml, doplnili destilovanou vodou do objemu 20 ml a neutralizovali pridaním 4 ml roztoku hydroxidu sodného s koncentráciou c = 0,5 mol.l-1. Vypočítajte, aká bola sekrécia žalúdkovej kyseliny. Mr(HCl) = 36,5
+259. Pacientovi sa pri vyšetrení žalúdka odobralo sondou behom 30 minút 45 ml žalúdkovej šťavy. Do kadičky sme z nej odobrali 5 ml, doplnili destilovanou vodou do objemu 20 ml a neutralizovali pridaním 4 ml roztoku hydroxidu sodného s koncentráciou c = 0,5 mol.l<sup>-1</sup>. Vypočítajte, aká bola sekrécia žalúdkovej kyseliny. Mr(HCl) = 36,5
 a) 25 mmol HCl/hod
 b) 0,18 mol HCl/hod
 c) 0,036 g HCl/hod
@@ -2608,15 +2608,15 @@ f) 23,6 mol
 g) 480 g
 h) 1,8 mol
 
-262. 25 litrov 80 %-nej (w %) kyseliny sírovej ( = 1,70 kg.l-1) sa má zriediť na 16 %-ný roztok. Vypočítajte, aký objem vody ( = 1,0 kg.l-1) je potrebné pridať.
-a) 1,7.104 cm3
+262. 25 litrov 80 %-nej (w %) kyseliny sírovej (ρ = 1,70 kg·l<sup>-1</sup>) sa má zriediť na 16 %-ný roztok. Vypočítajte, aký objem vody (ρ = 1,0 kg·l<sup>-1</sup>) je potrebné pridať.
+a) 1,7·10<sup>4</sup> cm<sup>3</sup>
 b) 125 ml
-c) 1,7.102 litra
-d) 125.104 ml
-e) 17.104 cm3
+c) 1,7·10<sup>2</sup> litra
+d) 125·10<sup>4</sup> ml
+e) 17·10<sup>4</sup> cm<sup>3</sup>
 f) 0,27 hl
-g) 1,25.103 dm3
-h) 2,7.102 dm3
+g) 1,25·10<sup>3</sup> dm<sup>3</sup>
+h) 2,7·10<sup>2</sup> dm<sup>3</sup>
 
 263. Vypočítajte výťažok kryštalizácie, ak 900 g roztoku chloridu draselného nasýteného pri teplote 75 °C ochladíme na 0 °C. Rozpustnosť chloridu draselného pri teplote 75 °C je 50 g v 100 g vody a pri teplote 0 °C je 26 g v 100 g vody.
 a) 114,3 g
@@ -2639,26 +2639,26 @@ g) 36 %
 h) 39 %
 
 265. Máme 200 g 25 %-ného roztoku chloridu amónneho. Vypočítajte, akú hmotnosť vody je potrebné odpariť alebo pridať, aby sme pri teplote 90 °C získali nasýtený roztok. Rozpustnosť chloridu amónneho pri teplote 90 °C je 65 g v 100 g vody.
-a) pridať 53,38 g 
-b) odpariť 43,28 g 
-c) odpariť 73,08 g 
-d) pridať 123,08 g 
-e) pridať 12,31 g 
-f) odpariť 50,08 g 
-g) odpariť 14,60 g 
-h) pridať 23,13 g 
+a) pridať 53,38 g
+b) odpariť 43,28 g
+c) odpariť 73,08 g
+d) pridať 123,08 g
+e) pridať 12,31 g
+f) odpariť 50,08 g
+g) odpariť 14,60 g
+h) pridať 23,13 g
 
-266. Koľko gramov vody treba odpariť z 1 kg 35 %-ného roztoku síranu zinočnatého, aby sme získali pri teplote 40 °C nasýtený roztok a koľko g ZnSO4vykryštalizuje, keď potom tento roztok ochladíme na teplotu 10 °C? Rozpustnosť síranu zinočnatého pri teplote 40 °C je 70 g v 100 g vody a pri teplote 10 °C je 47 g v 100 g vody.
+266. Koľko gramov vody treba odpariť z 1 kg 35 %-ného roztoku síranu zinočnatého, aby sme získali pri teplote 40 °C nasýtený roztok, a koľko g ZnSO<sub>4</sub> vykryštalizuje, keď potom tento roztok ochladíme na teplotu 10 °C? Rozpustnosť síranu zinočnatého pri teplote 40 °C je 70 g v 100 g vody a pri teplote 10 °C je 47 g v 100 g vody.
 a) odpariť 175 g vody
-b) vykryštalizuje 135 g ZnSO4
+b) vykryštalizuje 135 g ZnSO<sub>4</sub>
 c) odpariť 150 g vody
 d) odpariť 50 g vody
-e) vykryštalizuje 85 g ZnSO4
-f) vykryštalizuje 115 g ZnSO4
+e) vykryštalizuje 85 g ZnSO<sub>4</sub>
+f) vykryštalizuje 115 g ZnSO<sub>4</sub>
 g) odpariť 125 g vody
-h) vykryštalizuje 205 g ZnSO4
+h) vykryštalizuje 205 g ZnSO<sub>4</sub>
 
-267. Vypočítajte, v akom množstve vody treba rozpustiť 100 g dekahydrátu uhličitanu sodného, aby pri teplote 20 °C vznikol nasýtený roztok. Rozpustnosť uhličitanu sodného pri teplote 20 °C je 18 g v 100 g roztoku. Ar(H) =1; Ar(C) = 12; Ar(O) = 16; Ar(Na) = 23
+267. Vypočítajte, v akom množstve vody treba rozpustiť 100 g dekahydrátu uhličitanu sodného, aby pri teplote 20 °C vznikol nasýtený roztok. Rozpustnosť uhličitanu sodného pri teplote 20 °C je 18 g v 100 g roztoku. A<sub>r</sub>(H) = 1; A<sub>r</sub>(C) = 12; A<sub>r</sub>(O) = 16; A<sub>r</sub>(Na) = 23.
 a) 52,8 g
 b) 76,9 g
 c) 98,8 g
@@ -2669,34 +2669,34 @@ g) 155,9 g
 h) 64,6 g
 
 268. Jeden nmol je:
-a) 103 pmol
-b) 109 mol
-c) 10-6 mmol
-d) 103 mmol
-e) 10-9 mol
-f) 106 fmol
-g) 10-3 pmol
-h) 10-3 µmol
+a) 10<sup>3</sup> pmol
+b) 10<sup>9</sup> mol
+c) 10<sup>-6</sup> mmol
+d) 10<sup>3</sup> mmol
+e) 10<sup>-9</sup> mol
+f) 10<sup>6</sup> fmol
+g) 10<sup>-3</sup> pmol
+h) 10<sup>-3</sup> µmol
 
-269. V 250 g vody rozpustíme 35 g NaNO3. Potom platí:
+269. V 250 g vody rozpustíme 35 g NaNO<sub>3</sub>. Potom platí:
 a) získame 14 %-ný (w/w) roztok
 b) získame 12,28 %-ný (w/w) roztok
 c) získame 35 %-ný (w/w) roztok
-d) 140 g NaNO3 je v 1 kg roztoku
-e) 12,28 mg NaNO3 je v 0,100 g roztoku
-f) 24,56 g NaNO3 je v 250 g roztoku
-g) 14 g NaNO3 je v 1 l vody
-h) 368,4 g NaNO3 je v 3 kg roztoku
+d) 140 g NaNO<sub>3</sub> je v 1 kg roztoku
+e) 12,28 mg NaNO<sub>3</sub> je v 0,100 g roztoku
+f) 24,56 g NaNO<sub>3</sub> je v 250 g roztoku
+g) 14 g NaNO<sub>3</sub> je v 1 l vody
+h) 368,4 g NaNO<sub>3</sub> je v 3 kg roztoku
 
-270. Roztok CH3CH2OH, ktorého objemový zlomok  (CH3CH2OH) = 0,16, obsahuje:
-a) 16 ml CH3CH2OH v 1000 ml roztoku
-b) 16 ml CH3OH v 100 ml roztoku
-c) 0,16 ml CH3CH2OH v 1 ml roztoku
-d) 20 ml metanolu v 105 ml H2O
-e) 10 ml CH3CH2OH v 100 ml roztoku
-f) 40 ml CH3CH2OH v 250 ml roztoku 
-g) 16 ml CH3CH2OH v 84 ml vody
-h) 40 ml CH3CH2OH v 200 ml vody
+270. Roztok CH<sub>3</sub>CH<sub>2</sub>OH, ktorého objemový zlomok φ(CH<sub>3</sub>CH<sub>2</sub>OH) = 0,16, obsahuje:
+a) 16 ml CH<sub>3</sub>CH<sub>2</sub>OH v 1000 ml roztoku
+b) 16 ml CH<sub>3</sub>OH v 100 ml roztoku
+c) 0,16 ml CH<sub>3</sub>CH<sub>2</sub>OH v 1 ml roztoku
+d) 20 ml metanolu v 105 ml H<sub>2</sub>O
+e) 10 ml CH<sub>3</sub>CH<sub>2</sub>OH v 100 ml roztoku
+f) 40 ml CH<sub>3</sub>CH<sub>2</sub>OH v 250 ml roztoku
+g) 16 ml CH<sub>3</sub>CH<sub>2</sub>OH v 84 ml vody
+h) 40 ml CH<sub>3</sub>CH<sub>2</sub>OH v 200 ml vody
 
 271. Roztok KCl, ktorého hmotnostný zlomok w(KCl) = 0,03, obsahuje:
 a) 3 g KCl v 97 g H2O
