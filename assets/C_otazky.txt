@@ -2578,7 +2578,7 @@ f) 640 mg
 g) 1,8 · 10<sup>-3</sup> mol
 h) 180 mmol
 
-259. Pacientovi sa pri vyšetrení žalúdka odobralo sondou behom 30 minút 45 ml žalúdkovej šťavy. Do kadičky sme z nej odobrali 5 ml, doplnili destilovanou vodou do objemu 20 ml a neutralizovali pridaním 4 ml roztoku hydroxidu sodného s koncentráciou c = 0,5 mol.l<sup>-1</sup>. Vypočítajte, aká bola sekrécia žalúdkovej kyseliny. Mr(HCl) = 36,5
+259. Pacientovi sa pri vyšetrení žalúdka odobralo sondou behom 30 minút 45 ml žalúdkovej šťavy. Do kadičky sme z nej odobrali 5 ml, doplnili destilovanou vodou do objemu 20 ml a neutralizovali pridaním 4 ml roztoku hydroxidu sodného s koncentráciou c = 0,5 mol.l<sup>-1</sup>. Vypočítajte, aká bola sekrécia žalúdkovej kyseliny. <sub>r</sub>HCl) = 36,5
 a) 25 mmol HCl/hod
 b) 0,18 mol HCl/hod
 c) 0,036 g HCl/hod
@@ -2598,7 +2598,7 @@ f) 18,5 %
 g) 20,2 %
 h) 32,0 %
 
-261. Koľko vody treba odpariť zo 600 g 3,5 %-ného (w %) roztoku chloridu sodného, aby sme získali 12 %-ný (w %) roztok NaCl? Mr(NaCl) = 58; Mr(H2O) = 18
+261. Koľko vody treba odpariť zo 600 g 3,5 %-ného (w %) roztoku chloridu sodného, aby sme získali 12 %-ný (w %) roztok NaCl? <sub>r</sub>NaCl) = 58; <sub>r</sub>H2O) = 18
 a) 175 g
 b) 28,3 mol
 c) 3,5 mol
@@ -2699,7 +2699,7 @@ g) 16 ml CH<sub>3</sub>CH<sub>2</sub>OH v 84 ml vody
 h) 40 ml CH<sub>3</sub>CH<sub>2</sub>OH v 200 ml vody
 
 271. Roztok KCl, ktorého hmotnostný zlomok w(KCl) = 0,03, obsahuje:
-a) 3 g KCl v 97 g H2O
+a) 3 g KCl v 97 g H<sub>2</sub>O
 b) 3 g KCl v 1000 ml roztoku
 c) 0,01 g KCl v 0,1 kg roztoku
 d) 0,003 g KCl v 10 g roztoku
@@ -2708,7 +2708,7 @@ f) 3 g KCl v 100 g roztoku
 g) 6 g KCl v 200 g vody
 h) 6 g KCl v 200 ml vody
 
-272. Koľko hmotnostných percent jednotlivých prvkov obsahuje tiomočovina? Ar(N) = 14; Ar(H) = 1; Ar(C) = 12; Ar(O) = 16; Ar(S) = 32
+272. Koľko hmotnostných percent jednotlivých prvkov obsahuje tiomočovina? A<sub>r</sub>(N) = 14; A<sub>r</sub>(H) = 1; A<sub>r</sub>(C) = 12; A<sub>r</sub>(O) = 16; A<sub>r</sub>(S) = 32
 a) 20,10 % C
 b) 36,84 % N
 c) 36,66 % S
@@ -2718,287 +2718,287 @@ f) 5,26 % H
 g) 26,66 % O
 h) 42,11 % S
 
-273. Na prípravu 250 cm3 nasýteného roztoku jodičnanu strieborného použijeme 0,011 g AgIO3. Vypočítajte konštantu rozpustnosti (KS) tejto soli. Aká je koncentrácia iónov v roztoku? Mr(AgIO3) = 282
-a) KS = 2,43.10-4
-b) KS = 1,56.10-4
-c) KS = 2,43.10-8
-d) KS = 3,79.10-8
-e) [Ag+] = 2,43 mmol/l
-f) [Ag+]= 0,156 mmol/l
-g) [IO3-] = 1,56.10-4 mol/l
-h) [IO4-] = 1,56.10-4 mol/l
+273. Na prípravu 250 cm<sup>3</sup> nasýteného roztoku jodičnanu strieborného použijeme 0,011 g AgIO<sub>3</sub>. Vypočítajte konštantu rozpustnosti (K<sub>S</sub>) tejto soli. Aká je koncentrácia iónov v roztoku? M<sub>r</sub>(AgIO<sub>3</sub>) = 282
+a) K<sub>S</sub> = 2,43·10<sup>-4</sup>
+b) K<sub>S</sub> = 1,56·10<sup>-4</sup>
+c) K<sub>S</sub> = 2,43·10<sup>-8</sup>
+d) K<sub>S</sub> = 3,79·10<sup>-8</sup>
+e) [Ag<sup>+</sup>] = 2,43 mmol/l
+f) [Ag<sup>+</sup>] = 0,156 mmol/l
+g) [IO<sub>3</sub><sup>-</sup>] = 1,56·10<sup>-4</sup> mol/l
+h) [IO<sub>4</sub><sup>-</sup>] = 1,56·10<sup>-4</sup> mol/l
 
-274. Súčin rozpustnosti bromidu strieborného je 3,6.10-13. Koľko g Ag a Br v podobe iónov obsahuje 1 liter nasýteného roztoku tejto soli? Aká je koncentrácia iónov v roztoku? Ar(Ag) = 108; Ar(Br) = 80
-a) c(Ag+) = 6,48.10-5 mol/l
-b) c(Ag+) = 6.10-7 mol/l
-c) 6,48.10-5 g Ag+ v litri nasýteného roztoku
-d) 6,48.10-5 g Br- v litri nasýteného roztoku
-e) 4,8.10-5 g Br- v litri nasýteného roztoku
-f) c(Br-) = 6.10-4 mmol/l
-g) c(Br-) = 6,48.10-5 mol/l
-h) c(Ag+) = 3,6.10-13 mol/l
+274. Súčin rozpustnosti bromidu strieborného je 3,6·10<sup>-13</sup>. Koľko g Ag a Br v podobe iónov obsahuje 1 liter nasýteného roztoku tejto soli? Aká je koncentrácia iónov v roztoku? A<sub>r</sub>(Ag) = 108; A<sub>r</sub>(Br) = 80
+a) c(Ag<sup>+</sup>) = 6,48·10<sup>-5</sup> mol/l
+b) c(Ag<sup>+</sup>) = 6·10<sup>-7</sup> mol/l
+c) 6,48·10<sup>-5</sup> g Ag<sup>+</sup> v litri nasýteného roztoku
+d) 6,48·10<sup>-5</sup> g Br<sup>-</sup> v litri nasýteného roztoku
+e) 4,8·10<sup>-5</sup> g Br<sup>-</sup> v litri nasýteného roztoku
+f) c(Br<sup>-</sup>) = 6·10<sup>-4</sup> mmol/l
+g) c(Br<sup>-</sup>) = 6,48·10<sup>-5</sup> mol/l
+h) c(Ag<sup>+</sup>) = 3,6·10<sup>-13</sup> mol/l
 
-275. Nasýtený vodný roztok hydroxidu strieborného sa pripravil rozpúšťaním oxidu strieborného vo vode. Po ustálení rovnováhy bolo pH roztoku 9,5. Vypočítajte konštantu rozpustnosti (KS) hydroxidu strieborného za daných podmienok. Aká je koncentrácia jednotlivých iónov v roztoku? (antilogaritmus -4,5 = 3,16.10-5)
-a) KS= 3,16.10-10
-b) KS= 6,32.10-10
-c) KS= 9,99.10-12
-d) KS= 9,99.10-10
-e) c(Ag+) = 6,32.10-5 mol/l
-f) c(Ag+) = 3,16.10-2 mmol/l
-g) c(OH-) = 3,16.10-5 mol/l
-h) c(OH-) = 3,16.10-2 mol/l
+275. Nasýtený vodný roztok hydroxidu strieborného sa pripravil rozpúšťaním oxidu strieborného vo vode. Po ustálení rovnováhy bolo pH roztoku 9,5. Vypočítajte konštantu rozpustnosti (K<sub>S</sub>) hydroxidu strieborného za daných podmienok. (antilogaritmus -4,5 = 3,16·10<sup>-5</sup>)
+a) K<sub>S</sub> = 3,16·10<sup>-10</sup>
+b) K<sub>S</sub> = 6,32·10<sup>-10</sup>
+c) K<sub>S</sub> = 9,99·10<sup>-12</sup>
+d) K<sub>S</sub> = 9,99·10<sup>-10</sup>
+e) c(Ag<sup>+</sup>) = 6,32·10<sup>-5</sup> mol/l
+f) c(Ag<sup>+</sup>) = 3,16·10<sup>-2</sup> mmol/l
+g) c(OH<sup>-</sup>) = 3,16·10<sup>-5</sup> mol/l
+h) c(OH<sup>-</sup>) = 3,16·10<sup>-2</sup> mol/l
 
-276. Zistite, či pri zmiešaní rovnakých objemov roztoku CaCl2(c = 0,01 mol/l) a roztoku Na2SO4(c = 0,01 mol/l) vznikne zrazenina CaSO4. Súčin rozpustnosti CaSO4je 2,3.10-4. Aká je koncentrácia iónov Ca2+ a SO42- v získanom roztoku?
-a) [Ca2+] = 0,01 mol/l
-b) [Ca2+] = 10 mmol/l
-c) vznikne zrazenina CaSO4
-d) nevznikne zrazenina CaSO4
-e) [Ca2+] = 5.10-3 mol/l
-f) [SO42-] = 0,01 mol/l
-g) [SO42-] = 0,05 mol/l
-h) [SO42-] = 5 mmol/l
+276. Zistite, či pri zmiešaní rovnakých objemov roztoku CaCl<sub>2</sub>(c = 0,01 mol/l) a roztoku Na<sub>2</sub>SO<sub>4</sub>(c = 0,01 mol/l) vznikne zrazenina CaSO<sub>4</sub>. Súčin rozpustnosti CaSO<sub>4</sub> je 2,3·10<sup>-4</sup>. Aká je koncentrácia iónov Ca<sup>2+</sup> a SO<sub>4</sub><sup>2-</sup> v získanom roztoku?
+a) [Ca<sup>2+</sup>] = 0,01 mol/l
+b) [Ca<sup>2+</sup>] = 10 mmol/l
+c) vznikne zrazenina CaSO<sub>4</sub>
+d) nevznikne zrazenina CaSO<sub>4</sub>
+e) [Ca<sup>2+</sup>] = 5·10<sup>-3</sup> mol/l
+f) [SO<sub>4</sub><sup>2-</sup>] = 0,01 mol/l
+g) [SO<sub>4</sub><sup>2-</sup>] = 0,05 mol/l
+h) [SO<sub>4</sub><sup>2-</sup>] = 5 mmol/l
 
-277. Aký je súčin rozpustnosti (KS) chrómanu strieborného, keď jeho rozpustnosť za daných podmienok je 3,32.10-2 g.dm-3? Aká je koncentrácia jednotlivých iónov v roztoku? Mr(Ag2CrO4) = 332
-a) KS= 4.10-4
-b) KS= 1.10-12
-c) KS= 4.10-8
-d) KS= 4.10-12
-e) c(CrO42-) = 1.10-1 mmol.dm-3
-f) c(Ag+) = 1.10-4 mol.dm-3
-g) c(Ag+) = 2.10-4 mol.dm-3
-h) c(Cr2O72-) = 2.10-4 mol.dm-3
+277. Aký je súčin rozpustnosti (K<sub>S</sub>) chrómanu strieborného, keď jeho rozpustnosť za daných podmienok je 3,32.10<sup>-2</sup> g.dm<sup>-3</sup>? Aká je koncentrácia jednotlivých iónov v roztoku? M<sub>r</sub>(Ag<sub>2</sub>CrO<sub>4</sub>) = 332  
+a) K<sub>S</sub> = 4.10<sup>-4</sup>  
+b) K<sub>S</sub> = 1.10<sup>-12</sup>  
+c) K<sub>S</sub> = 4.10<sup>-8</sup>  
+d) K<sub>S</sub> = 4.10<sup>-12</sup>  
+e) c(CrO<sub>4</sub><sup>2-</sup>) = 1.10<sup>-1</sup> mmol.dm<sup>-3</sup>  
+f) c(Ag<sup>+</sup>) = 1.10<sup>-4</sup> mol.dm<sup>-3</sup>  
+g) c(Ag<sup>+</sup>) = 2.10<sup>-4</sup> mol.dm<sup>-3</sup>  
+h) c(Cr<sub>2</sub>O<sub>7</sub><sup>2-</sup>) = 2.10<sup>-4</sup> mol.dm<sup>-3</sup>  
 
-278. Na rozpustenie 1 g jodidu olovnatého pri 18 °C je treba pridať vodu do objemu 1470 ml (H2O = 1 g/cm3). Vypočítajte koncentráciu PbI2a iónov v roztoku a určte konštantu rozpustnosti (KS) jodidu olovnatého. Ar(I) = 127; Ar(Pb) = 207
-a) c(PbI2) = 2,169.10-3 mol/l
-b) KS= 1,28.10-6
-c) KS= 1,28.10-8
-d) c(Pb2+) = 1,28.10-4 mol/l
-e) c(Pb2+) = 1, 476 mmol/l
-f) c(PbI2) = 2,951.10-3 mol/l
-g) KS= 2,28.10-6
-h) c(I-) = 2,951 mmol/l
+278. Na rozpustenie 1 g jodidu olovnatého pri 18 °C je treba pridať vodu do objemu 1470 ml (ρ<sub>H<sub>2</sub>O</sub> = 1 g/cm<sup>3</sup>). Vypočítajte koncentráciu PbI<sub>2</sub> a iónov v roztoku a určte konštantu rozpustnosti (K<sub>S</sub>) jodidu olovnatého. A<sub>r</sub>(I) = 127; A<sub>r</sub>(Pb) = 207  
+a) c(PbI<sub>2</sub>) = 2,169.10<sup>-3</sup> mol/l  
+b) K<sub>S</sub> = 1,28.10<sup>-6</sup>  
+c) K<sub>S</sub> = 1,28.10<sup>-8</sup>  
+d) c(Pb<sup>2+</sup>) = 1,28.10<sup>-4</sup> mol/l  
+e) c(Pb<sup>2+</sup>) = 1,476 mmol/l  
+f) c(PbI<sub>2</sub>) = 2,951.10<sup>-3</sup> mol/l  
+g) K<sub>S</sub> = 2,28.10<sup>-6</sup>  
+h) c(I<sup>-</sup>) = 2,951 mmol/l  
 
-279. Koľko 96 %-nej (w %) kyseliny sírovej,  = 1,84 g/cm3, treba na prípravu 2 l roztoku s koncentráciou 0,25 mol/l? Mr(H2SO4) = 98
-a) 25,52 g
-b) 51,04 g
-c) 49,00 g
-d) 2,774.10-2 litra
-e) 26,63 ml
-f) 27,74 ml
-g) 28,85 ml
-h) 0,051 kg
+279. Koľko 96 %-nej (w %) kyseliny sírovej, ρ = 1,84 g/cm<sup>3</sup>, treba na prípravu 2 l roztoku s koncentráciou 0,25 mol/l? M<sub>r</sub>(H<sub>2</sub>SO<sub>4</sub>) = 98  
+a) 25,52 g  
+b) 51,04 g  
+c) 49,00 g  
+d) 2,774.10<sup>-2</sup> litra  
+e) 26,63 ml  
+f) 27,74 ml  
+g) 28,85 ml  
+h) 0,051 kg  
 
-280. Koncentrácia KMnO4 je 2.10-3 mol.l-1. Vypočítajte, aké látkové množstvo KMnO4sa nachádza v 250 ml roztoku:
-a) 5.10-3 mol
-b) 1.10-2 mol
-c) 5.10-4 mol
-d) 3.10-4 mol
-e) 5 mmol
-f) 0,5 mmol
-g) 50 µmol
-h) 500 µmol
+280. Koncentrácia KMnO<sub>4</sub> je 2.10<sup>-3</sup> mol.l<sup>-1</sup>. Vypočítajte, aké látkové množstvo KMnO<sub>4</sub> sa nachádza v 250 ml roztoku:  
+a) 5.10<sup>-3</sup> mol  
+b) 1.10<sup>-2</sup> mol  
+c) 5.10<sup>-4</sup> mol  
+d) 3.10<sup>-4</sup> mol  
+e) 5 mmol  
+f) 0,5 mmol  
+g) 50 µmol  
+h) 500 µmol  
 
-81. Vypočítajte koncentráciu látkového množstva kyseliny chlorovodíkovej v roztoku s hustotou 1,1 g.cm-3, kde je 18 % (w %) HCl. Mr(HCl) = 36,5
-a) 2,73 mol/l
-b) 3 mol/l
-c) 5,42 mol/l
-d) 1,24 mol/l
-e) 0,542 mol/l
-f) 5,42.103 mmol.dm-3
-g) 4,93 mol/l
-h) 4,93 mmol/l
+281. Vypočítajte koncentráciu látkového množstva kyseliny chlorovodíkovej v roztoku s hustotou 1,1 g.cm<sup>-3</sup>, kde je 18 % (w %) HCl. M<sub>r</sub>(HCl) = 36,5  
+a) 2,73 mol/l  
+b) 3 mol/l  
+c) 5,42 mol/l  
+d) 1,24 mol/l  
+e) 0,542 mol/l  
+f) 5,42.10<sup>3</sup> mmol.dm<sup>-3</sup>  
+g) 4,93 mol/l  
+h) 4,93 mmol/l  
 
-282. Vypočítajte, koľko roztoku chloridu železitého s koncentráciou c = 0,2 mol/l, možno pripraviť rozpustením 48,6 g chloridu železitého vo vode. Mr(FeCl3) = 162
-a) 15 litrov
-b) 1,5 litra
-c) 150 ml
-d) 20 litrov
-e) 1,5.106 µl
-f) 1500 cm3
-g) 2000 cm3
-h) 200 cm3
+282. Vypočítajte, koľko roztoku chloridu železitého s koncentráciou c = 0,2 mol/l, možno pripraviť rozpustením 48,6 g chloridu železitého vo vode. M<sub>r</sub>(FeCl<sub>3</sub>) = 162  
+a) 15 litrov  
+b) 1,5 litra  
+c) 150 ml  
+d) 20 litrov  
+e) 1,5.10<sup>6</sup> µl  
+f) 1500 cm<sup>3</sup>  
+g) 2000 cm<sup>3</sup>  
+h) 200 cm<sup>3</sup>  
 
-283. Máme roztok NaOH, c = 2 mol/l,  = 1,08 g.cm-3. Mr(NaOH) = 40. Označte správne tvrdenie:
-a) w = 10,8 %
-b) w = 8,00 %
-c) w = 7,41 %
-d) w = 1,08 %
-e) 7,41 g NaOH je rozpustené v 100 g roztoku
-f) w = 0,0741
-g) 8,00 kg NaOH je rozpustené v 800 kg roztoku
-h) roztok môže obsahovať 14,82 g NaOH a 185,18 g H2O
+283. Máme roztok NaOH, c = 2 mol/l, ρ = 1,08 g.cm<sup>-3</sup>. M<sub>r</sub>(NaOH) = 40. Označte správne tvrdenie:  
+a) w = 10,8 %  
+b) w = 8,00 %  
+c) w = 7,41 %  
+d) w = 1,08 %  
+e) 7,41 g NaOH je rozpustené v 100 g roztoku  
+f) w = 0,0741  
+g) 8,00 kg NaOH je rozpustené v 800 kg roztoku  
+h) roztok môže obsahovať 14,82 g NaOH a 185,18 g H<sub>2</sub>O  
 
-284. Vypočítajte, koľko kyseliny sírovej je v 2500 cm3 roztoku s koncentráciou 0,6 mol.dm-3. Mr(H2SO4) = 98
-a) 15 mol
-b) 12 mol
-c) 1,5 mol
-d) 0,147 kg
-e) 147 g
-f) 14,7 g
-g) 98 g
-h) 1,5 litra
+284. Vypočítajte, koľko kyseliny sírovej je v 2500 cm<sup>3</sup> roztoku s koncentráciou 0,6 mol.dm<sup>-3</sup>. M<sub>r</sub>(H<sub>2</sub>SO<sub>4</sub>) = 98  
+a) 15 mol  
+b) 12 mol  
+c) 1,5 mol  
+d) 0,147 kg  
+e) 147 g  
+f) 14,7 g  
+g) 98 g  
+h) 1,5 litra  
 
-285. Aký objem roztoku HCl danej koncentrácie, resp. koľko gramov HCl je potrebné na neutralizáciu 3,42 g hydroxidu bárnatého? Mr(HCl) = 36,5; Mr{Ba(OH)2} = 171
-a) 160 ml HCl, c = 0,25 mol/l
-b) 16 ml HCl, c = 0,25 mol/l 
-c) 1,46 g HCl
-d) 0,73 g HCl
-e) 0,08 litra HCl, c = 0,5 mol/l
-f) 14,6 g HCl
-g) 400 ml HCl, c = 0,1 mol/l
-h) 0,04 litra HCl, c = 0,25 mol/l
+285. Aký objem roztoku HCl danej koncentrácie, resp. koľko gramov HCl je potrebné na neutralizáciu 3,42 g hydroxidu bárnatého? M<sub>r</sub>(HCl) = 36,5; M<sub>r</sub>{Ba(OH)<sub>2</sub>} = 171  
+a) 160 ml HCl, c = 0,25 mol/l  
+b) 16 ml HCl, c = 0,25 mol/l  
+c) 1,46 g HCl  
+d) 0,73 g HCl  
+e) 0,08 litra HCl, c = 0,5 mol/l  
+f) 14,6 g HCl  
+g) 400 ml HCl, c = 0,1 mol/l  
+h) 0,04 litra HCl, c = 0,25 mol/l  
 
-286. Vypočítajte koncentráciu HNO3 v roztoku, ktorý obsahuje 3,5.10-3 mol HNO3v 400 ml roztoku, resp. hmotnosť HNO3v 400 ml daného roztoku. Mr(HNO3) = 63
-a) 7,85 mol/l
-b) 8,75.10-3 mol/l
-c) 440 mg
-d) 0,22 g
-e) 7,85 mmol/l
-f) 8,75 mmol/l
-g) 220 mg
-h) 0,55 g
+286. Vypočítajte koncentráciu HNO<sub>3</sub> v roztoku, ktorý obsahuje 3,5.10<sup>-3</sup> mol HNO<sub>3</sub> v 400 ml roztoku, resp. hmotnosť HNO<sub>3</sub> v 400 ml daného roztoku. M<sub>r</sub>(HNO<sub>3</sub>) = 63  
+a) 7,85 mol/l  
+b) 8,75.10<sup>-3</sup> mol/l  
+c) 440 mg  
+d) 0,22 g  
+e) 7,85 mmol/l  
+f) 8,75 mmol/l  
+g) 220 mg  
+h) 0,55 g  
 
-287. Vypočítajte koncentráciu látkového množstva 25 %-ného (w %) roztoku kyseliny chlorovodíkovej s hustotou 1,1 g.cm-3. Mr(HCl) = 36,5
-a) 6,85 mol/l
-b) 0,753 mol/l
-c) 7,53.103 mmol/l
-d) 0,685 mol/l
-e) 7,53 mol/l
-f) 6,85.103 mmol/l
-g) 8,53 mol/l
-h) 7,53.10-3 mmol/l
+287. Vypočítajte koncentráciu látkového množstva 25 %-ného (w %) roztoku kyseliny chlorovodíkovej s hustotou 1,1 g.cm<sup>-3</sup>. M<sub>r</sub>(HCl) = 36,5  
+a) 6,85 mol/l  
+b) 0,753 mol/l  
+c) 7,53.10<sup>3</sup> mmol/l  
+d) 0,685 mol/l  
+e) 7,53 mol/l  
+f) 6,85.10<sup>3</sup> mmol/l  
+g) 8,53 mol/l  
+h) 7,53.10<sup>-3</sup> mmol/l  
 
-288. Koľko síranu sodného je treba na prípravu 5 litrov 8 %-ného (w %) roztoku, ktorého hustota je 1,075 g/cm3? Mr(Na2SO4) = 142
-a) 43 g
-b) 430 g
-c) 400 g
-d) 40 g
-e) 0,3028 mol
-f) 0,605 mol
-g) 3,028 mol
-h) 0,43 kg
+288. Koľko síranu sodného je treba na prípravu 5 litrov 8 %-ného (w %) roztoku, ktorého hustota je 1,075 g/cm<sup>3</sup>? M<sub>r</sub>(Na<sub>2</sub>SO<sub>4</sub>) = 142  
+a) 43 g  
+b) 430 g  
+c) 400 g  
+d) 40 g  
+e) 0,3028 mol  
+f) 0,605 mol  
+g) 3,028 mol  
+h) 0,43 kg  
 
-289. K 400 ml 85 %-ného (w %) roztoku kyseliny sírovej s hustotou 1,8 g.cm-3 sme pridali 800 ml vody. Aká je koncentrácia pôvodného roztoku H2SO4(cp) a roztoku po zriedení (cv)? Mr(H2SO4) = 98
-a) cp= 13,6 mol/l
-b) cp= 15,6 mol/l
-c) cv= 5,2.103 mmol/l
-d) cp= 1,56 mol/l
-e) cv= 5,2 mol/l
-f) cv= 5,2 mmol/l
-g) cv= 4,5 mol/l
-h) cp= 1,56.104 mmol/l
+289. K 400 ml 85 %-ného (w %) roztoku kyseliny sírovej s hustotou 1,8 g.cm<sup>-3</sup> sme pridali 800 ml vody. Aká je koncentrácia pôvodného roztoku H<sub>2</sub>SO<sub>4</sub> (c<sub>p</sub>) a roztoku po zriedení (c<sub>v</sub>)? M<sub>r</sub>(H<sub>2</sub>SO<sub>4</sub>) = 98  
+a) c<sub>p</sub> = 13,6 mol/l  
+b) c<sub>p</sub> = 15,6 mol/l  
+c) c<sub>v</sub> = 5,2.10<sup>3</sup> mmol/l  
+d) c<sub>p</sub> = 1,56 mol/l  
+e) c<sub>v</sub> = 5,2 mol/l  
+f) c<sub>v</sub> = 5,2 mmol/l  
+g) c<sub>v</sub> = 4,5 mol/l  
+h) c<sub>p</sub> = 1,56.10<sup>4</sup> mmol/l  
 
-290. Koľko CuSO4.5H2O, resp. vody potrebujeme na prípravu 1,5 kg 6 %-ného (w %) roztoku CuSO4? Mr(CuSO4.5H2O) = 250; Mr(H2O) = 18
-a) 90 g modrej skalice
-b) 1359,4 g H2O
-c) 1410 g H2O
-d) 1,3594 kg H2O
-e) 140,6 g modrej skalice
-f) 0,1406 kg CuSO4.5H2O
-g) 140,6 g CuSO4
-h) 90 g CuSO4.5H2O
+290. Koľko CuSO<sub>4</sub>.5H<sub>2</sub>O, resp. vody potrebujeme na prípravu 1,5 kg 6 %-ného (w %) roztoku CuSO<sub>4</sub>? M<sub>r</sub>(CuSO<sub>4</sub>.5H<sub>2</sub>O) = 250; M<sub>r</sub>(H<sub>2</sub>O) = 18  
+a) 90 g modrej skalice  
+b) 1359,4 g H<sub>2</sub>O  
+c) 1410 g H<sub>2</sub>O  
+d) 1,3594 kg H<sub>2</sub>O  
+e) 140,6 g modrej skalice  
+f) 0,1406 kg CuSO<sub>4</sub>.5H<sub>2</sub>O  
+g) 140,6 g CuSO<sub>4</sub>  
+h) 90 g CuSO<sub>4</sub>.5H<sub>2</sub>O  
 
-291. Vypočítajte, aký objem 95 %-ného (obj. %) etanolu, resp. vody treba na prípravu 600 ml roztoku, v ktorom je 40 % (obj. %) etanolu:
-a) 360 ml H2O
-b) 240 ml etanolu
-c) 252,63 ml etanolu
-d) 347,37 ml H2O
-e) 0,34737 litra etanolu
-f) 0,34737 litra H2O
-g) 295,63 ml H2O
-h) 0,25263 litra etanolu
+291. Vypočítajte, aký objem 95 %-ného (obj. %) etanolu, resp. vody treba na prípravu 600 ml roztoku, v ktorom je 40 % (obj. %) etanolu:  
+a) 360 ml H<sub>2</sub>O  
+b) 240 ml etanolu  
+c) 252,63 ml etanolu  
+d) 347,37 ml H<sub>2</sub>O  
+e) 0,34737 litra etanolu  
+f) 0,34737 litra H<sub>2</sub>O  
+g) 295,63 ml H<sub>2</sub>O  
+h) 0,25263 litra etanolu  
 
-292. Máme roztok A, ktorý obsahuje 18,9 g HNO3 v 1 litri a roztok B, ktorý obsahuje 3,2 g NaOH v 1 litri. V akom objemovom pomere ich musíme zmiešať, aby vznikol neutrálny roztok? Mr(HNO3) = 63; Mr(NaOH) = 40
-a) 1 liter A + 37,5 litra B
-b) 3,75 litra B + 1 liter A
-c) 5 litrov B + 15 litrov A
-d) 18,75 litra B + 5 litrov A
-e) 4 litre A + 15 litrov B
-f) 10 ml A + 37,5 ml B
-g) 0,6 ml A + 2,25 ml B
-h) 0,8 ml B + 3 ml A
+292. Máme roztok A, ktorý obsahuje 18,9 g HNO<sub>3</sub> v 1 litri a roztok B, ktorý obsahuje 3,2 g NaOH v 1 litri. V akom objemovom pomere ich musíme zmiešať, aby vznikol neutrálny roztok? M<sub>r</sub>(HNO<sub>3</sub>) = 63; M<sub>r</sub>(NaOH) = 40  
+a) 1 liter A + 37,5 litra B  
+b) 3,75 litra B + 1 liter A  
+c) 5 litrov B + 15 litrov A  
+d) 18,75 litra B + 5 litrov A  
+e) 4 litre A + 15 litrov B  
+f) 10 ml A + 37,5 ml B  
+g) 0,6 ml A + 2,25 ml B  
+h) 0,8 ml B + 3 ml A  
 
-293. Vypočítajte, koľko vody, resp. technickej sódy s obsahom 95 % Na2CO3potrebujeme na prípravu 350 g 8 % -ného (w %) roztoku Na2CO3:
-a) 29,47 g technickej sódy
-b) 29,47 g Na2CO3.10 H2O
-c) 28g technickej sódy 
-d) 322,0 g H2O
-e) 320,53 g H2O
-f) 26,6 g Na2CO3
-g) 2,947.104 mg technickej sódy
-h) 0,32053 kg H2O
+293. Vypočítajte, koľko vody, resp. technickej sódy s obsahom 95 % Na<sub>2</sub>CO<sub>3</sub> potrebujeme na prípravu 350 g 8 % -ného (w %) roztoku Na<sub>2</sub>CO<sub>3</sub>:  
+a) 29,47 g technickej sódy  
+b) 29,47 g Na<sub>2</sub>CO<sub>3</sub>.10 H<sub>2</sub>O  
+c) 28g technickej sódy  
+d) 322,0 g H<sub>2</sub>O  
+e) 320,53 g H<sub>2</sub>O  
+f) 26,6 g Na<sub>2</sub>CO<sub>3</sub>  
+g) 2,947.10<sup>4</sup> mg technickej sódy  
+h) 0,32053 kg H<sub>2</sub>O  
 
-294. Aká je hmotnosť chemicky čistého KCl a vody, ktoré potrebujeme na prípravu 3 litrov 12 %-ného roztoku (w %)?  = 1,07 g/cm3
-a) 360 g KCl
-b) 385,2 g KCl
-c) 2640 g H2O
-d) 2824,8 g H2O
-e) 2614,8 g H2O
-f) 0,360 g KCl
-g) 0,3852 kg KCl
-h) 2,64 kg H2O
+294. Aká je hmotnosť chemicky čistého KCl a vody, ktoré potrebujeme na prípravu 3 litrov 12 %-ného roztoku (w %)? ρ = 1,07 g/cm<sup>3</sup>  
+a) 360 g KCl  
+b) 385,2 g KCl  
+c) 2640 g H<sub>2</sub>O  
+d) 2824,8 g H<sub>2</sub>O  
+e) 2614,8 g H<sub>2</sub>O  
+f) 0,360 g KCl  
+g) 0,3852 kg KCl  
+h) 2,64 kg H<sub>2</sub>O  
 
-295. Aké je pH alebo pOH roztoku kyseliny chlorovodíkovej s koncentráciou c = 60 µmol.dm-3? (log 3 = 0,477; log 5 = 0,699; log 6 = 0,778)
-a) pOH = 5,523
-b) pH = 5,301
-c) pH = 4,222
-d) pOH = 4,222
-e) pOH = 9,778
-f) pOH = 8,778
-g) pH = 5,222
-h) pH = 9,778
+295. Aké je pH alebo pOH roztoku kyseliny chlorovodíkovej s koncentráciou c = 60 µmol.dm<sup>-3</sup>? (log 3 = 0,477; log 5 = 0,699; log 6 = 0,778)  
+a) pOH = 5,523  
+b) pH = 5,301  
+c) pH = 4,222  
+d) pOH = 4,222  
+e) pOH = 9,778  
+f) pOH = 8,778  
+g) pH = 5,222  
+h) pH = 9,778  
 
-296. Aké je pH alebo pOH roztoku hydroxidu lítneho, ktorého koncentrácia c = 4.10-3 mol/l? (log 3 = 0,477; log 4 = 0,602)
-a) pOH = 3,523
-b) pH = 2,398
-c) pH = 12,602
-d) pH = 11,602
-e) pH = 10,602
-f) pOH = 3,398
-g) pH = 9,398
-h) pOH = 2,398
+296. Aké je pH alebo pOH roztoku hydroxidu lítneho, ktorého koncentrácia c = 4.10<sup>-3</sup> mol/l? (log 3 = 0,477; log 4 = 0,602)  
+a) pOH = 3,523  
+b) pH = 2,398  
+c) pH = 12,602  
+d) pH = 11,602  
+e) pH = 10,602  
+f) pOH = 3,398  
+g) pH = 9,398  
+h) pOH = 2,398  
 
-297. pOH roztoku úplne ionizovanej kyseliny dusičnej je 9,602. Vypočítajte pH alebo koncentráciu daného roztoku (log 4 = 0,602; log 2,5 = 0,398)
-a) pH = 10,602
-b) c = 4.10-2 mmol/l
-c) c = 2,5.10-1 nmo/l
-d) pH = 4,398
-e) c = 2,5.10-10 mol/l
-f) c = 4.10-5 mol/l
-g) pH = 5,398
-h) c = 4,398.10-3 mol/l
+297. pOH roztoku úplne ionizovanej kyseliny dusičnej je 9,602. Vypočítajte pH alebo koncentráciu daného roztoku (log 4 = 0,602; log 2,5 = 0,398)  
+a) pH = 10,602  
+b) c = 4.10<sup>-2</sup> mmol/l  
+c) c = 2,5.10<sup>-1</sup> nmo/l  
+d) pH = 4,398  
+e) c = 2,5.10<sup>-10</sup> mol/l  
+f) c = 4.10<sup>-5</sup> mol/l  
+g) pH = 5,398  
+h) c = 4,398.10<sup>-3</sup> mol/l  
 
-298. Aké je pH, pOH, c(OH-) a c(H3O+) roztoku KOH, ktorého 1 liter zneutralizuje 500 ml roztoku HCl s koncentráciou 3 mmol/l? (log 5 = 0,699; log 3 = 0,477; log 1,5 = 0,176; log 6 = 0,778)
-a) pH = 11,176
-b) pOH = 1,222
-c) pOH = 2,824
-d) pH = 12,778
-e) c(H3O+) = 1,5.10-12 mol/l
-f) c(H3O+) = 6,67.10-12 mol/l
-g) c(OH-) = 1,5.10-3 mol/l
-h) c(OH-) = 6.10-3 mol/l
+298. Aké je pH, pOH, c(OH<sup>-</sup>) a c(H<sub>3</sub>O<sup>+</sup>) roztoku KOH, ktorého 1 liter zneutralizuje 500 ml roztoku HCl s koncentráciou 3 mmol/l? (log 5 = 0,699; log 3 = 0,477; log 1,5 = 0,176; log 6 = 0,778)  
+a) pH = 11,176  
+b) pOH = 1,222  
+c) pOH = 2,824  
+d) pH = 12,778  
+e) c(H<sub>3</sub>O<sup>+</sup>) = 1,5.10<sup>-12</sup> mol/l  
+f) c(H<sub>3</sub>O<sup>+</sup>) = 6,67.10<sup>-12</sup> mol/l  
+g) c(OH<sup>-</sup>) = 1,5.10<sup>-3</sup> mol/l  
+h) c(OH<sup>-</sup>) = 6.10<sup>-3</sup> mol/l  
 
-299. Vypočítajte pH, resp. pOH roztoku, ktorý v 600 ml obsahuje 0,33 g HCl. Aká je koncentrácia roztoku HCl? Mr(HCl) = 36,5; (log 1,5 = 0,176)
-a) pH = 12,176
-b) pOH = 1,824
-c) pH = 1,824
-d) [HCl] = 1,5.10-2 mol/l
-e) pOH = 10,92
-f) pOH = 12,176
-g) [HCl] = 1,25.10-2 mol/l
-h) pOH = 2,08
+299. Vypočítajte pH, resp. pOH roztoku, ktorý v 600 ml obsahuje 0,33 g HCl. Aká je koncentrácia roztoku HCl? M<sub>r</sub>(HCl) = 36,5; (log 1,5 = 0,176)  
+a) pH = 12,176  
+b) pOH = 1,824  
+c) pH = 1,824  
+d) [HCl] = 1,5.10<sup>-2</sup> mol/l  
+e) pOH = 10,92  
+f) pOH = 12,176  
+g) [HCl] = 1,25.10<sup>-2</sup> mol/l  
+h) pOH = 2,08  
 
-300. pH roztoku H2SO4je 1,097. Vypočítajte koncentráciu roztoku kyseliny sírovej (log 8 = 0,903; log 4 = 0,602; antilogaritmus -1,097= 0,07998)
-a) 80 mmol/l
-b) 0,08 mol/l
-c) 8.10-3 mol/l
-d) 0,04 mol/l
-e) 20 mmol/l
-f) 40 mmol/l
-g) 4.10-2 mmol/l
-h) 12 mmol/l
+300. pH roztoku H<sub>2</sub>SO<sub>4</sub> je 1,097. Vypočítajte koncentráciu roztoku kyseliny sírovej (log 8 = 0,903; log 4 = 0,602; antilogaritmus -1,097 = 0,07998)  
+a) 80 mmol/l  
+b) 0,08 mol/l  
+c) 8.10<sup>-3</sup> mol/l  
+d) 0,04 mol/l  
+e) 20 mmol/l  
+f) 40 mmol/l  
+g) 4.10<sup>-2</sup> mmol/l  
+h) 12 mmol/l  
 
-301. Aké je pH, resp. pOH roztoku, ktorého 5 litrov obsahuje 0,17 g hydroxidových iónov? Aká je koncentrácia H3O+ a OHiónov v tomto roztoku? Mr(OH-) = 17; (log 5 = 0,699; log 1,7 = 0,230; log 2 = 0,301)
+301. Aké je pH, resp. pOH roztoku, ktorého 5 litrov obsahuje 0,17 g hydroxidových iónov? Aká je koncentrácia H3O+ a OHiónov v tomto roztoku? M<sub>r</sub>(OH-) = 17; (log 5 = 0,699; log 1,7 = 0,230; log 2 = 0,301)
 a) pH = 11,301
 b) pH = 10,699
 c) c(OH-) = 2.10-3 mol/l
@@ -3078,7 +3078,7 @@ f) 4,2 g CaO
 g) 0,75 mol CO2
 h) 3,3 g CO2
 
-309. Krv má obsahovať 140 mmol.l-1 NaCl. Aké množstvo NaCl treba dodať pacientovi (ktorý má 5 litrov krvi), ak v krvi pacienta je 120 mmol.l-1 NaCl? V akom objeme fyziologického roztoku (c=0,150 mol/l) sa potrebný NaCl podá? Mr(NaCl) = 58
+309. Krv má obsahovať 140 mmol.l-1 NaCl. Aké množstvo NaCl treba dodať pacientovi (ktorý má 5 litrov krvi), ak v krvi pacienta je 120 mmol.l-1 NaCl? V akom objeme fyziologického roztoku (c=0,150 mol/l) sa potrebný NaCl podá? <sub>r</sub>NaCl) = 58
 a) 0,1 mol
 b) 0,1 mol.l-1
 c) 5,8 g NaCl
@@ -3088,7 +3088,7 @@ f) 100 mmol
 g) 100 mmol.l-1
 h) 666 ml
 
-310. Obličkami sa za deň prefiltruje do primárneho moča 26 mol NaCl. Procesmi v obličke sa do krvi vráti časť NaCl a močom sa vylúči 0,156 mol NaCl za deň. Koľko % NaCl sa vrátilo do krvi a aké množstvo NaCl sa vylúčilo do moča? Mr(NaCl) = 58
+310. Obličkami sa za deň prefiltruje do primárneho moča 26 mol NaCl. Procesmi v obličke sa do krvi vráti časť NaCl a močom sa vylúči 0,156 mol NaCl za deň. Koľko % NaCl sa vrátilo do krvi a aké množstvo NaCl sa vylúčilo do moča? <sub>r</sub>NaCl) = 58
 a) 98,2 %
 b) 1,2 %
 c) 9,05.10-3 kg
@@ -3148,7 +3148,7 @@ f) 600 mg H2
 g) 0,6 mol KOH
 h) 0,6 mol H2
 
-316. K roztoku, ktorý obsahuje 1,8 mol FeCl3 sme pridali 6 mol NaOH. Koľko NaCl a Fe(OH)3vzniklo a koľko NaOH zostalo v roztoku nezreagovaného? Mr(NaOH) = 40; Mr(NaCl) = 58,5; Mr{Fe(OH)3} = 107
+316. K roztoku, ktorý obsahuje 1,8 mol FeCl3 sme pridali 6 mol NaOH. Koľko NaCl a Fe(OH)3vzniklo a koľko NaOH zostalo v roztoku nezreagovaného? <sub>r</sub>NaOH) = 40; <sub>r</sub>NaCl) = 58,5; Mr{Fe(OH)3} = 107
 a) 1,2 mol Fe(OH)3
 b) 1,8 mol Fe(OH)3
 c) 48 g NaOH
@@ -3158,7 +3158,7 @@ f) 6 mol NaCl
 g) 0,6 mol NaOH
 h) 24 g NaOH
 
-317. Rozpúšťaním horčíka v kyseline sírovej vzniklo 36 g síranu horečnatého. Vypočítajte, koľko horčíka a 80 %-nej (w %) kyseliny sírovej sme potrebovali na jeho prípravu. Koľko vodíka vzniklo pri reakcii? Ar(Mg) = 24; Mr(H2SO4) = 98; Mr(MgSO4) = 120
+317. Rozpúšťaním horčíka v kyseline sírovej vzniklo 36 g síranu horečnatého. Vypočítajte, koľko horčíka a 80 %-nej (w %) kyseliny sírovej sme potrebovali na jeho prípravu. Koľko vodíka vzniklo pri reakcii? Ar(Mg) = 24; <sub>r</sub>H2SO4) = 98; <sub>r</sub>MgSO4) = 120
 a) 29,4 g H2SO4
 b) 6,72 dm3 vodíka
 c) 36,75 g H2SO4
@@ -3188,7 +3188,7 @@ f) 0,21 mol.l-1
 g) 1,4.10-4 mol.l-1
 h) 7.10-2 mol.l-1
 
-320. Akú koncentráciu má roztok HNO3, ak na neutralizáciu jeho 30 ml potrebujeme 36 ml roztoku LiOH s koncentráciou 0,1 mol.dm-3, prípadne koľko LiOH sa nachádza v týchto 36 ml roztoku pred neutralizáciou? Mr(LiOH) = 24
+320. Akú koncentráciu má roztok HNO3, ak na neutralizáciu jeho 30 ml potrebujeme 36 ml roztoku LiOH s koncentráciou 0,1 mol.dm-3, prípadne koľko LiOH sa nachádza v týchto 36 ml roztoku pred neutralizáciou? <sub>r</sub>LiOH) = 24
 a) 0,24 mol/l
 b) 0,12 mol/l
 c) 86,4 mg LiOH
@@ -3198,7 +3198,7 @@ f) 24 mmol/l
 g) 0,0864 g LiOH
 h) 0,0036 g LiOH
 
-321. V titračnej banke máme presne 10 cm3 roztoku CsOH. Na jeho neutralizáciu potrebujeme 25 cm3 kyseliny sírovej s koncentráciou 0,30 mol.dm-3. Aká je koncentrácia CsOH v roztoku a koľko CsOH obsahuje jeho roztok pred neutralizáciou? Mr(CsOH) = 150
+321. V titračnej banke máme presne 10 cm3 roztoku CsOH. Na jeho neutralizáciu potrebujeme 25 cm3 kyseliny sírovej s koncentráciou 0,30 mol.dm-3. Aká je koncentrácia CsOH v roztoku a koľko CsOH obsahuje jeho roztok pred neutralizáciou? <sub>r</sub>CsOH) = 150
 a) 750 mmol/l
 b) 0,75 mol/l
 c) 1,5 mol/l
@@ -3298,7 +3298,7 @@ f) [I2] = 1,3
 g) [HI] = 0,8
 h) K = 17,067
 
-331. Aký je osmotický tlak roztoku chloridu draselného pri 30 °C, ak v 0,5 litri roztoku sú rozpustené 3 g KCl? Aká je koncentrácia osmoticky účinných častíc? Mr(KCl) = 75; R = 8,32 JK-1mol-1
+331. Aký je osmotický tlak roztoku chloridu draselného pri 30 °C, ak v 0,5 litri roztoku sú rozpustené 3 g KCl? Aká je koncentrácia osmoticky účinných častíc? <sub>r</sub>KCl) = 75; R = 8,32 JK-1mol-1
 a) osmotický tlak je 201,8 kPa
 b) osmotický tlak je 403,6 kPa
 c) osmotický tlak je 40 kPa
@@ -3348,7 +3348,7 @@ f) koncentrácia roztoku je 0,08 mol/l
 g) molekulová hmotnosť sacharidu je 150
 h) molekulová hmotnosť sacharidu je 180
 
-336. Koľko gramov glukózy musí obsahovať 0,5 litra roztoku, ak jeho osmotický tlak za normálnych podmienok je rovnaký ako je osmotický tlak roztoku, ktorý obsahuje 30,15 g KCl v 0,6 litri roztoku. Aký je osmotický tlak týchto roztokov pri 25 °C? Aká je koncentrácia glukózy a aká KCl? Mr(KCl) = 75; Mr(glukózy) = 180; R = 8,32 JK-1mol-1
+336. Koľko gramov glukózy musí obsahovať 0,5 litra roztoku, ak jeho osmotický tlak za normálnych podmienok je rovnaký ako je osmotický tlak roztoku, ktorý obsahuje 30,15 g KCl v 0,6 litri roztoku. Aký je osmotický tlak týchto roztokov pri 25 °C? Aká je koncentrácia glukózy a aká KCl? <sub>r</sub>KCl) = 75; <sub>r</sub>glukózy) = 180; R = 8,32 JK-1mol-1
 a) 600 g glukózy 
 b) 120,6 g glukózy
 c) 60 g glukózy
@@ -3388,7 +3388,7 @@ f) vznikne 8 mol H2O
 g) vznikne 144 g H2O
 h) vznikne 72 g H2O
 
-340. Máme k dispozícii 5 litrov kyslíka. Vypočítajte, koľko % kyslíka nezreaguje pri spálení 1000 cm3 etánu za predpokladu, že objem plynov sa meria za normálnych podmienok. Koľko mólov kyslíka je treba na túto reakciu a koľko vznikne CO2? Mr(CO2) = 44
+340. Máme k dispozícii 5 litrov kyslíka. Vypočítajte, koľko % kyslíka nezreaguje pri spálení 1000 cm3 etánu za predpokladu, že objem plynov sa meria za normálnych podmienok. Koľko mólov kyslíka je treba na túto reakciu a koľko vznikne CO2? <sub>r</sub>CO2) = 44
 a) nezreaguje 30 % kyslíka
 b) nezreaguje 70 % kyslíka
 c) na reakciu je treba 0,3125 mol O2
@@ -3408,7 +3408,7 @@ f) nezreaguje 20 % etanolu
 g) uvoľní sa 0,2 mmol H2
 h) uvoľní sa 44,8 litra H2
 
-342. Vypočítajte hmotnosť cukrovej trstiny s obsahom 20 % sacharózy a množstvo sacharózy, ktorú treba hydrolyzovať, aby sme pripravili 1 tonu glukózy. Ar(H) = 1; Ar(C) = 12; Ar(O) = 16; Mr(sacharózy) = 342
+342. Vypočítajte hmotnosť cukrovej trstiny s obsahom 20 % sacharózy a množstvo sacharózy, ktorú treba hydrolyzovať, aby sme pripravili 1 tonu glukózy. Ar(H) = 1; Ar(C) = 12; Ar(O) = 16; <sub>r</sub>sacharózy) = 342
 a) 9,5 tony trstiny
 b) 1900 kg trstiny
 c) 9500 kg trstiny
@@ -3488,7 +3488,7 @@ f) 16,83 g CHCl3
 g) 0,333 mol CHCl3
 h) 16,83 g CH2Cl2
 
-350. Vypočítajte hmotnosť toluénu, ktorý je potrebný na prípravu 113,5 g trinitrotoluénu (TNT), ak výťažok produktu je 50 % teoretického množstva. Ar(N) = 14; Ar(C) = 12; Ar(H) = 1; Ar(O) = 16; Mr(TNT) = 227
+350. Vypočítajte hmotnosť toluénu, ktorý je potrebný na prípravu 113,5 g trinitrotoluénu (TNT), ak výťažok produktu je 50 % teoretického množstva. Ar(N) = 14; Ar(C) = 12; Ar(H) = 1; Ar(O) = 16; <sub>r</sub>TNT) = 227
 a) 92 g
 b) 184 g
 c) 92 mg
@@ -3498,7 +3498,7 @@ f) 92.103 mg
 g) 92 µg
 h) 92.10-3 kg
 
-351. Na hydrolýzu 6 g neznámeho esteru kyseliny mravčej sa spotreboval objem 50 ml roztoku hydroxidu sodného s koncentráciou 2 mol.l-1. Určte, o ktorý ester ide. Mr(NaOH) = 40; Ar(C) = 12; Ar(O) = 16; Ar(H) = 1
+351. Na hydrolýzu 6 g neznámeho esteru kyseliny mravčej sa spotreboval objem 50 ml roztoku hydroxidu sodného s koncentráciou 2 mol.l-1. Určte, o ktorý ester ide. <sub>r</sub>NaOH) = 40; Ar(C) = 12; Ar(O) = 16; Ar(H) = 1
 a) mravčan metylový
 b) mravčan etylový
 c) CH3COOCH3
@@ -3528,7 +3528,7 @@ f) 0,5 mol C6H5OK
 g) 0,5 mol C6H5COOK
 h) 0,066 kg C6H5OK
 
-354. Koľko príslušnej kyseliny a príslušného alkoholu treba na prípravu 222 g mravčanu etylového? Mr(etanol) = 46; Mr(kys. mravčia) = 46; Mr(mravčan etylový) = 74
+354. Koľko príslušnej kyseliny a príslušného alkoholu treba na prípravu 222 g mravčanu etylového? <sub>r</sub>etanol) = 46; <sub>r</sub>kys. mravčia) = 46; <sub>r</sub>mravčan etylový) = 74
 a) 138 g HCOOH
 b) 138 g CH3CH2OH
 c) 138 g C2H5OH
@@ -3538,7 +3538,7 @@ f) 3 mol C2H5OH
 g) 3 mol CH3CHO
 h) 138 kg HCOOH
 
-355. Vypočítajte hmotnosť roztoku kyseliny octovej (w = 75 %), ktorý možno pripraviť oxidáciou 4,4 g acetaldehydu? Koľko O2sa spotrebuje? Ar(C) = 12; Ar(H) = 1; Ar(O)= 16; Mr(kys. octová) = 60:
+355. Vypočítajte hmotnosť roztoku kyseliny octovej (w = 75 %), ktorý možno pripraviť oxidáciou 4,4 g acetaldehydu? Koľko O2sa spotrebuje? Ar(C) = 12; Ar(H) = 1; Ar(O)= 16; <sub>r</sub>kys. octová) = 60:
 a) 6 g CH3COOH
 b) 8 g CH3COOH
 c) 8000 mg CH3COOH
@@ -3548,7 +3548,7 @@ f) 50 mmol O2
 g) 1,6 g O2
 h) 3,2 g O2
 
-356. Koľko gramov, resp. mólov etanolu treba na prípravu 22 g octanu etylového, ak výťažok esteru je 25 % teoretického množstva? Mr(etanol) = 46; Mr(octan etylový) = 88
+356. Koľko gramov, resp. mólov etanolu treba na prípravu 22 g octanu etylového, ak výťažok esteru je 25 % teoretického množstva? <sub>r</sub>etanol) = 46; <sub>r</sub>octan etylový) = 88
 a) 46 g CH3CHO
 b) 1 mol CH3CHO
 c) 46 g CH3CH2OH
@@ -3558,7 +3558,7 @@ f) 0,25 mol C2H5OH
 g) 1 mol CH3OH
 h) 46 g CH3OH
 
-357. Aký objem roztoku etanolu, w = 95 %, so špecifickou hmotnosťou 0,79 g.cm-3 a oxidu uhličitého vznikne alkoholovým kvasením 9 kg glukózy? Mr(glukóza) = 180; Mr(etanol) = 46
+357. Aký objem roztoku etanolu, w = 95 %, so špecifickou hmotnosťou 0,79 g.cm-3 a oxidu uhličitého vznikne alkoholovým kvasením 9 kg glukózy? <sub>r</sub>glukóza) = 180; <sub>r</sub>etanol) = 46
 a) 4,84 litra etanolu
 b) 6,13 litra C2H5OH
 c) 6,13 ml etanolu
