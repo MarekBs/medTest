@@ -1055,7 +1055,7 @@ c) Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>·CaF<sub>2</sub>
 d) Na<sub>2</sub>HPO<sub>4</sub>
 e) H<sub>3</sub>PO<sub>3</sub>
 f) P<sub>4</sub>O<sub>6</sub>
-g) <img src=106g.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=60/>
+g) <img src=otazkyPng/106g.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=60/>
 h) PI<sub>3</sub>
 
 107. Pre chemickú reakciu Mg + NiCl<sub>2</sub> <--> MgCl<sub>2</sub> + Ni platí:
@@ -3599,13 +3599,13 @@ g) kovovou
 h) iónovou
 
 361. Elektrónová konfigurácia atómu uhlíka v excitovanom stave je:
-a) 1s2 2s2 2p2
-b) 1s2 2s2 2px1 2py1 2pz1
-c) 1s2 2s1 2px1 2py1 2pz1
-d) 1s2 2s1 2p3
-e) 1s2 2s2 2p3
-f) 1s2 2s1 2px1 2py2
-g) 1s2 2s1 2px3
+a) 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>2</sup>
+b) 1s<sup>2</sup> 2s<sup>2</sup> 2p<sub>x</sub><sup>1</sup> 2p<sub>y</sub><sup>1</sup> 2p<sub>z</sub><sup>1</sup>
+c) 1s<sup>2</sup> 2s<sup>1</sup> 2p<sub>x</sub><sup>1</sup> 2p<sub>y</sub><sup>1</sup> 2p<sub>z</sub><sup>1</sup>
+d) 1s<sup>2</sup> 2s<sup>1</sup> 2p<sup>3</sup>
+e) 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>3</sup>
+f) 1s<sup>2</sup> 2s<sup>1</sup> 2p<sub>x</sub><sup>1</sup> 2p<sub>y</sub><sup>2</sup>
+g) 1s<sup>2</sup> 2s<sup>1</sup> 2p<sub>x</sub><sup>3</sup>
 h) rovnaká ako v základnom stave
 
 362. Vlastnosti organických zlúčenín závisia:
@@ -3618,7 +3618,7 @@ f) hlavne od počtu atómov uhlíka v molekule
 g) len od poradia atómov prvkov v molekule
 h) len od typov väzieb
 
-363. V uhľovodíku 6CH3 - 5CH2 - 4CH / 7CH3 - 3CH2 - 2CH / 8CH3 - 1CH3 sú sekundárne atómy uhlíka označené číslami:
+363. V uhľovodíku <img src="otazkyPng/363.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" /> sú sekundárne atómy uhlíka označené číslami:
 a) 1, 6 a 7
 b) 1, 2 a 8
 c) 5 a 6
@@ -3628,7 +3628,7 @@ f) 2 a 4
 g) 7 a 8
 h) 1,3,5 a 6
 
-364. Zlúčenina, ktorá má vzorec 1CH3 - 2CH / OH - 3CH3:
+364. Zlúčenina, ktorá má vzorec <img src="otazkyPng/364.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />:
 a) je sekundárny alkohol
 b) je primárny alkohol
 c) je terciárny alkohol
@@ -3660,15 +3660,15 @@ h) je atóm uhlíka štvorväzbový
 
 367. Označte správne priradenie názvu charakteristickej skupiny:
 a) -NO nitrózoskupina
-b) -NO2 nitroskupina
-c) -SO3H sulfoskupina
-d) -NH2 aminoskupina
+b) -NO<sub>2</sub> nitroskupina
+c) -SO<sub>3</sub>H sulfoskupina
+d) -NH<sub>2</sub> aminoskupina
 e) -COOH karbonylová skupina
 f) -COOH karboxylová skupina
-g) -C-= oxoskupina
+g) <img src="otazkyPng/367.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 30px;" /> oxoskupina
 h) –OH hydroxylová skupina
 
-368. Zlúčenina vzorca 4CH3 - 3CH2 - 2CH2 - 1CHO:
+368. Zlúčenina vzorca <sup>4</sup>CH<sub>3</sub> - <sup>3</sup>CH<sub>2</sub> - <sup>2</sup>CH<sub>2</sub> - <sup>1</sup>CHO:
 a) má sekundárny uhlíkový atóm označený číslom 2
 b) má sekundárny uhlíkový atóm označený číslom 3
 c) má sekundárne uhlíkové atómy označené číslami 2 a 3
@@ -3679,14 +3679,14 @@ g) je butanón
 h) je butanol
 
 369. Ktoré z uvedených zlúčenín obsahujú terciárny atóm uhlíka:
-a) CH3-CH2-OH
-b) CH2 / OH - CH / OH - CH2 - OH 
-c) CH3 - CH / CH3 - CH2 - OH
-d) (CH3)3C-OH 
-e) HO-CH2-CH2-OH
-f) CH3 - N / CH3 - CH3
-g) CH3 - CH3 / C / CH3 - CH3
-h) Cl3C-COOH
+a) CH<sub>3</sub>-CH<sub>2</sub>OH
+b) <img src="otazkyPng/369b.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />
+c) <img src="otazkyPng/369c.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />
+d) (CH<sub>3</sub>)<sub>3</sub>C-OH 
+e) HO-CH<sub>2</sub>-CH<sub>2</sub>-OH
+f) <img src="otazkyPng/369f.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />
+g) <img src="otazkyPng/369g.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 80px;" />
+h) Cl<sub>3</sub>C-COOH
 
 370. Konštitučné izoméry sú:
 a) zlúčeniny, ktoré majú rovnaké molekulové vzorce ale odlišné štruktúrne vzorce
@@ -3694,9 +3694,9 @@ b) izopentán a 2-metylbután
 c) etylalkohol a dimetyléter
 d) metanol a dimetyléter
 e) n-pentán a izopentán
-f) CH3CH2OH a CH3-O-CH3
+f) CH<sub>3</sub>CH<sub>2</sub>OH a CH<sub>3</sub>-O-CH<sub>3</sub>
 g) butanón a propanón
-h) CH3 - CH3 / C / CH3 - CH3  a  CH3 - CH / CH3 - CH2 - CH3  
+h) <img src="otazkyPng/370h.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" /> 
 
 371. Izoméria:
 a) môže byť napr. konštitučná a konfiguračná
@@ -3719,26 +3719,26 @@ g) kyselina 9-oktadecénová
 h) kyselina buténdiová
 
 373. Z uvedených štruktúr je cis-izomérom: 
-a) CH / CH3 = CH / CH3
-b) CH / Br = CH /Br 
-c) CH2 / CH3 - CH2 / CH3
-d) HOOC / C /H = H / C / COOH
-e) H / C / H = CH2CH3 / C / H
-f) H / C / H = CH3 / C / H
-g) H / C / CH3CH2 = CH2CH3 / C / H
-h) H / C / CH3 = H / C/ H
+a) <img src="otazkyPng/373a.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 80px;" />
+b) <img src="otazkyPng/373b.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 80px;" /> 
+c) <img src="otazkyPng/373c.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 80px;" />
+d) <img src="otazkyPng/373d.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 80px;" />
+e) <img src="otazkyPng/373e.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 80px;" />
+f) <img src="otazkyPng/373f.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 80px;" />
+g) <img src="otazkyPng/373g.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 80px;" />
+h) <img src="otazkyPng/373h.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 80px;" />
 
 374. Z uvedených štruktúr je trans-izomérom:
-a) CH3 - (CH2)6 - CH2 / C / H = H / C / CH2 - (CH2)6 - COOH
-b) HOOC / C / H = H / C / COOH
-c) HOOC / C / H = COOH / C / H
-d) OH / CH / H = OH / CH / H
-e) CH3 - (CH2) - CH2 / C / H = CH2 / C/ H - (CH2)6 - COOH
-f) OH / CH2 - CH3 / OH
-g) CH3 / C / H = H / C / CH3
-h) Br - CH = CH - Br
+a) <img src="otazkyPng/374a.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 80px;" />
+b) <img src="otazkyPng/374b.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 80px;" />
+c) <img src="otazkyPng/374c.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 80px;" />
+d) <img src="otazkyPng/374d.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 80px;" />
+e) <img src="otazkyPng/374e.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 80px;" />
+f) <img src="otazkyPng/374f.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 80px;" />
+g) <img src="otazkyPng/374g.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 80px;" />
+h) <img src="otazkyPng/374h.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 80px;" />
 
-375. Dvojica vzorcov zlúčenín CH3-CO-O-CH2-CH3 a CH3-CH2-O-CO-CH3 predstavuje:
+375. Dvojica vzorcov zlúčenín CH<sub>3</sub>-CO-O-CH<sub>2</sub>-CH<sub>3</sub> a CH<sub>3</sub>-CH<sub>2</sub>-O-CO-CH<sub>3</sub> predstavuje:
 a) konštitučné izoméry
 b) tautoméry
 c) etylester kyseliny etánovej
@@ -3749,24 +3749,24 @@ g) stereoizoméry
 h) enantioméry
 
 376. Izomérne dvojice predstavujú štruktúry:
-a) CH3 - CH3 / CH - CH3 - CH - (CH2)3 - CH3 a CH3 - (CH2)3 - CH3 / CH - CH3 - CH - CH3
-b) CH3-O-CH2-CH3 a CH3-CH2-O-CH3
-c) CH3 - CH3 / CH - CH2 - CH2 - CH3 a CH3 - CH2 - CH3 / CH - CH2 - CH3 
-d) CH3 / CH2 - CH3 a CH3 - CH2 - CH3
-e) H3C - CH3 a H2C - CH3
-f) Cl - Cl a CL - Cl
-g) COOH - OH a COOH - OCOCH3
-h) H3C- CH3 a CH2 - CH3
+a) <img src="otazkyPng/376a1.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" /> a <img src="otazkyPng/376a2.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />
+b) CH<sub>3</sub>-O-CH<sub>2</sub>-CH<sub>3</sub> a CH<sub>3</sub>-CH<sub>2</sub>-O-CH<sub>3</sub>
+c) <img src="otazkyPng/376c1.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" /> a <img src="otazkyPng/376c2.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />
+d) <img src="otazkyPng/376d.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 80px;" />
+e) <img src="otazkyPng/376e1.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" /> a <img src="otazkyPng/376e2.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 80px;" />
+f) <img src="otazkyPng/376f1.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" /> a <img src="otazkyPng/376f2.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 80px;" />
+g) <img src="otazkyPng/376g1.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 80px;" /> a <img src="otazkyPng/376g2.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 80px;" />
+h) <img src="otazkyPng/376h1.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" /> a <img src="otazkyPng/376h2.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />
 
 377. Izomérne dvojice predstavujú štruktúry:
-a) CH3 - NH - O //C - CH3 a CH3 - CH2 - O //C - NH2
-b) CH3 - 0 //C - CH2 - CH3 a CH3 - CH2 -O //C - CH3
-c) H - O //C - O - CH3 a CH2 - O//C - OH
-d) H3C - CH2 - O - CH2 - CH3 a CH3 - O - CH2 - CH2 - CH3
-e) CH3OCH3 a C2H5OH
-f) CH3CHO a CH2=CHO
-g) CH2 / OH - CH / OH - CHO a CH2 / OH - CO - CH2 / OH
-h) CHCl3 a CH3Cl
+a) <img src="otazkyPng/377a1.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" /> a <img src="otazkyPng/377a2.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />
+b) <img src="otazkyPng/377b1.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" /> a <img src="otazkyPng/377b2.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />
+c) <img src="otazkyPng/377c1.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" /> a <img src="otazkyPng/377c2.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />
+d) H<sub>3</sub>C - CH<sub>2</sub> - O - CH<sub>2</sub> - CH<sub>3</sub> a CH<sub>3</sub> - O - CH<sub>2</sub> - CH<sub>2</sub> - CH<sub>3</sub>
+e) CH<sub>3</sub>OCH<sub>3</sub> a C<sub>2</sub>H<sub>5</sub>OH
+f) CH<sub>3</sub>CHO a CH<sub>2</sub>=CHO
+g) <img src="otazkyPng/377g1.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" /> a <img src="otazkyPng/377g2.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />
+h) CHCl<sub>3</sub> a CH<sub>3</sub>Cl
 
 378. Izoméry cis-trans tvorí:
 a) 2-pentén (pent-2-én)
@@ -3779,34 +3779,34 @@ g) 2-hexén (hex-2-én)
 h) 2-metyl-2-butén (2-metylbut-2-én)
 
 379. Správne označený chirálny atóm uhlíka je vo vzorci:
-a) C6H5-CH(OH)-C*OOH
-b) CH3-C*H(NH2)-COOH
-c) CH3-CH(Cl)-C*Cl3
-d) CH3-C*H(OH)-COOH
-e) CH2(OH)C*H(OH)CHO
-f) HO- CH2-C*O-CH2OH
-g) CH3-C/Br * H-CH2-CH3 
-h) CH3-C/Br * H - C/Cl*H - CH3
+a) C<sub>6</sub>H<sub>5</sub>-CH(OH)-C<sup>*</sup>OOH
+b) CH<sub>3</sub>-C<sup>*</sup>H(NH<sub>2</sub>)-COOH
+c) CH<sub>3</sub>-CH(Cl)-C<sup>*</sup>Cl<sub>3</sub>
+d) CH<sub>3</sub>-C<sup>*</sup>H(OH)-COOH
+e) CH<sub>2</sub>(OH)C<sup>*</sup>H(OH)CHO
+f) HO-CH<sub>2</sub>-C<sup>*</sup>O-CH<sub>2</sub>OH
+g) <img src="otazkyPng/379g.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />
+h) <img src="otazkyPng/379h.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />
 
 380. Ktoré z uvedených zlúčenín sú opticky aktívne:
-a) CH3 - CH2 - CH/CH2-CH2-CH3 - CH3
-b) CH3 - CH2 - CH/OH - CH3
-c) CH3-CH/OH - CH3
-d) CH3 - CH2 - CH2/Cl
-e) CH3 - CH2 - Ch/Br - CH3
-f) Br - CH/Cl - CH3
-g) HOOC - CH/OH - CH/OH - COOH
-h) CH3 - CH/Br - CH2 - CH3
+a) <img src="otazkyPng/380a.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />
+b) <img src="otazkyPng/380b.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />
+c) <img src="otazkyPng/380c.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />
+d) <img src="otazkyPng/380d.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />
+e) <img src="otazkyPng/380e.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />
+f) <img src="otazkyPng/380f.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />
+g) <img src="otazkyPng/380g.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />
+h) <img src="otazkyPng/380h.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />
 
 381. Ktoré z uvedených zlúčenín sú opticky aktívne:
-a) CH3-CH/NH2 - COOH
-b) CH3 - CH/NH2 - CH3
-c) CH3 - CH/OH - CH2 - CH3
-d) CH3 - CH/OH - COOH 
-e) CH3 - CH/Cl - COOH
-f) CH3 - CH/Cl - CH2 - CH3
-g) CH2/Nh2 - COOH
-h) CH1/OH - CO - CH2/OH
+a) <img src="otazkyPng/381a.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />
+b) <img src="otazkyPng/381b.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />
+c) <img src="otazkyPng/381c.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />
+d) <img src="otazkyPng/381d.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />
+e) <img src="otazkyPng/381e.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />
+f) <img src="otazkyPng/381f.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />
+g) <img src="otazkyPng/381g.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />
+h) <img src="otazkyPng/381h.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />
 
 382. Ktoré z uvedených zlúčenín sú opticky aktívne:
 a) kyselina mliečna
@@ -3819,18 +3819,18 @@ g) 2,2-dibrómpropán
 h) 1,2-dibrómpropán
 
 383. Ktorá z uvedených zlúčenín je opticky aktívna:
-a) CH3 - CH/NH2 - COOH
-b) CH3 - CH/OH - COOH
-c) HOOC - CH/OH - COOH
-d) HO - CH2-COOH/C/CH2-COOH - COOH
-e) HOOC - CH/OH -CH2 - COOH
-f) HO - CH2 - CH/OH - CHO
-g) CH2/OH - CH/OH - CH/OH - CH/OH - CHO
-h) HO - CH/CH-COOH / CH2/COOH - COOH
+a) <img src="otazkyPng/383a.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />
+b) <img src="otazkyPng/383b.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />
+c) <img src="otazkyPng/383c.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />
+d) <img src="otazkyPng/383d.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 80px;" />
+e) <img src="otazkyPng/383e.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />
+f) <img src="otazkyPng/383f.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />
+g) <img src="otazkyPng/383g.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />
+h) <img src="otazkyPng/383h.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 80px;" />
 
 384. Alkíny sú uhľovodíky:
 a) ktoré dávajú adičné reakcie
-b) so všeobecným vzorcom CnH2n-2
+b) so všeobecným vzorcom C<sub>n</sub>H<sub>2n-2</sub>
 c) s trojitou väzbou v molekule
 d) ktoré vytvárajú homologický rad
 e) reaktívnejšie ako alkány
@@ -3841,14 +3841,14 @@ h) ktoré s kovmi tvoria acetylidy
 385. Alkyly, R- :
 a) sú jednoväzbové skupiny
 b) sa odvodzujú od alkánov odtrhnutím jedného atómu vodíka
-c) majú všeobecný vzorec CnH2n+1
+c) majú všeobecný vzorec C<sub>n</sub>H<sub>n+1</sub>
 d) sú napríklad metyl a propyl
 e) nazývajú sa tiež aryly
 f) sú fenyl a naftyl
 g) sú formyl a acetyl
 h) sú benzyl a benzoyl
 
-386. Zlúčenine vzorca CH2 = CH-C/CH3 = CH2 priraďte správny systémový alebo triviálny názov:
+386. Zlúčenine vzorca <img src="otazkyPng/386.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" /> priraďte správny systémový alebo triviálny názov:
 a) 2-metyl-1,3-butadién (2-metylbuta-1,3-dién)
 b) chloroprén
 c) 2-metyl-1,4-butén (2-metylbut-1,4-én)
@@ -3868,7 +3868,7 @@ f) styrénu
 g) etylbenzénu
 h) naftalénu
 
-388. Zlúčenina vzorca CH3 = CH / NH2 - CH3 predstavuje:
+388. Zlúčenina vzorca <img src="otazkyPng/388.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" /> predstavuje:
 a) terciárny amín
 b) imín
 c) substitučný derivát propánu
@@ -3878,7 +3878,7 @@ f) 2-aminopropán
 g) sekundárny amín
 h) primárny amín
 
-389. Zlúčenina vzorca C6H5 - CH = CH2 je:
+389. Zlúčenina vzorca C<sub>6</sub>H<sub>5</sub> - CH = CH<sub>2</sub> je:
 a) monomér na výrobu polystyrénu
 b) monomér na výrobu PVC
 c) kumén
@@ -3898,7 +3898,7 @@ f) sa riadi adícia halogénvodíka na nenasýtený uhľovodík s nesymetrickou 
 g) sa riadi elektrofilná adícia na nesymetrický alkén
 h) sa riadi nukleofilná adícia na nesymetrický alkén
 
-391. H - C/H = O je:
+391. <img src="otazkyPng/391.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" /> je:
 a) metanál
 b) acetaldehyd
 c) ketón
@@ -3908,7 +3908,7 @@ f) formaldehyd
 g) aldehyd
 h) karbonylová zlúčenina
 
-392. CH3 - CHO je:
+392. CH<sub>3</sub> - CHO je:
 a) acetaldehyd
 b) formaldehyd
 c) acetylén
@@ -3918,7 +3918,7 @@ f) tautomér vinylalkoholu
 g) zlúčenina, ktorá vzniká oxidáciou sekundárneho alkoholu
 h) zlúčenina, ktorá oxidáciou tvorí kyselinu mravčiu
 
-393. Zlúčenina vzorca CH2/OH - CH/OH - C/H = O je:
+393. Zlúčenina vzorca <img src="otazkyPng/393.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" /> je:
 a) glyceraldehyd
 b) dihydroxyacetón
 c) oxozlúčenina
@@ -3928,7 +3928,7 @@ f) produktom redukcie glycerolu
 g) zlúčenina opticky aktívna
 h) zlúčenina obsahujúca jeden asymetrický atóm uhlíka v molekule
 
-394. Určte systémový názov zlúčeniny CH3 - C/CH3 = CH - COOH:
+394. Určte systémový názov zlúčeniny <img src="otazkyPng/394.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />:
 a) 3-metyl-3-buténová kyselina (3-metylbut-3-énová)
 b) ß-metyl-3-buténová kyselina
 c) kyselina fumarová
@@ -3939,14 +3939,14 @@ g) 2-metyl-3-buténová kyselina (2-metylbut-3-énová)
 h) kyselina izomaslová
 
 395. Označte dvojice, v ktorých je ku vzorcu priradený správny názov:
-a) CH3 - CH/CH3 - CH2 - CH2 - CH3   4-metylpentán 
-b) CH3 - CH2/CH3 - CH2 - CH3   2-metylbután
-c) CH3 - CH2 - CH2 - CH/CH3 - CH3   4-metylpentán
-d) CH3 - CH/CH3 - CH2 - CH/CH3 - CH2 - CH3   2,4-dimetylhexán
-e) CH3 - CH3/C/CH3 - CH2 - CH2 - CH3   4,4-dimetylpentán
-f) C6H5-CH = CH2   vinylbenzén
-g) C6H5-CH3   toluén
-h) CH2 = CH - CH = CH2   1,3-butadién (buta-1,3-dién)
+a) <img src="otazkyPng/395a.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />   4-metylpentán 
+b) <img src="otazkyPng/395b.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />   2-metylbután
+c) <img src="otazkyPng/395c.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />   4-metylpentán
+d) <img src="otazkyPng/395d.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />   2,4-dimetylhexán
+e) <img src="otazkyPng/395e.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 80px;" />   4,4-dimetylpentán
+f) C<sub>6</sub>H<sub>5</sub>-CH = CH<sub>2</sub>   vinylbenzén
+g) C<sub>6</sub>H<sub>5</sub>-CH<sub>3</sub>   toluén
+h) CH<sub>2</sub> = CH - CH = CH<sub>2</sub>   1,3-butadién (buta-1,3-dién)
 
 396. Adícia halogénvodíkov na alkény:
 a) sa riadi Markovnikovovým pravidlom
@@ -3989,9 +3989,9 @@ g) etín
 h) alkán
 
 400. Adíciou chlorovodíka na 1-butén a 2-butén vznikne:
-a) CH3 - CH/Cl - CH2 - CH3
-b) CH2/Cl - CH2 - CH2 - CH3
-c) CH/H = C/Cl - CH2 - CH3
+a) <img src="otazkyPng/400a.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />
+b) <img src="otazkyPng/400b.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />
+c) <img src="otazkyPng/400c.png" alt="O = OH / P / OH - O - CH3" style="max-width: 100%; height: 60px;" />
 d) halogénalkán
 e) 2-chlórbután
 f) 1-chlórbután
