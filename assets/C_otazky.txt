@@ -952,7 +952,7 @@ h) je proces, pri ktorom molekula organickej zlúčeniny prijíma dva atómy vod
 a) je každá chemická reakcia, pri ktorej atómy prvkov alebo ióny prijímajú elektróny
 b) je každá chemická reakcia, pri ktorej atómy prvkov alebo ióny odovzdávajú elektróny
 c) sa spája so znižovaním kladného oxidačného čísla atómov
-d) striebra vodíkom prebieha podľa reakcie Ag<sub>2</sub>S + H<sub>2</sub> &#10230 2 Ag + H<sub>2</sub>S
+d) striebra vodíkom prebieha podľa reakcie Ag<sub>2</sub>S + H<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 Ag + H<sub>2</sub>S
 e) je proces, pri ktorom látka prijíma dva vodíkové protóny
 f) organických zlúčenín sa nazýva dehydrogenácia
 g) je aj zlučovanie látok s vodíkom
@@ -982,11 +982,11 @@ h) ktoré majú schopnosť redukovať iné látky, pričom sa oxidujú
 a) oxidačno-redukčná
 b) pri ktorej jedna látka (molekuly tej istej zlúčeniny, rovnaké ióny alebo atómy toho istého prvku) prijíma i odovzdáva elektróny
 c) pri ktorej rovnaké ióny alebo atómy toho istého prvku podliehajú oxidácii i redukcii
-d) Cl<sub>2</sub> + H<sub>2</sub>O &#10230 HClO + HCl
+d) Cl<sub>2</sub> + H<sub>2</sub>O <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> HClO + HCl
 e) 2 CH = O - OH<sup>-</sup> -> CH<sub>2</sub>OH + COO<sup>-</sup>
-f) 2 KMnO<sub>4</sub> + 16 HCl &#10230 5 Cl<sub>2</sub> + 2 MnCl<sub>2</sub> + 2 KCl + 8 H<sub>2</sub>O
-g) 3 K<sub>2</sub>MnO<sub>4</sub> + 2 H<sub>2</sub>O &#10230 2 KMnO<sub>4</sub> + MnO<sub>2</sub> + 4 KOH
-h) 3 HNO<sub>2</sub> &#10230 HNO<sub>3</sub> + 2 NO + H<sub>2</sub>O
+f) 2 KMnO<sub>4</sub> + 16 HCl <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 5 Cl<sub>2</sub> + 2 MnCl<sub>2</sub> + 2 KCl + 8 H<sub>2</sub>O
+g) 3 K<sub>2</sub>MnO<sub>4</sub> + 2 H<sub>2</sub>O <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 KMnO<sub>4</sub> + MnO<sub>2</sub> + 4 KOH
+h) 3 HNO<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> HNO<sub>3</sub> + 2 NO + H<sub>2</sub>O
 
 100. Atóm jódu má oxidačné číslo VII v zlúčeninách:
 a) NaIO
@@ -1078,7 +1078,7 @@ f) zinok sa redukuje
 g) prebieha v smere zľava doprava
 h) zinok je redukovadlo, lebo v elektrochemickom rade napätia kovov stojí pred meďou
 
-109. Pre chemickú reakciu Fe + 2 HCl (zried.) &#10230 FeCl<sub>2</sub> + H<sub>2</sub> platí:
+109. Pre chemickú reakciu Fe + 2 HCl (zried.) <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> FeCl<sub>2</sub> + H<sub>2</sub> platí:
 a) Fe sa oxiduje
 b) Fe sa redukuje
 c) reakcia je oxidačno-redukčná
@@ -1088,7 +1088,7 @@ f) reakcia neprebieha
 g) katión H<sup>+</sup> je oxidovadlo
 h) katión H<sup>+</sup> sa redukuje
 
-110. Pre chemickú reakciu Zn + H<sub>2</sub>SO<sub>4</sub> (zried.) &#10230 ZnSO<sub>4</sub> + H<sub>2</sub> platí:
+110. Pre chemickú reakciu Zn + H<sub>2</sub>SO<sub>4</sub> (zried.) <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> ZnSO<sub>4</sub> + H<sub>2</sub> platí:
 a) katióny vodíka sa redukujú
 b) zinok sa redukuje
 c) reakcia je oxidačno-redukčná
@@ -1099,114 +1099,114 @@ g) reakcia neprebieha
 h) zinok sa oxiduje
 
 111. Ak do roztoku železnatej a zinočnatej soli ponoríme kúsky železa a zinku, prebieha reakcia: 
-a) Fe + Zn<sup>2+</sup> <span style="font-size: 24px;">&#10230;</span> Zn + Fe<sup>2+</sup>
-b) Fe<sup>2+</sup> + Zn <span style="font-size: 24px;">&#10230;</span> Zn<sup>2+</sup> + Fe
-c) 2 Fe + 3 Zn<sup>2+</sup> <span style="font-size: 24px;">&#10230;</span> 2 Fe<sup>3+</sup> + 3 Zn
+a) Fe + Zn<sup>2+</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> Zn + Fe<sup>2+</sup>
+b) Fe<sup>2+</sup> + Zn <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> Zn<sup>2+</sup> + Fe
+c) 2 Fe + 3 Zn<sup>2+</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 Fe<sup>3+</sup> + 3 Zn
 d) redukcie katiónu železa účinkom kovového zinku
 e) pri ktorej sa oxiduje elementárne železo
 f) pri ktorej sa oxiduje kovový zinok
 g) oxidačno-redukčná
 h) v ktorej vystupuje kovový zinok ako redukovadlo
 
-112. Pre schému oxidačno-redukčnej reakcie zvoľte vhodné čiastkové reakcie, prípadne overte, či sú uvedené stechiometrické koeficienty správne Cu + HNO<sub>3</sub> <span style="font-size: 24px;">&#10230;</span> Cu(NO<sub>3</sub>)<sub>2</sub> + NO<sub>2</sub> + H<sub>2</sub>O :
-a) N<sup>V</sup> + 3 e<sup>-</sup> <span style="font-size: 24px;">&#10230;</span> N<sup>II</sup>
-b) Cu<sup>0</sup> + 2 e<sup>-</sup> <span style="font-size: 24px;">&#10230;</span> Cu<sup>II</sup>
-c) Cu<sup>0</sup> - 2 e<sup>-</sup> <span style="font-size: 24px;">&#10230;</span> Cu<sup>II</sup>
-d) Cu<sup>0</sup> - 1 e<sup>-</sup> <span style="font-size: 24px;">&#10230;</span> Cu<sup>I</sup>
-e) N<sup>III</sup> + 1 e<sup>-</sup> <span style="font-size: 24px;">&#10230;</span> N<sup>II</sup>
-f) N<sup>V</sup> + 1 e<sup>-</sup> <span style="font-size: 24px;">&#10230;</span> N<sup>IV</sup>
-g) Cu<sup>I</sup> - 1 e<sup>-</sup> <span style="font-size: 24px;">&#10230;</span> Cu<sup>II</sup>
-h) 1 + 4 <span style="font-size: 24px;">&#10230;</span> 1 + 2 + 2
+112. Pre schému oxidačno-redukčnej reakcie zvoľte vhodné čiastkové reakcie, prípadne overte, či sú uvedené stechiometrické koeficienty správne Cu + HNO<sub>3</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> Cu(NO<sub>3</sub>)<sub>2</sub> + NO<sub>2</sub> + H<sub>2</sub>O :
+a) N<sup>V</sup> + 3 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> N<sup>II</sup>
+b) Cu<sup>0</sup> + 2 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> Cu<sup>II</sup>
+c) Cu<sup>0</sup> - 2 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> Cu<sup>II</sup>
+d) Cu<sup>0</sup> - 1 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> Cu<sup>I</sup>
+e) N<sup>III</sup> + 1 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> N<sup>II</sup>
+f) N<sup>V</sup> + 1 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> N<sup>IV</sup>
+g) Cu<sup>I</sup> - 1 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> Cu<sup>II</sup>
+h) 1 + 4 <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 1 + 2 + 2
 
-113. Pre schému oxidačno-redukčnej reakcie zvoľte vhodné čiastkové reakcie, prípadne overte, či sú uvedené stechiometrické koeficienty správne H<sub>2</sub>O<sub>2</sub> + KMnO<sub>4</sub> + H<sub>2</sub>SO<sub>4</sub> <span style="font-size: 24px;">&#10230;</span> O<sub>2</sub> + MnSO<sub>4</sub> + K<sub>2</sub>SO<sub>4</sub> + H<sub>2</sub>O :
-a) Mn<sup>VII</sup> + 5 e<sup>-</sup> <span style="font-size: 24px;">&#10230;</span> Mn<sup>II</sup>
-b) Mn<sup>VI</sup> + 4 e<sup>-</sup> <span style="font-size: 24px;">&#10230;</span> Mn<sup>II</sup>
-c) S<sup>VI</sup> + 2 e<sup>-</sup> <span style="font-size: 24px;">&#10230;</span> S<sup>IV</sup>
-d) 2 O<sup>-I</sup> - 2 e<sup>-</sup> <span style="font-size: 24px;">&#10230;</span> O<sub>2</sub><sup>0</sup>
-e) Mn<sup>VI</sup> - 4 e<sup>-</sup> <span style="font-size: 24px;">&#10230;</span> Mn<sup>II</sup>
-f) Mn<sup>VII</sup> + 3 e<sup>-</sup> <span style="font-size: 24px;">&#10230;</span> Mn<sup>IV</sup>
-g) O<sup>-I</sup> + 1 e<sup>-</sup> <span style="font-size: 24px;">&#10230;</span> O<sup>-II</sup>
-h) 5 + 2 + 3 <span style="font-size: 24px;">&#10230;</span> 5 + 2 + 1 + 8
+113. Pre schému oxidačno-redukčnej reakcie zvoľte vhodné čiastkové reakcie, prípadne overte, či sú uvedené stechiometrické koeficienty správne H<sub>2</sub>O<sub>2</sub> + KMnO<sub>4</sub> + H<sub>2</sub>SO<sub>4</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> O<sub>2</sub> + MnSO<sub>4</sub> + K<sub>2</sub>SO<sub>4</sub> + H<sub>2</sub>O :
+a) Mn<sup>VII</sup> + 5 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> Mn<sup>II</sup>
+b) Mn<sup>VI</sup> + 4 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> Mn<sup>II</sup>
+c) S<sup>VI</sup> + 2 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> S<sup>IV</sup>
+d) 2 O<sup>-I</sup> - 2 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> O<sub>2</sub><sup>0</sup>
+e) Mn<sup>VI</sup> - 4 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> Mn<sup>II</sup>
+f) Mn<sup>VII</sup> + 3 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> Mn<sup>IV</sup>
+g) O<sup>-I</sup> + 1 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> O<sup>-II</sup>
+h) 5 + 2 + 3 <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 5 + 2 + 1 + 8
 
-114. Pre schému oxidačno-redukčnej reakcie zvoľte vhodné čiastkové reakcie, prípadne overte, či sú uvedené stechiometrické koeficienty správne Cl<sub>2</sub> + NaOH <span style="font-size: 24px;">&#10230;</span> NaCl + NaClO + H<sub>2</sub>O :
-a) Cl<sup>0</sup> - 2 e<sup>-</sup> <span style="font-size: 24px;">&#10230;</span> Cl<sup>II</sup>
-b) Cl<sup>II</sup> + 1 e<sup>-</sup> <span style="font-size: 24px;">&#10230;</span> Cl<sup>I</sup>
-c) Cl<sup>0</sup> + 1 e<sup>-</sup> <span style="font-size: 24px;">&#10230;</span> Cl<sup>-I</sup>
-d) Na<sup>I</sup> - 1 e<sup>-</sup> <span style="font-size: 24px;">&#10230;</span> Na<sup>0</sup>
-e) Cl<sup>0</sup> - 1 e<sup>-</sup> <span style="font-size: 24px;">&#10230;</span> Cl<sup>I</sup>
-f) O<sup>-I</sup> + 1 e<sup>-</sup> <span style="font-size: 24px;">&#10230;</span> O<sup>-II</sup>
-g) H<sup>-I</sup> - 1 e<sup>-</sup> <span style="font-size: 24px;">&#10230;</span> H<sup>I</sup>
-h) 1 + 2 <span style="font-size: 24px;">&#10230;</span> 1 + 1 + 1
+114. Pre schému oxidačno-redukčnej reakcie zvoľte vhodné čiastkové reakcie, prípadne overte, či sú uvedené stechiometrické koeficienty správne Cl<sub>2</sub> + NaOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> NaCl + NaClO + H<sub>2</sub>O :
+a) Cl<sup>0</sup> - 2 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> Cl<sup>II</sup>
+b) Cl<sup>II</sup> + 1 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> Cl<sup>I</sup>
+c) Cl<sup>0</sup> + 1 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> Cl<sup>-I</sup>
+d) Na<sup>I</sup> - 1 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> Na<sup>0</sup>
+e) Cl<sup>0</sup> - 1 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> Cl<sup>I</sup>
+f) O<sup>-I</sup> + 1 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> O<sup>-II</sup>
+g) H<sup>-I</sup> - 1 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> H<sup>I</sup>
+h) 1 + 2 <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 1 + 1 + 1
 
-115. Pre schému oxidačno-redukčnej reakcie zvoľte vhodné čiastkové reakcie, prípadne overte, či sú uvedené stechiometrické koeficienty správne KMnO<sub>4</sub> + Na<sub>2</sub>SO<sub>3</sub> + H<sub>2</sub>O <span style="font-size: 24px;">&#10230;</span> Na<sub>2</sub>SO<sub>4</sub> + MnO<sub>2</sub> + KOH :
-a) Mn<sup>VII</sup> + 5 e<sup>-</sup> <span style="font-size: 24px;">&#10230;</span> Mn<sup>II</sup>
-b) Mn<sup>VII</sup> + 3 e<sup>-</sup> <span style="font-size: 24px;">&#10230;</span> Mn<sup>IV</sup>
-c) S<sup>VI</sup> + 2 e<sup>-</sup> <span style="font-size: 24px;">&#10230;</span> S<sup>IV</sup>
-d) H<sup>I</sup> + 2 e<sup>-</sup> <span style="font-size: 24px;">&#10230;</span> H<sup>-I</sup>
-e) K<sup>II</sup> - 1 e<sup>-</sup> <span style="font-size: 24px;">&#10230;</span> K<sup>I</sup>
-f) S<sup>IV</sup> - 2 e<sup>-</sup> <span style="font-size: 24px;">&#10230;</span> S<sup>VI</sup>
-g) Mn<sup>VI</sup> + 2 e <span style="font-size: 24px;">&#10230;</span> Mn<sup>IV</sup>
-h) 2 + 3 + 1 <span style="font-size: 24px;">&#10230;</span> 3 + 2 + 4
+115. Pre schému oxidačno-redukčnej reakcie zvoľte vhodné čiastkové reakcie, prípadne overte, či sú uvedené stechiometrické koeficienty správne KMnO<sub>4</sub> + Na<sub>2</sub>SO<sub>3</sub> + H<sub>2</sub>O <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> Na<sub>2</sub>SO<sub>4</sub> + MnO<sub>2</sub> + KOH :
+a) Mn<sup>VII</sup> + 5 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> Mn<sup>II</sup>
+b) Mn<sup>VII</sup> + 3 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> Mn<sup>IV</sup>
+c) S<sup>VI</sup> + 2 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> S<sup>IV</sup>
+d) H<sup>I</sup> + 2 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> H<sup>-I</sup>
+e) K<sup>II</sup> - 1 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> K<sup>I</sup>
+f) S<sup>IV</sup> - 2 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> S<sup>VI</sup>
+g) Mn<sup>VI</sup> + 2 e <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> Mn<sup>IV</sup>
+h) 2 + 3 + 1 <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 3 + 2 + 4
 
-116. Pre schému oxidačno-redukčnej reakcie zvoľte vhodné čiastkové reakcie, prípadne overte, či sú uvedené stechiometrické koeficienty správne H<sub>2</sub>O<sub>2</sub> &#10230 H<sub>2</sub>O + O<sub>2</sub>:  
-a) 2 H<sup>I</sup> - 2 e<sup>-</sup> &#10230 H<sub>2</sub><sup>0</sup>  
-b) 2 O<sup>-I</sup> + 2 e<sup>-</sup> &#10230 2 O<sup>-II</sup>  
-c) 2 O<sup>-I</sup>- 2 e<sup>-</sup> &#10230 O<sub>2</sub><sup>0</sup>  
-d) 2 O<sup>-II</sup>- 4 e<sup>-</sup> &#10230 O<sub>2</sub><sup>0</sup>  
-e) 2 O<sup>-II</sup>- 2 e<sup>-</sup> &#10230 2 O<sup>-I</sup>  
-f) 2 H<sup>I</sup> + 2 e<sup>-</sup> &#10230 H<sub>2</sub><sup>0</sup> 
-g) 2 &#10230 2 + 1  
-h) 3 &#10230 2 + 1  
+116. Pre schému oxidačno-redukčnej reakcie zvoľte vhodné čiastkové reakcie, prípadne overte, či sú uvedené stechiometrické koeficienty správne H<sub>2</sub>O<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> H<sub>2</sub>O + O<sub>2</sub>:  
+a) 2 H<sup>I</sup> - 2 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> H<sub>2</sub><sup>0</sup>  
+b) 2 O<sup>-I</sup> + 2 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 O<sup>-II</sup>  
+c) 2 O<sup>-I</sup>- 2 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> O<sub>2</sub><sup>0</sup>  
+d) 2 O<sup>-II</sup>- 4 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> O<sub>2</sub><sup>0</sup>  
+e) 2 O<sup>-II</sup>- 2 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 O<sup>-I</sup>  
+f) 2 H<sup>I</sup> + 2 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> H<sub>2</sub><sup>0</sup> 
+g) 2 <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 + 1  
+h) 3 <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 + 1  
 
-117. Pre schému oxidačno-redukčnej reakcie zvoľte vhodné čiastkové reakcie, prípadne overte, či sú uvedené stechiometrické koeficienty správne SO<sub>2</sub> + H<sub>2</sub>S &#10230 S + H<sub>2</sub>O:  
-a) S<sup>-II</sup>- 2 e<sup>-</sup> &#10230 S<sup>0</sup>  
-b) S<sup>II</sup>- 2 e<sup>-</sup> &#10230 S<sup>0</sup>  
-c) O<sup>-II</sup>- 1 e<sup>-</sup> &#10230 O<sup>-I</sup>  
-d) S<sup>IV</sup> + 4 e<sup>-</sup> &#10230 S<sup>0</sup>  
-e) S<sup>VI</sup> + 6 e<sup>-</sup> &#10230 S<sup>0</sup>  
-f) S<sup>-I</sup>- 1 e<sup>-</sup> &#10230 S<sup>0</sup>  
-g) H<sup>-I</sup>- 2 e<sup>-</sup> &#10230 H<sup>I</sup>  
-h) 1 + 2 &#10230 3 + 2  
+117. Pre schému oxidačno-redukčnej reakcie zvoľte vhodné čiastkové reakcie, prípadne overte, či sú uvedené stechiometrické koeficienty správne SO<sub>2</sub> + H<sub>2</sub>S <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> S + H<sub>2</sub>O:  
+a) S<sup>-II</sup>- 2 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> S<sup>0</sup>  
+b) S<sup>II</sup>- 2 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> S<sup>0</sup>  
+c) O<sup>-II</sup>- 1 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> O<sup>-I</sup>  
+d) S<sup>IV</sup> + 4 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> S<sup>0</sup>  
+e) S<sup>VI</sup> + 6 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> S<sup>0</sup>  
+f) S<sup>-I</sup>- 1 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> S<sup>0</sup>  
+g) H<sup>-I</sup>- 2 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> H<sup>I</sup>  
+h) 1 + 2 <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 3 + 2  
 
-118. Pre schému oxidačno-redukčnej reakcie zvoľte vhodné čiastkové reakcie, prípadne overte, či sú uvedené stechiometrické koeficienty správne Na<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> + HCl &#10230 NaCl + CrCl<sub>3</sub> + Cl<sub>2</sub> + H<sub>2</sub>O:  
-a) 2 Cl<sup>-I</sup> - 2 e<sup>-</sup> &#10230 Cl<sub>2</sub><sup>0</sup>  
-b) 2 Cl<sup>-I</sup> - 2 e<sup>-</sup> &#10230 Cr<sup>III</sup>  
-c) Cr<sup>VI</sup> + 3 e<sup>-</sup> &#10230 Cr<sup>III</sup>  
-d) Cl<sup>I</sup> + 2 e<sup>-</sup> &#10230 Cl<sup>-I</sup>  
-e) Na<sup>II</sup> + 1 e<sup>-</sup> &#10230 Na<sup>I</sup>  
-f) Cr<sup>VII</sup> + 4 e<sup>-</sup> &#10230 Cr<sup>III</sup>  
-g) O<sup>-I</sup> + 1 e<sup>-</sup> &#10230 O<sup>-II</sup>  
-h) 1 + 14 &#10230 2 + 2 + 3 + 7  
+118. Pre schému oxidačno-redukčnej reakcie zvoľte vhodné čiastkové reakcie, prípadne overte, či sú uvedené stechiometrické koeficienty správne Na<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> + HCl <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> NaCl + CrCl<sub>3</sub> + Cl<sub>2</sub> + H<sub>2</sub>O:  
+a) 2 Cl<sup>-I</sup> - 2 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> Cl<sub>2</sub><sup>0</sup>  
+b) 2 Cl<sup>-I</sup> - 2 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> Cr<sup>III</sup>  
+c) Cr<sup>VI</sup> + 3 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> Cr<sup>III</sup>  
+d) Cl<sup>I</sup> + 2 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> Cl<sup>-I</sup>  
+e) Na<sup>II</sup> + 1 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> Na<sup>I</sup>  
+f) Cr<sup>VII</sup> + 4 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> Cr<sup>III</sup>  
+g) O<sup>-I</sup> + 1 e<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> O<sup>-II</sup>  
+h) 1 + 14 <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 + 2 + 3 + 7  
 
 119. Jód sa oxiduje v reakciách:  
-a) Cl<sub>2</sub> + 2 KI &#10230 I<sub>2</sub> + 2 KCl  
-b) 2 KI + O<sub>3</sub> + H<sub>2</sub>O &#10230 I<sub>2</sub> + 2 KOH + O<sub>2</sub>  
-c) 3 I<sub>2</sub> + 10 HNO<sub>3</sub> &#10230 6 HIO<sub>3</sub> + 10 NO + 2 H<sub>2</sub>O  
-d) NaIO<sub>3</sub> + NaClO &#10230 NaIO<sub>4</sub> + NaCl  
-e) Pb(NO<sub>3</sub>)<sub>2</sub> + 2 KI &#10230 PbI<sub>2</sub> + 2 KNO<sub>3</sub>  
-f) I<sub>2</sub> + H<sub>2</sub>S &#10230 2 HI + S  
-g) I<sub>2</sub> + 5 Cl<sub>2</sub> + 6 H<sub>2</sub>O &#10230 2 HIO<sub>3</sub> + 10 HCl  
-h) Na<sub>3</sub>AsO<sub>3</sub> + I<sub>2</sub> + H<sub>2</sub>O &#10230 Na<sub>3</sub>AsO<sub>4</sub> + 2 HI  
+a) Cl<sub>2</sub> + 2 KI <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> I<sub>2</sub> + 2 KCl  
+b) 2 KI + O<sub>3</sub> + H<sub>2</sub>O <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> I<sub>2</sub> + 2 KOH + O<sub>2</sub>  
+c) 3 I<sub>2</sub> + 10 HNO<sub>3</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 6 HIO<sub>3</sub> + 10 NO + 2 H<sub>2</sub>O  
+d) NaIO<sub>3</sub> + NaClO <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> NaIO<sub>4</sub> + NaCl  
+e) Pb(NO<sub>3</sub>)<sub>2</sub> + 2 KI <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> PbI<sub>2</sub> + 2 KNO<sub>3</sub>  
+f) I<sub>2</sub> + H<sub>2</sub>S <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 HI + S  
+g) I<sub>2</sub> + 5 Cl<sub>2</sub> + 6 H<sub>2</sub>O <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 HIO<sub>3</sub> + 10 HCl  
+h) Na<sub>3</sub>AsO<sub>3</sub> + I<sub>2</sub> + H<sub>2</sub>O <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> Na<sub>3</sub>AsO<sub>4</sub> + 2 HI  
 
 120. Síra sa oxiduje v reakcii:  
-a) Fe<sub>2</sub>S<sub>3</sub> + 4 HCl &#10230 2 FeCl<sub>2</sub> + 2 H<sub>2</sub> + 3 S  
-b) 2 Cr + 6 H<sub>2</sub>SO<sub>4</sub> &#10230 Cr<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> + 3 SO<sub>2</sub> + 6 H<sub>2</sub>O  
-c) I<sub>2</sub> + H<sub>2</sub>S &#10230 2 HI + S  
-d) NaOH + SO<sub>2</sub> &#10230 NaHSO<sub>3</sub>  
-e) 2 FeCl<sub>3</sub> + H<sub>2</sub>S &#10230 2 FeCl<sub>2</sub> + S + 2 HCl  
-f) K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> + S &#10230 Cr<sub>2</sub>O<sub>3</sub> + K<sub>2</sub>SO<sub>4</sub>  
-g) Cl<sub>2</sub> + SO<sub>2</sub> + 2 H<sub>2</sub>O &#10230 2 HCl + H<sub>2</sub>SO<sub>4</sub>  
-h) 4 FeS<sub>2</sub> + 11 O<sub>2</sub> &#10230 2 Fe<sub>2</sub>O<sub>3</sub> + 8 SO<sub>2</sub>  
+a) Fe<sub>2</sub>S<sub>3</sub> + 4 HCl <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 FeCl<sub>2</sub> + 2 H<sub>2</sub> + 3 S  
+b) 2 Cr + 6 H<sub>2</sub>SO<sub>4</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> Cr<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> + 3 SO<sub>2</sub> + 6 H<sub>2</sub>O  
+c) I<sub>2</sub> + H<sub>2</sub>S <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 HI + S  
+d) NaOH + SO<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> NaHSO<sub>3</sub>  
+e) 2 FeCl<sub>3</sub> + H<sub>2</sub>S <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 FeCl<sub>2</sub> + S + 2 HCl  
+f) K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> + S <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> Cr<sub>2</sub>O<sub>3</sub> + K<sub>2</sub>SO<sub>4</sub>  
+g) Cl<sub>2</sub> + SO<sub>2</sub> + 2 H<sub>2</sub>O <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 HCl + H<sub>2</sub>SO<sub>4</sub>  
+h) 4 FeS<sub>2</sub> + 11 O<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 Fe<sub>2</sub>O<sub>3</sub> + 8 SO<sub>2</sub>  
 
 121. Vyberte reakcie, v ktorých je H<sub>2</sub>O<sub>2</sub> oxidovadlo:  
-a) H<sub>2</sub>O<sub>2</sub> + 2 FeSO<sub>4</sub> + H<sub>2</sub>SO<sub>4</sub> &#10230 Fe<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> + 2 H<sub>2</sub>O  
-b) 5 H<sub>2</sub>O<sub>2</sub> + 2 KMnO<sub>4</sub> + 3 H<sub>2</sub>SO<sub>4</sub> &#10230 5 O<sub>2</sub> + 2 MnSO<sub>4</sub> + K<sub>2</sub>SO<sub>4</sub> + 8 H<sub>2</sub>O  
-c) H<sub>2</sub>O<sub>2</sub> + PbO<sub>2</sub> + 2 HNO<sub>3</sub> &#10230 Pb(NO<sub>3</sub>)<sub>2</sub> + O<sub>2</sub> + 2 H<sub>2</sub>O  
-d) H<sub>2</sub>O<sub>2</sub> + 2 KI + H<sub>2</sub>SO<sub>4</sub> &#10230 I<sub>2</sub> + K<sub>2</sub>SO<sub>4</sub> + 2 H<sub>2</sub>O  
-e) Mn<sup>2+</sup> + H<sub>2</sub>O<sub>2</sub> + 2 OH<sup>-</sup> &#10230 MnO<sub>2</sub> + 2 H<sub>2</sub>O  
-f) H<sub>2</sub>O<sub>2</sub> + H<sub>2</sub>S &#10230 2 H<sub>2</sub>O + S  
-g) Ag<sub>2</sub>O + H<sub>2</sub>O<sub>2</sub> &#10230 2 Ag + H<sub>2</sub>O + O<sub>2</sub>  
-h) H<sub>2</sub>O<sub>2</sub> + Fe<sup>2+</sup> &#10230 Fe<sup>3+</sup> + OH<sup>-</sup> + OH<sup>•</sup>  
+a) H<sub>2</sub>O<sub>2</sub> + 2 FeSO<sub>4</sub> + H<sub>2</sub>SO<sub>4</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> Fe<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> + 2 H<sub>2</sub>O  
+b) 5 H<sub>2</sub>O<sub>2</sub> + 2 KMnO<sub>4</sub> + 3 H<sub>2</sub>SO<sub>4</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 5 O<sub>2</sub> + 2 MnSO<sub>4</sub> + K<sub>2</sub>SO<sub>4</sub> + 8 H<sub>2</sub>O  
+c) H<sub>2</sub>O<sub>2</sub> + PbO<sub>2</sub> + 2 HNO<sub>3</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> Pb(NO<sub>3</sub>)<sub>2</sub> + O<sub>2</sub> + 2 H<sub>2</sub>O  
+d) H<sub>2</sub>O<sub>2</sub> + 2 KI + H<sub>2</sub>SO<sub>4</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> I<sub>2</sub> + K<sub>2</sub>SO<sub>4</sub> + 2 H<sub>2</sub>O  
+e) Mn<sup>2+</sup> + H<sub>2</sub>O<sub>2</sub> + 2 OH<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> MnO<sub>2</sub> + 2 H<sub>2</sub>O  
+f) H<sub>2</sub>O<sub>2</sub> + H<sub>2</sub>S <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 H<sub>2</sub>O + S  
+g) Ag<sub>2</sub>O + H<sub>2</sub>O<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 Ag + H<sub>2</sub>O + O<sub>2</sub>  
+h) H<sub>2</sub>O<sub>2</sub> + Fe<sup>2+</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> Fe<sup>3+</sup> + OH<sup>-</sup> + OH<sup>•</sup>  
 
 122. Rýchlosť chemickej reakcie:  
 a) u plynov závisí od tlaku  
@@ -1269,14 +1269,14 @@ g) K = [KClO<sub>3</sub>] [KCl] [KClO<sub>4</sub>] / 3
 h) K = [KClO<sub>3</sub>] + [KCl] + [KClO<sub>4</sub>] / 3
 
 128. Ktoré z uvedených rovníc vyjadrujú exotermický dej:
-a) 2 SO<sub>3</sub> &#10230 2 SO<sub>2</sub> + O<sub>2</sub>; Q<sub>m</sub> = +195 kJ·mol<sup>-1</sup>
-b) CO + ½ O<sub>2</sub> &#10230 CO<sub>2</sub>; Q<sub>m</sub> = -283 kJ·mol<sup>-1</sup>
-c) 4 NH<sub>3</sub> + 5 O<sub>2</sub> &#10230 4 NO + 6 H<sub>2</sub>O; Q<sub>m</sub> = -906 kJ·mol<sup>-1</sup>
-d) N<sub>2</sub> + 3 H<sub>2</sub> &#10230 2 NH<sub>3</sub>; Q<sub>m</sub> = -93 kJ·mol<sup>-1</sup>
-e) 2 H<sub>2</sub> + O<sub>2</sub> &#10230 2 H<sub>2</sub>O; Q<sub>m</sub> = -452 kJ·mol<sup>-1</sup>
-f) 2 H<sub>2</sub>O &#10230 2 H<sub>2</sub> + O<sub>2</sub>; Q<sub>m</sub> = +452 kJ·mol<sup>-1</sup>
-g) C + O<sub>2</sub> &#10230 CO<sub>2</sub>; Q<sub>m</sub> = -394 kJ·mol<sup>-1</sup>
-h) CH<sub>4</sub> + 2 O<sub>2</sub> &#10230 CO<sub>2</sub> + 2 H<sub>2</sub>O; Q<sub>m</sub> = -804 kJ·mol<sup>-1</sup>
+a) 2 SO<sub>3</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 SO<sub>2</sub> + O<sub>2</sub>; Q<sub>m</sub> = +195 kJ·mol<sup>-1</sup>
+b) CO + ½ O<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CO<sub>2</sub>; Q<sub>m</sub> = -283 kJ·mol<sup>-1</sup>
+c) 4 NH<sub>3</sub> + 5 O<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 4 NO + 6 H<sub>2</sub>O; Q<sub>m</sub> = -906 kJ·mol<sup>-1</sup>
+d) N<sub>2</sub> + 3 H<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 NH<sub>3</sub>; Q<sub>m</sub> = -93 kJ·mol<sup>-1</sup>
+e) 2 H<sub>2</sub> + O<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 H<sub>2</sub>O; Q<sub>m</sub> = -452 kJ·mol<sup>-1</sup>
+f) 2 H<sub>2</sub>O <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 H<sub>2</sub> + O<sub>2</sub>; Q<sub>m</sub> = +452 kJ·mol<sup>-1</sup>
+g) C + O<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CO<sub>2</sub>; Q<sub>m</sub> = -394 kJ·mol<sup>-1</sup>
+h) CH<sub>4</sub> + 2 O<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CO<sub>2</sub> + 2 H<sub>2</sub>O; Q<sub>m</sub> = -804 kJ·mol<sup>-1</sup>
 
 129. Aktivačná energia reakcie:
 a) sa uplatňuje len pri exotermických chemických dejoch
@@ -1378,7 +1378,7 @@ f) ktorého hodnota nezávisí od prítomnosti katalyzátora v reakčnej zmesi
 g) ktoré vyjadruje rýchlosť chemickej reakcie  
 h) ktoré môže mať v reakciách kladné alebo záporné znamienko  
 
-139. Reakčné teplo Q<sub>m</sub> reakcie C(s) + 1/2 O<sub>2</sub>(g) &#10230 CO(g) vypočítané z reakčných tepiel reakcií: C(s) + O<sub>2</sub>(g) &#10230 CO<sub>2</sub>(g); Q<sub>m</sub> = -393 kJ·mol<sup>-1</sup> CO(g) + 1/2 O<sub>2</sub>(g) &#10230 CO<sub>2</sub>(g); Q<sub>m</sub> = -283 kJ·mol<sup>-1</sup> bude mať v zmysle Hessovho zákona hodnotu:  
+139. Reakčné teplo Q<sub>m</sub> reakcie C(s) + 1/2 O<sub>2</sub>(g) <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CO(g) vypočítané z reakčných tepiel reakcií: C(s) + O<sub>2</sub>(g) <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CO<sub>2</sub>(g); Q<sub>m</sub> = -393 kJ·mol<sup>-1</sup> CO(g) + 1/2 O<sub>2</sub>(g) <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CO<sub>2</sub>(g); Q<sub>m</sub> = -283 kJ·mol<sup>-1</sup> bude mať v zmysle Hessovho zákona hodnotu:  
 a) -676 kJ·mol<sup>-1</sup>  
 b) -110 kJ·mol<sup>-1</sup>  
 c) +110 kJ·mol<sup>-1</sup>  
@@ -1431,8 +1431,8 @@ h) vzniká reakciou protónu a atómu vodíka
 144. Označte, ktoré tvrdenie o vodíku je správne:  
 a) v zlúčeninách s fluórom, kyslíkom a dusíkom sa môže jeho atóm viazať so susednými molekulami kovalentnou väzbou  
 b) je prvým členom periodickej sústavy prvkov  
-c) s dusíkom sa nemôže zlučovať priamo, reakcia: N<sub>2</sub> + 3 H<sub>2</sub> &#10230 2 NH<sub>3</sub> neprebieha ani pri vyššej teplote a ani za použitia katalyzátorov  
-d) vodík môže redukovať aj sulfidy, napr. Ag<sub>2</sub>S + H<sub>2</sub> &#10230 2 Ag + H<sub>2</sub>S  
+c) s dusíkom sa nemôže zlučovať priamo, reakcia: N<sub>2</sub> + 3 H<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 NH<sub>3</sub> neprebieha ani pri vyššej teplote a ani za použitia katalyzátorov  
+d) vodík môže redukovať aj sulfidy, napr. Ag<sub>2</sub>S + H<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 Ag + H<sub>2</sub>S  
 e) tvorí ternárne (trojprvkové) zlúčeniny - hydridy - so všetkými prvkami periodickej sústavy prvkov  
 f) atómy vodíka majú najjednoduchšiu elektrónovú konfiguráciu 1s<sup>1</sup>  
 g) rýchle difunduje pórovitými stenami pevných látok  
@@ -1459,14 +1459,14 @@ g) sú príčinou redukčných vlastností vodíka (vo väčšine reakcií)
 h) sú menej reaktívne ako molekuly vodíka  
 
 147. Označte, ktoré reakcie binárnych zlúčenín vodíka s vodou môžu prebiehať:  
-a) HBr + H<sub>2</sub>O <span style="font-size: 24px;">&#10230;</span> H<sub>3</sub>O<sup>+</sup> + Br<sup>-</sup>  
-b) KH + H<sub>2</sub>O &#10230 H<sub>2</sub> + KOH  
-c) CaH<sub>2</sub> + 2 H<sub>2</sub>O &#10230 2 H<sub>2</sub> + Ca(OH)<sub>2</sub>  
-d) PH<sub>3</sub> + 4 H<sub>2</sub>O &#10230 4 H<sub>2</sub> + H<sub>3</sub>PO<sub>4</sub>  
-e) BaH<sub>2</sub> + 2 H<sub>2</sub>O &#10230 2 H<sub>2</sub> + Ba(OH)<sub>2</sub>  
-f) C<sub>2</sub>H<sub>6</sub> + 2 H<sub>2</sub>O &#10230 5 H<sub>2</sub> + 2 CO<sub>2</sub>  
-g) AsH<sub>3</sub> + 3 H<sub>2</sub>O &#10230 H<sub>3</sub>AsO<sub>3</sub> + 3 H<sub>2</sub>  
-h) NaH + H<sub>2</sub>O &#10230 H<sub>2</sub> + NaOH  
+a) HBr + H<sub>2</sub>O <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> H<sub>3</sub>O<sup>+</sup> + Br<sup>-</sup>  
+b) KH + H<sub>2</sub>O <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> H<sub>2</sub> + KOH  
+c) CaH<sub>2</sub> + 2 H<sub>2</sub>O <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 H<sub>2</sub> + Ca(OH)<sub>2</sub>  
+d) PH<sub>3</sub> + 4 H<sub>2</sub>O <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 4 H<sub>2</sub> + H<sub>3</sub>PO<sub>4</sub>  
+e) BaH<sub>2</sub> + 2 H<sub>2</sub>O <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 H<sub>2</sub> + Ba(OH)<sub>2</sub>  
+f) C<sub>2</sub>H<sub>6</sub> + 2 H<sub>2</sub>O <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 5 H<sub>2</sub> + 2 CO<sub>2</sub>  
+g) AsH<sub>3</sub> + 3 H<sub>2</sub>O <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> H<sub>3</sub>AsO<sub>3</sub> + 3 H<sub>2</sub>  
+h) NaH + H<sub>2</sub>O <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> H<sub>2</sub> + NaOH  
 
 148. Zlúčenina SrH<sub>2</sub>:  
 a) môže vzniknúť reakciou prvkov stroncia a vodíka  
@@ -1485,7 +1485,7 @@ c) v prípade H<sub>2</sub>S, HCl, NH<sub>3</sub> sú atómy vodíka viazané s 
 d) hydridy sú ternárne zlúčeniny vodíka s inými prvkami  
 e) zlúčeniny s nepolárnymi kovalentnými väzbami nereagujú s vodou  
 f) hydridy obsahujú anióny H<sup>-</sup> viazané s prvkami, ktoré majú najnižšie hodnoty elektronegativity (alkalické kovy a kovy alkalických zemín)  
-g) hydridy reagujú s vodou podľa rovnice: H<sub>2</sub>O + H<sup>-</sup> &#10230 OH<sup>-</sup> + H<sub>2</sub>  
+g) hydridy reagujú s vodou podľa rovnice: H<sub>2</sub>O + H<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> OH<sup>-</sup> + H<sub>2</sub>  
 h) ich vlastnosti závisia hlavne od polarity väzby medzi atómom vodíka a atómom druhého prvku - podľa toho ich možno rozdeliť na iónové a kovalentné  
 
 150. Deutérium:  
@@ -1510,13 +1510,13 @@ h) najčastejšie vyskytuje izotop <table style="display:inline; border-collapse
 
 152. Vodík:
 a) sa pri bežných podmienkach na Zemi nevyskytuje ako atómový vodík
-b) môžeme pripraviť reakciou vodnej pary s rozžeraveným koksom podľa rovnice: C + H<sub>2</sub>O &#10230 CO + H<sub>2</sub>
+b) môžeme pripraviť reakciou vodnej pary s rozžeraveným koksom podľa rovnice: C + H<sub>2</sub>O <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CO + H<sub>2</sub>
 c) má chemické vlastnosti veľmi podobné ako ostatné prvky I.A skupiny
 d) v laboratóriu možno pripraviť elektrolýzou vody
 e) patrí medzi s<sup>2</sup> prvky
 f) sa vo vesmíre vyskytuje v plynnom obale Slnka, stálic a v hmlovinách
 g) je po héliu druhý najľahší prvok v sústave prvkov
-h) môže reagovať s chlórom podľa rovnice: H<sub>2</sub> + Cl<sub>2</sub> &#10230 2 HCl
+h) môže reagovať s chlórom podľa rovnice: H<sub>2</sub> + Cl<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 HCl
 
 153. Katión H<sup>+</sup>:
 a) sa tiež nazýva prócium
@@ -1573,7 +1573,7 @@ a) je izotop kyslíka
 b) vzniká z molekuly a atómu kyslíka a má vzorec O<sub>3</sub>
 c) vzniká v atmosfére pri búrkach
 d) sa pripravuje frakčnou destiláciou skvapalneného vzduchu
-e) vzniká reakciou: O + O<sub>2</sub> &#10230 O<sub>3</sub>
+e) vzniká reakciou: O + O<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> O<sub>3</sub>
 f) má redukčné účinky
 g) ľahko uvoľňuje atómový kyslík, preto má oxidačné účinky
 h) má rovnakú molárnu hmotnosť ako molekulový kyslík (O<sub>2</sub>)
@@ -1591,7 +1591,7 @@ h) sú zlúčeniny, v ktorých má atóm kyslíka vyššiu hodnotu elektronegati
 160. Kyselinotvorné oxidy:
 a) sú mnohé molekulové oxidy, napr. CO<sub>2</sub>, SO<sub>3</sub>
 b) sú najmä oxidy iónového charakteru
-c) reagujú s vodou podľa reakcie: O<sup>2-</sup> + H<sub>2</sub>O &#10230 2 OH<sup>-</sup>
+c) reagujú s vodou podľa reakcie: O<sup>2-</sup> + H<sub>2</sub>O <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 OH<sup>-</sup>
 d) sú oxidy kovových prvkov s oxidačným číslom vyšším ako V
 e) reagujú s vodou za vzniku kyselín
 f) ktoré sú nerozpustné vo vode, sa rozpúšťajú v roztokoch hydroxidov za vzniku solí
@@ -1599,7 +1599,7 @@ g) sú oxidy prvkov I.A a II.A (1. a 2.) skupiny periodickej sústavy prvkov
 h) vôbec priamo nereagujú s vodou
 
 161. Zásadotvorné oxidy:
-a) sú napr. iónové oxidy, ktoré reagujú s vodou podľa rovnice: O<sup>2-</sup> + H<sub>2</sub>O &#10230 2 OH<sup>-</sup>
+a) sú napr. iónové oxidy, ktoré reagujú s vodou podľa rovnice: O<sup>2-</sup> + H<sub>2</sub>O <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 OH<sup>-</sup>
 b) sú oxidy kovových prvkov s oxidačným číslom nižším ako IV
 c) ktoré sú nerozpustné vo vode, reagujú s kyselinami za vzniku solí
 d) sa zlučujú s vodou za tvorby solí
@@ -1623,8 +1623,8 @@ a) môže prebiehať reťazovým mechanizmom
 b) nespôsobí zmenu oxidačného čísla atómu kyslíka
 c) väčšinou patrí medzi endotermické reakcie
 d) prebieha najrýchlejšie pri teplotách do 5 °C
-e) napr. v reakcii: 4 Li + O<sub>2</sub> &#10230 2 Li<sub>2</sub>O vedie k zmene oxidačného čísla atómu kyslíka z 0 na -I
-f) je napr. reakcia: 2 H<sub>2</sub> + O<sub>2</sub> &#10230 2 H<sub>2</sub>O
+e) napr. v reakcii: 4 Li + O<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 Li<sub>2</sub>O vedie k zmene oxidačného čísla atómu kyslíka z 0 na -I
+f) je napr. reakcia: 2 H<sub>2</sub> + O<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 H<sub>2</sub>O
 g) pri ktorej vzniká tepelné a svetelné žiarenie, sa nazýva horenie
 h) môže prebiehať aj vo vodnom prostredí
 
@@ -1679,7 +1679,7 @@ g) prítomnosť voľných elektrónových párov na atóme kyslíka v molekule v
 h) voda je v roztokoch prítomná len vo forme iónov H<sub>3</sub>O<sup>+</sup> a OH<sup>-</sup>
 
 169. O roztoku H<sub>2</sub>O<sub>2</sub> platí:
-a) môže vystupovať ako oxidovadlo v reakcii: S<sup>2-</sup> + 4 H<sub>2</sub>O<sub>2</sub> &#10230 SO<sub>4</sub><sup>2-</sup> + 4 H<sub>2</sub>O
+a) môže vystupovať ako oxidovadlo v reakcii: S<sup>2-</sup> + 4 H<sub>2</sub>O<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> SO<sub>4</sub><sup>2-</sup> + 4 H<sub>2</sub>O
 b) môže reagovať so silnými hydroxidmi a vytvárať soli hydrogenperoxidy M<sup>I</sup>HO<sub>2</sub> a peroxidy M<sub>2</sub><sup>I</sup>O<sub>2</sub>
 c) používa sa ako bieliaci prostriedok a na dezinfekciu v medicíne (3 %-ný vodný roztok)
 d) používa sa na neutralizáciu slabých kyselín
@@ -1711,7 +1711,7 @@ h) K<sub>2</sub>HO, Sr<sub>2</sub>O , Na<sub>2</sub>O<sub>2</sub>
 172. Trvalú tvrdosť vody:
 a) možno odstrániť varom podľa rovnice: CaCO<sub>3</sub> + H<sub>2</sub>O + CO<sub>2</sub> <--> Ca(HCO<sub>3</sub>)<sub>2</sub>
 b) spôsobuje najmä síran vápenatý a síran horečnatý
-c) možno odstrániť podľa reakcie: Ca(HSO<sub>4</sub>)<sub>2</sub> &#10230 CaSO<sub>4</sub> + H<sub>2</sub>O + SO<sub>3</sub>
+c) možno odstrániť podľa reakcie: Ca(HSO<sub>4</sub>)<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CaSO<sub>4</sub> + H<sub>2</sub>O + SO<sub>3</sub>
 d) spôsobuje hlavne CaSO<sub>4</sub> a MgSO<sub>4</sub>
 e) nemožno odstrániť varom
 f) možno odstrániť pridaním Na<sub>2</sub>CO<sub>3</sub> - vznikne CaCO<sub>3</sub> a MgCO<sub>3</sub>
@@ -1720,11 +1720,11 @@ h) spôsobujú hlavne CaCO<sub>3</sub> a MgCO<sub>3</sub>
 
 173. Prechodnú tvrdosť vody:
 a) spôsobuje CaSO<sub>4</sub> rozpustený v pramenitých vodách
-b) možno odstrániť rozkladom solí, ktoré ju spôsobujú, t.j. NaHCO<sub>3</sub> a KHCO<sub>3</sub>, podľa rovnice: 2 NaHCO<sub>3</sub> &#10230 Na<sub>2</sub>CO<sub>3</sub> + H<sub>2</sub>CO<sub>3</sub>
+b) možno odstrániť rozkladom solí, ktoré ju spôsobujú, t.j. NaHCO<sub>3</sub> a KHCO<sub>3</sub>, podľa rovnice: 2 NaHCO<sub>3</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> Na<sub>2</sub>CO<sub>3</sub> + H<sub>2</sub>CO<sub>3</sub>
 c) spôsobujú Ca(HCO<sub>3</sub>)<sub>2</sub> a Mg(HCO<sub>3</sub>)<sub>2</sub>
 d) nemožno odstrániť varom
 e) spôsobujú hlavne hydrogenuhličitan horečnatý a hydrogenuhličitan vápenatý
-f) možno odstrániť varom podľa reakcie: Ca(HCO<sub>3</sub>)<sub>2</sub> &#10230 CaCO<sub>3</sub> + H<sub>2</sub>O + CO<sub>2</sub>
+f) možno odstrániť varom podľa reakcie: Ca(HCO<sub>3</sub>)<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CaCO<sub>3</sub> + H<sub>2</sub>O + CO<sub>2</sub>
 g) spôsobujú najmä CaHPO<sub>4</sub> a MgHPO<sub>4</sub>
 h) spôsobujú hydrogenuhličitany alkalických kovov a kovov alkalických zemín
 
@@ -1759,7 +1759,7 @@ g) sú plyny
 h) sú v tuhom skupenstve
 
 177. Elektrónovú konfiguráciu najbližšieho nasledujúceho vzácneho plynu môžu atómy halogénov získať:
-a) iba pri vytvorení molekuly z dvoch rovnakých atómov (Br + Br &#10230 Br<sub>2</sub>)
+a) iba pri vytvorení molekuly z dvoch rovnakých atómov (Br + Br <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> Br<sub>2</sub>)
 b) pri vzniku katiónu, napr. Cl<sup>3+</sup>, Br<sup>5+</sup>
 c) po prijatí jedného elektrónu
 d) vznikom halogenidového aniónu X<sup>-</sup> v iónových zlúčeninách
@@ -1780,7 +1780,7 @@ h) chloristej a chlorečnej
 
 179. Halogén s vyššou hodnotou elektronegativity:
 a) má väčšiu schopnosť tvoriť halogenidový ión X<sup>-</sup> ako halogén s nižšou hodnotou elektronegativity
-b) môže reagovať s halogénom s nižšou hodnotou elektronegativity podľa rovnice: F<sub>2</sub> + 2 NaBr &#10230 2 NaF + Br<sub>2</sub>
+b) môže reagovať s halogénom s nižšou hodnotou elektronegativity podľa rovnice: F<sub>2</sub> + 2 NaBr <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 NaF + Br<sub>2</sub>
 c) spôsobuje dismutáciu molekuly halogénu s nižšou hodnotou elektronegativity
 d) má v zlúčenine s vodíkom (H-X) polárnejšiu väzbu ako halogén s nižšou hodnotou elektronegativity
 e) nereaguje s halogénom, ktorý má nižšiu hodnotu elektronegativity
@@ -1944,7 +1944,7 @@ b) s vodou sa mieša v každom pomere
 c) v zriedenom roztoku stráca svoje kyslé vlastnosti a zvyšuje svoje oxidačné vlastnosti
 d) vzniká reakciou SO<sub>3</sub> s vodou
 e) tvorí soli hydrogensírany a sírany
-f) vzniká reakciou: SO<sub>2</sub> + H<sub>2</sub>O <span style="font-size: 24px;">&#10230;</span> H<sub>2</sub>SO<sub>4</sub>
+f) vzniká reakciou: SO<sub>2</sub> + H<sub>2</sub>O <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> H<sub>2</sub>SO<sub>4</sub>
 g) pri riedení lejeme vodu do H<sub>2</sub>SO<sub>4</sub>
 h) koncentrovaná má silné oxidačné a dehydratačné účinky
 
@@ -2005,7 +2005,7 @@ c) má výrazné oxidačné účinky, ktoré závisia od jej koncentrácie, od t
 d) je silná kyselina
 e) sa s vodou mieša v každom pomere
 f) tvorí soli typu M<sup>I</sup>NO<sub>2</sub>
-g) sa v laboratóriu môže pripraviť reakciou: 2 NaNO<sub>3</sub> + H<sub>2</sub>SO<sub>4</sub> <span style="font-size: 24px;">&#10230;</span> 2 HNO<sub>3</sub> + Na<sub>2</sub>SO<sub>4</sub>
+g) sa v laboratóriu môže pripraviť reakciou: 2 NaNO<sub>3</sub> + H<sub>2</sub>SO<sub>4</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 HNO<sub>3</sub> + Na<sub>2</sub>SO<sub>4</sub>
 h) spolu s HCl, v pomere 1:3, tvorí lúčavku kráľovskú
 
 202. O amónnych soliach platí tvrdenie:
@@ -2015,7 +2015,7 @@ c) môžu byť zložené z katiónu NH<sub>4</sub><sup>+</sup> a kyselinového a
 d) amónne soli rozpustné vo vode podliehajú hydrolýze
 e) takmer všetky sú dobre rozpustné vo vode
 f) vo vodných roztokoch neionizujú
-g) zásaditý charakter katiónu NH<sub>4</sub><sup>+</sup> vyjadruje protolytická reakcia: NH<sub>4</sub><sup>+</sup> + H<sub>2</sub>O <span style="font-size: 24px;">&#10230;</span> NH<sub>3</sub> + H<sub>3</sub>O<sup>+</sup>
+g) zásaditý charakter katiónu NH<sub>4</sub><sup>+</sup> vyjadruje protolytická reakcia: NH<sub>4</sub><sup>+</sup> + H<sub>2</sub>O <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> NH<sub>3</sub> + H<sub>3</sub>O<sup>+</sup>
 h) ak majú v molekule anión X<sup>-</sup> odvodený od silnej kyseliny, pH ich vodných roztokov je nižšie ako 7
 
 203. O dusíku platí:
@@ -2066,11 +2066,11 @@ d) je najreaktívnejšou modifikáciou fosforu
 e) svetielkuje
 f) na vzduchu je veľmi reaktívny a uchováva sa pod vodou
 g) je nejedovatou modifikáciou fosforu
-h) pri horení dáva oxidy: P<sub>4</sub> <table style="display:inline; vertical-align:bottom; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 1;">O<sub>2</sub></td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px;">&#10230;</span></td> </tr> </table> P<sub>4</sub>O<sub>6</sub> <table style="display:inline; vertical-align:bottom; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 1;">O<sub>2</sub></td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px;">&#10230;</span></td> </tr> </table> P<sub>4</sub>O<sub>10</sub>
+h) pri horení dáva oxidy: P<sub>4</sub> <table style="display:inline; vertical-align:bottom; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 1;">O<sub>2</sub></td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span></td> </tr> </table> P<sub>4</sub>O<sub>6</sub> <table style="display:inline; vertical-align:bottom; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 1;">O<sub>2</sub></td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span></td> </tr> </table> P<sub>4</sub>O<sub>10</sub>
 
 208. Kyselina trihydrogenfosforečná:
 a) sa nenachádza v zlúčeninách: ATP, ADP a AMP
-b) vzniká reakciou: P<sub>4</sub>O<sub>10</sub> + 6 H<sub>2</sub>O <span style="font-size: 24px;">&#10230;</span> 4 H<sub>3</sub>PO<sub>4</sub>
+b) vzniká reakciou: P<sub>4</sub>O<sub>10</sub> + 6 H<sub>2</sub>O <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 4 H<sub>3</sub>PO<sub>4</sub>
 c) má význam v metabolizme sacharidov
 d) tvorí soli, ktoré sú všetky dobre rozpustné vo vode
 e) je súčasťou nukleových kyselín
@@ -2150,7 +2150,7 @@ h) patrí medzi silné kyseliny
 
 216. O kremíku platí tvrdenie:
 a) pri bežných podmienkach je v plynnom skupenstve
-b) tvorí oxid kremičitý, ktorý pri tavení s alkalickými hydroxidmi reaguje podľa všeobecnej rovnice: SiO<sub>2</sub> + 2 M<sup>I</sup>OH <span style="font-size: 24px;">&#10230;</span> M<sub>2</sub><sup>I</sup>SiO<sub>3</sub> + H<sub>2</sub>O
+b) tvorí oxid kremičitý, ktorý pri tavení s alkalickými hydroxidmi reaguje podľa všeobecnej rovnice: SiO<sub>2</sub> + 2 M<sup>I</sup>OH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> M<sub>2</sub><sup>I</sup>SiO<sub>3</sub> + H<sub>2</sub>O
 c) binárne zlúčeniny vodíka s kremíkom majú všeobecný vzorec: Si<sub>n</sub>H<sub>2n+2</sub>
 d) tvorí binárne zlúčeniny s prvkami s nižšou hodnotou elektronegativity (kovy) - ktoré sa nazývajú silicidy
 e) s kyslíkom tvorí SiO<sub>2</sub> , ktorý je stály voči vode aj kyselinám (okrem HF)
@@ -2189,13 +2189,13 @@ g) anión CN<sup>-</sup> je silná zásada a preto rozpustné kyanidy vo vode si
 h) všetky kyanidy sú prudko jedovaté
 
 220. Podstatu vzniku krasových útvarov vyjadruje rovnica:
-a) 2 NaHCO<sub>3</sub> <span style="font-size: 24px;">&#10230;</span> Na<sub>2</sub>CO<sub>3</sub> + H<sub>2</sub>O + CO<sub>2</sub>
-b) CaCO<sub>3</sub> <span style="font-size: 24px;">&#10230;</span> CaO + CO<sub>2</sub>
+a) 2 NaHCO<sub>3</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> Na<sub>2</sub>CO<sub>3</sub> + H<sub>2</sub>O + CO<sub>2</sub>
+b) CaCO<sub>3</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CaO + CO<sub>2</sub>
 c) Ca(HCO<sub>3</sub>)<sub>2</sub> <--> CaCO<sub>3</sub> + CO<sub>2</sub> + H<sub>2</sub>O
 d) Ca(HSO<sub>4</sub>)<sub>2</sub> <--> CaSO<sub>4</sub> + SO<sub>3</sub> + H<sub>2</sub>O
-e) Mg(NO<sub>3</sub>)<sub>2</sub> <span style="font-size: 24px;">&#10230;</span> MgO + N<sub>2</sub>O<sub>5</sub>
-f) MgCO<sub>3</sub> <span style="font-size: 24px;">&#10230;</span> MgO + CO<sub>2</sub>
-g) CaSO<sub>4</sub> <span style="font-size: 24px;">&#10230;</span> CaO + SO<sub>3</sub>
+e) Mg(NO<sub>3</sub>)<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> MgO + N<sub>2</sub>O<sub>5</sub>
+f) MgCO<sub>3</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> MgO + CO<sub>2</sub>
+g) CaSO<sub>4</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CaO + SO<sub>3</sub>
 h) Mg(HSO<sub>4</sub>)<sub>2</sub> <--> MgSO<sub>4</sub> + SO<sub>3</sub> + H<sub>2</sub>O
 
 221. Prvky B, Al, Ga, In, Tl:
@@ -2331,9 +2331,9 @@ h) tvoria zlúčeniny, ktoré majú prevažne iónový charakter (okrem vodíka)
 234. O alkalických kovoch platí:
 a) pri horení na vzduchu vzniká z lítia Li<sub>2</sub>O a zo sodíka vzniká Na<sub>2</sub>O<sub>2</sub>
 b) zlúčeniny obsahujúce sodík farbia plameň na červeno
-c) majú redukčné vlastnosti, čo je možno vyjadriť reakciou s vodíkom: 2 M + H<sub>2</sub> &#10230 2 M<sup>+</sup>H<sup>-</sup>
+c) majú redukčné vlastnosti, čo je možno vyjadriť reakciou s vodíkom: 2 M + H<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 M<sup>+</sup>H<sup>-</sup>
 d) majú zo všetkých prvkov najvyššie hodnoty ionizačných energií
-e) sodík a draslík reagujú s vodou podľa všeobecnej rovnice: 2 M + 2 H<sub>2</sub>O &#10230 2 MOH + H<sub>2</sub>
+e) sodík a draslík reagujú s vodou podľa všeobecnej rovnice: 2 M + 2 H<sub>2</sub>O <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 MOH + H<sub>2</sub>
 f) tvoria hydridy, ktoré s vodou reagujú za vzniku hydroxidov
 g) sodík sa môže pripraviť elektrolýzou taveniny NaCl
 h) elektrónovú konfiguráciu na predposlednej elektrónovej vrstve majú rovnakú ako má najbližší predchádzajúci vzácny plyn na poslednej vrstve
@@ -3998,7 +3998,7 @@ f) 1-chlórbután
 g) opticky aktívna zlúčenina
 h) zlúčenina s chirálnym atómom uhlíka
 
-401. Reakcia CH ≡ CH + 2H<sub>2</sub> &#10230 CH<sub>3</sub> - CH<sub>3</sub> je:
+401. Reakcia CH ≡ CH + 2H<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub> - CH<sub>3</sub> je:
 a) redukcia
 b) katalyzovaná ušlachtilými kovmi
 c) radikálová adícia
@@ -4008,7 +4008,7 @@ f) hydrogenácia
 g) hydratácia
 h) oxidácia
 
-402. Reakciou CH<sub>2</sub> = CH - CH<sub>3</sub> + HBr &#10230 vznikne:
+402. Reakciou CH<sub>2</sub> = CH - CH<sub>3</sub> + HBr <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> vznikne:
 a) 2-brómpropán
 b) 1-brómpropán
 c) bromoform
@@ -4038,7 +4038,7 @@ f) formaldehyd
 g) etanol
 h) acetylid
 
-405. Reakcia R-CH<sub>2</sub>-CH<sub>2</sub>-NH<sub>2</sub> &#10230 R-CH = CH<sub>2</sub> + NH<sub>3</sub> je:
+405. Reakcia R-CH<sub>2</sub>-CH<sub>2</sub>-NH<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> R-CH = CH<sub>2</sub> + NH<sub>3</sub> je:
 a) deaminácia sekundárneho amínu
 b) eliminačná
 c) substitučná
@@ -4048,7 +4048,7 @@ f) deaminácia primárneho amínu
 g) deaminácia
 h) reťazová reakcia
 
-406. Reakcia CH<sub>3</sub>OH + HCOOH <table style="display:inline; vertical-align:bottom; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 1.3rem; text-align: center;">H<sup>+</sup></td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px;">&#10230;</span></td> </tr> </table> HCOOCH<sub>3</sub> + H<sub>2</sub>O je: 
+406. Reakcia CH<sub>3</sub>OH + HCOOH <table style="display:inline; vertical-align:bottom; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 1.3rem; text-align: center;">H<sup>+</sup></td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span></td> </tr> </table> HCOOCH<sub>3</sub> + H<sub>2</sub>O je: 
 a) hydrolýza
 b) reakcia vzniku mravčanu metylového
 c) reakcia vzniku metylesteru kyseliny metánovej
@@ -4309,84 +4309,84 @@ g) reakcia vzniku 2-propanolu
 h) reakcia vzniku 1-propanolu
 
 432. Vyberte správne reakcie:
-a) CH≡CH + HCl &#10230 CH<sub>2</sub> = CHCl
-b) CH≡CH + HBr &#10230 CH<sub>2</sub>-CHBr
-c) CH≡CH + Br<sub>2</sub> &#10230 Br<sub>2</sub>CH-CHBr<sub>2</sub>
-d) CH≡CH + 2Br<sub>2</sub> &#10230 BrCH = CHBr
-e) CH<sub>3</sub>-CH = CH-CH<sub>3</sub> + H<sub>2</sub>O <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">H<sup>+</sup></td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px;">&#10230;</span></td> </tr> </table> <img src=otazkyPng/432e.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=60/>
-f) CH<sub>3</sub>-CH = CH-CH<sub>3</sub> + H<sub>2</sub>O <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">H<sup>+</sup></td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px;">&#10230;</span></td> </tr> </table> <img src=otazkyPng/432f.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=60/>
-g) CH<sub>3</sub>-CH<sub>2</sub>-CH = CH<sub>2</sub> + H<sub>2</sub>O <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">H<sup>+</sup></td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px;">&#10230;</span></td> </tr> </table> <img src=otazkyPng/432g.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=60/>
-h) CH<sub>3</sub>-CH<sub>2</sub>-CH = CH<sub>2</sub> + H<sub>2</sub>O <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">H<sup>+</sup></td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px;">&#10230;</span></td> </tr> </table> <img src=otazkyPng/432h.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=60/>
+a) CH≡CH + HCl <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>2</sub> = CHCl
+b) CH≡CH + HBr <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>2</sub>-CHBr
+c) CH≡CH + Br<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> Br<sub>2</sub>CH-CHBr<sub>2</sub>
+d) CH≡CH + 2Br<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> BrCH = CHBr
+e) CH<sub>3</sub>-CH = CH-CH<sub>3</sub> + H<sub>2</sub>O <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">H<sup>+</sup></td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span></td> </tr> </table> <img src=otazkyPng/432e.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=60/>
+f) CH<sub>3</sub>-CH = CH-CH<sub>3</sub> + H<sub>2</sub>O <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">H<sup>+</sup></td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span></td> </tr> </table> <img src=otazkyPng/432f.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=60/>
+g) CH<sub>3</sub>-CH<sub>2</sub>-CH = CH<sub>2</sub> + H<sub>2</sub>O <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">H<sup>+</sup></td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span></td> </tr> </table> <img src=otazkyPng/432g.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=60/>
+h) CH<sub>3</sub>-CH<sub>2</sub>-CH = CH<sub>2</sub> + H<sub>2</sub>O <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">H<sup>+</sup></td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span></td> </tr> </table> <img src=otazkyPng/432h.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=60/>
 
 433. Vyberte správne reakcie alebo reakčné schémy:
-a) C<sub>6</sub>H<sub>5</sub>-CH = CH-C<sub>6</sub>H<sub>5</sub> + H<sub>2</sub>O <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">H<sup>+</sup></td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px;">&#10230;</span></td> </tr> </table> <img src=otazkyPng/433a.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=60/>
-b) CH<sub>3</sub>-CH = CH<sub>2</sub> + H<sub>2</sub>O <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">H<sup>+</sup></td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px;">&#10230;</span></td> </tr> </table> CH<sub>3</sub>-CH<sub>2</sub>-CH<sub>2</sub>-OH
-c) <img src=otazkyPng/433c1.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=60/> + H<sub>2</sub>O <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">H<sup>+</sup></td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px;">&#10230;</span></td> </tr> </table> <img src=otazkyPng/433c2.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=60/>
-d) <img src=otazkyPng/433d1.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=60/> + H<sub>2</sub>O <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">H<sup>+</sup></td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px;">&#10230;</span></td> </tr> </table> <img src=otazkyPng/433d2.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=60/>
+a) C<sub>6</sub>H<sub>5</sub>-CH = CH-C<sub>6</sub>H<sub>5</sub> + H<sub>2</sub>O <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">H<sup>+</sup></td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span></td> </tr> </table> <img src=otazkyPng/433a.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=60/>
+b) CH<sub>3</sub>-CH = CH<sub>2</sub> + H<sub>2</sub>O <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">H<sup>+</sup></td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span></td> </tr> </table> CH<sub>3</sub>-CH<sub>2</sub>-CH<sub>2</sub>-OH
+c) <img src=otazkyPng/433c1.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=60/> + H<sub>2</sub>O <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">H<sup>+</sup></td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span></td> </tr> </table> <img src=otazkyPng/433c2.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=60/>
+d) <img src=otazkyPng/433d1.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=60/> + H<sub>2</sub>O <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">H<sup>+</sup></td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span></td> </tr> </table> <img src=otazkyPng/433d2.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=60/>
 e) CH<sub>3</sub>-CH<sub>2</sub>OH <img src=otazkyPng/433e.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=40/> CH<sub>2</sub> = CH<sub>2</sub> + H<sub>2</sub>O  
-f) CaC<sub>2</sub> + H<sub>2</sub>O <span style="font-size: 24px;">&#10230;</span> C<sub>2</sub>H<sub>2</sub> + CaOH
-g) CaC<sub>2</sub> + 2H<sub>2</sub>O <span style="font-size: 24px;">&#10230;</span> C<sub>2</sub>H<sub>2</sub> + Ca(OH)<sub>2</sub>
-h) CH≡CH + H<sub>2</sub>O <img src=otazkyPng/433h1.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=40/> [CH<sub>2</sub>=CH-OH] <span style="font-size: 24px;">&#10230;</span> <img src=otazkyPng/433h2.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=60/>
+f) CaC<sub>2</sub> + H<sub>2</sub>O <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> C<sub>2</sub>H<sub>2</sub> + CaOH
+g) CaC<sub>2</sub> + 2H<sub>2</sub>O <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> C<sub>2</sub>H<sub>2</sub> + Ca(OH)<sub>2</sub>
+h) CH≡CH + H<sub>2</sub>O <img src=otazkyPng/433h1.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=40/> [CH<sub>2</sub>=CH-OH] <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> <img src=otazkyPng/433h2.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=60/>
 
 434. Reakcia úplného spaľovania látok je:
-a) C<sub>6</sub>H<sub>5</sub>-CH<sub>3</sub> + 9 O<sub>2</sub> <span style="font-size: 24px;">&#10230;</span> 7 CO<sub>2</sub> + 4 H<sub>2</sub>O
-b) CH<sub>3</sub>-(CH<sub>2</sub>)<sub>3</sub>-CH<sub>3</sub> + 8 O<sub>2</sub> <span style="font-size: 24px;">&#10230;</span> 5 CO<sub>2</sub> + 6 H<sub>2</sub>O
-c) CH<sub>4</sub> + O<sub>2</sub> <span style="font-size: 24px;">&#10230;</span> CH<sub>2</sub>O + H<sub>2</sub>O
-d) 2 CH<sub>4</sub> + 4 O<sub>2</sub> <span style="font-size: 24px;">&#10230;</span> 2 CO<sub>2</sub> + 4 H<sub>2</sub>O
-e) 2 C<sub>6</sub>H<sub>6</sub> + 3 O<sub>2</sub> <span style="font-size: 24px;">&#10230;</span> 2 CH<sub>3</sub>COOH + 2 H<sub>2</sub>O
-f) CH<sub>2</sub>=CH<sub>2</sub> + 2 KMnO<sub>4</sub> + 4 H<sub>2</sub>O <span style="font-size: 24px;">&#10230;</span> 3 HO-CH<sub>2</sub>-CH<sub>2</sub>-OH + 2 MnO<sub>2</sub> + 2 KOH
-g) C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + 6 O<sub>2</sub> <span style="font-size: 24px;">&#10230;</span> 6 CO<sub>2</sub> + 6 H<sub>2</sub>O
-h) C<sub>16</sub>H<sub>32</sub>O<sub>2</sub> + 23 O<sub>2</sub> <span style="font-size: 24px;">&#10230;</span> 16 CO<sub>2</sub> + 16 H<sub>2</sub>O
+a) C<sub>6</sub>H<sub>5</sub>-CH<sub>3</sub> + 9 O<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 7 CO<sub>2</sub> + 4 H<sub>2</sub>O
+b) CH<sub>3</sub>-(CH<sub>2</sub>)<sub>3</sub>-CH<sub>3</sub> + 8 O<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 5 CO<sub>2</sub> + 6 H<sub>2</sub>O
+c) CH<sub>4</sub> + O<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>2</sub>O + H<sub>2</sub>O
+d) 2 CH<sub>4</sub> + 4 O<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 CO<sub>2</sub> + 4 H<sub>2</sub>O
+e) 2 C<sub>6</sub>H<sub>6</sub> + 3 O<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 CH<sub>3</sub>COOH + 2 H<sub>2</sub>O
+f) CH<sub>2</sub>=CH<sub>2</sub> + 2 KMnO<sub>4</sub> + 4 H<sub>2</sub>O <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 3 HO-CH<sub>2</sub>-CH<sub>2</sub>-OH + 2 MnO<sub>2</sub> + 2 KOH
+g) C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + 6 O<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 6 CO<sub>2</sub> + 6 H<sub>2</sub>O
+h) C<sub>16</sub>H<sub>32</sub>O<sub>2</sub> + 23 O<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 16 CO<sub>2</sub> + 16 H<sub>2</sub>O
 
 435. Vyberte správne reakcie alebo reakčné schémy:
-a) CH<sub>3</sub>-CH = CH<sub>2</sub> + H<sub>2</sub>O <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">H<sup>+</sup></td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px;">&#10230;</span></td> </tr> </table> CH<sub>3</sub>-CH<sub>2</sub>-CH<sub>2</sub>-OH 
-b) CH<sub>3</sub>-CH = CH<sub>2</sub> + H<sub>2</sub>O <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">H<sup>+</sup></td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px;">&#10230;</span></td> </tr> </table> <img src=otazkyPng/435b.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
-c) CH<sub>3</sub>-CH = CH<sub>2</sub> + HCl <span style="font-size: 24px;">&#10230;</span> <img src=otazkyPng/435c.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
-d) CH<sub>3</sub>-CH = CH<sub>2</sub> + HCl <span style="font-size: 24px;">&#10230;</span> CH<sub>3</sub>-CH<sub>2</sub>-CH<sub>2</sub>-Cl
+a) CH<sub>3</sub>-CH = CH<sub>2</sub> + H<sub>2</sub>O <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">H<sup>+</sup></td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span></td> </tr> </table> CH<sub>3</sub>-CH<sub>2</sub>-CH<sub>2</sub>-OH 
+b) CH<sub>3</sub>-CH = CH<sub>2</sub> + H<sub>2</sub>O <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">H<sup>+</sup></td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span></td> </tr> </table> <img src=otazkyPng/435b.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
+c) CH<sub>3</sub>-CH = CH<sub>2</sub> + HCl <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> <img src=otazkyPng/435c.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
+d) CH<sub>3</sub>-CH = CH<sub>2</sub> + HCl <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub>-CH<sub>2</sub>-CH<sub>2</sub>-Cl
 e) CH<sub>3</sub>-CH<sub>3</sub> <img src=otazkyPng/435e.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=40/> CH<sub>2</sub> = CH<sub>2</sub> + H<sub>2</sub>
-f) CH<sub>3</sub>-CH<sub>3</sub> <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">25°C</td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px;">&#10230;</span></td> </tr> </table>  CH<sub>2</sub> = CH<sub>2</sub> + H<sub>2</sub>
+f) CH<sub>3</sub>-CH<sub>3</sub> <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">25°C</td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span></td> </tr> </table>  CH<sub>2</sub> = CH<sub>2</sub> + H<sub>2</sub>
 g) CH<sub>4</sub> + Cl-Cl <img src=otazkyPng/435g.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=40/> CH<sub>3</sub>Cl + HCl 
-h) CH<sub>2</sub> = CH-CH<sub>2</sub>-CH = CH<sub>2</sub> + 2Br<sub>2</sub> <span style="font-size: 24px;">&#10230;</span> <img src=otazkyPng/435h.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
+h) CH<sub>2</sub> = CH-CH<sub>2</sub>-CH = CH<sub>2</sub> + 2Br<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> <img src=otazkyPng/435h.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
 
 436. Ktoré schémy vystihujú vznik hlavného reakčného produktu substitučnej reakcie:
-a) NO<sub>2</sub> + Br<sub>2</sub> -- FeBr<sub>3</sub> <span style="font-size: 24px;">&#10230;</span> Br - NO<sub>2</sub> + HBr 
-b) NO<sub>2</sub> -- HNO<sub>3</sub> + H<sub>2</sub>SO<sub>4</sub> <span style="font-size: 24px;">&#10230;</span> NO<sub>2</sub> - NO<sub>2</sub> 
-c) NO<sub>2</sub> -- HNO<sub>3</sub> + H<sub>2</sub>SO<sub>4</sub> <span style="font-size: 24px;">&#10230;</span> O<sub>2</sub>N - NO<sub>2</sub>
-d) COOH + Br<sub>2</sub> -- FeBr<sub>3</sub> <span style="font-size: 24px;">&#10230;</span> Br - COOH + HBr
-e) NO<sub>2</sub> + Cl<sub>2</sub> -- AlCl<sub>3</sub> <span style="font-size: 24px;">&#10230;</span> Cl - NO<sub>2</sub> + HCl
-f) CH<sub>3</sub> + Cl<sub>2</sub> -- FeCl<sub>3</sub> <span style="font-size: 24px;">&#10230;</span> Cl-CH<sub>3</sub> + HCl
-g) NO<sub>2</sub> + H<sub>2</sub>SO<sub>4</sub>(konc.) -- teplo <span style="font-size: 24px;">&#10230;</span> SO<sub>3</sub>H - NO<sub>2</sub>  
-h) SO<sub>3</sub>H + HNO<sub>3</sub>(konc.) -- teplo <span style="font-size: 24px;">&#10230;</span> O<sub>2</sub>N - SO<sub>3</sub>H
+a) <img src=otazkyPng/436a1.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> NO<sub>2</sub> + Br<sub>2</sub> <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">FeBr<sub>3</sub></td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span></td> </tr> </table> Br <img src=otazkyPng/436a2.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> NO<sub>2</sub> + HBr 
+b) <img src=otazkyPng/436a1.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> NO<sub>2</sub> <img src=otazkyPng/436b1.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> <img src=otazkyPng/436b2.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/>
+c) <img src=otazkyPng/436a1.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> NO<sub>2</sub> <img src=otazkyPng/436b1.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> O<sub>2</sub>N <img src=otazkyPng/436a2.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> NO<sub>2</sub>
+d) <img src=otazkyPng/436a1.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> COOH + Br<sub>2</sub> <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">FeBr<sub>3</sub></td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span></td> </tr> </table> Br <img src=otazkyPng/436a2.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> COOH + HBr
+e) <img src=otazkyPng/436a1.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> NO<sub>2</sub> + Cl<sub>2</sub> <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">AlCl<sub>3</sub></td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span></td> </tr> </table> Cl <img src=otazkyPng/436a2.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> NO<sub>2</sub> + HCl
+f) <img src=otazkyPng/436a1.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> CH<sub>3</sub> + Cl<sub>2</sub> <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">FeCl<sub>3</sub></td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span></td> </tr> </table> <img src=otazkyPng/436f.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/> + HCl
+g) <img src=otazkyPng/436a1.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> NO<sub>2</sub> + H<sub>2</sub>SO<sub>4</sub> (konc.) <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">teplo</td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span></td> </tr> </table> <img src=otazkyPng/436g.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/>
+h) <img src=otazkyPng/436a1.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> SO<sub>3</sub>H + HNO<sub>3</sub> (konc.) <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">teplo</td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span></td> </tr> </table> O<sub>2</sub>N <img src=otazkyPng/436a2.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> SO<sub>3</sub>H
 
 437. Vyberte správne reakčné schémy:
-a) CH<sub>3</sub>Cl -- AlCl<sub>3</sub> <span style="font-size: 24px;">&#10230;</span> CH<sub>3</sub> + HCl
-b) H<sub>3</sub>C - CH<sub>3</sub> -- O (katalyz.) <span style="font-size: 24px;">&#10230;</span> HOOC - COOH
-c) CHO -- O <span style="font-size: 24px;">&#10230;</span> COOH
-d) O -- O <span style="font-size: 24px;">&#10230;</span> OH
-e) CH<sub>2</sub> = CH<sub>2</sub> -- O<sub>2</sub> (katalyz.) <span style="font-size: 24px;">&#10230;</span> H<sub>2</sub>C - CH<sub>2</sub>/O -- H<sub>2</sub> (H<sub>2</sub>O) <span style="font-size: 24px;">&#10230;</span> HO-C<sub>2</sub>-CH<sub>2</sub>-OH
-f) NO<sub>2</sub> + 6HCl + 3 Fe <span style="font-size: 24px;">&#10230;</span> NH<sub>2</sub> + 3FeCl<sub>2</sub> + 2H<sub>2</sub>O
-g) NH<sub>2</sub> + 6HCl + 3 Fe <span style="font-size: 24px;">&#10230;</span> NO<sub>2</sub> + 3FeCl<sub>2</sub> + 2H<sub>2</sub>O
-h) CH<sub>3</sub>-S-S-CH<sub>2</sub>-CH<sub>3</sub> -- +2H <span style="font-size: 24px;">&#10230;</span> CH<sub>3</sub>-SH + CH<sub>3</sub>-CH<sub>2</sub>-SH
+a) CH<sub>3</sub>Cl -- AlCl<sub>3</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub> + HCl
+b) H<sub>3</sub>C - CH<sub>3</sub> -- O (katalyz.) <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> HOOC - COOH
+c) CHO -- O <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> COOH
+d) O -- O <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> OH
+e) CH<sub>2</sub> = CH<sub>2</sub> -- O<sub>2</sub> (katalyz.) <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> H<sub>2</sub>C - CH<sub>2</sub>/O -- H<sub>2</sub> (H<sub>2</sub>O) <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> HO-C<sub>2</sub>-CH<sub>2</sub>-OH
+f) NO<sub>2</sub> + 6HCl + 3 Fe <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> NH<sub>2</sub> + 3FeCl<sub>2</sub> + 2H<sub>2</sub>O
+g) NH<sub>2</sub> + 6HCl + 3 Fe <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> NO<sub>2</sub> + 3FeCl<sub>2</sub> + 2H<sub>2</sub>O
+h) CH<sub>3</sub>-S-S-CH<sub>2</sub>-CH<sub>3</sub> -- +2H <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub>-SH + CH<sub>3</sub>-CH<sub>2</sub>-SH
 
 438. Vyberte správne reakcie:
-a) CH<sub>3</sub>CHO + 2[Ag(NH<sub>3</sub>)<sub>2</sub>]<sup>+</sup> + 3OH<sup>-</sup> <span style="font-size: 24px;">&#10230;</span> CH<sub>3</sub>COO<sup>-</sup> + 2Ag + 4 NH<sub>3</sub> + 2 H<sub>2</sub>O
-b) CH<sub>3</sub>CHO + 2[Ag(NH<sub>3</sub>)<sub>2</sub>]<sup>+</sup> + 3OH<sup>-</sup> <span style="font-size: 24px;">&#10230;</span> CH<sub>3</sub>CH<sub>2</sub>OH + 2Ag + 4 NH<sub>3</sub>+ 2 H<sub>2</sub>O
-c) CH<sub>3</sub>CHO + 2[Ag(NH<sub>3</sub>)<sub>2</sub>]<sup>+</sup> + 3OH<sup>-</sup> <span style="font-size: 24px;">&#10230;</span> CH<sub>3</sub>COO<sup>-</sup> + 2Ag<sup>+</sup> + 4 NH<sub>3</sub>+ 2 H<sub>2</sub>O
-d) CH<sub>3</sub>-C/H = O + 2CU<sup>2+</sup> + 5OH<sup>-</sup> -- teplo <span style="font-size: 24px;">&#10230;</span> CH<sub>3</sub>-C/O<sup>-</sup> = O + Cu<sub>2</sub>O + 3 H<sub>2</sub>O
-e) CH<sub>3</sub>-C/H = O + 2Cu<sup>2+</sup> + 3OH<sup>-</sup> -- teplo <span style="font-size: 24px;">&#10230;</span> CH<sub>3</sub>-CH<sub>2</sub>-OH + Cu<sub>2</sub>O + 2 H<sub>2</sub>O 
-f) 2 CH<sub>3</sub>-CH<sub>2</sub>-SH -- +2H <span style="font-size: 24px;">&#10230;</span> CH<sub>3</sub>-CH<sub>2</sub>-S-S-CH<sub>2</sub>-CH<sub>3</sub>
-g) 2 CH<sub>3</sub>-CH<sub>2</sub>-SH -- -2H <span style="font-size: 24px;">&#10230;</span> C<sub>2</sub>H<sub>5</sub>-S-S-C<sub>2</sub>H<sub>5</sub>
-h) CH<sub>3</sub>-S-S-CH<sub>3</sub> -- +2H <span style="font-size: 24px;">&#10230;</span> 2CH<sub>3</sub>-SH
+a) CH<sub>3</sub>CHO + 2[Ag(NH<sub>3</sub>)<sub>2</sub>]<sup>+</sup> + 3OH<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub>COO<sup>-</sup> + 2Ag + 4 NH<sub>3</sub> + 2 H<sub>2</sub>O
+b) CH<sub>3</sub>CHO + 2[Ag(NH<sub>3</sub>)<sub>2</sub>]<sup>+</sup> + 3OH<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub>CH<sub>2</sub>OH + 2Ag + 4 NH<sub>3</sub>+ 2 H<sub>2</sub>O
+c) CH<sub>3</sub>CHO + 2[Ag(NH<sub>3</sub>)<sub>2</sub>]<sup>+</sup> + 3OH<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub>COO<sup>-</sup> + 2Ag<sup>+</sup> + 4 NH<sub>3</sub>+ 2 H<sub>2</sub>O
+d) CH<sub>3</sub>-C/H = O + 2CU<sup>2+</sup> + 5OH<sup>-</sup> -- teplo <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub>-C/O<sup>-</sup> = O + Cu<sub>2</sub>O + 3 H<sub>2</sub>O
+e) CH<sub>3</sub>-C/H = O + 2Cu<sup>2+</sup> + 3OH<sup>-</sup> -- teplo <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub>-CH<sub>2</sub>-OH + Cu<sub>2</sub>O + 2 H<sub>2</sub>O 
+f) 2 CH<sub>3</sub>-CH<sub>2</sub>-SH -- +2H <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub>-CH<sub>2</sub>-S-S-CH<sub>2</sub>-CH<sub>3</sub>
+g) 2 CH<sub>3</sub>-CH<sub>2</sub>-SH -- -2H <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> C<sub>2</sub>H<sub>5</sub>-S-S-C<sub>2</sub>H<sub>5</sub>
+h) CH<sub>3</sub>-S-S-CH<sub>3</sub> -- +2H <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2CH<sub>3</sub>-SH
 
 439. Vyberte správne reakcie:
-a) CH<sub>3</sub> - C ≡ CH + HBr -- H<sup>+</sup> <span style="font-size: 24px;">&#10230;</span> CH<sub>3</sub> - C/Br = CH<sub>2</sub>
-b) CH<sub>3</sub> - C ≡ CH + HBr -- H<sup>+</sup> <span style="font-size: 24px;">&#10230;</span> CH<sub>3</sub> - C/H = CH/Br
-c) CH<sub>3</sub> - C/Br = CH<sub>2</sub> + HBr -- H<sup>+</sup> <span style="font-size: 24px;">&#10230;</span> CH<sub>3</sub> - CH/Br - CH<sub>2</sub>/Br
-d) CH<sub>3</sub> - C/Br = CH<sub>2</sub> + HBr -- H<sup>+</sup> <span style="font-size: 24px;">&#10230;</span> CH<sub>3</sub> - CH<sub>3</sub> - C/Br - CH<sub>3</sub>
-e) CH<sub>3</sub> - C ≡ CH + H - OH -- H<sup>+</sup> <span style="font-size: 24px;">&#10230;</span> |CH<sub>3</sub> - C/OH = CH/H | <span style="font-size: 24px;">&#10230;</span> CH<sub>3</sub> - C/CH<sub>3</sub> = O
-f) CH<sub>3</sub> - C ≡ CH + H - OH -- H<sup>+</sup> <span style="font-size: 24px;">&#10230;</span> |CH<sub>3</sub> - C/H = CH/OH | <span style="font-size: 24px;">&#10230;</span> CH<sub>3</sub> - C/H = O
-g) +H - OH -- H<sup>+</sup> <span style="font-size: 24px;">&#10230;</span> OH
-h) +H - OH -- H<sup>+</sup> <span style="font-size: 24px;">&#10230;</span> OH
+a) CH<sub>3</sub> - C ≡ CH + HBr -- H<sup>+</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub> - C/Br = CH<sub>2</sub>
+b) CH<sub>3</sub> - C ≡ CH + HBr -- H<sup>+</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub> - C/H = CH/Br
+c) CH<sub>3</sub> - C/Br = CH<sub>2</sub> + HBr -- H<sup>+</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub> - CH/Br - CH<sub>2</sub>/Br
+d) CH<sub>3</sub> - C/Br = CH<sub>2</sub> + HBr -- H<sup>+</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub> - CH<sub>3</sub> - C/Br - CH<sub>3</sub>
+e) CH<sub>3</sub> - C ≡ CH + H - OH -- H<sup>+</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> |CH<sub>3</sub> - C/OH = CH/H | <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub> - C/CH<sub>3</sub> = O
+f) CH<sub>3</sub> - C ≡ CH + H - OH -- H<sup>+</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> |CH<sub>3</sub> - C/H = CH/OH | <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub> - C/H = O
+g) +H - OH -- H<sup>+</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> OH
+h) +H - OH -- H<sup>+</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> OH
 
 440. Z etylénu sa vyrába:
 a) styrén
@@ -4428,7 +4428,7 @@ f) je vinylchlorid
 g) je styrén
 h) je etylchlorid
 
-444. Reakcia CH4 + Br2 -- 300°C (UV) &#10230 CH2Br + HBr je:
+444. Reakcia CH4 + Br2 -- 300°C (UV) <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH2Br + HBr je:
 a) adícia
 b) radikálová substitúcia
 c) rekcia vzniku bromoformu
@@ -4439,14 +4439,14 @@ g) elektrofilná substitúcia
 h) nukleofilná substitúcia
 
 445. Ktoré z týchto reakcií môžu prebiehať:
-a) alkén + HBr &#10230 brómalkán
-b) alkén + H2 &#10230 alkán
-c) alkén + OH- &#10230 alkohol
-d) alkán + HCl &#10230 chlóralkán
-e) alkén + Br2 &#10230 dibrómalkán
-f) alkén + KMnO4 &#10230 zmes produktov s atómom kyslíka v molekule
-g) alkén + HCl &#10230 chlóralkán
-h) alkén + H2O &#10230 ketón 
+a) alkén + HBr <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> brómalkán
+b) alkén + H2 <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> alkán
+c) alkén + OH- <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> alkohol
+d) alkán + HCl <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> chlóralkán
+e) alkén + Br2 <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> dibrómalkán
+f) alkén + KMnO4 <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> zmes produktov s atómom kyslíka v molekule
+g) alkén + HCl <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> chlóralkán
+h) alkén + H2O <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> ketón 
 
 446. Úplnou hydrogenáciou benzénu vzniká:
 a) metylbenzén
@@ -4838,7 +4838,7 @@ f) tyrozín
 g) cyklohexanol
 h) o-krezol
 
-485. Doplňte štruktúru neznámej východiskovej látky (X) v reakcii CH3 - CH2 - COOH + X <-- H+ &#10230 CH3 - CH2 - CO - OCH2CH2CH3 + H2O :
+485. Doplňte štruktúru neznámej východiskovej látky (X) v reakcii CH3 - CH2 - COOH + X <-- H+ <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3 - CH2 - CO - OCH2CH2CH3 + H2O :
 a) CH3-CH2CHO
 b) CH3-CH2-OH
 c) CH3-CH2COOH
@@ -4999,14 +4999,14 @@ g) rezorcinol
 h) hydrochinón
 
 501. Vyberte reakcie alebo reakčné schémy, ktoré sú správne a ich produktom je žlto sfarbený jodoform:
-a) CH3-CHO + 3 I2 + 4 KOH &#10230 CHI3+ HCOOK +3 KI + 3H2O
-b) CH3OH + 2 I2 + 3 KOH &#10230 CH3I + 3KI + 2 H2O
-c) CH3CH2OH + 4 I2 + 6 NaOH &#10230 CHI3 + HCOONa + 5NaI+ 5H2O
-d) CH3-CO-CH3 + 3 I2 + 4KOH &#10230 CHI3 + CH3COOK + 3KI + 3H2O
-e) CH3 - CH/OH - COOH + 5 KOH + 3 I2 &#10230 2 HCOOK + CHI3 + 3 KI + 4 H2O
-f) CH4 + I2 &#10230 CH3I + HI
-g) CH3 - CH2I + Mg -- (C2H5)2O &#10230 CH3 - CH2MgI
-h) CH3I + I2 &#10230 CH2I2+ HI
+a) CH3-CHO + 3 I2 + 4 KOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CHI3+ HCOOK +3 KI + 3H2O
+b) CH3OH + 2 I2 + 3 KOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3I + 3KI + 2 H2O
+c) CH3CH2OH + 4 I2 + 6 NaOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CHI3 + HCOONa + 5NaI+ 5H2O
+d) CH3-CO-CH3 + 3 I2 + 4KOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CHI3 + CH3COOK + 3KI + 3H2O
+e) CH3 - CH/OH - COOH + 5 KOH + 3 I2 <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 HCOOK + CHI3 + 3 KI + 4 H2O
+f) CH4 + I2 <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3I + HI
+g) CH3 - CH2I + Mg -- (C2H5)2O <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3 - CH2MgI
+h) CH3I + I2 <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH2I2+ HI
 
 502. O zlúčenine CH3-CH2-O-CH2-CH3 môžeme tvrdiť, že:
 a) je to ketón
@@ -5899,23 +5899,23 @@ g) kyslou hydrolýzou esterov
 h) hydrolýzou anhydridov karboxylových kyselín
 
 591. Reakciu dekarboxylácie kyseliny malónovej vyjadruje rovnica:
-a) CH3-CH2-COOH &#10230 CH3-CH3+ CO2
-b) CH3-CH2-COOH + CO2 &#10230 HOOC-CH2-CH2-COOH
-c) HOOC-CH2-COOH &#10230 CO2+ HOOC-CH3
-d) HOOC-CH=CH-COOH &#10230 HOOC-CH=CH2+ CO2
-e) HOOC-CH2-COOH &#10230 CH4+ 2CO
-f) 2 HOOC-CH=CH-COOH &#10230 HOOC-CH=CH-CH=CH-COOH + 2 CO2
-g) 2 HOOC-CH=CH-COOH &#10230 HOOC-CH=CH-CH=CH-COOH + 2CO + H2
-h) CH2(COOH)2 &#10230 CH3-COOH + CO2
+a) CH3-CH2-COOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3-CH3+ CO2
+b) CH3-CH2-COOH + CO2 <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> HOOC-CH2-CH2-COOH
+c) HOOC-CH2-COOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CO2+ HOOC-CH3
+d) HOOC-CH=CH-COOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> HOOC-CH=CH2+ CO2
+e) HOOC-CH2-COOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH4+ 2CO
+f) 2 HOOC-CH=CH-COOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> HOOC-CH=CH-CH=CH-COOH + 2 CO2
+g) 2 HOOC-CH=CH-COOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> HOOC-CH=CH-CH=CH-COOH + 2CO + H2
+h) CH2(COOH)2 <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3-COOH + CO2
 
 592. Reakciu neutralizácie kyseliny propiónovej s hydroxidom sodným vyjadruje rovnica:
-a) CH3-CH2-COOH + NaOH &#10230 NaOOC-CH2-CH3+ H2O
-b) CH3-CH2-COOH + 2 NaOH &#10230 CH3-CH2-CONa2+ H2O
-c) HOOC-CH2-COOH + 2 NaOH &#10230 NaOOC-CH2-COONa + 2H2O
-d) CH3-COOH + NaOH &#10230 CH3COONa + H2O
-e) C2H5-COOH + NaOH &#10230 C2H5-COONa + H2O
-f) CH3-CH2-COOH + NaOH &#10230 CH3-CH2-CONa + H2O
-g) CH3-CH2-COH + NaOH &#10230 CH3-CH2-COONa + H2
+a) CH3-CH2-COOH + NaOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> NaOOC-CH2-CH3+ H2O
+b) CH3-CH2-COOH + 2 NaOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3-CH2-CONa2+ H2O
+c) HOOC-CH2-COOH + 2 NaOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> NaOOC-CH2-COONa + 2H2O
+d) CH3-COOH + NaOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3COONa + H2O
+e) C2H5-COOH + NaOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> C2H5-COONa + H2O
+f) CH3-CH2-COOH + NaOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3-CH2-CONa + H2O
+g) CH3-CH2-COH + NaOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3-CH2-COONa + H2
 h) esterifikácie
 
 593. Esterifikácia:
@@ -5949,14 +5949,14 @@ g) 1 mol kyseliny oxálovej
 h) 0,5 mol kyseliny šťaveľovej
 
 596. Vyberte správnu reakciu vzniku propylesteru kyseliny octovej:
-a) CH3-CH2-CH2-OH + CH3-COCl &#10230 CH3-CO-O-CH2-CH2-CH3+ HCl
-b) CH3-CO-O-CO-CH3 + 2 CH3-CH2-CH2-OH &#10230 2 CH3-CH2-CH2-O-CO-CH3 + H2O
-c) CH3-COOH + HO-CH2-CH3 &#10230 CH3-CO-O-CH2-CH3+ H2O
-d) CH3-CH2-COOH + CH3-CH2-OH &#10230 CH3-O-CO-CH2-CH3+ H2O
-e) CH3-CH2-COOH + CH3-CH2-OH &#10230 CH3-O-CH2-CH2-COOH + H2O
-f) CH3-CH2-COOH + CH3-CH2-OH &#10230 CH3-CH2-O-CO-CH2-CH3+ H2O
-g) CH3-COOH + CH3-CH2-CH2-OH &#10230 CH3-CO-O-CH2-CH2-CH3+ H2O
-h) CH3-CH2-CH2-OH + HOOC-CH3 &#10230 CH3-CO-O- CH2-CH2-CH3+ H2O
+a) CH3-CH2-CH2-OH + CH3-COCl <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3-CO-O-CH2-CH2-CH3+ HCl
+b) CH3-CO-O-CO-CH3 + 2 CH3-CH2-CH2-OH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 CH3-CH2-CH2-O-CO-CH3 + H2O
+c) CH3-COOH + HO-CH2-CH3 <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3-CO-O-CH2-CH3+ H2O
+d) CH3-CH2-COOH + CH3-CH2-OH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3-O-CO-CH2-CH3+ H2O
+e) CH3-CH2-COOH + CH3-CH2-OH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3-O-CH2-CH2-COOH + H2O
+f) CH3-CH2-COOH + CH3-CH2-OH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3-CH2-O-CO-CH2-CH3+ H2O
+g) CH3-COOH + CH3-CH2-CH2-OH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3-CO-O-CH2-CH2-CH3+ H2O
+h) CH3-CH2-CH2-OH + HOOC-CH3 <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3-CO-O- CH2-CH2-CH3+ H2O
 
 597. Kyselina maslová má vzorec:
 a) HOOC-CH2-COOH
@@ -6219,14 +6219,14 @@ g) cysteín
 h) glukóza
 
 623. Vyberte správnu reakciu, ktorá vyjadruje oxidáciu kyseliny mliečnej:
-a) CH3 - CO - COOH + H2O &#10230 CH3 - CH/OH - COOH
-b) CH3 - CH/OH - COOH + CO2 &#10230 2 CH3 - COOH + 1/2 O2
-c) CH3 - CH/OH - COOH -- -2H &#10230 CH3 - C/O - COOH
-d) CH3 - CH2 - CH/OH - COOH + 1/2 O2 &#10230 CH3 - CH2 - C/O - COOH + H2O 
-e) CH3-CH(OH)-CH2-COOH &#10230 CH3-CO-CH2-COOH + 2H
-f) CH3-CH(OH)-COOH &#10230 CH3-CO-COOH + 2H
-g) CH3-CH(OH)-COOH + O2 &#10230 HOOC-CO-COOH + 4 H+
-h) CH3 - CH/OH - COOH + NAD+ &#10230 CH3 - CO - COOH + NADH + H+
+a) CH3 - CO - COOH + H2O <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3 - CH/OH - COOH
+b) CH3 - CH/OH - COOH + CO2 <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 CH3 - COOH + 1/2 O2
+c) CH3 - CH/OH - COOH -- -2H <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3 - C/O - COOH
+d) CH3 - CH2 - CH/OH - COOH + 1/2 O2 <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3 - CH2 - C/O - COOH + H2O 
+e) CH3-CH(OH)-CH2-COOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3-CO-CH2-COOH + 2H
+f) CH3-CH(OH)-COOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3-CO-COOH + 2H
+g) CH3-CH(OH)-COOH + O2 <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> HOOC-CO-COOH + 4 H+
+h) CH3 - CH/OH - COOH + NAD+ <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3 - CO - COOH + NADH + H+
 
 624. Kyselina mliečna môže vznikať:
 a) adíciou dvoch atómov vodíka na kyselinu pyrohroznovú
@@ -6629,14 +6629,14 @@ g) kyselina benzoová
 h) benzén
 
 664. Vyberte správnu reakciu vzniku acylpyrínu:
-a) HOOC-C6H4-OH + CH3-CH2-OH &#10230 CH3-CH2-O-CO-C6H4-OH + H2O
-b) HOOC-C6H4-OH + CH3-CH2-OH &#10230 HOOC-C6H4-O-CH2-CH3+ H2O
-c) HOOC-C6H4-OH + CH3-COOH &#10230 HOOC-C6H4-O-CO-CH3+ H2O
-d) HOOC-C6H4-OH + CH3-COOH &#10230 C6H5-CO-O-CH3+ 2H2O
-e) HO3S-C6H4-OH + CH3-COOH &#10230 HO3S-C6H4-O-CO-CH3+ H2O
-f) HO3S-C6H4-OH + CH3-CH2-OH &#10230 HO3S-C6H4-O-CH2-CH3+ H2O
-g) HO3S-C6H4-COOH + CH3-CH2-OH &#10230 HO3S-C6H4-CO-O-CH2-CH3+ H2O
-h) HOOC-C4H5-OH + CH3-COOH &#10230 HOOC-C4H5-O-CO-CH3+ H2O 
+a) HOOC-C6H4-OH + CH3-CH2-OH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3-CH2-O-CO-C6H4-OH + H2O
+b) HOOC-C6H4-OH + CH3-CH2-OH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> HOOC-C6H4-O-CH2-CH3+ H2O
+c) HOOC-C6H4-OH + CH3-COOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> HOOC-C6H4-O-CO-CH3+ H2O
+d) HOOC-C6H4-OH + CH3-COOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> C6H5-CO-O-CH3+ 2H2O
+e) HO3S-C6H4-OH + CH3-COOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> HO3S-C6H4-O-CO-CH3+ H2O
+f) HO3S-C6H4-OH + CH3-CH2-OH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> HO3S-C6H4-O-CH2-CH3+ H2O
+g) HO3S-C6H4-COOH + CH3-CH2-OH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> HO3S-C6H4-CO-O-CH2-CH3+ H2O
+h) HOOC-C4H5-OH + CH3-COOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> HOOC-C4H5-O-CO-CH3+ H2O 
 
 665. Zlúčenina CH3-O-CO-CH3 vzniká z:
 a) metánu a kyseliny octovej
