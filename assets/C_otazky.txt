@@ -4478,7 +4478,7 @@ f) styrén
 g) chlorid kyseliny benzoovej
 h) halogénalkán
 
-449. Väzba brómu s atómom uhlíka v reťazci -C-C-C-Br :
+449. Väzba brómu s atómom uhlíka v reťazci <img src=otazkyPng/449.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=70/> :
 a) je polárna kovalentná väzba
 b) vyvoláva záporný indukčný efekt
 c) vyvoláva kladný indukčný efekt
@@ -4489,34 +4489,34 @@ g) je iónová
 h) zaniká pri chemických reakciách homolyticky
 
 450. Záporný indukčný efekt -I spôsobuje skupina:
-a) -NO2
-b) -CH3
+a) -NO<sub>2</sub>
+b) -CH<sub>3</sub>
 c) -Cl
 d) -OH
 e) -Br
-f) -CH2CH3
-g) -NH2
+f) -CH<sub>2</sub>CH<sub>3</sub>
+g) -NH<sub>2</sub>
 h) -I
 
 451. Kladný indukčný efekt +I spôsobuje skupina:
 a) -Br
-b) -CH2-CH3
+b) -CH<sub>2</sub>-CH<sub>3</sub> 
 c) -F
-d) -CH/CH3/CH3
+d) <img src=otazkyPng/451d.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/>
 e) -I
 f) -OH
-g) -CH3
-h) -NO2
+g) -CH<sub>3</sub> 
+h) -NO<sub>2</sub>
 
 452. Acetyl je:
-a) H-C=O
-b) CH3-CO-
-c) CH3-C=O
-d) CH3-CO-O-
-e) -OC-CH3
-f) HC-CO-
-g) R-CO-
-h) acyl odvodený od kyseliny octovej
+a) <img src=otazkyPng/452a.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
+b) CH<sub>3</sub>-CO- 
+c) <img src=otazkyPng/452c.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
+d) CH<sub>3</sub>-CO-O-
+e) -OC-CH<sub>3</sub>
+f) HC-CO-
+g) R-CO- 
+h) acyl odvodený od kyseliny octovej 
 
 453. Organické zlúčeniny s charakteristickou skupinou -SH sú:
 a) sú sírne obdoby hydroxyderivátov uhľovodíkov
@@ -4589,14 +4589,14 @@ g) oxidácia acetaldehydu na kyselinu octovú
 h) oxidácia 2-propanolu na acetón
 
 460. Ktorý z uvedených alkoholov je veľmi jedovatý a spôsobuje oslepnutie:
-a) CH3-CH2-OH
-b) CH3OH
-c) CH3-CH2-CH2-OH
-d) CH2/OH - CH/OH - CH/OH - CH/OH - CH/OH - CH2/OH
-e) metanol
-f) C2H5OH
-g) metylalkohol
-h) CH2/OH - CH/OH - CH2/OH
+a) CH<sub>3</sub>-CH<sub>2</sub>-OH
+b) CH<sub>3</sub>OH 
+c) CH<sub>3</sub>-CH<sub>2</sub>-CH<sub>2</sub>-OH
+d) <img src=otazkyPng/460d.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
+e) metanol 
+f) C<sub>2</sub>H<sub>5</sub>OH
+g) metylalkohol 
+h) <img src=otazkyPng/460h.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
 
 461. K hydroxyderivátom uhľovodíkov patria:
 a) sorbitol
@@ -4619,13 +4619,13 @@ g) 1-propanol (propán-1-ol)
 h) 2-propanol (propán-2-ol)
 
 463. K sekundárnym alkoholom patrí:
-a) CH2/OH - CH2 - OH
-b) HO-CH2-CH2-OH
-c) CH3(CH2)6CH2-OH
-d) CH2/OH - CH2/OH
-e) CH3CH2OH
-f) CH3-CH/OH-CH3
-g) cyklohexanol
+a) <img src=otazkyPng/463a.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
+b) HO-CH<sub>2</sub>-CH<sub>2</sub>-OH
+c) CH<sub>3</sub>(CH<sub>2</sub>)<sub>6</sub>CH<sub>2</sub>-OH
+d) <img src=otazkyPng/463d.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
+e) CH<sub>3</sub>CH<sub>2</sub>OH
+f) <img src=otazkyPng/463f.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
+g) cyklohexanol 
 h) benzylalkohol
 
 464. Hydrochinón patrí medzi:
@@ -4639,14 +4639,14 @@ g) krezoly
 h) ketóny
 
 465. Ktoré z nasledujúcich vzorcov zlúčenín odpovedajú primárnym alkoholom:
-a) CH2/OH - CH2 - OH
-b) CH2/OH - CH2/OH
-c) -OH
-d) -CH2 - OH
-e) CH3 - CH/CH2-OH - CH3
-f) CH3 - C/CH3/OH - CH3
-g) CH3 - CH/OH - CH3 
-h) HO-CH2-CH2-OH
+a) <img src=otazkyPng/463a.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
+b) <img src=otazkyPng/463d.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
+c) <img src=otazkyPng/436a1.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>OH
+d) <img src=otazkyPng/465d.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>CH<sub>2</sub> - OH
+e) <img src=otazkyPng/465e.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
+f) <img src=otazkyPng/465f.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/> 
+g) <img src=otazkyPng/463f.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> 
+h) HO-CH<sub>2</sub>-CH<sub>2</sub>-OH
 
 466. Hydroxylové skupiny sa vyskytujú aj v molekulách:
 a) sacharidov
@@ -4748,7 +4748,7 @@ f) zlúčenina typu R-CHO
 g) oxozlúčenina
 h) alkoholát
 
-476. Zlúčenina CH3 - CH/OH - CH3 je alkohol:
+476. Zlúčenina <img src=otazkyPng/476.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>  je alkohol:
 a) primárny
 b) sekundárny
 c) jednosýtny
@@ -4766,9 +4766,9 @@ d) alkohol sekundárny
 e) tautomérom acetaldehydu
 f) nestály, prešmykuje sa na acetaldehyd
 g) tautomérom etanálu
-h) zlúčenina vzorca CH2=CH-OH
+h) zlúčenina vzorca CH<sub>2</sub>=CH-OH
 
-478. Zlúčenina vzorca CH2/OH - CH/OH - CH2/OH :
+478. Zlúčenina vzorca <img src=otazkyPng/478.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> :
 a) vzniká hydrolýzou tukov
 b) patrí medzi alkoholy
 c) je viazaná v tukoch
