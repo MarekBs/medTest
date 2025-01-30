@@ -4359,34 +4359,34 @@ g) <img src=otazkyPng/436a1.png alt="O = OH / P / OH - O - CH3" className="logoI
 h) <img src=otazkyPng/436a1.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> SO<sub>3</sub>H + HNO<sub>3</sub> (konc.) <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">teplo</td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span></td> </tr> </table> O<sub>2</sub>N <img src=otazkyPng/436a2.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> SO<sub>3</sub>H
 
 437. Vyberte správne reakčné schémy:
-a) CH<sub>3</sub>Cl -- AlCl<sub>3</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub> + HCl
-b) H<sub>3</sub>C - CH<sub>3</sub> -- O (katalyz.) <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> HOOC - COOH
-c) CHO -- O <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> COOH
-d) O -- O <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> OH
-e) CH<sub>2</sub> = CH<sub>2</sub> -- O<sub>2</sub> (katalyz.) <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> H<sub>2</sub>C - CH<sub>2</sub>/O -- H<sub>2</sub> (H<sub>2</sub>O) <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> HO-C<sub>2</sub>-CH<sub>2</sub>-OH
-f) NO<sub>2</sub> + 6HCl + 3 Fe <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> NH<sub>2</sub> + 3FeCl<sub>2</sub> + 2H<sub>2</sub>O
-g) NH<sub>2</sub> + 6HCl + 3 Fe <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> NO<sub>2</sub> + 3FeCl<sub>2</sub> + 2H<sub>2</sub>O
-h) CH<sub>3</sub>-S-S-CH<sub>2</sub>-CH<sub>3</sub> -- +2H <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub>-SH + CH<sub>3</sub>-CH<sub>2</sub>-SH
+a) <img src=otazkyPng/437a1.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> + CH<sub>3</sub>Cl <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">AlCl<sub>3</sub></td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span></td> </tr> </table> <img src=otazkyPng/436a1.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> CH<sub>3</sub> + HCl
+b) H<sub>3</sub>C <img src=otazkyPng/436a2.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> CH<sub>3</sub> <img src=otazkyPng/437b.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> HOOC <img src=otazkyPng/436a2.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> COOH
+c) <img src=otazkyPng/436a1.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> CHO <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">(O)</td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span></td> </tr> </table> <img src=otazkyPng/436a1.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> COOH
+d) <img src=otazkyPng/437d1.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> O <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">(O)</td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span></td> </tr> </table> <img src=otazkyPng/437d2.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> OH
+e) CH<sub>2</sub> = CH<sub>2</sub> <img src=otazkyPng/437e1.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> <img src=otazkyPng/437e2.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> <img src=otazkyPng/437e3.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> HO-CH<sub>2</sub>-CH<sub>2</sub>-OH
+f) <img src=otazkyPng/436a1.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> NO<sub>2</sub> + 6HCl + 3 Fe <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> <img src=otazkyPng/436a1.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> NH<sub>2</sub> + 3FeCl<sub>2</sub> + 2H<sub>2</sub>O
+g) <img src=otazkyPng/436a1.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> NH<sub>2</sub> + 6HCl + 3 Fe <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> <img src=otazkyPng/436a1.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> NO<sub>2</sub> + 3FeCl<sub>2</sub> + 2H<sub>2</sub>O
+h) CH<sub>3</sub>-S-S-CH<sub>2</sub>-CH<sub>3</sub> <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">+2H</td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span></td> </tr> </table> CH<sub>3</sub>-SH + CH<sub>3</sub>-CH<sub>2</sub>-SH
 
 438. Vyberte správne reakcie:
 a) CH<sub>3</sub>CHO + 2[Ag(NH<sub>3</sub>)<sub>2</sub>]<sup>+</sup> + 3OH<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub>COO<sup>-</sup> + 2Ag + 4 NH<sub>3</sub> + 2 H<sub>2</sub>O
 b) CH<sub>3</sub>CHO + 2[Ag(NH<sub>3</sub>)<sub>2</sub>]<sup>+</sup> + 3OH<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub>CH<sub>2</sub>OH + 2Ag + 4 NH<sub>3</sub>+ 2 H<sub>2</sub>O
 c) CH<sub>3</sub>CHO + 2[Ag(NH<sub>3</sub>)<sub>2</sub>]<sup>+</sup> + 3OH<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub>COO<sup>-</sup> + 2Ag<sup>+</sup> + 4 NH<sub>3</sub>+ 2 H<sub>2</sub>O
-d) CH<sub>3</sub>-C/H = O + 2CU<sup>2+</sup> + 5OH<sup>-</sup> -- teplo <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub>-C/O<sup>-</sup> = O + Cu<sub>2</sub>O + 3 H<sub>2</sub>O
-e) CH<sub>3</sub>-C/H = O + 2Cu<sup>2+</sup> + 3OH<sup>-</sup> -- teplo <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub>-CH<sub>2</sub>-OH + Cu<sub>2</sub>O + 2 H<sub>2</sub>O 
-f) 2 CH<sub>3</sub>-CH<sub>2</sub>-SH -- +2H <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub>-CH<sub>2</sub>-S-S-CH<sub>2</sub>-CH<sub>3</sub>
-g) 2 CH<sub>3</sub>-CH<sub>2</sub>-SH -- -2H <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> C<sub>2</sub>H<sub>5</sub>-S-S-C<sub>2</sub>H<sub>5</sub>
-h) CH<sub>3</sub>-S-S-CH<sub>3</sub> -- +2H <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2CH<sub>3</sub>-SH
+d) <img src=otazkyPng/438.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> + 2CU<sup>2+</sup> + 5OH<sup>-</sup> <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">teplo</td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span></td> </tr> </table> CH<sub>3</sub>-C/O<sup>-</sup> = O + Cu<sub>2</sub>O + 3 H<sub>2</sub>O
+e) <img src=otazkyPng/438.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> + 2Cu<sup>2+</sup> + 3OH<sup>-</sup> <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">teplo</td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span></td> </tr> </table> CH<sub>3</sub>-CH<sub>2</sub>-OH + Cu<sub>2</sub>O + 2 H<sub>2</sub>O 
+f) 2 CH<sub>3</sub>-CH<sub>2</sub>-SH <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">+2H</td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span></td> </tr> </table> CH<sub>3</sub>-CH<sub>2</sub>-S-S-CH<sub>2</sub>-CH<sub>3</sub>
+g) 2 CH<sub>3</sub>-CH<sub>2</sub>-SH <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">-2H</td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span></td> </tr> </table> C<sub>2</sub>H<sub>5</sub>-S-S-C<sub>2</sub>H<sub>5</sub>
+h) CH<sub>3</sub>-S-S-CH<sub>3</sub> <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">+2H</td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span></td> </tr> </table> 2CH<sub>3</sub>-SH
 
 439. Vyberte správne reakcie:
-a) CH<sub>3</sub> - C ≡ CH + HBr -- H<sup>+</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub> - C/Br = CH<sub>2</sub>
-b) CH<sub>3</sub> - C ≡ CH + HBr -- H<sup>+</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub> - C/H = CH/Br
-c) CH<sub>3</sub> - C/Br = CH<sub>2</sub> + HBr -- H<sup>+</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub> - CH/Br - CH<sub>2</sub>/Br
-d) CH<sub>3</sub> - C/Br = CH<sub>2</sub> + HBr -- H<sup>+</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub> - CH<sub>3</sub> - C/Br - CH<sub>3</sub>
-e) CH<sub>3</sub> - C ≡ CH + H - OH -- H<sup>+</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> |CH<sub>3</sub> - C/OH = CH/H | <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub> - C/CH<sub>3</sub> = O
-f) CH<sub>3</sub> - C ≡ CH + H - OH -- H<sup>+</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> |CH<sub>3</sub> - C/H = CH/OH | <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub> - C/H = O
-g) +H - OH -- H<sup>+</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> OH
-h) +H - OH -- H<sup>+</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> OH
+a) CH<sub>3</sub> - C ≡ CH + HBr <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">H<sup>+</sup></td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span></td> </tr> </table> <img src=otazkyPng/439a.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
+b) CH<sub>3</sub> - C ≡ CH + HBr <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">H<sup>+</sup></td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span></td> </tr> </table> <img src=otazkyPng/439b.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
+c) <img src=otazkyPng/439a.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> + HBr <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">H<sup>+</sup></td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span></td> </tr> </table> <img src=otazkyPng/439c.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
+d) <img src=otazkyPng/439a.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> + HBr <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">H<sup>+</sup></td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span></td> </tr> </table> <img src=otazkyPng/439d.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/>
+e) CH<sub>3</sub> - C ≡ CH + H - OH <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">H<sup>+</sup></td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span></td> </tr> </table> <img src=otazkyPng/439e1.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> <img src=otazkyPng/439e2.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
+f) CH<sub>3</sub> - C ≡ CH + H - OH <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">H<sup>+</sup></td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span></td> </tr> </table> <img src=otazkyPng/439f1.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> <img src=otazkyPng/439f2.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
+g) <img src=otazkyPng/433c1.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> +H - OH <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">H<sup>+</sup></td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span></td> </tr> </table> <img src=otazkyPng/437d2.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> OH
+h) <img src=otazkyPng/437a1.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> +H - OH <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">H<sup>+</sup></td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span></td> </tr> </table> <img src=otazkyPng/436a1.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> OH
 
 440. Z etylénu sa vyrába:
 a) styrén
@@ -4408,7 +4408,7 @@ f) je nenasýtená zlúčenina
 g) je halogénderivát toluénu
 h) je totožný s chlórbenzénom
 
-442. CCl4 je:
+442. CCl<sub>4</sub> je:
 a) prchavá kvapalina
 b) toxická zlúčenina
 c) chlorid uhličitý
@@ -4418,7 +4418,7 @@ f) kovalentná zlúčenina
 g) derivát metánu
 h) chloroform
 
-443. Zlúčenina CH2=CHCl:
+443. Zlúčenina CH<sub>2</sub>=CHCl:
 a) je karcinogénny plyn
 b) patrí medzi freóny
 c) polymerizuje na polyvinylchlorid
@@ -4428,7 +4428,7 @@ f) je vinylchlorid
 g) je styrén
 h) je etylchlorid
 
-444. Reakcia CH4 + Br2 -- 300°C (UV) <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH2Br + HBr je:
+444. Reakcia CH<sub>4</sub> + Br<sub>2</sub> <img src=otazkyPng/444.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> CH<sub>3</sub>Br + HBr je:
 a) adícia
 b) radikálová substitúcia
 c) rekcia vzniku bromoformu
@@ -4440,13 +4440,13 @@ h) nukleofilná substitúcia
 
 445. Ktoré z týchto reakcií môžu prebiehať:
 a) alkén + HBr <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> brómalkán
-b) alkén + H2 <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> alkán
-c) alkén + OH- <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> alkohol
+b) alkén + H<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> alkán
+c) alkén + OH<sup>-</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> alkohol
 d) alkán + HCl <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> chlóralkán
-e) alkén + Br2 <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> dibrómalkán
-f) alkén + KMnO4 <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> zmes produktov s atómom kyslíka v molekule
+e) alkén + Br<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> dibrómalkán
+f) alkén + KMnO<sub>4</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> zmes produktov s atómom kyslíka v molekule
 g) alkén + HCl <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> chlóralkán
-h) alkén + H2O <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> ketón 
+h) alkén + H<sub>2</sub>O <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> ketón 
 
 446. Úplnou hydrogenáciou benzénu vzniká:
 a) metylbenzén
@@ -4458,7 +4458,7 @@ f) cyklohexén
 g) toluén
 h) cyklohexán
 
-447. Zlúčenina CHCl3je:
+447. Zlúčenina CHCl<sub>3</sub> je:
 a) halogénderivát etánu
 b) chloroform
 c) trichlórmetán
@@ -4468,7 +4468,7 @@ f) metylénchlorid
 g) halogénalkán
 h) prchavá kvapalina
 
-448. Uvedená zlúčenina vzorca -C/CL = O je:
+448. Uvedená zlúčenina vzorca <img src=otazkyPng/448.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/> je:
 a) aromatická zlúčenina
 b) benzylchlorid
 c) substitučný derivát kyseliny benzoovej
