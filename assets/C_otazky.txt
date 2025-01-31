@@ -4799,34 +4799,34 @@ g) 2,4,6-trinitrofenol
 h) žltá kryštalická látka
 
 481. Určte všeobecný vzorec aldehydu:
-a) R - C/OH = O
-b) R - C/R = O
-c) R - C/H = O
-d) H - C/H = O
+a) <img src=otazkyPng/481a.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
+b) <img src=otazkyPng/481b.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
+c) <img src=otazkyPng/481c.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
+d) <img src=otazkyPng/481d.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
 e) R-O-R
 f) R-OH
 g) R-CHO
 h) R-CO-O-R
 
 482. Z uvedených zlúčenín vyberte sekundárne alkoholy:
-a) CH3 - C/CH3/OH - CH3
-b) HO-CH2-CH2-OH
-c) CH3 - CH2 - Ch/OH - CH3
-d) CH3-OH
-e) - CH2 - OH
-f) CH3-CH2-OH
-g) CH3 - CH/OH - CH3
-h) CH2=CH-OH
+a) <img src=otazkyPng/482a.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/>
+b) HO-CH<sub>2</sub>-CH<sub>2</sub>-OH
+c) <img src=otazkyPng/432h.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
+d) CH<sub>3</sub>-OH
+e) <img src=otazkyPng/465d.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> CH<sub>2</sub> - OH
+f) CH<sub>3</sub>-CH<sub>2</sub>-OH
+g) <img src=otazkyPng/435b.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
+h) CH<sub>2</sub>=CH-OH
 
 483. Z uvedených zlúčenín vyberte vzorec p-krezolu:
-a) HO - OH
-b) HO - Br
-c) H3C - CH3
-d) HO - CH3
-e) CH3 - CH3
-f) CH3 - OH
-g) OH - CH3
-h) H3C - OH
+a) HO <img src=otazkyPng/436a2.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> OH
+b) HO <img src=otazkyPng/436a2.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> Br
+c) H<sub>3</sub>C <img src=otazkyPng/436a2.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> CH<sub>3</sub>
+d) HO <img src=otazkyPng/436a2.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> CH<sub>3</sub>
+e) <img src=otazkyPng/483e.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=90/>
+f) <img src=otazkyPng/483f.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=90/>
+g) <img src=otazkyPng/483g.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=90/>
+h) H<sub>3</sub>C <img src=otazkyPng/436a2.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> OH
 
 484. Hydroxylovú skupinu viazanú priamo na aromatické jadro majú molekuly zlúčenín:
 a) kyselina salicylová
@@ -4838,25 +4838,25 @@ f) tyrozín
 g) cyklohexanol
 h) o-krezol
 
-485. Doplňte štruktúru neznámej východiskovej látky (X) v reakcii CH3 - CH2 - COOH + X <-- H+ <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3 - CH2 - CO - OCH2CH2CH3 + H2O :
-a) CH3-CH2CHO
-b) CH3-CH2-OH
-c) CH3-CH2COOH
-d) CH3-OH
-e) CH3COOH
-f) H-CO-OCH3
-g) CH3CH2CH2OH
-h) CH3-CO-CH3
+485. Doplňte štruktúru neznámej východiskovej látky (X) v reakcii: CH<sub>3</sub> - CH<sub>2</sub> - COOH + X <img src=otazkyPng/485.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> CH<sub>3</sub> - CH<sub>2</sub> - CO - OCH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub> + H<sub>2</sub>O
+a) CH<sub>3</sub>-CH<sub>2</sub>CHO  
+b) CH<sub>3</sub>-CH<sub>2</sub>-OH  
+c) CH<sub>3</sub>-CH<sub>2</sub>COOH  
+d) CH<sub>3</sub>-OH  
+e) CH<sub>3</sub>COOH  
+f) H-CO-OCH<sub>3</sub>  
+g) CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>OH  
+h) CH<sub>3</sub>-CO-CH<sub>3</sub>
 
 486. Dôkaz aldehydu Fehlingovým činidlom je založený na:
 a) oxidácii aldehydu
 b) redukcii aldehydu
 c) hydrogenácii aldehydu
-d) redukcii Cu2+
-e) tvorbe zrazeniny Cu2O
+d) redukcii Cu<sup>2+</sup>
+e) tvorbe zrazeniny Cu<sub>2</sub>O
 f) vzniku červenej zrazeniny oxidu meďného
 g) vzniku oxidu meďnatého
-h) na oxidácii Cu2+
+h) na oxidácii Cu<sup>2+</sup>
 
 487. Ktoré z uvedených zlúčenín dávajú pozitívnu jodoformovú reakciu:
 a) formaldehyd
@@ -4868,7 +4868,7 @@ f) metanol
 g) etanál
 h) etanol
 
-488. Zlúčenina vzorca O = = O môže vznikať:
+488. Zlúčenina vzorca <img src=otazkyPng/488.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/> môže vznikať:
 a) hydrogenáciou hydrochinónu
 b) redukciou hydrochinónu
 c) oxidáciou benzaldehydu
@@ -4879,14 +4879,14 @@ g) dehydrogenáciou 1,4-dihydroxybenzénu
 h) hydrogenáciou 1,4-dihydrobenzénu
 
 489. Ktorá z uvedených zlúčenín je éter:
-a) H2C - CH2/O
-b) - O - CH3
-c) O - O
-d) (CH3)3CO-CH3
-e) CH3-CH2-CO-O-CH3
-f) CH3-O-CH3
-g) CH3-CO-O-CO-CH3
-h) C6H5-CH2-O-CH3
+a) <img src=otazkyPng/489a.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> 
+b) <img src=otazkyPng/436a1.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> O - CH<sub>3</sub>  
+c) <img src=otazkyPng/489c.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=60/> 
+d) (CH<sub>3</sub>)<sub>3</sub>CO-CH<sub>3</sub>  
+e) CH<sub>3</sub>-CH<sub>2</sub>-CO-O-CH<sub>3</sub>  
+f) CH<sub>3</sub>-O-CH<sub>3</sub>  
+g) CH<sub>3</sub>-CO-O-CO-CH<sub>3</sub>  
+h) C<sub>6</sub>H<sub>5</sub>-CH<sub>2</sub>-O-CH<sub>3</sub>
 
 490. Poloacetál vznikne:
 a) adíciou jednej molekuly alkoholu na aldehyd
@@ -4895,11 +4895,11 @@ c) adíciou vody na acetylén
 d) čiastočnou hydrolýzou acetálu
 e) adíciou dvoch molekúl alkoholu na aldehyd
 f) úplnou hydrolýzou acetálu
-g) aj intramolekulovou adíciou hydroxyskupiny molekuly glukózy, ktorá sa viaže na atóm uhlíka C4alebo C5, na voľnú aldehydovú skupinu molekuly
+g) aj intramolekulovou adíciou hydroxyskupiny molekuly glukózy, ktorá sa viaže na atóm uhlíka C<sub>4</sub> alebo C<sub>5</sub>, na voľnú aldehydovú skupinu molekuly
 h) reakciou dvoch molekúl cyklických foriem monosacharidov
 
 491. Pri dôkaze aldehydu Schiffovým činidlom:
-a) sa vylúči Cu2+
+a) sa vylúči Cu<sup>2+</sup>
 b) vzniká farbivo fuchsín
 c) vzniká červenofialové sfarbenie
 d) dochádza k oxidácii aldehydu
@@ -4938,7 +4938,7 @@ f) je surovinou pre výrobu plastov
 g) je vo vode dobre rozpustný plyn
 h) je metanál
 
-495. Zlúčenina vzorca  -CO-CH3 má názov:
+495. Zlúčenina vzorca  <img src=otazkyPng/465d.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=70/>CO-CH<sub>3</sub> má názov:
 a) fenylketón
 b) acetylbenzén
 c) acetofenón
@@ -4948,7 +4948,7 @@ f) acylpyrín
 g) anizol
 h) fenylmetyléter
 
-496. Pre skupinu -C=O platí, že:
+496. Pre skupinu <img src=otazkyPng/367.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=40/> platí, že:
 a) kyslík má čiastkový kladný náboj
 b) kyslík má čiastkový záporný náboj
 c) na atóm uhlíka sa môžu viazať nukleofilné činidlá
@@ -4963,10 +4963,10 @@ a) monochlórmetán
 b) dichlórmetán
 c) trichlórmetán
 d) tetrachlórmetán
-e) zlúčeninu vzorca CHCl3
-f) zlúčeninu vzorca CH3Cl
-g) zlúčeninu vzorca CH2Cl2
-h) zlúčeninu vzorca CCl4
+e) zlúčeninu vzorca CHCl<sub>3</sub>
+f) zlúčeninu vzorca CH<sub>3</sub>Cl
+g) zlúčeninu vzorca CH<sub>2</sub>Cl<sub>2</sub>
+h) zlúčeninu vzorca CCl<sub>4</sub>
 
 498. Pri dehydratácii 1-butanolu vznikne:
 a) nenasýtený uhľovodík
@@ -4988,7 +4988,7 @@ f) kyselina oxálová
 g) kyselina octová
 h) acetón
 
-500. Zlúčenina vzorca HO - OH je:
+500. Zlúčenina vzorca HO <img src=otazkyPng/436a2.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=60/> OH je:
 a) pyrokatechol
 b) p-benzochinón
 c) dvojsýtny fenol
@@ -4999,16 +4999,16 @@ g) rezorcinol
 h) hydrochinón
 
 501. Vyberte reakcie alebo reakčné schémy, ktoré sú správne a ich produktom je žlto sfarbený jodoform:
-a) CH3-CHO + 3 I2 + 4 KOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CHI3+ HCOOK +3 KI + 3H2O
-b) CH3OH + 2 I2 + 3 KOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3I + 3KI + 2 H2O
-c) CH3CH2OH + 4 I2 + 6 NaOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CHI3 + HCOONa + 5NaI+ 5H2O
-d) CH3-CO-CH3 + 3 I2 + 4KOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CHI3 + CH3COOK + 3KI + 3H2O
-e) CH3 - CH/OH - COOH + 5 KOH + 3 I2 <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 HCOOK + CHI3 + 3 KI + 4 H2O
-f) CH4 + I2 <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3I + HI
-g) CH3 - CH2I + Mg -- (C2H5)2O <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3 - CH2MgI
-h) CH3I + I2 <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH2I2+ HI
+a) CH<sub>3</sub>-CHO + 3 I<sub>2</sub> + 4 KOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CHI<sub>3</sub> + HCOOK + 3 KI + 3H<sub>2</sub>O  
+b) CH<sub>3</sub>OH + 2 I<sub>2</sub> + 3 KOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub>I + 3KI + 2 H<sub>2</sub>O  
+c) CH<sub>3</sub>CH<sub>2</sub>OH + 4 I<sub>2</sub> + 6 NaOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CHI<sub>3</sub> + HCOONa + 5 NaI + 5 H<sub>2</sub>O  
+d) CH<sub>3</sub>-CO-CH<sub>3</sub> + 3 I<sub>2</sub> + 4 KOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CHI<sub>3</sub> + CH<sub>3</sub>COOK + 3 KI + 3 H<sub>2</sub>O  
+e) <img src=otazkyPng/381d.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> + 5 KOH + 3 I<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 HCOOK + CHI<sub>3</sub> + 3 KI + 4 H<sub>2</sub>O  
+f) CH<sub>4</sub> + I<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub>I + HI  
+g) CH<sub>3</sub> - CH<sub>2</sub>I + Mg <img src=otazkyPng/501g.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> CH<sub>3</sub> - CH<sub>2</sub>MgI  
+h) CH<sub>3</sub>I + I<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>2</sub>I<sub>2</sub> + HI  
 
-502. O zlúčenine CH3-CH2-O-CH2-CH3 môžeme tvrdiť, že:
+502. O zlúčenine CH<sub>3</sub>-CH<sub>2</sub>-O-CH<sub>2</sub>-CH<sub>3</sub> môžeme tvrdiť, že:
 a) je to ketón
 b) má narkotické účinky
 c) je neprchavá kvapalina
@@ -5028,7 +5028,7 @@ f) kyselina glyoxálová
 g) glyoxál
 h) kyselina glykolová
 
-504. O zlúčenine CH3-CH2-SH môžeme tvrdiť, že:
+504. O zlúčenine CH<sub>3</sub>-CH<sub>2</sub>-SH môžeme tvrdiť, že:
 a) má názov dimetylsulfid
 b) je sírnou obdobou etanolu
 c) jej oxidáciou vzniká dietyldisulfid
@@ -5042,33 +5042,33 @@ h) sa používa na odorizáciu zemného plynu
 a) tioétery
 b) tioly
 c) sulfokyseliny
-d) látky so skupinou -S-S
+d) látky so skupinou -S-S-
 e) tioestery
 f) tioalkoholy
 g) látky so skupinou -SH
 h) sírne obdoby alkoholov
 
-506. Ktoré z uvedených zlúčenín patria medzi amíny:
-a) CH3 - CH2 - C =O/NH2
-b) N-H
-c) CH3-CO-NH2
-d) -NH2
-e) CH3-CH2-NH-CH3
-f) CH3 - N/CH3 - CH3
-g) N
-h) H2N-CO-NH2
+506. Ktoré z uvedených zlúčenín patria medzi amíny:  
+a) <img src=otazkyPng/506a.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=70/>
+b) <img src=otazkyPng/506b.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=100/>
+c) CH<sub>3</sub>-CO-NH<sub>2</sub>  
+d) <img src=otazkyPng/436a1.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>NH<sub>2</sub>  
+e) CH<sub>3</sub>-CH<sub>2</sub>-NH-CH<sub>3</sub>  
+f) <img src=otazkyPng/506f.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> 
+g) <img src=otazkyPng/506g.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=70/> 
+h) H<sub>2</sub>N-CO-NH<sub>2</sub>  
 
-507. Oxidáciou etántiolu vzniká zlúčenina:
-a) CH3-CH2-S-S-CH2-CH3
-b) CH3-CH2-S-CH2-CH3
-c) CH3-CH2-SH
-d) CH3-S-S-CH3
-e) CH3-CH2-S-O-S-CH2-CH3
-f) CH3-CH2-O-O-CH2-CH3
-g) dietyldisulfid
-h) dimetyldisulfid
+507. Oxidáciou etántiolu vzniká zlúčenina:  
+a) CH<sub>3</sub>-CH<sub>2</sub>-S-S-CH<sub>2</sub>-CH<sub>3</sub>  
+b) CH<sub>3</sub>-CH<sub>2</sub>-S-CH<sub>2</sub>-CH<sub>3</sub>  
+c) CH<sub>3</sub>-CH<sub>2</sub>-SH  
+d) CH<sub>3</sub>-S-S-CH<sub>3</sub>  
+e) CH<sub>3</sub>-CH<sub>2</sub>-S-O-S-CH<sub>2</sub>-CH<sub>3</sub>  
+f) CH<sub>3</sub>-CH<sub>2</sub>-O-O-CH<sub>2</sub>-CH<sub>3</sub>  
+g) dietyldisulfid  
+h) dimetyldisulfid  
 
-508. Zlúčenina CH3 - C/CH3 = O je:
+508. Zlúčenina <img src=otazkyPng/508.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=70/> je:
 a) dimetyléter
 b) acetón
 c) dimetylketón
@@ -5078,27 +5078,27 @@ f) propanón
 g) látka, ktorá vzniká hydratáciou propénu
 h) látka, ktorá vzniká oxidáciou 2-propanolu (propán-2-olu)
 
-509. Medzi terciárne alkoholy patrí:
-a) CH2/OH - CH/OH - CH2/OH
-b) HO - C/CH3/OH - OH
-c) H3C - C/CH3/CH3 - OH
-d) CH3CH2OH
-e) H3C - C/CH2-CH3/OH - CH2 - CH3
-f) HO-CH2-CH2-OH
-g) HO-CH2-CH2-CH2-OH
-h) H3C - C/CH3OH - CH2 - CH2 - CH3  
+509. Medzi terciárne alkoholy patrí:  
+a) <img src=otazkyPng/369b.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> 
+b) <img src=otazkyPng/509b.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/> 
+c) <img src=otazkyPng/509c.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/> 
+d) CH<sub>3</sub>CH<sub>2</sub>OH  
+e) <img src=otazkyPng/509e.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/>  
+f) HO-CH<sub>2</sub>-CH<sub>2</sub>-OH  
+g) HO-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-OH  
+h) <img src=otazkyPng/509h.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/> 
 
-510. Oxidáciou CH3-CH2-CH2-CH2-OH do druhého stupňa vznikne:
-a) butanol
-b) butanal
-c) kyselina butánová
-d) metyletyléter
-e) kyselina jantárová
-f) kyselina maslová
-g) kyselina maleínová
-h) kyselina fumarová
+510. Oxidáciou CH<sub>3</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-OH do druhého stupňa vznikne:  
+a) butanol  
+b) butanal  
+c) kyselina butánová  
+d) metyletyléter  
+e) kyselina jantárová  
+f) kyselina maslová  
+g) kyselina maleínová  
+h) kyselina fumarová  
 
-511. Oxidáciou CH3 - C/H = O vznikne:
+511. Oxidáciou <img src=otazkyPng/511.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=70/>  vznikne:
 a) kyselina eténová
 b) kyselina octová
 c) etanol
@@ -5106,20 +5106,20 @@ d) dimetylketón
 e) kyselina etánová
 f) kyselina glykolová
 g) HOOC-COOH
-h) CH3-COOH
+h) CH<sub>3</sub>-COOH
 
-512. Redukciou propanalu vzniká:
-a) CH3 - CH2 - C/H = O
-b) CH3-CH2-CH2-OH
-c) CH3 - CH/OH - CH3
-d) CH3-CH3
-e) primárny alkohol 
-f) 2-propanol (propán-2-ol)
-g) 1-propanol (propán-1-ol)
-h) vinylalkohol
+512. Redukciou propanalu vzniká:  
+a) <img src=otazkyPng/512a.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> 
+b) CH<sub>3</sub>-CH<sub>2</sub>-CH<sub>2</sub>-OH  
+c) <img src=otazkyPng/463f.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> 
+d) CH<sub>3</sub>-CH<sub>3</sub>  
+e) primárny alkohol  
+f) 2-propanol (propán-2-ol)  
+g) 1-propanol (propán-1-ol)  
+h) vinylalkohol  
 
 513. O glycerole platí, že:
-a) dehydratáciou za tepla a v prítomnosti KHSO4 dáva akroleín
+a) dehydratáciou za tepla a v prítomnosti KHSO<sub>4</sub> dáva akroleín
 b) oxidáciou dáva acetaldehyd
 c) esterifikáciou s karboxylovými kyselinami dáva acylglyceroly
 d) oxidáciou primárnej -OH skupiny molekuly poskytuje dihydroxyacetón
@@ -5161,11 +5161,11 @@ h) etylmetylketón
 517. Primárny alkohol vzniká redukciou:
 a) glycerolu
 b) benzaldehydu
-c) CH3 - C/O-CH3 = O
-d) CH3 - CH2 - C/CH3 = O
-e) CH3 - CH2 - C/H = O
-f) CH3 - CH2 - CH2 - C/H = O
-g) HC/H2C-OH = O
+c) <img src=otazkyPng/517c.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
+d) <img src=otazkyPng/517d.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
+e) <img src=otazkyPng/512a.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
+f) <img src=otazkyPng/517f.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
+g) <img src=otazkyPng/517g.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=60/>
 h) acetónu
 
 518. Oxidáciou hydroxyskupiny glycerolu na primárnom atóme uhlíka vzniká:
@@ -5182,21 +5182,21 @@ h) aldehydová skupina
 a) metyletyléter
 b) etylbutyléter
 c) metylpentyléter
-d) CH3-O-CH2-CH2-CH3
+d) CH<sub>3</sub>-O-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>3</sub>
 e) dioxán
-f) CH3-CH2-O-CH2-CH2-CH2-CH3
+f) CH<sub>3</sub>-CH<sub>2</sub>-O-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>3</sub>
 g) vinylalkohol
 h) etylester kyseliny etánovej
 
-520. Oxidáciou 2-butanolu vzniká:
-a) butanón
-b) butanal
-c) CH3-CO-CH2-CH3
-d) CH3-CH2-CO-CH3
-e) kyselina butánová
-f) kyselina maslová
-g) CH3-CH2-CH2-CHO
-h) CH3-CO-O-CO-CH3
+520. Oxidáciou 2-butanolu vzniká:  
+a) butanón  
+b) butanal  
+c) CH<sub>3</sub>-CO-CH<sub>2</sub>-CH<sub>3</sub>  
+d) CH<sub>3</sub>-CH<sub>2</sub>-CO-CH<sub>3</sub>  
+e) kyselina butánová  
+f) kyselina maslová  
+g) CH<sub>3</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CHO  
+h) CH<sub>3</sub>-CO-O-CO-CH<sub>3</sub>  
 
 521. Hydrochinón vzniká:
 a) redukciou aromatických ketónov
@@ -5233,7 +5233,7 @@ a) R-O-CO-R
 b) R-O-R
 c) R-O-O-R
 d) R-O-H
-e) R-O-NO2
+e) R-O-NO<sub>2</sub>
 f) R-CO-O-CO-R
 g) R-CH(OH)-CO-R
 h) R-O-H
@@ -5248,7 +5248,7 @@ f) poznáme jednoduché a zmiešané
 g) tvoria metaméry
 h) tvoria anoméry
 
-526. Zlúčenina C6H5 - C/CH3 = O je:
+526. Zlúčenina <img src=otazkyPng/526.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=70/> je:
 a) cyklohexanón
 b) fenylmetylketón
 c) acetylbenzén
@@ -5258,7 +5258,7 @@ f) acetofenón
 g) metylester kyseliny benzoovej
 h) benzoan metylový
 
-527. Zlúčenina H2N - SO3H je:
+527. Zlúčenina H<sub>2</sub>N <img src=otazkyPng/436a2.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=70/> SO<sub>3</sub>H je:
 a) kyselina sulfosalicylová
 b) kyselina p-aminobenzoová
 c) kyselina sulfanilová
@@ -5268,7 +5268,7 @@ f) kyselina p-aminobenzénsulfónová
 g) acylpyrín
 h) kyselina 4-aminobenzénsulfónová
 
-528. Zlúčenina H2N - COOH je:
+528. Zlúčenina H<sub>2</sub>N <img src=otazkyPng/436a2.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=70/> COOH je:
 a) kyselina benzoová
 b) kyselina p-aminobenzoová
 c) kyselina p-aminosalicylová
@@ -5290,13 +5290,13 @@ h) anhydrid organickej karboxylovej kyseliny a alkohol
 
 530. Jodoformová reakcia:
 a) prebieha v alkalickom prostredí
-b) je reakcia I2 s etanolom v alkalickom prostredí
-c) je reakcia I2 s metanolom v alkalickom prostredí
+b) je reakcia I<sub>2</sub> s etanolom v alkalickom prostredí
+c) je reakcia I<sub>2</sub> s metanolom v alkalickom prostredí
 d) sa môže použiť aj na dôkaz acetaldehydu
 e) sa používa na rozlíšenie etanolu od metanolu
 f) sa používa na rozlíšenie aldehydu od ketónu
-g) je reakcia, ktorej produktom je aj zlúčenina CHI3
-h) je reakcia, ktorej produktom je zlúčenina CH3I
+g) je reakcia, ktorej produktom je aj zlúčenina CHI<sub>3</sub>
+h) je reakcia, ktorej produktom je zlúčenina CH<sub>3</sub>I
 
 531. Vyberte vzorec, ktorý odpovedá acetálu alebo ketálu:
 a) CH3 - C/CH3/O-CH3 - OH
@@ -5308,25 +5308,25 @@ f) CH3 - CH/OH - CH2 - C/H = O
 g) CH3 - CH/O-C2H5/O-C2H5
 h) CH3 - C/OH/CH3 - O - C2H5
 
-532. Vyberte vzorec, ktorý odpovedá poloacetálu:
-a) CH3 - C/CH3 = O
-b) CH3 - CH/O-CH3 - OH
-c) CH3 - C/H2C - CH3/O - CH3 - O - CH3 
-d) CH3-CH2-O-CH3
-e) CH3 - CH/OH - O- CH3
-f) (H - C - OH)3 / C / H-OH / H - C - O / CH2OH
-g) CH3 - C/O-CH3/CH3 - O - CH3
-h) (H - C - OH)3 / C / HO-H / H - C - O / CH2OH 
+532. Vyberte vzorec, ktorý odpovedá poloacetálu:  
+a) CH<sub>3</sub> - C/CH<sub>3</sub> = O  
+b) CH<sub>3</sub> - CH/O-CH<sub>3</sub> - OH  
+c) CH<sub>3</sub> - C/H<sub>2</sub>C - CH<sub>3</sub>/O - CH<sub>3</sub> - O - CH<sub>3</sub>  
+d) CH<sub>3</sub>-CH<sub>2</sub>-O-CH<sub>3</sub>  
+e) CH<sub>3</sub> - CH/OH - O- CH<sub>3</sub>  
+f) (H - C - OH)<sub>3</sub> / C / H-OH / H - C - O / CH<sub>2</sub>OH  
+g) CH<sub>3</sub> - C/O-CH<sub>3</sub>/CH<sub>3</sub> - O - CH<sub>3</sub>  
+h) (H - C - OH)<sub>3</sub> / C / HO-H / H - C - O / CH<sub>2</sub>OH  
 
-533. Nitrozlúčeniny majú charakteristickú skupinu:
-a) -NO2
-b) -NH2
-c) =NH
-d) -N+ / O- = O
-e) ≡N
-f) -N=N
-g) -N+≡N
-h) -N=O
+533. Nitrozlúčeniny majú charakteristickú skupinu:  
+a) -NO<sub>2</sub>  
+b) -NH<sub>2</sub>  
+c) =NH  
+d) -N<sup>+</sup> / O<sup>-</sup> = O  
+e) ≡N  
+f) -N=N  
+g) -N<sup>+</sup>≡N  
+h) -N=O  
 
 534. Redukciou nitrobenzénu vzniká:
 a) 2,4,6-trinitrotoluén
