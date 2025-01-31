@@ -6138,17 +6138,17 @@ f) H<sub>3</sub>C-CH(NH<sub>3</sub><sup>+</sup>)-COOH
 g) H<sub>3</sub>N<sup>+</sup>-CH<sup>-</sup>-COOH  
 h) <sup>-</sup>OOC-CH<sub>2</sub>-NH<sub>3</sub><sup>+</sup>
 
-615. Glycín pri pH = 9 je prevažne v štruktúrnej forme:
-a) H2N-CH2-COO-
-b) H2N-CH2-COOH
-c) H3N+-CH2-COOH
-d) H3N+-CH2-COO-
-e) CH3 - C = O / NH2
-f) HO-CH2-CH2-O-
-g) CH3 - C = O / NH3+
-h) H2N - CH2 - C = O / O-
+615. Glycín pri pH = 9 je prevažne v štruktúrnej forme:  
+a) H<sub>2</sub>N-CH<sub>2</sub>-COO<sup>-</sup>  
+b) H<sub>2</sub>N-CH<sub>2</sub>-COOH  
+c) H<sub>3</sub>N<sup>+</sup>-CH<sub>2</sub>-COOH  
+d) H<sub>3</sub>N<sup>+</sup>-CH<sub>2</sub>-COO<sup>-</sup>  
+e) <img src=otazkyPng/615e.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/>  
+f) HO-CH<sub>2</sub>-CH<sub>2</sub>-O<sup>-</sup>  
+g) <img src=otazkyPng/615g.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/>  
+h) <img src=otazkyPng/615h.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/>  
 
-616. Zlúčenina HO - CH2 - CH/NH2 - COOH má názov:
+616. Zlúčenina <img src=otazkyPng/616.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=60/>  má názov:
 a) alanín
 b) serín
 c) treonín
@@ -6158,7 +6158,7 @@ f) kyselina α-amino-ß-hydroxypropiónová
 g) kyselina 2-amino-3-hydroxypropánová
 h) valín
 
-617. Zlúčenina HO - CH2 - CH/NH2 - COOH je:
+617. Zlúčenina <img src=otazkyPng/617.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/> je:
 a) tyrozín
 b) treonín
 c) fenylalanín
@@ -6174,8 +6174,8 @@ b) je 2-aminopentándiová kyselina
 c) je monoaminomonokarboxylová kyselina
 d) je diaminomonokarboxylová kyselina
 e) je monoaminodikarboxylová kyselina
-f) má vzorec HOOC-CH2-CH2-CH2-COOH
-g) má vzorec HOOC-CH2-CH2-CH(NH2)-COOH
+f) má vzorec HOOC-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-COOH
+g) má vzorec HOOC-CH<sub>2</sub>-CH<sub>2</sub>-CH(NH<sub>2</sub>)-COOH
 h) je kyslá aminokyselina
 
 619. Pri hydrogenácii oxokyselín:
@@ -6188,7 +6188,7 @@ f) vznikajú aldehydokyseliny
 g) vznikajú ketóny
 h) vznikajú funkčné deriváty karboxylových kyselín
 
-620. Zlúčenina HOOC-CO-CH2-CH2-COOH:
+620. Zlúčenina HOOC-CO-CH<sub>2</sub>-CH<sub>2</sub>-COOH:
 a) vzniká v citrátovom cykle
 b) sa nazýva kyselina α-oxoglutámová
 c) je kyselina alfa-ketoglutárová
@@ -6203,30 +6203,30 @@ a) sa používa na zrážanie bielkovín v biologickom materiáli
 b) sa využíva ako protizrážacie činidlo pri odbere krvi
 c) denaturuje bielkoviny
 d) je najslabšia halogénkarboxylová kyselina
-e) má vzorec (CH3COO)3Cl
+e) má vzorec (CH<sub>3</sub>COO)<sub>3</sub>Cl
 f) je silná kyselina
-g) má vzorec Cl3C-COOH
+g) má vzorec Cl<sub>3</sub>C-COOH
 h) je silnejšia kyselina ako kyselina monochlóroctová
 
 622. Vyberte opticky aktívne zlúčeniny:
-a) HOOC - CH2 - CH/OH - COOH
-b) HOOC - CH2 - C/OH/COOH - CH2 - COOH
-c) HOOC - CH/OH - CH/OH - COOH
-d) CH3 - CH/Cl - COOH
-e) CH3 - CH/NH2 - COOH
-f) CH2/NH2 - COOH
+a) <img src=otazkyPng/622a.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
+b) <img src=otazkyPng/622b.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/>
+c) <img src=otazkyPng/622c.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/>
+d) <img src=otazkyPng/622d.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
+e) <img src=otazkyPng/622e.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
+f) <img src=otazkyPng/622f.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
 g) cysteín
 h) glukóza
 
-623. Vyberte správnu reakciu, ktorá vyjadruje oxidáciu kyseliny mliečnej:
-a) CH3 - CO - COOH + H2O <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3 - CH/OH - COOH
-b) CH3 - CH/OH - COOH + CO2 <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 CH3 - COOH + 1/2 O2
-c) CH3 - CH/OH - COOH -- -2H <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3 - C/O - COOH
-d) CH3 - CH2 - CH/OH - COOH + 1/2 O2 <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3 - CH2 - C/O - COOH + H2O 
-e) CH3-CH(OH)-CH2-COOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3-CO-CH2-COOH + 2H
-f) CH3-CH(OH)-COOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3-CO-COOH + 2H
-g) CH3-CH(OH)-COOH + O2 <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> HOOC-CO-COOH + 4 H+
-h) CH3 - CH/OH - COOH + NAD+ <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3 - CO - COOH + NADH + H+
+623. Vyberte správnu reakciu, ktorá vyjadruje oxidáciu kyseliny mliečnej:  
+a) CH<sub>3</sub>-CO-COOH + H<sub>2</sub>O <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> <img src=otazkyPng/383b.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>  
+b) <img src=otazkyPng/383b.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> + CO<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 CH<sub>3</sub>-COOH + 1/2 O<sub>2</sub>  
+c) <img src=otazkyPng/383b.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> <table style="display:inline-block; border-collapse: collapse;"> <tr> <td style="vertical-align:bottom; padding: 0; line-height: 0.5; font-size: 0.9rem; text-align: center;">-2H</td> </tr> <tr> <td style="padding: 0; line-height: 1.1;"><span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span></td> </tr> </table><img src=otazkyPng/623c.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>  
+d) <img src=otazkyPng/623d1.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> + 1/2 O<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> <img src=otazkyPng/623d2.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> + H<sub>2</sub>O  
+e) CH<sub>3</sub>-CH(OH)-CH<sub>2</sub>-COOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub>-CO-CH<sub>2</sub>-COOH + 2H  
+f) CH<sub>3</sub>-CH(OH)-COOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub>-CO-COOH + 2H  
+g) CH<sub>3</sub>-CH(OH)-COOH + O<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> HOOC-CO-COOH + 4H<sup>+</sup>  
+h) <img src=otazkyPng/383b.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> + NAD<sup>+</sup> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub>-CO-COOH + NADH + H<sup>+</sup>  
 
 624. Kyselina mliečna môže vznikať:
 a) adíciou dvoch atómov vodíka na kyselinu pyrohroznovú
@@ -6243,8 +6243,8 @@ a) oxidáciou
 b) redukciou
 c) dekarboxyláciou
 d) dehydrogenáciou
-e) elimináciou CO2
-f) elimináciou H2O
+e) elimináciou CO<sub>2</sub>
+f) elimináciou H<sub>2</sub>O
 g) hydrogenáciou
 h) hydratáciou
 
@@ -6278,7 +6278,7 @@ f) palmitová
 g) etánová
 h) trichlóroctová
 
-629. Skupina H - C = O je:
+629. Skupina <img src=otazkyPng/629.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=60/> je:
 a) v molekule kyseliny mravčej zodpovedá za jej oxidačné vlastnosti
 b) formaldehyd
 c) formyl
@@ -6288,7 +6288,7 @@ f) charakteristická skupina karboxylových kyselín
 g) acetyl
 h) skupina, ktorá udeľuje molekule redukčné vlastnosti
 
-630. Skupina C O je: 
+630. Skupina <img src=otazkyPng/630.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=70/> je: 
 a) derivát kyseliny benzoovej
 b) acyl kyseliny benzoovej
 c) zvyšok benzénu
@@ -6301,27 +6301,27 @@ h) fenyl
 631. Acetyl je:
 a) synonymum pre acetát
 b) zvyšok kyseliny octovej po odtrhnutí skupiny -OH z karboxylu
-c) skupina CH3-CO-
+c) skupina CH<sub>3</sub>-CO-
 d) zvyšok kyseliny octovej po odtrhnutí atómu vodíka z charakteristickej skupiny
 e) anhydrid kyseliny octovej
 f) názov pre acyl odvodený od kyseliny etánovej
 g) názov pre soľ kyseliny octovej
 h) octan
 
-632. Octan hlinitý má vzorec:
-a) CH3-COAl3
-b) (CH3-COO)Al
-c) (CH3-COO)2Al3
-d) (CH3-COO)3Al
-e) (CH3-CO)3Al
-f) CH3-COOAl3
-g) CH3-COAl
-h) (CH3-CO)2Al
+632. Octan hlinitý má vzorec:  
+a) CH<sub>3</sub>-COAl<sub>3</sub>  
+b) (CH<sub>3</sub>-COO)Al  
+c) (CH<sub>3</sub>-COO)<sub>2</sub>Al<sub>3</sub>  
+d) (CH<sub>3</sub>-COO)<sub>3</sub>Al  
+e) (CH<sub>3</sub>-CO)<sub>3</sub>Al  
+f) CH<sub>3</sub>-COOAl<sub>3</sub>  
+g) CH<sub>3</sub>-COAl  
+h) (CH<sub>3</sub>-CO)<sub>2</sub>Al
 
 633. Základnou zložkou obličkových kameňov je:
 a) oxalacetát vápenatý
 b) octan sodný
-c) (COO)2Ca
+c) (COO)<sub>2</sub>Ca
 d) citran vápenatý
 e) citran sodný
 f) šťaveľan vápenatý
