@@ -5299,32 +5299,32 @@ g) je reakcia, ktorej produktom je aj zlúčenina CHI<sub>3</sub>
 h) je reakcia, ktorej produktom je zlúčenina CH<sub>3</sub>I
 
 531. Vyberte vzorec, ktorý odpovedá acetálu alebo ketálu:
-a) CH3 - C/CH3/O-CH3 - OH
-b) CH3 - CH/O-CH2-CH3 - CH3
-c) CH3 - C/O-CH3/CH3 - O - CH3
-d) CH3 - C/O-CH3/H - O - CH3 
-e) CH3 - CH/OH - O - CH2 - CH3
-f) CH3 - CH/OH - CH2 - C/H = O
-g) CH3 - CH/O-C2H5/O-C2H5
-h) CH3 - C/OH/CH3 - O - C2H5
+a) <img src=otazkyPng/531a.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/>
+b) <img src=otazkyPng/531b.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/>
+c) <img src=otazkyPng/531c.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/>
+d) <img src=otazkyPng/531d.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/> 
+e) <img src=otazkyPng/531e.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/>
+f) <img src=otazkyPng/531f.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/>
+g) <img src=otazkyPng/531g.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/>
+h) <img src=otazkyPng/531h.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/>
 
 532. Vyberte vzorec, ktorý odpovedá poloacetálu:  
-a) CH<sub>3</sub> - C/CH<sub>3</sub> = O  
-b) CH<sub>3</sub> - CH/O-CH<sub>3</sub> - OH  
-c) CH<sub>3</sub> - C/H<sub>2</sub>C - CH<sub>3</sub>/O - CH<sub>3</sub> - O - CH<sub>3</sub>  
+a) <img src=otazkyPng/532a.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> 
+b) <img src=otazkyPng/532b.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
+c) <img src=otazkyPng/532c.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/> 
 d) CH<sub>3</sub>-CH<sub>2</sub>-O-CH<sub>3</sub>  
-e) CH<sub>3</sub> - CH/OH - O- CH<sub>3</sub>  
-f) (H - C - OH)<sub>3</sub> / C / H-OH / H - C - O / CH<sub>2</sub>OH  
-g) CH<sub>3</sub> - C/O-CH<sub>3</sub>/CH<sub>3</sub> - O - CH<sub>3</sub>  
-h) (H - C - OH)<sub>3</sub> / C / HO-H / H - C - O / CH<sub>2</sub>OH  
+e) <img src=otazkyPng/532e.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> 
+f) <img src=otazkyPng/532f.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=120/>
+g) <img src=otazkyPng/532g.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/>
+h) <img src=otazkyPng/532h.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=120/>
 
 533. Nitrozlúčeniny majú charakteristickú skupinu:  
 a) -NO<sub>2</sub>  
 b) -NH<sub>2</sub>  
 c) =NH  
-d) -N<sup>+</sup> / O<sup>-</sup> = O  
+d) <img src=otazkyPng/533d.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> 
 e) ≡N  
-f) -N=N  
+f) -N=N-
 g) -N<sup>+</sup>≡N  
 h) -N=O  
 
@@ -5368,17 +5368,17 @@ f) majú zásaditý charakter
 g) delíme na mono-, di-, triamíny, atď., podľa počtu aminoskupín v molekule
 h) poznáme primárne, sekundárne a terciárne
 
-538. Medzi primárne amíny patrí:
-a) anilín
-b) CH3NH2
-c) (CH3)2NH
-d) (CH3)3N
-e) H2N-(CH2)6-NH2
-f) C6H5-NH2
-g) CH3 - CH/NH2 - CH3 
-h) kadaverín
+538. Medzi primárne amíny patrí:  
+a) anilín  
+b) CH<sub>3</sub>NH<sub>2</sub>  
+c) (CH<sub>3</sub>)<sub>2</sub>NH  
+d) (CH<sub>3</sub>)<sub>3</sub>N  
+e) H<sub>2</sub>N-(CH<sub>2</sub>)<sub>6</sub>-NH<sub>2</sub>  
+f) C<sub>6</sub>H<sub>5</sub>-NH<sub>2</sub>  
+g) <img src=otazkyPng/538g.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> 
+h) kadaverín  
 
-539. Zlúčenina H2N-CH2-CH2-CH2-CH2-CH2-NH2 je:
+539. Zlúčenina H<sub>2</sub>N-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-NH<sub>2</sub> je:
 a) primárny amín
 b) diamín
 c) kadaverín
@@ -5409,26 +5409,26 @@ g) hydrogenáciu
 h) kondenzačnú reakciu
 
 542. Primárne amíny:
-a) majú charakteristickú skupinu -NH
-b) majú charakteristickú skupinu -NH2
-c) majú charakteristickú skupinu -NH3
-d) majú charakteristickú skupinu -NH4
+a) majú charakteristickú skupinu -NH-
+b) majú charakteristickú skupinu -NH<sub>2</sub>
+c) majú charakteristickú skupinu -NH<sub>3</sub>
+d) majú charakteristickú skupinu -NH<sub>4</sub>
 e) môžu mať charakteristickú skupinu viazanú na primárny atóm uhlíka
 f) alifatické dávajú s kyselinou dusitou cez niekoľko medziproduktov alkoholy a dusík
 g) s kyselinou dusitou dávajú nitrózoamíny
-h) môžu mať -NH2 skupinu viazanú na sekundárny atóm uhlíka
+h) môžu mať -NH<sub>2</sub> skupinu viazanú na sekundárny atóm uhlíka
 
-543. Ako všeobecný vzorec primárnych amínov môžeme označiť (Ar= aryl):
-a) R - N / H / H
-b) R - N / H / R
-c) R - N / R / R
-d) H - N / H / H
-e) Ar - N / H / H
-f) R - N / H - H
-g) H - N / R - H
-h) H - N / Ar - H
+543. Ako všeobecný vzorec primárnych amínov môžeme označiť (A<sub>r</sub>= aryl):
+a) <img src=otazkyPng/543a.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/>
+b) <img src=otazkyPng/543b.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/>
+c) <img src=otazkyPng/543c.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/>
+d) <img src=otazkyPng/543d.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/>
+e) <img src=otazkyPng/543e.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/>
+f) <img src=otazkyPng/543f.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
+g) <img src=otazkyPng/543g.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
+h) <img src=otazkyPng/543h.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
 
-544. Zlúčenina CH3NH2je:
+544. Zlúčenina CH<sub>3</sub>NH<sub>2 </sub>je:
 a) primárny amín
 b) sekundárny amín
 c) rozpustná vo vode
@@ -5438,7 +5438,7 @@ f) látka, ktorá má kyslé vlastnosti
 g) látka, ktorá slúži na prípravu diazóniových solí
 h) látka, ktorá slúži na prípravu nitrózoamínov
 
-545. Zlúčenina (CH3)3N:
+545. Zlúčenina (CH<sub>3</sub>)3N:
 a) nachádza sa v prírode
 b) je terciárny amín
 c) je sekundárny amín
@@ -5448,7 +5448,7 @@ f) s kyselinou dusitou nereaguje
 g) s kyselinou dusitou dáva nitrózoamíny
 h) vzniká rozkladom bielkovín
 
-546. Zlúčenina H- N patrí medzi:
+546. Zlúčenina <img src=otazkyPng/546.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=110/> patrí medzi:
 a) amíny
 b) cyklické uhľovodíky
 c) látky s aromatickým charakterom
@@ -5468,7 +5468,7 @@ f) súčasť žlčových farbív
 g) súčasť molekuly purínu
 h) zložka porfyrínu
 
-548. Zlúčenina H2N - NH2 je:
+548. Zlúčenina H<sub>2</sub>N <img src=otazkyPng/436a2.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=70/> NH<sub>2</sub> je:
 a) p-fenyléndiamín
 b) p-aminofenol
 c) 1,4-benzéndiamín (benzén-1,4-diamín)
@@ -5518,7 +5518,7 @@ f) poznáme len primárne
 g) v prírode sa vyskytujú len primárne
 h) sú Brönstedove zásady
 
-553. Zlúčenina O = C / NH2 / NH2 : 
+553. Zlúčenina: <img src=otazkyPng/553.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=90/> : 
 a) sa nachádza v moči cicavcov
 b) je guanidín
 c) sa používa na prípravu kyseliny barbiturovej
@@ -5526,7 +5526,7 @@ d) je diamid kyseliny uhličitej
 e) je močovina
 f) je kyselina močová
 g) je konečný produkt metabolizmu proteínov u človeka
-h) je derivát H2CO3
+h) je derivát H<sub>2</sub>CO<sub>3</sub>
 
 554. Najjednoduchšia dikarboxylová kyselina je:
 a) kyselina akrylová
@@ -5548,7 +5548,7 @@ f) kyselinu propénovú
 g) kyselinu glutárovú
 h) kyselinu oxaloctovú
 
-556. Zlúčenina HOOC-CH2-COOH je:
+556. Zlúčenina HOOC-CH<sub>2</sub>-COOH je:
 a) kyselina propándiová
 b) kyselina propénová
 c) kyselina asparágová
@@ -5558,7 +5558,7 @@ f) kyselina maleínová
 g) kyselina maslová
 h) kyselina malónová
 
-557. C6H5-COOH je kyselina:
+557. C<sub>6</sub>H<sub>5</sub>-COOH je kyselina:
 a) nasýtená
 b) aromatická
 c) alifatická
@@ -5576,10 +5576,10 @@ d) sa nachádza v citrusových plodoch
 e) je opticky aktívna
 f) je kyselina 2-hydroxy-1,2,3-butántriová (2-hydroxybután-1,2,3-trikarboxylová)
 g) môže sa vyrábať kvasením z octu
-h) viaže ióny Ca2+, a tým zabraňuje zrážaniu krvi
+h) viaže ióny Ca<sup>2+</sup>, a tým zabraňuje zrážaniu krvi
 
-559. HOOC-CH2-COOH je:
-a) kyselina, ktorá sa môže dekarboxylovať na CH3COOH
+559. HOOC-CH<sub>2</sub>-COOH je:
+a) kyselina, ktorá sa môže dekarboxylovať na CH<sub>3</sub>COOH
 b) ketokyselina
 c) monokarboxylová kyselina
 d) kyselina malónová
@@ -5593,12 +5593,12 @@ a) zlúčenina s redukčnými vlastnosťami
 b) zlúčenina s aldehydovou skupinou v molekule
 c) HCOOH
 d) HO-COOH
-e) HC = O / OH
-f) HO - C = O / H
+e) <img src=otazkyPng/560e.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/>
+f) <img src=otazkyPng/560f.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/>
 g) látka s baktericídnymi vlastnosťami
 h) kyselina mravčia
 
-561. Cn-1H2n-1COOH je racionálny vzorec pre:
+561. C<sub>n-1</sub>H<sub>2n-1</sub>COOH je racionálny vzorec pre:
 a) alifatické alkoholy
 b) cyklické étery
 c) vyššie nasýtené alifatické karboxylové kyseliny
@@ -5608,7 +5608,7 @@ f) vyššie nasýtené acyklické karboxylové kyseliny
 g) nasýtené monokarboxylové kyseliny
 h) kyselinu stearovú a kyselinu olejovú
 
-562. Vzorec C17H33COOH môže prislúchať kyseline:
+562. Vzorec C<sub>17</sub>H<sub>33</sub>COOH môže prislúchať kyseline:
 a) stearovej
 b) olejovej
 c) linolovej
@@ -5618,7 +5618,7 @@ f) 9-oktadecénovej
 g) oktadekánovej
 h) 9,12,15-oktatriénovej
 
-563. Vzorec CH2=CH-COOH prislúcha kyseline:
+563. Vzorec CH<sub>2</sub>=CH-COOH prislúcha kyseline:
 a) maleínovej
 b) propénovej
 c) propiónovej
@@ -5640,10 +5640,10 @@ h) dikarboxylová
 
 565. Karboxylová kyselina je tým silnejšia:
 a) čím má vyšší ionizačný stupeň
-b) čím je jej hodnota Ka vyššia
-c) čím je jej hodnota pKa vyššia
-d) čím je jej hodnota Ka nižšia
-e) čím je jej hodnota pKa nižšia
+b) čím je jej hodnota K<sub>a</sub> vyššia
+c) čím je jej hodnota pK<sub>a</sub> vyššia
+d) čím je jej hodnota K<sub>a</sub> nižšia
+e) čím je jej hodnota pK<sub>a</sub> nižšia
 f) čím je koncentrovanejšia
 g) čím má dlhší uhľovodíkový reťazec
 h) čím má vyššiu hodnotu ionizačnej konštanty
@@ -5665,8 +5665,8 @@ c) soľ vyššej karboxylovej kyseliny
 d) aldehyd
 e) mydlo
 f) alkoxóniová soľ
-g) zlúčenina typu R-COO-X+ (kde X je napr. K alebo Na)
-h) zlúčenina typu R-CO-X+ (kde X je napr. K alebo Na)
+g) zlúčenina typu R-COO<sup>-</sup>X<sup>+</sup> (kde X je napr. K alebo Na)
+h) zlúčenina typu R-CO<sup>-</sup>X<sup>+</sup> (kde X je napr. K alebo Na)
 
 568. Zmydelňovanie je:
 a) reakcia acylglycerolu s alkalickým hydroxidom
@@ -5692,7 +5692,7 @@ h) redukciou etanolu
 a) dá sa z nej pripraviť acylpyrín
 b) vykazuje cis-trans izomériu
 c) otáča rovinu polarizovaného svetla
-d) viaže katióny Ca2+ a tým zabraňuje zrážaniu krvi
+d) viaže katióny Ca<sup>2+</sup> a tým zabraňuje zrážaniu krvi
 e) nie je opticky aktívna
 f) vyskytuje sa v L-konfigurácii
 g) vyskytuje sa v D-konfigurácii
@@ -5720,7 +5720,7 @@ h) kyselina jantárová
 
 573. Kyselina mliečna:
 a) je substitučný derivát karboxylovej kyseliny
-b) má vzorec CH3-CH(OH)-COOH
+b) má vzorec CH<sub>3</sub>-CH(OH)-COOH
 c) vo svaloch sa vyskytuje ako D(-)
 d) vo svaloch sa vyskytuje ako L(+)
 e) je prítomná v kyslej kapuste
@@ -5728,7 +5728,7 @@ f) je opticky aktívna
 g) v molekule nemá asymetrický uhlík
 h) patrí medzi funkčné deriváty karboxylových kyselín
 
-574. Zlúčenina CH2 = CH - C/OH = Oje:
+574. Zlúčenina <img src=otazkyPng/574.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> je:
 a) kyselina vínna
 b) kyselina propénová
 c) ester kyseliny mravčej a nenasýteného alkoholu
@@ -5744,8 +5744,8 @@ b) linolovú
 c) olejovú
 d) palmitovú
 e) palmitoolejovú
-f) C17H33COOH
-g) C17H35COOH
+f) C<sub>17</sub>H<sub>33</sub>COOH
+g) C<sub>17</sub>H<sub>35</sub>COOH
 h) hexadekánovú
 
 576. Pre dikarboxylové kyseliny platí:
@@ -5760,23 +5760,23 @@ h) sú to napr. kyseliny: salicylová a acetylsalicylová
 
 577. Na úplnú neutralizáciu jedného mol kyseliny citrónovej je treba bezozvyšku:
 a) 3 mol KOH
-b) 1 mol Ca(OH)2
-c) 1 mol Al(OH)3
+b) 1 mol Ca(OH)<sub>2</sub>
+c) 1 mol Al(OH)<sub>3</sub>
 d) 3 mol NaOH
-e) 2 mol Bi(OH)3
+e) 2 mol Bi(OH)<sub>3</sub>
 f) 3 mol LiOH
 g) 2 mol CsOH
 h) 1/3 mol LiOH
 
 578. Jeden mol kyseliny malónovej zreaguje bezozvyšku s:
 a) 2 mol CsOH
-b) 1 mol Ba(OH)2
+b) 1 mol Ba(OH)<sub>2</sub>
 c) 3 mol LiOH
-d) 2 mol Ca(OH)2
-e) 1 mol Mg(OH)2
+d) 2 mol Ca(OH)<sub>2</sub>
+e) 1 mol Mg(OH)<sub>2</sub>
 f) 2 mol KOH
 g) 3 mol NaOH
-h) 1 mol Fe(OH)3
+h) 1 mol Fe(OH)<sub>3</sub>
 
 579. Opak esterifikácie je formálne:
 a) hydrogenácia
@@ -5788,37 +5788,37 @@ f) eliminácia
 g) oxidácia
 h) dehydratácia
 
-580. Vyberte správne priradenie názvu ku vzorcu karboxylovej kyseliny:
-a) HOOC-COOH   kyselina oxálová
-b) HOOC-CH2-CH2-COOH   kyselina jantárová
-c) CH3-CH2-COOH   kyselina akrylová
-d) HOOC-CH=CH-COOH   kyselina buténdiová
-e) CH2=CH-COOH   kyselina adipová
-f) HOOC-(CH2)3-COOH   kyselina glutárová
-g) CH3-CH2-CH2-COOH   kyselina maslová
-h) HOOC-CH2-CH(OH)-COOH   kyselina vínna
+580. Vyberte správne priradenie názvu ku vzorcu karboxylovej kyseliny:  
+a) HOOC-COOH   kyselina oxálová  
+b) HOOC-CH<sub>2</sub>-CH<sub>2</sub>-COOH   kyselina jantárová  
+c) CH<sub>3</sub>-CH<sub>2</sub>-COOH   kyselina akrylová  
+d) HOOC-CH=CH-COOH   kyselina buténdiová  
+e) CH<sub>2</sub>=CH-COOH   kyselina adipová  
+f) HOOC-(CH<sub>2</sub>)<sub>3</sub>-COOH   kyselina glutárová  
+g) CH<sub>3</sub>-CH<sub>2</sub>-CH<sub>2</sub>-COOH   kyselina maslová  
+h) HOOC-CH<sub>2</sub>-CH(OH)-COOH   kyselina vínna  
 
 581. Vyberte správne priradenie názvu ku vzorcu karboxylovej kyseliny:
-a) COOH   kyselina benzoová
-b) COOH / COOH   kyselina tereftalová
-c) HOOC / HC = CH / COOH   kyselina fumarová
+a) <img src=otazkyPng/436a1.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>COOH   kyselina benzoová
+b) <img src=otazkyPng/581b.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/>  kyselina tereftalová
+c) <img src=otazkyPng/581c.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/>   kyselina fumarová
 d) HOOC-CH=CH-COOH    kyselina malónová
-e) (COOH)2    kyselina oxálová
-f) COOH   kyselina cyklohexánkarboxylová
-g) HO - COOH   kyselina salicylová
+e) (COOH)<sub>2</sub>    kyselina oxálová
+f) <img src=otazkyPng/437d2.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>COOH   kyselina cyklohexánkarboxylová
+g) HO <img src=otazkyPng/436a2.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> COOH   kyselina salicylová
 h) HOC-COOH    kyselina glykolová
 
-582. Správny vzorec kyseliny glutárovej je:
-a) HOOC-CH(NH2)-(CH)2-COOH
-b) HOOC-(CH2)2-COOH
-c) HOOC-(CH2)3-COOH
-d) HOOC-(CH2)4-COOH
-e) HOOC-(CH2)5-COOH
-f) HOOC-(CH2)6-COOH
-g) CH3-(CH2)4-COOH
-h) CH3-(CH2)6-COOH
+582. Správny vzorec kyseliny glutárovej je:  
+a) HOOC-CH(NH<sub>2</sub>)-(CH)<sub>2</sub>-COOH  
+b) HOOC-(CH<sub>2</sub>)<sub>2</sub>-COOH  
+c) HOOC-(CH<sub>2</sub>)<sub>3</sub>-COOH  
+d) HOOC-(CH<sub>2</sub>)<sub>4</sub>-COOH  
+e) HOOC-(CH<sub>2</sub>)<sub>5</sub>-COOH  
+f) HOOC-(CH<sub>2</sub>)<sub>6</sub>-COOH  
+g) CH<sub>3</sub>-(CH<sub>2</sub>)<sub>4</sub>-COOH  
+h) CH<sub>3</sub>-(CH<sub>2</sub>)<sub>6</sub>-COOH
 
-583. H-C/OH = O je:
+583. <img src=otazkyPng/583.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> je:
 a) aldol
 b) ketón
 c) hydroxyketón
@@ -5828,17 +5828,17 @@ f) kyselina uhličitá
 g) aldehyd kyseliny mravčej
 h) kyselina metánová
 
-584. Kyselina salicylová má vzorec:
-a) NH2 / COOH
-b) H2N - SO3
-c) C6H5-SO3H
-d) HOOC-C6H4-O-CO-CH3
-e) HO3S / COOH / OH 
-f) COOH / OH
-g) CO - NH2
-h) H2N - COOH
+584. Kyselina salicylová má vzorec:  
+a) <img src=otazkyPng/584a.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/> 
+b) H<sub>2</sub>N <img src=otazkyPng/436a2.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> SO<sub>3</sub>  
+c) C<sub>6</sub>H<sub>5</sub>-SO<sub>3</sub>H  
+d) HOOC-C<sub>6</sub>H<sub>4</sub>-O-CO-CH<sub>3</sub>  
+e) <img src=otazkyPng/584e.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/> 
+f) <img src=otazkyPng/584f.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/> 
+g) <img src=otazkyPng/436a1.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>CO - NH<sub>2</sub>  
+h) H<sub>2</sub>N <img src=otazkyPng/436a2.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> COOH
 
-585. Zlúčenina HO - C / H2C-COOH / H2C-COOH / COOH je kyselina, ktorá:
+585. Zlúčenina <img src=otazkyPng/585.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=100/> je kyselina, ktorá:
 a) sa nachádza v citrusových plodoch
 b) zabraňuje zrážaniu krvi
 c) je medziprodukt v metabolizme sacharidov (u cicavcov)
@@ -5853,12 +5853,12 @@ a) znižuje substitúcia atómu vodíka v uhľovodíkovom reťazci atómom chló
 b) určujeme len na základe hodnoty pH ich roztoku
 c) určuje schopnosť odštiepiť protón z karboxylovej skupiny
 d) ovplyvňuje uhľovodíkový zvyšok kyseliny (-R)
-e) posudzujeme podľa hodnôt ionizačných konštánt kyselín Ka
+e) posudzujeme podľa hodnôt ionizačných konštánt kyselín K<sub>a</sub>
 f) určuje počet atómov vodíka v molekule kyseliny
-g) vyjadruje hodnota záporného dekadického logaritmu hodnoty Ka kyseliny
-h) posudzujeme podľa hodnôt pKa
+g) vyjadruje hodnota záporného dekadického logaritmu hodnoty K<sub>a</sub> kyseliny
+h) posudzujeme podľa hodnôt pK<sub>a</sub>
 
-587. Acyklické karboxylové kyseliny s nízkym počtom atómov uhlíka (C1-C4) sú pri bežných podmienkach:
+587. Acyklické karboxylové kyseliny s nízkym počtom atómov uhlíka (C<sub>1</sub>-C<sub>4</sub>) sú pri bežných podmienkach:
 a) v skupenskom stave pevnom
 b) v skupenskom stave kvapalnom
 c) v skupenskom stave plynnom
@@ -5876,7 +5876,7 @@ d) majú dva rovnocenné atómy kyslíka v ionizovanej karboxylovej skupine
 e) všetky patria medzi nepolárne zlúčeniny
 f) sú látky, ktorých rozpustnosť vo vode závisí od dĺžky uhľovodíkového reťazca
 g) asparágová a glutámová patria medzi hydroxykyseliny
-h) majú v anióne -COO- vzdialenosť a charakter väzby medzi obidvomi atómami kyslíka a atómom uhlíka rovnaké
+h) majú v anióne -COO<sup>-</sup> vzdialenosť a charakter väzby medzi obidvomi atómami kyslíka a atómom uhlíka rovnaké
 
 589. O sile dikarboxylových kyselín v porovnaní s monokarboxylovými kyselinami o rovnakom počte atómov uhlíka platí:
 a) je nižšia
@@ -5898,31 +5898,31 @@ f) redukciou aldehydov
 g) kyslou hydrolýzou esterov
 h) hydrolýzou anhydridov karboxylových kyselín
 
-591. Reakciu dekarboxylácie kyseliny malónovej vyjadruje rovnica:
-a) CH3-CH2-COOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3-CH3+ CO2
-b) CH3-CH2-COOH + CO2 <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> HOOC-CH2-CH2-COOH
-c) HOOC-CH2-COOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CO2+ HOOC-CH3
-d) HOOC-CH=CH-COOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> HOOC-CH=CH2+ CO2
-e) HOOC-CH2-COOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH4+ 2CO
-f) 2 HOOC-CH=CH-COOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> HOOC-CH=CH-CH=CH-COOH + 2 CO2
-g) 2 HOOC-CH=CH-COOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> HOOC-CH=CH-CH=CH-COOH + 2CO + H2
-h) CH2(COOH)2 <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3-COOH + CO2
+591. Reakciu dekarboxylácie kyseliny malónovej vyjadruje rovnica:  
+a) CH<sub>3</sub>-CH<sub>2</sub>-COOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub>-CH<sub>3</sub> + CO<sub>2</sub>  
+b) CH<sub>3</sub>-CH<sub>2</sub>-COOH + CO<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> HOOC-CH<sub>2</sub>-CH<sub>2</sub>-COOH  
+c) HOOC-CH<sub>2</sub>-COOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CO<sub>2</sub> + HOOC-CH<sub>3</sub>  
+d) HOOC-CH=CH-COOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> HOOC-CH=CH<sub>2</sub> + CO<sub>2</sub>  
+e) HOOC-CH<sub>2</sub>-COOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>4</sub> + 2CO  
+f) 2 HOOC-CH=CH-COOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> HOOC-CH=CH-CH=CH-COOH + 2 CO<sub>2</sub>  
+g) 2 HOOC-CH=CH-COOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> HOOC-CH=CH-CH=CH-COOH + 2CO + H<sub>2</sub>  
+h) CH<sub>2</sub>(COOH)<sub>2</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub>-COOH + CO<sub>2</sub>
 
-592. Reakciu neutralizácie kyseliny propiónovej s hydroxidom sodným vyjadruje rovnica:
-a) CH3-CH2-COOH + NaOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> NaOOC-CH2-CH3+ H2O
-b) CH3-CH2-COOH + 2 NaOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3-CH2-CONa2+ H2O
-c) HOOC-CH2-COOH + 2 NaOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> NaOOC-CH2-COONa + 2H2O
-d) CH3-COOH + NaOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3COONa + H2O
-e) C2H5-COOH + NaOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> C2H5-COONa + H2O
-f) CH3-CH2-COOH + NaOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3-CH2-CONa + H2O
-g) CH3-CH2-COH + NaOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3-CH2-COONa + H2
-h) esterifikácie
+592. Reakciu neutralizácie kyseliny propiónovej s hydroxidom sodným vyjadruje rovnica:  
+a) CH<sub>3</sub>-CH<sub>2</sub>-COOH + NaOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> NaOOC-CH<sub>2</sub>-CH<sub>3</sub> + H<sub>2</sub>O  
+b) CH<sub>3</sub>-CH<sub>2</sub>-COOH + 2 NaOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub>-CH<sub>2</sub>-CONa<sub>2</sub> + H<sub>2</sub>O  
+c) HOOC-CH<sub>2</sub>-COOH + 2 NaOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> NaOOC-CH<sub>2</sub>-COONa + 2H<sub>2</sub>O  
+d) CH<sub>3</sub>-COOH + NaOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub>COONa + H<sub>2</sub>O  
+e) C<sub>2</sub>H<sub>5</sub>-COOH + NaOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> C<sub>2</sub>H<sub>5</sub>-COONa + H<sub>2</sub>O  
+f) CH<sub>3</sub>-CH<sub>2</sub>-COOH + NaOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub>-CH<sub>2</sub>-CONa + H<sub>2</sub>O  
+g) CH<sub>3</sub>-CH<sub>2</sub>-COH + NaOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub>-CH<sub>2</sub>-COONa + H<sub>2</sub>  
+h) esterifikácie  
 
 593. Esterifikácia:
 a) je tiež reakcia chloridu karboxylovej kyseliny s alkoholom
 b) je tiež reakcia anhydridu karboxylovej kyseliny s alkoholom
 c) je reakcia vzniku mydla
-d) je reakcia glycerolu s H3PO4
+d) je reakcia glycerolu s H<sub>3</sub>PO<sub>4</sub>
 e) je reakcia, pri ktorej vzniká ester a voda
 f) je reakcia, pri ktorej vzniká éter a voda
 g) je opak eliminácie
@@ -5938,7 +5938,7 @@ f) reakcia, ktorá sa využíva na výrobu mydla
 g) reakcia, pri ktorej z esteru vzniká soľ vyššej karboxylovej kyseliny
 h) reakcia, pri ktorej vzniká ester a voda
 
-595. Látkové množstvo 1 mol Ba(OH)2 môže úplne a bezozvyšku zneutralizovať:
+595. Látkové množstvo 1 mol Ba(OH)<sub>2</sub> môže úplne a bezozvyšku zneutralizovať:
 a) 1 mol kyseliny korkovej
 b) 3 mol kyseliny benzoovej
 c) 1 mol kyseliny ftalovej
@@ -5948,25 +5948,25 @@ f) 2 mol kyseliny jantárovej
 g) 1 mol kyseliny oxálovej
 h) 0,5 mol kyseliny šťaveľovej
 
-596. Vyberte správnu reakciu vzniku propylesteru kyseliny octovej:
-a) CH3-CH2-CH2-OH + CH3-COCl <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3-CO-O-CH2-CH2-CH3+ HCl
-b) CH3-CO-O-CO-CH3 + 2 CH3-CH2-CH2-OH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 CH3-CH2-CH2-O-CO-CH3 + H2O
-c) CH3-COOH + HO-CH2-CH3 <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3-CO-O-CH2-CH3+ H2O
-d) CH3-CH2-COOH + CH3-CH2-OH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3-O-CO-CH2-CH3+ H2O
-e) CH3-CH2-COOH + CH3-CH2-OH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3-O-CH2-CH2-COOH + H2O
-f) CH3-CH2-COOH + CH3-CH2-OH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3-CH2-O-CO-CH2-CH3+ H2O
-g) CH3-COOH + CH3-CH2-CH2-OH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3-CO-O-CH2-CH2-CH3+ H2O
-h) CH3-CH2-CH2-OH + HOOC-CH3 <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3-CO-O- CH2-CH2-CH3+ H2O
+596. Vyberte správnu reakciu vzniku propylesteru kyseliny octovej:  
+a) CH<sub>3</sub>-CH<sub>2</sub>-CH<sub>2</sub>-OH + CH<sub>3</sub>-COCl <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub>-CO-O-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>3</sub> + HCl  
+b) CH<sub>3</sub>-CO-O-CO-CH<sub>3</sub> + 2 CH<sub>3</sub>-CH<sub>2</sub>-CH<sub>2</sub>-OH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> 2 CH<sub>3</sub>-CH<sub>2</sub>-CH<sub>2</sub>-O-CO-CH<sub>3</sub> + H<sub>2</sub>O  
+c) CH<sub>3</sub>-COOH + HO-CH<sub>2</sub>-CH<sub>3</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub>-CO-O-CH<sub>2</sub>-CH<sub>3</sub> + H<sub>2</sub>O  
+d) CH<sub>3</sub>-CH<sub>2</sub>-COOH + CH<sub>3</sub>-CH<sub>2</sub>-OH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub>-O-CO-CH<sub>2</sub>-CH<sub>3</sub> + H<sub>2</sub>O  
+e) CH<sub>3</sub>-CH<sub>2</sub>-COOH + CH<sub>3</sub>-CH<sub>2</sub>-OH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub>-O-CH<sub>2</sub>-CH<sub>2</sub>-COOH + H<sub>2</sub>O  
+f) CH<sub>3</sub>-CH<sub>2</sub>-COOH + CH<sub>3</sub>-CH<sub>2</sub>-OH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub>-CH<sub>2</sub>-O-CO-CH<sub>2</sub>-CH<sub>3</sub> + H<sub>2</sub>O  
+g) CH<sub>3</sub>-COOH + CH<sub>3</sub>-CH<sub>2</sub>-CH<sub>2</sub>-OH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub>-CO-O-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>3</sub> + H<sub>2</sub>O  
+h) CH<sub>3</sub>-CH<sub>2</sub>-CH<sub>2</sub>-OH + HOOC-CH<sub>3</sub> <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub>-CO-O- CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>3</sub> + H<sub>2</sub>O  
 
-597. Kyselina maslová má vzorec:
-a) HOOC-CH2-COOH
-b) CH3-CH2-CH2-COOH
-c) CH3-CH2-CH2-CH2-CH2-COOH
-d) HOOC-(CH2)4-COOH
-e) HOOC-(CH2)5-COOH
-f) CH3-(CH2)5-COOH
-g) HOOC-(CH2)2-CH3
-h) HOOC-(CH2)6-COOH
+597. Kyselina maslová má vzorec:  
+a) HOOC-CH<sub>2</sub>-COOH  
+b) CH<sub>3</sub>-CH<sub>2</sub>-CH<sub>2</sub>-COOH  
+c) CH<sub>3</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-COOH  
+d) HOOC-(CH<sub>2</sub>)<sub>4</sub>-COOH  
+e) HOOC-(CH<sub>2</sub>)<sub>5</sub>-COOH  
+f) CH<sub>3</sub>-(CH<sub>2</sub>)<sub>5</sub>-COOH  
+g) HOOC-(CH<sub>2</sub>)<sub>2</sub>-CH<sub>3</sub>  
+h) HOOC-(CH<sub>2</sub>)<sub>6</sub>-COOH
 
 598. Najjednoduchšia nenasýtená dikarboxylová kyselina je:
 a) kyselina malónová
@@ -5978,25 +5978,25 @@ f) kyselina olejová
 g) kyselina šťaveľová
 h) kyselina akrylová
 
-599. Úplnou hydrogenáciou kyseliny linolénovej dostaneme kyselinu s racionálnym vzorcom:
-a) C15H29COOH
-b) C15H31COOH
-c) C17H29COOH
-d) C17H31COOH
-e) C17H33COOH
-f) C17H35COOH
-g) C15H33COOH
-h) C19H39COOH
+599. Úplnou hydrogenáciou kyseliny linolénovej dostaneme kyselinu s racionálnym vzorcom:  
+a) C<sub>15</sub>H<sub>29</sub>COOH  
+b) C<sub>15</sub>H<sub>31</sub>COOH  
+c) C<sub>17</sub>H<sub>29</sub>COOH  
+d) C<sub>17</sub>H<sub>31</sub>COOH  
+e) C<sub>17</sub>H<sub>33</sub>COOH  
+f) C<sub>17</sub>H<sub>35</sub>COOH  
+g) C<sub>15</sub>H<sub>33</sub>COOH  
+h) C<sub>19</sub>H<sub>39</sub>COOH  
 
-600. Elimináciou 2 molekúl vodíka z kyseliny C17H33COOH dostaneme:
-a) kyselinu s tromi dvojitými väzbami
-b) kyselinu olejovú
-c) kyselinu linolénovú
-d) kyselinu linolovú
-e) kyselinu s dvomi dvojitými väzbami
-f) kyselinu palmitoolejovú
-g) kyselinu oktadecénovú
-h) C17H29COOH
+600. Elimináciou 2 molekúl vodíka z kyseliny C<sub>17</sub>H<sub>33</sub>COOH dostaneme:  
+a) kyselinu s tromi dvojitými väzbami  
+b) kyselinu olejovú  
+c) kyselinu linolénovú  
+d) kyselinu linolovú  
+e) kyselinu s dvomi dvojitými väzbami  
+f) kyselinu palmitoolejovú  
+g) kyselinu oktadecénovú  
+h) C<sub>17</sub>H<sub>29</sub>COOH
 
 601. Medzi substitučné deriváty karboxylových kyselín patria:
 a) étery
@@ -6016,7 +6016,7 @@ d) účinkom záporného indukčného efektu halogénu
 e) účinkom kladného indukčného efektu halogénu
 f) účinkom mezomérneho efektu
 g) tým viac, čím je viac atómov vodíka substituovaných halogénom
-h) pretože hodnota pKa sa zvyšuje
+h) pretože hodnota pK<sub>a</sub> sa zvyšuje
 
 603. Kyselina vínna:
 a) má jeden chirálny atóm uhlíka
@@ -6038,7 +6038,7 @@ f) acylpyrín
 g) látka zásaditej povahy
 h) chemická podstata kyseliny barbitúrovej
 
-605. Zlúčenina HOOC-CH(OH)-CH2-COOH:
+605. Zlúčenina HOOC-CH(OH)-CH<sub>2</sub>-COOH:
 a) je hydroxykyselina
 b) vzniká adíciou vody na kyselinu fumarovú
 c) je funkčný derivát kyseliny jantárovej
@@ -6048,7 +6048,7 @@ f) je dikarboxylová kyselina
 g) je kyselina dihydroxybutándiová
 h) je kyselina monohydroxybutándiová
 
-606. Zlúčenina CH3-CO-CH2-COOH je kyselina:
+606. Zlúčenina CH<sub>3</sub>-CO-CH<sub>2</sub>-COOH je kyselina:
 a) pyrohroznová
 b) ktorá sa môže dekarboxylovať na acetón
 c) oxaloctová
@@ -6058,7 +6058,7 @@ f) oxoetánová
 g) 3-oxobutánová
 h) oxojantárová
 
-607. Zlúčenina CH3 - CH/OH - COOH môže vznikať:
+607. Zlúčenina <img src=otazkyPng/607.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> môže vznikať:
 a) oxidáciou kyseliny pyrohroznovej
 b) redukciou kyseliny pyrohroznovej
 c) v organizme pri glykolýze (za anaeróbnych podmienok)
@@ -6078,14 +6078,14 @@ f) je hlavným produktom aeróbneho odbúravania sacharidov
 g) vzniká pri svalovej práci ako produkt metabolizmu sacharidov
 h) je kyselina mliečna
 
-609. Kyselina akrylová vzniká:
-a) oxidáciou akroleínu
-b) redukciou CH2=CH-CHO
-c) úplnou oxidáciou CH2=CH-CH2-OH
-d) oxidáciou CH3-CH2-CHO
-e) redukciou HOOC-CH=CH-COOH
-f) hydratáciou vinylalkoholu
-g) oxidáciou CH2=CH-CHO
+609. Kyselina akrylová vzniká:  
+a) oxidáciou akroleínu  
+b) redukciou CH<sub>2</sub>=CH-CHO  
+c) úplnou oxidáciou CH<sub>2</sub>=CH-CH<sub>2</sub>-OH  
+d) oxidáciou CH<sub>3</sub>-CH<sub>2</sub>-CHO  
+e) redukciou HOOC-CH=CH-COOH  
+f) hydratáciou vinylalkoholu  
+g) oxidáciou CH<sub>2</sub>=CH-CHO  
 h) hydratáciou akrylaldehydu
 
 610. Medzi substitučné deriváty karboxylových kyselín patria:
@@ -6100,8 +6100,8 @@ h) estery kyselín
 
 611. Neutrálne aminokyseliny:
 a) vždy majú v uhľovodíkovom reťazci -OH skupinu
-b) majú jednu karboxylovú skupinu a jednu -NH2 skupinu
-c) majú namiesto skupiny -NH2 skupinu = N-
+b) majú jednu karboxylovú skupinu a jednu -NH<sub>2</sub> skupinu
+c) majú namiesto skupiny -NH<sub>2</sub> skupinu = N-
 d) majú namiesto skupiny -COOH skupinu -CHO
 e) sú napr. serín, arginín, lyzín
 f) sú napr. kyselina glutámová, cysteín, histidín
@@ -6110,13 +6110,13 @@ h) sú napr. prolín, tyrozín, kyselina asparágová
 
 612. V izoelektrickom bode neutrálne aminokyseliny:
 a) majú ionizovanú len skupinu -COOH
-b) majú ionizovanú len skupinu -NH2
-c) majú ionizovanú karboxylovú skupinu a aminoskupinu na ióny: -COO- a -NH3+
+b) majú ionizovanú len skupinu -NH<sub>2</sub>
+c) majú ionizovanú karboxylovú skupinu a aminoskupinu na ióny: -COO<sup>-</sup> a -NH<sub>3</sub><sup>+</sup>
 d) nemajú ionizované charakteristické skupiny a preto sú elektroneutrálne
 e) sa pohybujú len ku katóde
 f) sa pohybujú len k anóde
 g) sa v jednosmernom elektrickom poli nepohybujú
-h) majú štruktúru: R - CH/NH3+ - COO-
+h) majú štruktúru: <img src=otazkyPng/612h.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
 
 613. Izoelektrický bod:
 a) je taká hodnota pH, pri ktorej sa ionizovaná aminokyselina pohybuje k anóde
@@ -6128,15 +6128,15 @@ f) je taká hodnota pH, pri ktorej je aminokyselina vo forme aniónu
 g) je taká hodnota pH, pri ktorej prevláda kladný náboj v molekule aminokyseliny
 h) nesúvisí s hodnotou pH roztoku aminokyseliny
 
-614. V izoelektrickom bode je glycín v štruktúrnej forme:
-a) H2N-CH2-COOH
-b) H3N+-CH2-COO-
-c) HN=CH-COOH
-d) H2N-CH2-COO-
-e) H3N+-CH2-COOH
-f) H3C-CH(NH3+)-COOH
-g) H3N+-CH--COOH
-h) -OOC-CH2-NH3+
+614. V izoelektrickom bode je glycín v štruktúrnej forme:  
+a) H<sub>2</sub>N-CH<sub>2</sub>-COOH  
+b) H<sub>3</sub>N<sup>+</sup>-CH<sub>2</sub>-COO<sup>-</sup>  
+c) HN=CH-COOH  
+d) H<sub>2</sub>N-CH<sub>2</sub>-COO<sup>-</sup>  
+e) H<sub>3</sub>N<sup>+</sup>-CH<sub>2</sub>-COOH  
+f) H<sub>3</sub>C-CH(NH<sub>3</sub><sup>+</sup>)-COOH  
+g) H<sub>3</sub>N<sup>+</sup>-CH<sup>-</sup>-COOH  
+h) <sup>-</sup>OOC-CH<sub>2</sub>-NH<sub>3</sub><sup>+</sup>
 
 615. Glycín pri pH = 9 je prevažne v štruktúrnej forme:
 a) H2N-CH2-COO-
