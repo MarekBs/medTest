@@ -6335,20 +6335,20 @@ c) arachidan sodný
 d) palmitan draselný
 e) stearan draselný
 f) myristan sodný
-g) CH3-(CH2)14-COOK
-h) CH3-(CH2)16-CONa
+g) CH<sub>3</sub>-(CH<sub>2</sub>)<sub>14</sub>-COOK
+h) CH<sub>3</sub>-(CH<sub>2</sub>)<sub>16</sub>-CONa
 
 635. Soli karboxylových kyselín môžu vznikať:
 a) reakciou karboxylových kyselín s hydroxidmi
 b) nahradením -OH skupiny v karboxylovej skupine kovom
-c) nahradením katiónu vodíka v karboxylovej skupine katiónom kovu alebo katiónom NH4+
+c) nahradením katiónu vodíka v karboxylovej skupine katiónom kovu alebo katiónom NH4<sup>+</sup>
 d) neutralizáciou karboxylových kyselín
 e) kyslou hydrolýzou esterov
 f) esterifikáciou
 g) redukciou karboxylových kyselín
 h) vysoľovaním karboxylových kyselín
 
-636. Zlúčenina, ktorá obsahuje funkčnú skupinu -C/O - O - C/O- je:
+636. Zlúčenina, ktorá obsahuje funkčnú skupinu <img src=otazkyPng/636.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> je:
 a) ester
 b) anhydrid
 c) poloacetál
@@ -6386,17 +6386,17 @@ d) sú amfotérne látky
 e) sú látky menej zásadité ako amíny
 f) sú látky viac zásadité ako amíny
 g) sú látky kyslej povahy
-h) majú všeobecný vzorec R-CO-NH2
+h) majú všeobecný vzorec R-CO-NH<sub>2</sub>
 
-640. Amid kyseliny má všeobecný vzorec:
-a) R - CH/NH2 - COOH
-b) R-COO-NH2
-c) R-CO-NH2
-d) R-NH-R
-e) R-CO-NH-CO-R
-f) R-CO-NO2
-g) R - C/O - N/H - H
-h) R-COONH
+640. Amid kyseliny má všeobecný vzorec:  
+a) <img src=otazkyPng/640a.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
+b) R-COO-NH<sub>2</sub>  
+c) R-CO-NH<sub>2</sub>  
+d) R-NH-R  
+e) R-CO-NH-CO-R  
+f) R-CO-NO<sub>2</sub>  
+g) <img src=otazkyPng/640g.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
+h) R-COONH  
 
 641. Acylpyrín vzniká:
 a) neutralizáciou kyseliny salicylovej
@@ -6408,7 +6408,7 @@ f) esterifikáciou kyseliny salicylovej s etanolom
 g) esterifikáciou -COOH skupiny kyseliny salicylovej
 h) esterifikáciou fenolového hydroxylu kyseliny salicylovej s kyselinou octovou
 
-642. Zlúčenina COOH / O-CO-CH3 je:
+642. Zlúčenina <img src=otazkyPng/642.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=100/> je:
 a) acylpyrín
 b) benzoylacetát
 c) kyselina acetylsalicylová
@@ -6429,16 +6429,16 @@ g) estery
 h) chloridy
 
 644. Reakciou kyseliny etánovej a metanolu vzniká:
-a) CH3-CO-O-CH2-CH3
-b) CH3-CO-O-CH3
-c) CH3-O-CO-CH2-CH3
-d) CH3-O-CO-CH3
+a) CH<sub>3</sub>-CO-O-CH<sub>2</sub>-CH<sub>3</sub>
+b) CH<sub>3</sub>-CO-O-CH<sub>3</sub>
+c) CH<sub>3</sub>-O-CO-CH<sub>2</sub>-CH<sub>3</sub>
+d) CH<sub>3</sub>-O-CO-CH<sub>3</sub>
 e) etylester kyseliny metánovej
 f) metylester kyseliny octovej
 g) octan metylový
 h) metylacetát
 
-645. Zlúčenina CH3-CH2-O-CO-CH3 môže vzniknúť:
+645. Zlúčenina CH<sub>3</sub>-CH<sub>2</sub>-O-CO-CH<sub>3</sub> môže vzniknúť:
 a) z metanolu a etanolu
 b) z etanolu a kyseliny octovej
 c) z kyseliny octovej a metylalkoholu
@@ -6448,15 +6448,15 @@ f) z kyseliny octovej a kyseliny mravčej
 g) esterifikáciou
 h) z acetylchloridu a etanolu
 
-646. Na tvorbe zlúčeniny CH3-O-CO-CH2-CH3 sa podieľa:
+646. Na tvorbe zlúčeniny CH<sub>3</sub>-O-CO-CH<sub>2</sub>-CH<sub>3</sub> sa podieľa:
 a) metanol a kyselina etánová
-b) C2H5OH a CH3COOH
+b) C<sub>2</sub>H<sub>5</sub>OH a CH<sub>3</sub>COOH
 c) metanol a kyselina propánová
 d) propanol a kyselina octová
 e) etanol a kyselina etánová
 f) etanol a kyselina propánová
-g) kyselina propionová a metylalkohol
-h) CH3-CH2-COCl a CH3OH
+g) kyselina propiónová a metylalkohol
+h) CH<sub>3</sub>-CH<sub>2</sub>-COCl a CH<sub>3</sub>OH
 
 647. Vnútorný anhydrid vznikne z kyseliny:
 a) propánovej
@@ -6468,7 +6468,7 @@ f) steárovej
 g) salicylovej
 h) benzoovej
 
-648. Zlúčenina CH3 - CH2 - O -P/OH/OH = O je:
+648. Zlúčenina <img src=otazkyPng/648.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=100/> je:
 a) etylfosfán
 b) etylester kyseliny fosforečnej
 c) glycerofosfát
@@ -6476,14 +6476,14 @@ d) etylfosfoéter
 e) všeobecne alkylfosfát
 f) etylfosfát
 g) metylfosfát
-h) ester H3PO4 s etanolom
+h) ester H<sub>3</sub>PO<sub>4</sub> s etanolom
 
 649. Močovina je:
 a) diamid kyseliny močovej
 b) diamid kyseliny uhličitej
 c) soľ kyseliny močovej
-d) zlúčenina vzorca CO(NH2)2
-e) zlúčenina vzorca HCOONH2
+d) zlúčenina vzorca CO(NH<sub>2</sub>)<sub>2</sub>
+e) zlúčenina vzorca HCOONH<sub>2</sub>
 f) látka, ktorá sa používa na výrobu niektorých liečiv
 g) zlúčenina, od ktorej môžeme odvodiť iminomočovinu
 h) hlavným koncovým produktom metabolizmu bielkovín u človeka
@@ -6500,7 +6500,7 @@ h) je základ tzv. barbiturátov, ktoré sa používajú v medicíne ako hypnoti
 
 651. Kyselina uhličitá:
 a) vzniká ako medziprodukt pri oxidácii kyseliny mravčej
-b) sa rozkladá na CO2 a H2
+b) sa rozkladá na CO<sub>2</sub> a H<sub>2</sub>
 c) je jednosýtna kyselina
 d) je silná anorganická kyselina
 e) je silná organická kyselina
@@ -6518,7 +6518,7 @@ f) sú napr. alanín, valín, serín
 g) sú napr. estery a halogenidy karboxylových kyselín
 h) sú napr. hydroxykyseliny a oxokyseliny
 
-653. -OOC-CH(OH)-CH2-COO-je:
+653. <sup>-</sup>OOC-CH(OH)-CH<sub>2</sub>-COO<sup>-</sup> je:
 a) malonát
 b) maleinát
 c) malát
@@ -6539,34 +6539,34 @@ g) kyselinu pyrohroznovú
 h) acetamid
 
 655. Acetyl je:
-a) H - C = O
-b) CH3 - C = O
-c) CH3 - C/O - O
-d) CH3-COOH
+a) <img src=otazkyPng/452a.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
+b) <img src=otazkyPng/452c.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
+c) <img src=otazkyPng/655c.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
+d) CH<sub>3</sub>-COOH
 e) skupina, ktorá vznikne z kyseliny octovej po odtrhnutí skupiny -OH
 f) skupina, ktorá vznikne po odtrhnutí atómu vodíka z karboxylovej skupiny kyseliny etánovej
 g) synonymum pre acyl
 h) skratka pre kyselinu octovú
 
 656. Šťaveľan vápenatý má vzorec:
-a) CaOOC-CH2-COOCa
-b) (OOC-CH2-COO)Ca
-c) (COO)2Ca
+a) CaOOC-CH<sub>2</sub>-COOCa
+b) (OOC-CH<sub>2</sub>-COO)Ca
+c) (COO)<sub>2</sub>Ca
 d) CaOOC-COOCa
 e) HOOC-COOCa
-f) (CO)2Ca2
+f) (CO)<sub>2</sub>Ca<sub>2</sub>
 g) Ca-OC-CO-Ca
 h) Ca-OC-COOH
 
 657. Octan železitý má vzorec:
-a) (CH3COO)2Fe3
-b) (CH3COO)3Fe2
-c) (CH3CO)3Fe
-d) (CH3COO)3Fe
-e) CH3COOFe
-f) CH3COOFe3
-g) CH3COFe3
-h) (CH3COO)2Fe
+a) (CH<sub>3</sub>COO)<sub>2</sub>Fe<sub>3</sub>
+b) (CH<sub>3</sub>COO)<sub>3</sub>Fe<sub>2</sub>
+c) (CH<sub>3</sub>CO)<sub>3</sub>Fe
+d) (CH<sub>3</sub>COO)<sub>3</sub>Fe
+e) CH<sub>3</sub>COOFe
+f) CH<sub>3</sub>COOFe<sub>3</sub>
+g) CH<sub>3</sub>COFe<sub>3</sub>
+h) (CH<sub>3</sub>COO)<sub>2</sub>Fe
 
 658. Mydlo môže byť:
 a) valeran draselný
@@ -6574,8 +6574,8 @@ b) palmitan sodný
 c) stearan draselný
 d) ftalan vápenatý
 e) draselná soľ vyššej karboxylovej kyseliny
-f) C17H35COONa
-g) C15H31COOK
+f) C<sub>17</sub>H<sub>35</sub>COONa
+g) C<sub>15</sub>H<sub>31</sub>COOK
 h) benzoan draselný
 
 659. Anhydrid karboxylovej kyseliny môže vzniknúť odštiepením molekuly vody z:
@@ -6588,7 +6588,7 @@ f) 1 molekuly kyseliny glutárovej
 g) 1 molekuly kyseliny mliečnej
 h) 1 molekuly kyseliny ftalovej
 
-660. Zlúčenina CH3 - C/O - O - C/O - CH3 je:
+660. Zlúčenina <img src=otazkyPng/660.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=70/> je:
 a) acetanhydrid
 b) anhydrid kyseliny octovej
 c) poloacetál
@@ -6599,16 +6599,16 @@ g) ester
 h) oxoéter
 
 661. Amid kyseliny octovej je:
-a) CH2/NH2 - COOH
-b) CH3-CO-NH2
+a) <img src=otazkyPng/661a.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
+b) CH<sub>3</sub>-CO-NH<sub>2</sub>
 c) funkčný derivát kyseliny etánovej
-d) CH3-COO-NH2
-e) CH2/NH2 - COONH2
-f) CH3-CO-NO2
+d) CH<sub>3</sub>-COO-NH<sub>2</sub>
+e) <img src=otazkyPng/661e.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
+f) CH<sub>3</sub>-CO-NO<sub>2</sub>
 g) glycín
-h) CH3-CH2-CO-NH2
+h) CH<sub>3</sub>-CH<sub>2</sub>-CO-NH<sub>2</sub>
 
-662. Hydrolýzou zlúčeniny CH3 - CH2 -C/O - O - CH3 vzniká:
+662. Hydrolýzou zlúčeniny <img src=otazkyPng/662.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=60/> vzniká:
 a) etanol
 b) kyselina octová
 c) kyselina propánová
@@ -6618,7 +6618,7 @@ f) kyselina metánová
 g) acetylchlorid
 h) kyselina propiónová
 
-663. Na tvorbe zlúčeniny CH3-O-CO-C6H5 sa z uvedených zlúčenín môže podieľať:
+663. Na tvorbe zlúčeniny CH<sub>3</sub>-O-CO-C<sub>6</sub>H<sub>5</sub> sa z uvedených zlúčenín môže podieľať:
 a) metylalkohol
 b) etanol
 c) metanol
@@ -6629,16 +6629,16 @@ g) kyselina benzoová
 h) benzén
 
 664. Vyberte správnu reakciu vzniku acylpyrínu:
-a) HOOC-C6H4-OH + CH3-CH2-OH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH3-CH2-O-CO-C6H4-OH + H2O
-b) HOOC-C6H4-OH + CH3-CH2-OH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> HOOC-C6H4-O-CH2-CH3+ H2O
-c) HOOC-C6H4-OH + CH3-COOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> HOOC-C6H4-O-CO-CH3+ H2O
-d) HOOC-C6H4-OH + CH3-COOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> C6H5-CO-O-CH3+ 2H2O
-e) HO3S-C6H4-OH + CH3-COOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> HO3S-C6H4-O-CO-CH3+ H2O
-f) HO3S-C6H4-OH + CH3-CH2-OH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> HO3S-C6H4-O-CH2-CH3+ H2O
-g) HO3S-C6H4-COOH + CH3-CH2-OH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> HO3S-C6H4-CO-O-CH2-CH3+ H2O
-h) HOOC-C4H5-OH + CH3-COOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> HOOC-C4H5-O-CO-CH3+ H2O 
+a) HOOC-C<sub>6</sub>H<sub>4</sub>-OH + CH<sub>3</sub>-CH<sub>2</sub>-OH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> CH<sub>3</sub>-CH<sub>2</sub>-O-CO-C<sub>6</sub>H<sub>4</sub>-OH + H<sub>2</sub>O
+b) HOOC-C<sub>6</sub>H<sub>4</sub>-OH + CH<sub>3</sub>-CH<sub>2</sub>-OH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> HOOC-C<sub>6</sub>H<sub>4</sub>-O-CH<sub>2</sub>-CH<sub>3</sub> + H<sub>2</sub>O
+c) HOOC-C<sub>6</sub>H<sub>4</sub>-OH + CH<sub>3</sub>-COOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> HOOC-C<sub>6</sub>H<sub>4</sub>-O-CO-CH<sub>3</sub> + H<sub>2</sub>O
+d) HOOC-C<sub>6</sub>H<sub>4</sub>-OH + CH<sub>3</sub>-COOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> C<sub>6</sub>H<sub>5</sub>-CO-O-CH<sub>3</sub> + 2H<sub>2</sub>O
+e) HO<sub>3</sub>S-C<sub>6</sub>H<sub>4</sub>-OH + CH<sub>3</sub>-COOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> HO<sub>3</sub>S-C<sub>6</sub>H<sub>4</sub>-O-CO-CH<sub>3</sub> + H<sub>2</sub>O
+f) HO<sub>3</sub>S-C<sub>6</sub>H<sub>4</sub>-OH + CH<sub>3</sub>-CH<sub>2</sub>-OH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> HO<sub>3</sub>S-C<sub>6</sub>H<sub>4</sub>-O-CH<sub>2</sub>-CH<sub>3</sub> + H<sub>2</sub>O
+g) HO<sub>3</sub>S-C<sub>6</sub>H<sub>4</sub>-COOH + CH<sub>3</sub>-CH<sub>2</sub>-OH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> HO<sub>3</sub>S-C<sub>6</sub>H<sub>4</sub>-CO-O-CH<sub>2</sub>-CH<sub>3</sub> + H<sub>2</sub>O
+h) HOOC-C<sub>4</sub>H<sub>5</sub>-OH + CH<sub>3</sub>-COOH <span style="font-size: 24px; transform: scaleX(2); display: inline-block; margin-right: 14px; margin-left:14px;">&#10230;</span> HOOC-C<sub>4</sub>H<sub>5</sub>-O-CO-CH<sub>3</sub> + H<sub>2</sub>O
 
-665. Zlúčenina CH3-O-CO-CH3 vzniká z:
+665. Zlúčenina CH<sub>3</sub>-O-CO-CH<sub>3</sub> vzniká z:
 a) metánu a kyseliny octovej
 b) etanolu a kyseliny etánovej
 c) metanolu a kyseliny octovej
@@ -6649,29 +6649,29 @@ g) acetanhydridu a metanolu
 h) acetanhydridu a etanolu
 
 666. Etylester kyseliny trihydrogenfosforečnej má vzorec:
-a) CH3-CH2-O-P/OH/OH = O
-b) CH3-CH2-O-PO3H
-c) CH3-CH2-O-PO3H2
-d) CH3-CO-O-PO3H2
-e) CH3-CH2-O-PO4H2
-f) CH3-CO-O-PO4H2
-g) CH3-O-PO3H2
-h) CH3-CH2-PO3H2
+a) <img src=otazkyPng/666a.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/>
+b) CH<sub>3</sub>-CH<sub>2</sub>-O-PO<sub>3</sub>H
+c) CH<sub>3</sub>-CH<sub>2</sub>-O-PO<sub>3</sub>H<sub>2</sub>
+d) CH<sub>3</sub>-CO-O-PO<sub>3</sub>H<sub>2</sub>
+e) CH<sub>3</sub>-CH<sub>2</sub>-O-PO<sub>4</sub>H<sub>2</sub>
+f) CH<sub>3</sub>-CO-O-PO<sub>4</sub>H<sub>2</sub>
+g) CH<sub>3</sub>-O-PO<sub>3</sub>H<sub>2</sub>
+h) CH<sub>3</sub>-CH<sub>2</sub>-PO<sub>3</sub>H<sub>2</sub>
 
 667. O jednoduchých lipidoch môžeme povedať:
 a) obsahujú esterovo viazanú glukózu
 b) neobsahujú esterovú väzbu
 c) majú hydrofóbne vlastnosti
 d) sú estery vyšších karboxylových kyselín a glycerolu
-e) môžu obsahovať zvyšok H3PO4
+e) môžu obsahovať zvyšok H<sub>3</sub>PO<sub>4</sub>
 f) sú rozpustné vo vode
-g) obsahujú väzbu -O-CO-
+g) obsahujú väzbu -O-CO-
 h) sú prijímané v potrave v podobe acylglycerolov
 
 668. Kyselina palmitová:
-a) je zlúčenina vzorca CH3-(CH2)15-COOH
-b) je zlúčenina vzorca CH3-(CH2)14-COOH
-c) je zlúčenina vzorca CH3-(CH2)16-COOH
+a) je zlúčenina vzorca CH<sub>3</sub>-(CH<sub>2</sub>)<sub>15</sub>-COOH
+b) je zlúčenina vzorca CH<sub>3</sub>-(CH<sub>2</sub>)<sub>14</sub>-COOH
+c) je zlúčenina vzorca CH<sub>3</sub>-(CH<sub>2</sub>)<sub>16</sub>-COOH
 d) je kyselina hexadekánová
 e) je nasýtená vyššia karboxylová kyselina
 f) ako aj kyselina steárová majú 16 uhlíkov
@@ -6680,7 +6680,7 @@ h) býva súčasťou triacylglycerolov
 
 669. Dve, alebo viac dvojných väzieb obsahuje:
 a) kyselina propándiová
-b) CH3-(CH2)16-COOH
+b) CH<sub>3</sub>-(CH<sub>2</sub>)<sub>16</sub>-COOH
 c) kyselina olejová
 d) kyselina palmitová
 e) kyselina hexadekánová
@@ -6708,7 +6708,7 @@ f) je prítomná v celulóze
 g) je prítomná v acylglyceroloch
 h) tukov môže byť v zažívacom trakte štiepená lipázou
 
-672. Zlúčenina vzorca CH3-(CH2)16-COONa je:
+672. Zlúčenina vzorca CH<sub>3</sub>-(CH<sub>2</sub>)<sub>16</sub>-COONa je:
 a) zlúčenina, ktorá patrí medzi sodné mydlá
 b) produkt alkalickej hydrolýzy neutrálnych tukov
 c) kyselina stearová
@@ -6719,7 +6719,7 @@ g) jedným z produktov, ktoré vznikajú pôsobením roztoku NaOH na triacylglyc
 h) látka, ktorá vzniká v procese, ktorý spôsobuje žltnutie tukov
 
 673. Medzi nasýtené vyššie karboxylové kyseliny patria kyseliny:
-a) so sumárnym vzorcom CnH2n+2
+a) so sumárnym vzorcom C<sub>n</sub>H<sub>2n+2</sub>
 b) stearová
 c) linolová
 d) arachová
@@ -6820,7 +6820,7 @@ h) cholín
 
 683. Hydrofóbne vlastnosti majú:
 a) látky, ktoré sa nerozpúšťajú vo vode, ale sa rozpúšťajú v nepolárnych rozpúšťadlách
-b) vitamíny C a B1
+b) vitamíny C a B<sub>1</sub>
 c) napr.tuky, ktoré sa v tukovom tkanive môžu ukladať do zásoby
 d) estery cholesterolu
 e) nepolárne látky
@@ -6868,7 +6868,7 @@ f) majú žlčové kyseliny
 g) má kyselina cholová a jej soli
 h) majú všetky polárne látky
 
-688. Zlúčenina CH3-(CH2)16-COONa:
+688. Zlúčenina CH<sub>3</sub>-(CH<sub>2</sub>)<sub>16</sub>-COONa:
 a) má polárnu aj nepolárnu časť molekuly
 b) nemá emulgačné schopnosti
 c) vzniká hlavne štiepením acylglycerolov v tráviacom trakte
@@ -6904,12 +6904,12 @@ b) uhlíkový reťazec vyššej karboxylovej kyseliny
 c) cholín
 d) etanolamín
 e) serín
-f) zlúčenina: HO-CH2-CH2-NH2
+f) zlúčenina: HO-CH<sub>2</sub>-CH<sub>2</sub>-NH<sub>2</sub>
 g) adenín
-h) zlúčenina vzorca HO-CH2-CH2-N+(CH3)3
+h) zlúčenina vzorca HO-CH<sub>2</sub>-CH<sub>2</sub>-N<sup>+</sup>(CH<sub>3</sub>)<sub>3</sub>
 
-692. V nepolárnej časti zložených lipidov je viazaný:
-a) HO-CH2-CH2-NH2
+V nepolárnej časti zložených lipidov je viazaný:
+a) HO-CH<sub>2</sub>-CH<sub>2</sub>-NH<sub>2</sub>
 b) uhľovodíkový reťazec vyššej karboxylovej kyseliny
 c) napr. uhľovodíkový reťazec kyseliny palmitovej
 d) cholín
@@ -6929,7 +6929,7 @@ g) nasýtené vyššie karboxylové kyseliny
 h) nenasýtené vyššie karboxylové kyseliny
 
 694. Vyznačte látky, ktoré sa nenachádzajú v zložených lipidoch:
-a) CH2(OH)-CH(NH2)-COOH
+a) CH<sub>2</sub>(OH)-CH(NH<sub>2</sub>)-COOH
 b) kyselina fosforečná
 c) glycerol
 d) dikarboxylové kyseliny
@@ -6961,7 +6961,7 @@ h) lipidy obsahujúce glukózu
 697. Fosfolipidy:
 a) neobsahujú vo svojej molekule treonín
 b) môžu obsahovať vo svojej molekule glycerol
-c) môžu obsahovať tri zvyšky H3PO4 (napr. kyselina 3-fosfoglycerová)
+c) môžu obsahovať tri zvyšky H<sub>3</sub>PO<sub>4</sub> (napr. kyselina 3-fosfoglycerová)
 d) môžu obsahovať vo svojej molekule serín
 e) obsahujú aj fosfoesterovú väzbu
 f) majú viazanú fosfoesterovou väzbou glukózu
@@ -6998,7 +6998,7 @@ f) beta-karotén
 g) morfín
 h) nikotínamidadeníndinukleotid
 
-701. Štruktúra [ -CH2-C/CH3 = CH-CH2- ] : 
+701. Štruktúra <img src=otazkyPng/701.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/> : 
 a) je jednotka, z ktorej adíciou vody vznikajú steroidy
 b) nachádza sa v terpénoch
 c) je odvodená od 2-chlór-1,3-butadiénu (2-chlórbuta-1,3-diénu)
@@ -7020,8 +7020,8 @@ h) je látka, z ktorej v organizme môže vznikať retinol
 
 703. Ergokalciferol:
 a) vzniká ožiarením z látky, ktorá je steroidnej povahy
-b) je vitamín D2
-c) ovplyvňuje vstrebávanie Ca2+ z tráviacej sústavy do krvi
+b) je vitamín D<sub>2</sub>
+c) ovplyvňuje vstrebávanie Ca<sup>2+</sup> z tráviacej sústavy do krvi
 d) je esterifikovaný cholesterol
 e) ovplyvňuje metabolizmus vápnika
 f) je hlavný hormón kôry nadobličky
@@ -7054,7 +7054,7 @@ b) retinol
 c) tiazol
 d) cholesterol
 e) hormón adrenalín
-f) látka, z ktorej ožiarením ultrafialovými lúčmi vzniká vitamín D2
+f) látka, z ktorej ožiarením ultrafialovými lúčmi vzniká vitamín D<sub>2</sub>
 g) vitamín A
 h) ergosterol
 
@@ -7090,7 +7090,7 @@ h) pri hydrolytickom štiepení tukov prijatých potravou
 
 710. Ergokalciferol:
 a) je esterifikovaný cholesterol
-b) je vitamín D2
+b) je vitamín D<sub>2</sub>
 c) patrí medzi žlčové kyseliny
 d) vzniká priamo ožiarením cholesterolu ultrafialovými lúčmi
 e) je potrebný pre vstrebávanie kalcia
@@ -7128,7 +7128,7 @@ f) dusík
 g) kyslík
 h) dusík v aminoskupine aminokyselín
 
-714. Zlúčenina, ktorá má vzorec O:
+714. Zlúčenina, ktorá má vzorec <img src=otazkyPng/714.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=90/>:
 a) obsahuje ako heteroatóm uhlík a kyslík
 b) je heterocyklická zlúčenina
 c) je šesťčlánková heterocyklická zlúčenina s kyslíkom
@@ -7151,8 +7151,8 @@ h) nikotínamidadeníndinukleotid
 716. Hemoglobín vo svojej molekule obsahuje:
 a) horčík ako centrálny atóm
 b) ako heteroatóm železo
-c) Fe2+
-d) Fe3+ v situácii, keď prenáša kyslík
+c) Fe<sup>2+</sup>
+d) Fe<sup>3+</sup> v situácii, keď prenáša kyslík
 e) konjugovaný systém štyroch pyrolových jadier
 f) štyri indoly
 g) cyklopentanoperhydrofenantrénové jadro
@@ -7171,7 +7171,7 @@ h) je steroidnej povahy
 718. Atóm železa sa nachádza:
 a) v heme
 b) v zelenom listovom farbive
-c) vo vitamíne B12
+c) vo vitamíne B<sub>12</sub>
 d) vo všetkých tetrapyrolových farbivách
 e) v cytochrómoch
 f) v myoglobíne
@@ -7185,7 +7185,7 @@ c) bilirubíne
 d) vitamíne D
 e) žlčových kyselinách
 f) chlorofyle
-g) vitamíne B12
+g) vitamíne B<sub>12</sub>
 h) myoglobíne
 
 720. Pyridín môže na voľný elektrónový pár dusíka pútať protón:
@@ -7206,17 +7206,17 @@ d) je substitučný derivát kyseliny nikotínovej
 e) je odvodený od pyrimidínu
 f) je koenzýmom transaminačných reakcií
 g) obsahuje jeden heteroatóm
-h) je súčasťou NAD+
+h) je súčasťou NAD<sup>+</sup>
 
 722. Amid kyseliny nikotínovej:
 a) patrí medzi heterocyklické zlúčeniny
 b) je súčasťou vitamínu C a preto má vitamín C antioxidačné účinky
 c) nachádza sa v koenzýme A
 d) patrí medzi látky esenciálne pre organizmus
-e) je zložkou NAD+
+e) je zložkou NAD<sup>+</sup>
 f) je súčasťou oxidačno-redukčného koenzýmu
 g) nachádza sa v ATP aj v GTP
-h) obsahuje skupinu -CONH2
+h) obsahuje skupinu -CONH<sub>2</sub>
 
 723. Heterocyklické zlúčeniny:
 a) môžu byť cyklické aj alifatické
@@ -7231,10 +7231,10 @@ h) sú súčasťou každej aminokyseliny
 724. Významným derivátom pyridínu je:
 a) cytozín
 b) amid kyseliny nikotínovej
-c) jedna zložka NAD+
+c) jedna zložka NAD<sup>+</sup>
 d) tymín
 e) kyselina nikotínová
-f) vitamín B1
+f) vitamín B<sub>1</sub>
 g) vitamín PP
 h) vitamín H
 
@@ -7271,7 +7271,7 @@ h) cyklohexán
 728. Pyridín:
 a) má zásadité vlastnosti
 b) má kyslé vlastnosti
-c) je zlúčenina vzorca N-N: 
+c) je zlúčenina vzorca: <img src=otazkyPng/728c.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=70/> 
 d) má dva heteroatómy v molekule
 e) má dva heteroatómy dusíka
 f) obsahuje ako heteroatóm dusík
@@ -7279,7 +7279,7 @@ g) má deriváty cysteín a tymín, ktoré sú v molekule DNA
 h) jeho významným derivátom je nikotínamid
 
 729. O pyridíne môžeme tvrdiť:
-a) má derivát, ktorý je súčasťou NAD+
+a) má derivát, ktorý je súčasťou NAD<sup>+</sup>
 b) že v zlúčeninách, od neho odvodených, obsahuje heteroatóm v polohe 1
 c) obsahuje dva heteroatómy v polohe 1 a 3
 d) od pyrimidínu sa líši počtom aj druhom heteroatómu
