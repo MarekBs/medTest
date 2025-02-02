@@ -7299,22 +7299,22 @@ g) napomáhajú vstrebávaniu tukov
 h) obsahujú tetrapyrolovú štruktúru
 
 731. Vyberte vzorec imidazolu:
-a) HN - CH / S
-b) N -CH / NH
-c) HN - CH / O
-d) S - CH / NH
-e) H2C - CH2 / NH
-f) CH3-N=N-CH3
-g) - CH2 - N = N - CH3 
-h) HC = CH / NH
+a) <img src=otazkyPng/731a.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/>
+b) <img src=otazkyPng/731b.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=100/>
+c) <img src=otazkyPng/731c.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/>
+d) <img src=otazkyPng/731d.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=100/>
+e) <img src=otazkyPng/731e.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=100/>
+f) CH<sub>3</sub>-N=N-CH<sub>3</sub>
+g) <img src=otazkyPng/436a1.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>CH<sub>2</sub> - N = N - CH<sub>3</sub> 
+h) <img src=otazkyPng/731h.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=80/>
 
 732. O pyrimidíne môžeme povedať že:
-a) substitúciou dvoch atómov vodíka v kruhu -NH2 a -OH skupinou dáva cytozín
+a) substitúciou dvoch atómov vodíka v kruhu -NH<sub>2</sub> a -OH skupinou dáva cytozín
 b) obsahuje dva heteroatómy dusíka
 c) jeho významný derivát je nikotínamid
 d) jeho významný derivát je tymín
 e) je šeťčlánková heterocyklická zlúčenina
-f) substitúciou atómu vodíka v kruhu -NH2 skupinou z neho vznikne adenín
+f) substitúciou atómu vodíka v kruhu -NH<sub>2</sub> skupinou z neho vznikne adenín
 g) dáva deriváty, z ktorých tri sú súčasťou DNA
 h) je päťčlánková heterocyklická zlúčenina
 
@@ -7435,7 +7435,7 @@ c) O-glykozidovú
 d) N-glykozidovú
 e) kovalentnú
 f) medzi dusíkovou bázou a ribózou
-g) medzi ribózou a H3PO4
+g) medzi ribózou a H<sub>3</sub>PO<sub>4</sub>
 h) vodíkovú medzi dvomi bázami
 
 745. Kyselina trihydrogenfosforečná je v ATP viazaná:
@@ -7454,7 +7454,7 @@ b) nachádzajúca sa v DNA a nie v RNA
 c) len s pyrimidínovým kruhom
 d) s purínovým kruhom
 e) ktorá sa u človeka katabolizuje za vzniku kyseliny močovej
-f) kde na dusíku v polohe 6 je viazaná -NH2 skupina
+f) kde na dusíku v polohe 6 je viazaná -NH<sub>2</sub> skupina
 g) obsahujúca 4 heteroatómy dusíka
 h) s dvoma kondenzovanými heterocyklami
 
@@ -7479,14 +7479,14 @@ g) sacharidová zložka RNA vzniká v pentózovom cykle
 h) sacharidová zložka DNA sa nachádza aj v ATP
 
 749. Konečný produkt látkovej premeny purínových látok u človeka je:
-a) močovina a CO2
+a) močovina a CO<sub>2</sub>
 b) látka vznikajúca ich úplnou redukciou
 c) aminopurín
 d) kyselina močová
 e) karboxypurín
 f) 2,6,8-trihydroxypurín
 g) produkt vznikajúci deamináciou a oxidáciou purínových látok
-h) amoniak a CO2
+h) amoniak a CO<sub>2</sub>
 
 750. Kyselina močová je u človeka konečným produktom metabolizmu:
 a) pyrimidínových látok a obsahuje tri -COOH skupiny
@@ -7569,7 +7569,7 @@ g) ktoré patria medzi puríny a pyrimidíny
 h) dioxopyrimidín
 
 758. V nukleových kyselinách sa môžu nachádzať viazané:
-a) H3PO4na deoxyribózu
+a) H<sub>3</sub>PO<sub>4</sub> na deoxyribózu
 b) aldohexózy
 c) ketohexózy
 d) ketopentózy
@@ -7582,9 +7582,9 @@ h) puríny a pyridíny
 a) nukleozidu a ribózy
 b) dvoch zložiek: dusíkovej bázy a pentózy
 c) dusíkovej bázy, pentózy a kyseliny fosforečnej a je stavebnou jednotkou nukleových kyselín
-d) guanidínu, H3PO4a ribózy
-e) pyridínovej bázy, pentózy a H3PO4
-f) dusíkovej bázy a pentózy spojenej cez H3PO4
+d) guanidínu, H<sub>3</sub>PO<sub>4</sub> a ribózy
+e) pyridínovej bázy, pentózy a H<sub>3</sub>PO<sub>4</sub>
+f) dusíkovej bázy a pentózy spojenej cez H<sub>3</sub>PO<sub>4</sub>
 g) troch zložiek spojených N-glykozidovou a fosfoesterovou väzbou
 h) nukleozidu a kyseliny fosforečnej
 
@@ -7728,7 +7728,7 @@ f) v DNA tak, že po transkripcii v procese translácie vznikajú bielkoviny
 g) v molekule DNA tak, že tri nukleotidy kódujú jednu aminokyselinu
 h) v štruktúre ribozomálnej RNA
 
-774. Všeobecný vzorec C6H12O6 platí pre:
+774. Všeobecný vzorec C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> platí pre:
 a) glukózu
 b) arabinózu
 c) kyselinu glukurónovú
@@ -7741,9 +7741,9 @@ h) galaktózu
 775. Oxidáciou látky “X” vzniká kyselina glukurónová. O látke X možno povedať:
 a) ide o hexózu
 b) ide o monosacharid s redukčnými vlastnosťami
-c) ide o monosacharid, ktorý sa v reakcii redukuje na C1
+c) ide o monosacharid, ktorý sa v reakcii redukuje na C<sub>1</sub>
 d) ide o zlúčeninu obsahujúcu karboxylovú skupinu
-e) ide o fruktózu, ktorá sa oxiduje na C6
+e) ide o fruktózu, ktorá sa oxiduje na C<sub>6</sub>
 f) ide o monosacharid, ktorý je stavebnou jednotkou celulózy
 g) ide o disacharid zložený z glukózy a fruktózy
 h) ide o zlúčeninu obsahujúcu aldehydovú skupinu
@@ -7938,7 +7938,7 @@ f) pri reakcii manózy s Fehlingovým činidlom
 g) redukciou aldehydovej skupiny manózy na hydroxylovú skupinu
 h) hydrogenáciou aldehydovej skupiny manózy na karboxylovú skupinu
 
-795. Vzorec C6H12O6 môže patriť:
+795. Vzorec C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> môže patriť:
 a) glukóze
 b) glucitolu
 c) kyseline aldónovej
@@ -7948,7 +7948,7 @@ f) produktu hydrolýzy laktózy
 g) produktu hydrolýzy DNA
 h) produktu hydrolýzy celulózy
 
-796. Vzorec C6H14O6 môže patriť:
+796. Vzorec C<sub>6</sub>H<sub>14</sub>O<sub>6</sub> môže patriť:
 a) kyseline glukónovej
 b) látke s oxidačnými vlastnosťami
 c) manitolu
@@ -8068,7 +8068,7 @@ f) oxidáciou fruktózy vzniká manitol
 g) hexitoly majú šesť opticky aktívnych izomérov
 h) arabitol vzniká redukciou pentózy
 
-808. Uvedený štruktúrny vzorec HC-OH / C / HO-H / HO-CH / HC-OH - HC - CH2-OH prislúcha:
+808. Uvedený štruktúrny vzorec <img src=otazkyPng/808.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=220/> prislúcha:
 a) monosacharidu
 b) α-anoméru
 c) β-anoméru
@@ -8078,7 +8078,7 @@ f) L-galaktóze
 g) redukujúcemu sacharidu
 h) DL-glukóze
 
-809. Vzorec HO-CH / HC-OH / COOH / HO-CH / HC-OH / CH2-OH patrí:
+809. Vzorec <img src=otazkyPng/809.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=220/> patrí:
 a) kyseline glukurónovej
 b) kyseline galaktónovej
 c) kyseline glukónovej
@@ -8088,7 +8088,7 @@ f) kyseline aldárovej
 g) kyseline urónovej
 h) derivátu kyseliny vínnej
 
-810. Konfigurácia H-C/O-OH v polohe C1 môže patriť:
+810. Konfigurácia <img src=otazkyPng/810.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=70/> v polohe C<sub>1</sub> môže patriť:
 a) α-D-glukopyranóze
 b) α-L-glukopyranóze
 c) β-L-glukopyranóze
@@ -8098,7 +8098,7 @@ f) β-D-manóze
 g) α-D-kyseline glukurónovej
 h) α-D-kyseline glukónovej
 
-811. Zlúčenina so vzorcom HO-CH / HO-CH / CH2-OH / HC-OH / HC-OH / CH2-OH vzniká:
+811. Zlúčenina so vzorcom <img src=otazkyPng/811.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=200/> vzniká:
 a) oxidáciou glukózy
 b) redukciou manózy
 c) úplnou redukciou galaktitolu
@@ -8108,7 +8108,7 @@ f) oxidáciou glucitolu
 g) redukciou sacharidu so 4 chirálnymi uhlíkmi
 h) redukciou arabinózy
 
-812. Zlúčenina so vzorcom HO-CH / C / H-O / HO-CH / HO-CH / CH2-OH je:
+812. Zlúčenina so vzorcom <img src=otazkyPng/812.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=200/> je:
 a) D-ribóza
 b) deoxy-D-ribóza
 c) súčasť dTMP
@@ -8118,7 +8118,7 @@ f) zložka DNA
 g) produkt hydrolýzy RNA
 h) produkt hydrolýzy deoxynukleozidov
 
-813. Zlúčenina so vzorcom HC-OH / C=O / CH2-OH / HO-CH / HO-CH / CH2-OH je:
+813. Zlúčenina so vzorcom <img src=otazkyPng/813.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=200/> je:
 a) polyhydroxyketón
 b) súčasť nukleotidov
 c) D-fruktóza
@@ -8139,12 +8139,12 @@ g) sladový cukor
 h) hroznový cukor
 
 815. Pre zaradenie deoxyribózy do L- alebo D-radu je rozhodujúca:
-a) konfigurácia na uhlíku C2
-b) konfigurácia na uhlíku C3
-c) konfigurácia na uhlíku C4
-d) konfigurácia na uhlíku C5
-e) súhlasná orientácia poloacetálového hydroxylu a hydroxylu na uhlíku C2
-f) súhlasná orientácia poloacetálového hydroxylu a hydroxylu na uhlíku C4
+a) konfigurácia na uhlíku C<sub>2</sub>
+b) konfigurácia na uhlíku C<sub>3</sub>
+c) konfigurácia na uhlíku C<sub>4</sub>
+d) konfigurácia na uhlíku C<sub>5</sub>
+e) súhlasná orientácia poloacetálového hydroxylu a hydroxylu na uhlíku C<sub>2</sub>
+f) súhlasná orientácia poloacetálového hydroxylu a hydroxylu na uhlíku C<sub>4</sub>
 g) možnosť alebo nemožnosť reakcie s kyselinou fosforečnou
 h) priestorové usporiadanie atómov na poslednom asymetrickom uhlíku
 
@@ -8320,13 +8320,13 @@ h) sú hlavnou sacharidovou zložkou potravy u človeka
 
 833. Laktóza s Fehlingovým činidlom:
 a) reaguje za vzniku CuO
-b) reaguje za vzniku Cu2O
+b) reaguje za vzniku Cu<sub>2</sub>O
 c) reaguje za vzniku Cu
-d) redukuje Ag+ na Ag0
+d) redukuje Ag<sup>+</sup> na Ag<sup>0</sup>
 e) dáva vznik vínanu sodno-draselnému
 f) dáva biuretovu reakciu
-g) redukuje Cu2+ na Cu+
-h) oxiduje Cu+ na Cu2+
+g) redukuje Cu<sup>2+</sup> na Cu<sup>+</sup>
+h) oxiduje Cu<sup>+</sup> na Cu<sup>2+</sup>
 
 834. Medzi enzýmy podieľajúce sa na metabolizme sacharidov nepatrí:
 a) amyláza
@@ -8388,7 +8388,7 @@ f) má neutrálne pH
 g) rozkladá sa sacharázou
 h) vzniká hydrolýzou celulózy amylázou
 
-840. Vzorec C12H22O11 môže patriť:
+840. Vzorec C<sub>12</sub>H<sub>22</sub>O<sub>11</sub> môže patriť:
 a) sacharóze
 b) galaktóze
 c) galaktopyranozyl-glukopyranóze
@@ -8424,7 +8424,7 @@ b) vo vode neionizujú
 c) sú väčšinou vo vode nerozpustné
 d) sú štiepené transferázami
 e) sú sladkej chuti
-f) majú schopnosť redukovať roztok AgNO3
+f) majú schopnosť redukovať roztok AgNO<sub>3</sub>
 g) rozkladajú sa hydrolyticky
 h) v tenkom čreve sa resorbujú nezmenené
 
@@ -8692,7 +8692,7 @@ h) kyselina glutámová a jej amid - glutamín
 a) obsahujú v molekule dve aminoskupiny
 b) sú to kyselina asparágová a glutámová
 c) majú v molekule dve karboxylové skupiny
-d) okrem karboxylových skupín majú v molekule jednu -NH2 skupinu
+d) okrem karboxylových skupín majú v molekule jednu -NH<sub>2</sub> skupinu
 e) majú hodnotu pH vodného roztoku vyššiu ako 7
 f) majú hodnotu pH vodného roztoku nižšiu ako 7
 g) v organizme z nich vznikajú príslušné amidy
@@ -8702,7 +8702,7 @@ h) obsahujú dve -COOH skupiny a jednu aminoskupinu v molekule
 a) môžu viazať z prostredia protón
 b) sú tie, ktoré obsahujú -SH skupinu
 c) sú kyseliny asparágová a glutámová
-d) majú v molekule napríklad jednu karboxylovú skupinu a dve skupiny -NH2
+d) majú v molekule napríklad jednu karboxylovú skupinu a dve skupiny -NH<sub>2</sub>
 e) patrí sem lyzín, ktorý je esenciálna aminokyselina
 f) patrí sem serín
 g) nachádzajú sa viac zastúpené v bielkovinách tvoriacich nukleoproteíny
@@ -8728,7 +8728,7 @@ f) je aminokyselina v podobe obojakého iónu
 g) sa aminokyselina nepohybuje v elektrickom poli jednosmerného prúdu
 h) aminokyselina nevytvára amfión
 
-874. Aminokyselina v tejto podobe CH3 - CH/NH3+ / COO- :
+874. Aminokyselina v tejto podobe <img src=otazkyPng/874.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=70/> :
 a) môže mať takto disociované funkčné skupiny vo vodnom roztoku
 b) je obojaký ión
 c) nevykazuje navonok nijaký náboj
@@ -8752,28 +8752,28 @@ h) tie, ktoré majú uhlík so štyrmi rôznymi substituentmi
 a) ich aminodusík sa po degradácii nachádza v kyseline močovej
 b) majú L-konfiguráciu
 c) majú L-alebo D-konfiguráciu
-d) majú jednu skupinu -NH2 viazanú na alfa uhlíku (voči karboxylovej skupine)
+d) majú jednu skupinu -NH<sub>2</sub> viazanú na alfa uhlíku (voči karboxylovej skupine)
 e) nachádzajú sa aj v bielkovinách potravy
-f) tvoria sa v organizme človeka z CO2, H2, NH3
+f) tvoria sa v organizme človeka z CO<sub>2</sub>, H<sub>2</sub>, NH<sub>3</sub>
 g) pri ich degradácii vzniká ako odpadový produkt močovina
-h) obsahujú len funkčné skupiny -NH2 a -COOH
+h) obsahujú len funkčné skupiny -NH<sub>2</sub> a -COOH
 
 877. Amidová skupina:
-a) je skupina -NH2 viazaná na uhlík v reťazci aminokyseliny
+a) je skupina -NH<sub>2</sub> viazaná na uhlík v reťazci aminokyseliny
 b) je prítomná v aminokyselinách bielkovín
 c) má silne kyslý charakter
 d) aminokyseliny uvoľňuje do roztoku protón
 e) môže viazať protón z roztoku silnejšie ako aminoskupina
 f) v molekulách aminokyselín v polohe alfa sa zúčastňuje tvorby peptidovej väzby
 g) nachádza sa v glutamíne
-h) je v základných stavebných jednotkách bielkovín viazaná priamo na uhlíkový reťazec -CH/NH2 -
+h) je v základných stavebných jednotkách bielkovín viazaná priamo na uhlíkový reťazec <img src=otazkyPng/877h.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
 
 878. Esenciálne aminokyseliny:
 a) si organizmus môže tvoriť z oxokyselín transamináciou
 b) sú nepostrádateľné aminokyseliny
 c) musia sa nachádzať v potrave
 d) sú glycín a alanín
-e) obsahujú -NH2 skupinu v beta-polohe
+e) obsahujú -NH<sub>2</sub> skupinu v beta-polohe
 f) sú napr. lyzín a tryptofán
 g) majú alfa-aminoskupinu
 h) nachádzajú sa v organizme voľné aj viazané v bielkovinách
@@ -8793,7 +8793,7 @@ a) kyselina asparágová
 b) alanín
 c) aminokyselina, ale nenachádza sa v bielkovinách
 d) aminokyselina s dvomi karboxylovými skupinami v molekule
-e) zlúčenina vzorca: HOOC - CH/NH2 - CH2 - COOH 
+e) zlúčenina vzorca: <img src=otazkyPng/880e.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
 f) kyslá aminokyselina
 g) zlúčenina, ktorá má o jeden uhlík viac ako kyselina glutámová
 h) štvoruhlíková aminokyselina
@@ -8804,28 +8804,28 @@ b) glycín
 c) aminokyselina s jedným chirálnym uhlíkom v molekule
 d) neutrálna aminokyselina
 e) súčasťou bielkovín a v organizme človeka sa nachádza ako L-aminokyselina
-f) CH3 - CH/NH2 - COOH
+f) <img src=otazkyPng/381a.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
 g) u človeka vo forme D-aminokyseliny
 h) aminokyselina, ktorá nemá chirálny uhlík v molekule
 
-882. CH3-CH(NH2)-COOH je:
+882. CH<sub>3</sub>-CH(NH<sub>2</sub>)-COOH je:
 a) alfa-aminokyselina
 b) alanín
 c) vzniká transamináciou z kyseliny pyrohroznovej
 d) neutrálna aminokyselina
 e) glycín
 f) zásaditá aminokyselina
-g) v bielkovinách zastupitelná zlúčeninou: CH2/NH2 - CH2 - COOH 
+g) v bielkovinách zastupitelná zlúčeninou: <img src=otazkyPng/882g.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
 h) v roztoku pri pH = pI vo forme amfiónu
 
 883. Kyselina 2-amino-3-fenylpropánová:
-a) má -NH2 skupinu v beta polohe voči -COOH skupine
+a) má -NH<sub>2</sub> skupinu v beta polohe voči -COOH skupine
 b) je fenylalanín
 c) obsahuje benzénové jadro
 d) je heterocyklická zlúčenina
 e) je aromatická aminokyselina
 f) je aminokyselina, z ktorej hydroxyláciou vznikne tyrozín
-g) je zlúčenina vzorca: -CH2 - CH(NH2)-COOH 
+g) je zlúčenina vzorca: <img src=otazkyPng/436a1.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>CH<sub>2</sub> - CH(NH<sub>2</sub>)-COOH 
 h) je tryptofán
 
 884. Peptidová väzba:
@@ -8834,7 +8834,7 @@ b) sa v zložkách potravy v tráviacom trakte štiepi napr. pepsínom
 c) dá sa dokázať Fehlingovou reakciou
 d) nenachádza sa v dipeptidoch
 e) spája aminokyseliny v bielkovinách
-f) je väzba -CO-NH
+f) je väzba -CO-NH-
 g) tvorí sa v procese transkripcie v jadre
 h) tvorí sa v procese translácie pri proteosyntéze
 
@@ -8851,8 +8851,8 @@ h) štiepi sa proteinázami
 886. Pri vzniku peptidovej väzby:
 a) sa môžu viazať rovnaké, alebo rozdielne aminokyseliny
 b) sú potrebné proteinázy
-c) reaguje -COOH skupina jednej aminokyseliny s -NH2 skupinou tej istej aminokyseliny
-d) reaguje -COOH skupina jednej aminokyseliny s -NH2 skupinou ďalšej aminokyseliny
+c) reaguje -COOH skupina jednej aminokyseliny s -NH<sub>2</sub> skupinou tej istej aminokyseliny
+d) reaguje -COOH skupina jednej aminokyseliny s -NH<sub>2</sub> skupinou ďalšej aminokyseliny
 e) sa cez -CO-NH- spoja aminokyseliny
 f) sa uvoľňuje veľké množstvo energie
 g) sa energia spotrebuje
@@ -8866,10 +8866,10 @@ d) je zložený z troch aminokyselín
 e) je napr. alanyl-glycín
 f) na rozdiel od bielkovín nemá vyššie štruktúry
 g) obsahuje dve peptidové väzby
-h) obsahuje jednu väzbu -CO-NH-
+h) obsahuje jednu väzbu -CO-NH-
 
 888. O kyslých aminokyselinách platí:
-a) obsahujú viac karboxylových skupín ako skupín -NH2
+a) obsahujú viac karboxylových skupín ako skupín -NH<sub>2</sub>
 b) sú kyselina asparágová a kyselina glutámová
 c) nachádzajú sa aj v enzýmoch
 d) sú kyselina 2-oxoglutárová a kyselina asparágová
@@ -8886,7 +8886,7 @@ d) z vyšších karboxylových kyselín
 e) ktoré sa nachádzajú v bielkovinách napr. alanín
 f) napr. kyselina asparágová
 g) tryptofán z tyrozínu
-h) a koenzýmom tejto reakcie je derivát vitamínu B6
+h) a koenzýmom tejto reakcie je derivát vitamínu B<sub>6</sub>
 
 890. Primárna štruktúra bielkovín:
 a) znamená usporiadanie reťazca v priestore napr. alfa-helix
@@ -8894,7 +8894,7 @@ b) znamená poradie aminokyselín v bielkovinovom reťazci
 c) podmieňuje vlastnosti bielkovín
 d) je určovaná poradím nukleových báz v bielkovinovom reťazci
 e) je zakódovaná v DNA
-f) je fixovaná väzbami medzi -NH2 a -COOH skupinami za sebou idúcich aminokyselín
+f) je fixovaná väzbami medzi -NH<sub>2</sub> a -COOH skupinami za sebou idúcich aminokyselín
 g) je fixovaná esterovými väzbami
 h) sa ruší denaturáciou
 
@@ -8915,7 +8915,7 @@ c) je kyselina močová
 d) sú aminokyseliny, ktoré sa vylučujú do moča
 e) je urea
 f) je málo rozpustná látka, ktorá je súčasťou močových kameňov
-g) je zlúčenina vzorca H2N-CO-NH2
+g) je zlúčenina vzorca H<sub>2</sub>N-CO-NH<sub>2</sub>
 h) je len amoniak
 
 893. Aminokyseliny:
@@ -8924,7 +8924,7 @@ b) vznikajú hydrolýzou bielkovín
 c) esenciálne nemôžu vznikať v organizme z oxokyselín transamináciou
 d) sú monomérnou jednotkou všetkých biopolymérov v organizme
 e) sú funkčné deriváty karboxylových kyselín
-f) všetky obsahujú skupinu -C/NH2 = O
+f) všetky obsahujú skupinu <img src=otazkyPng/893f.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/>
 g) sú v bielkovinách viazané kovalentnou väzbou
 h) sú amfolyty
 
@@ -8934,7 +8934,7 @@ b) nemá vo svojej molekule asymetrický uhlík
 c) je substitučný derivát kyseliny octovej
 d) patrí medzi funkčné deriváty kyseliny etánovej
 e) je funkčný derivát kyseliny octovej
-f) má vzorec H2N-CH2-COOH
+f) má vzorec H<sub>2</sub>N-CH<sub>2</sub>-COOH
 g) je kyselina aminopropiónová
 h) je neutrálna aminokyselina s tromi uhlíkmi
 
@@ -8945,7 +8945,7 @@ c) je päťuhlíková monoaminotrikarboxylová kyselina
 d) v molekule má dve karboxylové skupiny
 e) je esenciálna aminokyselina
 f) je neesenciálna aminokyselina
-g) v molekule má jednu -NH2 skupinu
+g) v molekule má jednu -NH<sub>2</sub> skupinu
 h) a jej amid sa nachádzajú v bielkovinách
 
 896. Peptidovú väzbu:
@@ -8965,7 +8965,7 @@ c) je stabilizovaná vodíkovými väzbami
 d) udáva poradie aminokyselín v reťazci
 e) na rozdiel od primárnej štruktúry môže byť rušená denaturáciou
 f) je stabilizovaná len peptidovými väzbami
-g) je stabilizovaná väzbami vytváranými medzi skupinami >C=O ... H˗N< peptidových väzieb
+g) je stabilizovaná väzbami vytváranými medzi skupinami >C=O .... H˗N< peptidových väzieb
 h) môže mať formu skladaného listu
 
 898. Tyrozín:
@@ -8978,7 +8978,7 @@ f) obsahuje vo svojej molekule heterocyklus, amino-, hydroxy- a karboxylovú sku
 g) je aromatická aminokyselina
 h) je podmienene esenciálna aminokyselina
 
-899. Vzorce CH2/OH - CH/NH2 - COOH a HOOC - CH2 - CH/NH2 - COOH patria:
+899. Vzorce <img src=otazkyPng/8991.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> a <img src=otazkyPng/8992.png alt="O = OH / P / OH - O - CH3" className="logoIMG" height=50/> patria:
 a) aminokyselinám, ktoré obsahujú aminoskupinu v beta-polohe
 b) aminokyselinám, ktoré sa nachádzajú v bielkovinách
 c) serínu a kyseline 2-aminojantárovej
@@ -8992,20 +8992,20 @@ h) substitučným derivátom karboxylových kyselín
 a) neutrálna aminokyselina
 b) serín
 c) alanín
-d) zlúčenina vzorca HOOC-CH2-CH(NH2)-CH2-OH
+d) zlúčenina vzorca HOOC-CH<sub>2</sub>-CH(NH<sub>2</sub>)-CH<sub>2</sub>-OH
 e) esenciálna aminokyselina
 f) neesenciálna aminokyselina
 g) súčasťou niektorých fosfolipidov
 h) funkčný derivát kyseliny propánovej
 
 901. Bielkovinové molekuly:
-a) sú zložené z kyselín obsahujúcich ako funkčnú skupinu len skupinu -NH2
+a) sú zložené z kyselín obsahujúcich ako funkčnú skupinu len skupinu -NH<sub>2</sub>
 b) sú zložené z 20 rôznych aminokyselín
 c) obsahujú aminokyseliny v L-konfigurácii
 d) sa u zdravého človeka nenachádzajú v krvi
 e) rozdeľujeme na fibrilárne a globulárne
 f) majú význam ako biokatalyzátory
-g) môžu byť denaturované in vitro vysokou teplotou
+g) môžu byť denaturované <i>in vitro</i> vysokou teplotou
 h) denaturáciou nestrácajú biologickú aktivitu
 
 902. Pri denaturácii bielkovín:
@@ -9040,12 +9040,12 @@ h) podieľa sa na výstavbe kĺbových puzdier
 
 905. Fosfoproteíny:
 a) obsahujú vo svojej molekule kyselinu fosforečnú
-b) majú H3PO4 viazanú na -OH skupiny aminokyselín v bielkovinách
+b) majú H<sub>3</sub>PO<sub>4</sub> viazanú na -OH skupiny aminokyselín v bielkovinách
 c) viažu sa s nukleovými kyselinami v jadrách buniek
 d) sú bohato zastúpené vo vajcovom žĺtku
 e) sú jednoduché bielkoviny
 f) sú bohato zastúpené vo vajcovom bielku
-g) obsahujú esterovo viazanú H3PO4
+g) obsahujú esterovo viazanú H<sub>3</sub>PO<sub>4</sub>
 h) sú hlavnou súčasťou bunkových membrán
 
 906. Bielkoviny:
@@ -9065,7 +9065,7 @@ c) jeho nebielkovinová časť je odvodená od porfínu
 d) slúži ako zásoba kyslíka pre intenzívnu svalovú prácu
 e) prenáša kyslík z tkanív do pľúc
 f) predstavuje dôležitý tlmivý systém v krvi
-g) prenáša CO2 z tkanív do pľúc
+g) prenáša CO<sub>2</sub> z tkanív do pľúc
 h) obsahuje železo
 
 908. Kyslík:
@@ -9209,7 +9209,7 @@ g) sa môžu, pri ich nadbytku, premeniť na tuky
 h) sú vstrebávané z tráviaceho traktu v podobe monosacharidov
 
 922. Oxidáciou glukózy v glykolýze za aeróbnych podmienok vzniká:
-a) CO2 a voda
+a) CO<sub>2</sub> a voda
 b) kyselina 2-oxopropánová
 c) kyselina pyrohroznová
 d) glykogén
@@ -9273,10 +9273,10 @@ a) je bielkovinová časť enzýmu
 b) je nebielkovinová časť enzýmu
 c) je produkt enzýmovej reakcie
 d) je alosterické miesto enzýmu
-e) transaminácie je fosforylovaná forma vitamínu B6
+e) transaminácie je fosforylovaná forma vitamínu B<sub>6</sub>
 f) môže byť rovnaký pre viaceré typy enzýmov
 g) je veľmi často niektorý z vitamínov
-h) oxidoreduktáz je NAD+
+h) oxidoreduktáz je NAD<sup>+</sup>
 
 929. Substrátovú špecifitu enzýmovej reakcie zabezpečuje:
 a) apoenzým
@@ -9362,7 +9362,7 @@ h) glukóza-6-fosfatáza za spotreby molekuly vody a vzniku glukózy
 a) katalyzujúce oxidáciu substrátu
 b) katalyzujúce redukciu substrátu
 c) ktoré používajú ako koenzým pyridoxín
-d) ktoré používajú ako koenzým NAD+
+d) ktoré používajú ako koenzým NAD<sup>+</sup>
 e) ktoré sa nachádzajú aj v mitochondriách
 f) ktoré sa nachádzajú v lyzozómoch
 g) katalyzujúce dehydrogenáciu
@@ -9391,7 +9391,7 @@ h) predstavuje najdôležitejší zdroj energie v ľudskom organizme
 940. Oxidácie substrátov:
 a) prebiehajú v cytosole aj mitochondriách bunky
 b) sú katalyzované transferázami
-c) katalyzujú enzýmy s koenzýmami NAD+ a FAD
+c) katalyzujú enzýmy s koenzýmami NAD<sup>+</sup> a FAD
 d) sú tiež reakcie Krebsovho cyklu
 e) katalyzujú tiež dehydrogenázy
 f) v prvej fáze vedú k tvorbe redukovaných koenzýmov
@@ -9454,7 +9454,7 @@ b) sú často vysokomolekulové organické zlúčeniny
 c) ich množstvo v organizme je pomerne nízke
 d) nepatria medzi esenciálne látky
 e) A, D, E, K sú nerozpustné v tukoch
-f) C, B1, B6 sú rozpustné vo vode
+f) C, B<sub>1</sub>, B<sub>6</sub> sú rozpustné vo vode
 g) pri zníženom príjme sú príčinou príslušnej hypovitaminózy
 h) ako koenzýmy sú dôležité aj v metabolizme aminokyselín
 
@@ -9486,7 +9486,7 @@ d) je enzým ktorý neobsahuje nebielkovinovú zložku
 e) patrí medzi oxidoreduktázy
 f) katalyzuje oxidáciu alkoholu na aldehyd
 g) katalyzuje redukciu aldehydu na alkohol
-h) má koenzým NADP+
+h) má koenzým NADP<sup>+</sup>
 
 950. Acetylkoenzým A:
 a) je aktivovaná forma kyseliny octovej
@@ -9503,12 +9503,12 @@ a) jeho enzýmy sú lokalizované v mitochondriách
 b) predstavuje postupnosť takých reakcií, ktoré sprostredkujú tvorbu ATP
 c) má jeden z medziproduktov kyselinu glutámovú
 d) začína kondenzáciou kyseliny citrónovej a oxaloctovej
-e) zabezpečuje oxidáciu acetylkoenzýmu A na CO2
+e) zabezpečuje oxidáciu acetylkoenzýmu A na CO<sub>2</sub>
 f) má jeden z intermediátov kyselinu oxaloctovú
 g) je nazývaný tiež Krebsov cyklus
 h) jeho enzýmy sú lokalizované v cytosole
 
-952. Zlúčenina HOOC-CH2-CO-COOH:
+952. Zlúčenina HOOC-CH<sub>2</sub>-CO-COOH:
 a) je kyselina oxaljantárová
 b) je kyselina oxaloctová
 c) je medziprodukt Krebsovho cyklu
@@ -9534,7 +9534,7 @@ b) v kvasinkách sa môže meniť na etanol
 c) mení sa glykolýzou na kyselinu pyrohroznovú
 d) za anaeróbnych podmienok sa glykolýzou mení na kyselinu mliečnu
 e) je monomér glykogénu
-f) vzniká asimiláciou CO2 a H2O v kvasinkách v procese fotosyntézy
+f) vzniká asimiláciou CO<sub>2</sub> a H<sub>2</sub>O v kvasinkách v procese fotosyntézy
 g) môže byť pri nadbytku ukladaná do zásoby vo forme glykogénu
 h) u zdravého človeka sa nenachádza v moči
 
@@ -9575,8 +9575,8 @@ c) kyselina glutámová po aktivácii s CoA-SH
 d) acetylkoenzým A ako substrát reakcie
 e) enzýmový systém lokalizovaný v cytozole
 f) enzýmový systém lokalizovaný v mitochondriách
-g) enzýmový systém, ktorého koenzýmom je NAD+ a FAD
-h) enzýmový systém, ktorého koenzýmom je NADP+
+g) enzýmový systém, ktorého koenzýmom je NAD<sup>+</sup> a FAD
+h) enzýmový systém, ktorého koenzýmom je NADP<sup>+</sup>
 
 959. Enzým lipáza:
 a) sa zúčastňuje syntézy lipidov
@@ -9635,7 +9635,7 @@ c) zvyšuje hladinu vápnika v krvi
 d) vyplavuje vápnik z kostí
 e) podporuje ukladanie vápnika do kostí
 f) je nerozpustný vo vode
-g) je vylučovaný do krvi pri poklese plazmatickej hladiny Ca2+
+g) je vylučovaný do krvi pri poklese plazmatickej hladiny Ca<sup>2+</sup>
 h) skladá sa z aminokyselín
 
 965. Hormón prištítnych teliesok:
@@ -9842,7 +9842,7 @@ h) pre správnu činnosť semenníkov
 a) vitamínu obsahujúceho kobalt
 b) kyseliny listovej
 c) riboflavínu
-d) vitamínu B12
+d) vitamínu B<sub>12</sub>
 e) vitamínu D
 f) vitamínu A
 g) železa
@@ -9868,7 +9868,7 @@ f) zrení vajíčok vo vaječníku
 g) regulácii hladiny glukózy v krvi
 h) zabezpečení správnej funkcie epitelových buniek
 
-988. Vitamín D3:
+988. Vitamín D<sub>3</sub>:
 a) je rastlinného pôvodu
 b) je rozpustný v tukoch
 c) zvyšuje vstrebávanie vápnika z čreva
@@ -9899,9 +9899,9 @@ g) kyselina glutámová
 h) kyselina olejová
 
 991. Atóm síry sa vyskytuje v molekule:
-a) vitamínu B1
+a) vitamínu B<sub>1</sub>
 b) riboflavínu
-c) vitamínu B6
+c) vitamínu B<sub>6</sub>
 d) kyseliny pantoténovej
 e) kyseliny listovej
 f) tiamínu
@@ -9928,7 +9928,7 @@ f) dôsledok nedostatku kyseliny askorbovej
 g) ochorenie centrálnej nervovej sústavy
 h) jeden z prejavov hypervitaminózy vitamínu C
 
-994. Vitamín B12:
+994. Vitamín B<sub>12</sub>:
 a) je heterocyklická zlúčenina
 b) je derivátom pyrazolu
 c) je derivátom pyrolu
@@ -9955,7 +9955,7 @@ c) fosforylovanej formy pyridoxínu
 d) kyseliny askorbovej
 e) vitamínu obsahujúceho pyrolový kruh
 f) vitamínu obsahujúceho tiazolový kruh
-g) aktivovaného vitamínu B6
+g) aktivovaného vitamínu B<sub>6</sub>
 h) fosforylovaného vitamínu obsahujúceho pyridínový kruh
 
 997. Karotén je:
@@ -9986,12 +9986,12 @@ d) peroxid vodíka
 e) tokoferol
 f) kyselina askorbová
 g) kyselina nikotínová
-h) vitamín B12
+h) vitamín B<sub>12</sub>
 
 1000. Koenzým FAD obsahuje vo svojej molekule:
-a) vitamín B1
-b) vitamín B2
-c) vitamín B6
+a) vitamín B<sub>1</sub>
+b) vitamín B<sub>2</sub>
+c) vitamín B<sub>6</sub>
 d) tiamín
 e) amid kyseliny nikotínovej
 f) pyridoxín
