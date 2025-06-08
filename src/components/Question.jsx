@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import 'bootstrap';
 
 
-export default function Question() {
+export default function Question({mode, setMode}) {
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0); // Index aktuálnej otázky
   const [answers, setAnswers] = useState({}); // Načítané odpovede
   const [questions, setQuestions] = useState([]); // Načítané otázky
@@ -11,7 +11,6 @@ export default function Question() {
   const [selectedOptions, setSelectedOptions] = useState({}); // Vybrané checkboxy
   const [results, setResults] = useState({}); // Uchováva stav správnych odpovedí
   const [range, setRange] = useState({ min: 1, max: 1000 }); // Rozsah pre generovanie
-  const[mode, setMode] = useState(false);
   const[nextQuestionRandom, setNextQuestionRandom] = useState(true);
   const[isBiology, setIsBiology] = useState(true);
   const[countBiology, setCountBiology] = useState(0);

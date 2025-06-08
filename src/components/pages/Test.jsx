@@ -4,10 +4,13 @@ import '../../App.css'
 import { useNavigate } from 'react-router-dom';
 import { signOut } from 'firebase/auth';
 import { auth } from '../../firebase';
+import { FiLogOut } from "react-icons/fi";
+import { useState } from 'react'
 
 function Test({user}) {
 
   const navigate = useNavigate();
+  const[mode, setMode] = useState(false);
 
   const handleLogOut = async () => {
     try {
@@ -23,12 +26,12 @@ function Test({user}) {
     <div>
       <div className='loginMenu'>
       <h5 className='welcomeMsg pt-1 m-0'>Vitaj {user.displayName}</h5>
-      <button type="button" className='btn btn-dark' onClick={handleLogOut}>
-        Odhlásiť sa
+      <button type="button" className={`btn ${mode ? "btn-dark" : "btn-light"} d-flex  align-items-center gap-1 ms-2`} onClick={handleLogOut}>
+      <FiLogOut size={20} />Odhlásiť sa
       </button>
       </div>
       
-      <Question></Question>
+      <Question mode={mode} setMode={setMode}></Question>
       <Footer></Footer>
     </div>
   )
