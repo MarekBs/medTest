@@ -257,7 +257,6 @@ export default function Question() {
   return (
     <div className="d-flex flex-column mainContainer">
       
-      
       <div className="input-group mb-3 rangeHolder ms-auto fixed-top mb-5 d-flex justify-content-center">
         <div className="d-flex mb-3 doubleMenu justify-content-center align-items-center m-0">
         <div className="form-check form-switch modeWrapper">
