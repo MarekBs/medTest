@@ -23,7 +23,7 @@
 .loginMenu {
   display: flex;
   align-items: center;
-  margin: 5px 0 0 5px;
+  padding: 5px 0 0 5px;
 }
 
 .checkBoxLarge {
@@ -118,11 +118,6 @@ input[type="number"]::-webkit-outer-spin-button {
 }
 
 
-
-.imgHolder{
-  width: 80px;
-  height: 80px;
-}
 .logoIMG{
   height: 80px;
   object-fit: cover;
@@ -140,18 +135,16 @@ input[type="number"]::-webkit-outer-spin-button {
 }
 
 .credentials{
-  margin-top: 4.5rem;
-  margin-left: -5rem;
+  margin-top: 1rem;
   color: lightgray;
   font-size: 0.8rem;
 }
 
 .ftr {
-  margin: 0;
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 4rem;
+  height: 2rem;
   text-align: center;
   
 }
@@ -172,18 +165,23 @@ input[type="number"] {
       margin: auto;
       margin-top: 1rem;
     }
+    .ftr{
+      margin-top: 2rem;
+    }
 }
 
 @media (max-width: 940px) { 
   .logoIMG{
-    position: inherit;
+    position: relative;
   }
   .credentials{
     margin-left: 1rem;
     margin-top: 2rem;
+    margin-bottom: 0;
   }
   .ftr{
     margin-top: 3rem;
+    height: 5rem;
   }
 }
 
