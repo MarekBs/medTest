@@ -127,12 +127,12 @@ export default function Question({mode, setMode}) {
         });
       } else if (window.innerWidth <= 364) {
         window.scrollTo({
-          top: 300,
+          top: 342,
           behavior: 'smooth'
         });
       } else {
         window.scrollTo({
-          top: 250,
+          top: 292,
           behavior: 'smooth'
         });
       }
