@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Link, useNavigate } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import { createUserWithEmailAndPassword, signOut, updateProfile } from 'firebase/auth';
 import { auth } from '../../firebase';
 
@@ -9,13 +9,13 @@ export default function RegisterPage() {
   const [password, setPassword] = useState('');
   const [confirmPassword, setConfirmPassword] = useState('');
   const [msg, setMsg] = useState('');
+  const [isButtonVisible, setIsButtonVisible] = useState(false);
 
   const [emailError, setEmailError] = useState('');
   const [userNameError, setUserNameError] = useState('');
   const [passwordError, setPasswordError] = useState('');
   const [confirmPasswordError, setConfirmPasswordError] = useState('');
 
-  const navigate = useNavigate();
 
   const validateInputs = () => {
     let valid = true;
@@ -70,6 +70,8 @@ export default function RegisterPage() {
       const user = userCredential.user;
       await updateProfile(user, { displayName: userName });
       setMsg('Registrácia bola úspešná, môžeš sa prihlásiť !');
+      document.getElementById('regForm').style.display = 'none';
+      setIsButtonVisible(true);
       await signOut(auth);
     } catch (error) {
       setMsg("Zadaný email už je registrovaný !");
@@ -83,7 +85,7 @@ export default function RegisterPage() {
         <div className="card-body">
           <h3 className="card-title text-center mb-4">Registrácia</h3>
           {msg && <div className="alert alert-info">{msg}</div>}
-          <form onSubmit={handleSignUp} noValidate>
+          <form onSubmit={handleSignUp} id="regForm" noValidate>
             <div className="mb-3">
               <label htmlFor="email" className="form-label">Email</label>
               <input
@@ -145,7 +147,11 @@ export default function RegisterPage() {
             >
               Registrovať sa
             </button>
+            
           </form>
+          <Link to="/" className={`${isButtonVisible ? "d-block" : "d-none"}`}>
+          <button className="btn btn-secondary w-100">Prejsť na prihlásenie</button> 
+          </Link>
           <div className="mt-3 text-center">
             <small className='p-2 text-secondary'>Už mám účet:</small>
             <Link to="/" className="link-primary">Prihlásiť sa!</Link>
