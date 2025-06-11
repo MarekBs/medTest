@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import { Link, useNavigate } from 'react-router-dom';
 import { signInWithEmailAndPassword, onAuthStateChanged } from 'firebase/auth';
 import { auth } from '../../firebase';
+import { FiLogIn } from "react-icons/fi";
 
 export default function LoginPage() {
   const [email, setEmail] = useState('');
@@ -97,11 +98,11 @@ export default function LoginPage() {
               {passwordError && <div className="invalid-feedback">{passwordError}</div>}
             </div>
             <button type="submit" className="btn btn-primary w-100" disabled={!!emailError || !!passwordError}>
-              Prihlásiť sa
+            <FiLogIn /> Prihlásiť sa
             </button>
           </form>
           <div className="mt-3 text-center">
-            <small className='text-secondary p-2'>Chcem sa zaregistrovať:</small>
+            <small className='text-secondary p-2'> Chcem sa zaregistrovať:</small>
             <Link to="/register" className="link-primary">Zaregistruj sa!</Link>
           </div>
         </div>

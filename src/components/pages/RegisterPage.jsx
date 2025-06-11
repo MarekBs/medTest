@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { Link } from 'react-router-dom';
 import { createUserWithEmailAndPassword, signOut, updateProfile } from 'firebase/auth';
 import { auth } from '../../firebase';
+import { FaUserPlus } from "react-icons/fa";
 
 export default function RegisterPage() {
   const [email, setEmail] = useState('');
@@ -145,7 +146,7 @@ export default function RegisterPage() {
                 !!emailError || !!userNameError || !!passwordError || !!confirmPasswordError
               }
             >
-              Registrovať sa
+              <FaUserPlus /> Registrovať sa
             </button>
             
           </form>
