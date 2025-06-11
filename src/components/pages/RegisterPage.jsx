@@ -79,11 +79,11 @@ export default function RegisterPage() {
   };
 
   return (
-    <div className="container-fluid d-flex justify-content-center align-items-center vh-100 bg-dark">
+    <div className="container-fluid d-flex justify-content-center align-items-center vh-100 pageBG">
       <div><img src={`${import.meta.env.BASE_URL}logoMED.svg`} alt="logoMED" className="logoIMG2" height={100}/></div>
-      <div className="card shadow-sm w-100" style={{ maxWidth: '400px' }}>
+      <div className="card shadow-sm w-100 formCard text-light" style={{ maxWidth: '400px' }}>
         <div className="card-body">
-          <h3 className="card-title text-center mb-4">Registrácia</h3>
+          <h3 className="card-title text-center mb-4 fw-bold">Registrácia</h3>
           {msg && <div className="alert alert-info">{msg}</div>}
           <form onSubmit={handleSignUp} id="regForm" noValidate>
             <div className="mb-3">
