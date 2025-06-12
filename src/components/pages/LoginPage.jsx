@@ -16,18 +16,17 @@ export default function LoginPage() {
     const unsubscribe = onAuthStateChanged(auth, user => {
       if (user) {
         navigate('/test', { replace: true });
+      } else {
       }
     });
-    return unsubscribe;
+    return () => unsubscribe();
   }, [navigate]);
 
   const validateInputs = () => {
     let valid = true;
-    // reset errors
     setEmailError('');
     setPasswordError('');
 
-    // email validation
     const emailRegex = /^[\w-.]+@([\w-]+\.)+[\w-]{2,4}$/;
     if (!email.trim()) {
       setEmailError('Email je povinný.');
@@ -37,7 +36,6 @@ export default function LoginPage() {
       valid = false;
     }
 
-    // password validation
     if (!password) {
       setPasswordError('Heslo je povinné.');
       valid = false;
@@ -51,15 +49,22 @@ export default function LoginPage() {
 
   const handleLogIn = async (e) => {
     e.preventDefault();
+    setMsg(''); // Clear previous messages
     if (!validateInputs()) {
       return;
     }
     try {
-      await signInWithEmailAndPassword(auth, email, password);
+      const userCredential = await signInWithEmailAndPassword(auth, email, password);
       setMsg('Prihlásenie bolo úspešné.');
       navigate('/test', { replace: true });
     } catch (error) {
-      setMsg("Neplatné prihlasovacie údaje!");
+      if (error.code === 'auth/wrong-password' || error.code === 'auth/user-not-found'|| error.code === 'auth/invalid-credential') {
+        setMsg('Neplatné prihlasovacie údaje!');
+      } else if (error.code === 'auth/too-many-requests') {
+        setMsg('Príliš veľa pokusov. Skúste to znova neskôr.');
+      } else {
+        setMsg('Chyba pri prihlasovaní: ' + error.message);
+      }
     }
   };
 
@@ -79,7 +84,6 @@ export default function LoginPage() {
                 id="email"
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
-                onBlur={validateInputs}
                 required
               />
               {emailError && <div className="invalid-feedback">{emailError}</div>}
@@ -92,13 +96,12 @@ export default function LoginPage() {
                 id="password"
                 value={password}
                 onChange={(e) => setPassword(e.target.value)}
-                onBlur={validateInputs}
                 required
               />
               {passwordError && <div className="invalid-feedback">{passwordError}</div>}
             </div>
-            <button type="submit" className="btn btn-primary w-100" disabled={!!emailError || !!passwordError}>
-            <FiLogIn /> Prihlásiť sa
+            <button type="submit" className="btn btn-primary w-100">
+              <FiLogIn /> Prihlásiť sa
             </button>
           </form>
           <div className="mt-3 text-center">

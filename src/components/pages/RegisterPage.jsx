@@ -11,22 +11,18 @@ export default function RegisterPage() {
   const [confirmPassword, setConfirmPassword] = useState('');
   const [msg, setMsg] = useState('');
   const [isButtonVisible, setIsButtonVisible] = useState(false);
-
   const [emailError, setEmailError] = useState('');
   const [userNameError, setUserNameError] = useState('');
   const [passwordError, setPasswordError] = useState('');
   const [confirmPasswordError, setConfirmPasswordError] = useState('');
 
-
   const validateInputs = () => {
     let valid = true;
-    // reset errors
     setEmailError('');
     setUserNameError('');
     setPasswordError('');
     setConfirmPasswordError('');
 
-    // email validation
     const emailRegex = /^[\w-.]+@([\w-]+\.)+[\w-]{2,4}$/;
     if (!email.trim()) {
       setEmailError('Email je povinný.');
@@ -36,13 +32,11 @@ export default function RegisterPage() {
       valid = false;
     }
 
-    // username validation
     if (!userName.trim()) {
       setUserNameError('Meno je povinné.');
       valid = false;
     }
 
-    // password validation
     if (!password) {
       setPasswordError('Heslo je povinné.');
       valid = false;
@@ -51,7 +45,6 @@ export default function RegisterPage() {
       valid = false;
     }
 
-    // confirm password
     if (!confirmPassword) {
       setConfirmPasswordError('Potvrďte heslo.');
       valid = false;
@@ -65,6 +58,7 @@ export default function RegisterPage() {
 
   const handleSignUp = async (e) => {
     e.preventDefault();
+    setMsg(''); // Clear previous messages
     if (!validateInputs()) return;
     try {
       const userCredential = await createUserWithEmailAndPassword(auth, email, password);
@@ -75,7 +69,15 @@ export default function RegisterPage() {
       setIsButtonVisible(true);
       await signOut(auth);
     } catch (error) {
-      setMsg("Zadaný email už je registrovaný !");
+      if (error.code === 'auth/email-already-in-use') {
+        setMsg('Zadaný email už je registrovaný !');
+      } else if (error.code === 'auth/invalid-email') {
+        setMsg('Neplatný formát emailu.');
+      } else if (error.code === 'auth/weak-password') {
+        setMsg('Heslo je príliš slabé.');
+      } else {
+        setMsg('Chyba pri registrácii: ' + error.message);
+      }
     }
   };
 
@@ -95,7 +97,6 @@ export default function RegisterPage() {
                 id="email"
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
-                onBlur={validateInputs}
                 required
               />
               {emailError && <div className="invalid-feedback">{emailError}</div>}
@@ -108,7 +109,6 @@ export default function RegisterPage() {
                 id="userName"
                 value={userName}
                 onChange={(e) => setUserName(e.target.value)}
-                onBlur={validateInputs}
                 required
               />
               {userNameError && <div className="invalid-feedback">{userNameError}</div>}
@@ -121,7 +121,6 @@ export default function RegisterPage() {
                 id="password"
                 value={password}
                 onChange={(e) => setPassword(e.target.value)}
-                onBlur={validateInputs}
                 required
               />
               {passwordError && <div className="invalid-feedback">{passwordError}</div>}
@@ -134,24 +133,16 @@ export default function RegisterPage() {
                 id="confirmPassword"
                 value={confirmPassword}
                 onChange={(e) => setConfirmPassword(e.target.value)}
-                onBlur={validateInputs}
                 required
               />
               {confirmPasswordError && <div className="invalid-feedback">{confirmPasswordError}</div>}
             </div>
-            <button
-              type="submit"
-              className="btn btn-primary w-100"
-              disabled={
-                !!emailError || !!userNameError || !!passwordError || !!confirmPasswordError
-              }
-            >
+            <button type="submit" className="btn btn-primary w-100">
               <FaUserPlus /> Registrovať sa
             </button>
-            
           </form>
           <Link to="/" className={`${isButtonVisible ? "d-block" : "d-none"}`}>
-          <button className="btn btn-secondary w-100">Prejsť na prihlásenie</button> 
+            <button className="btn btn-secondary w-100">Prejsť na prihlásenie</button>
           </Link>
           <div className="mt-3 text-center">
             <small className='p-2 text-secondary'>Už mám účet:</small>
