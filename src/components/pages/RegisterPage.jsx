@@ -1,8 +1,9 @@
 import React, { useState } from "react";
 import { Link } from 'react-router-dom';
 import { createUserWithEmailAndPassword, signOut, updateProfile } from 'firebase/auth';
-import { auth } from '../../firebase';
+import { auth, db } from '../../firebase';
 import { FaUserPlus } from "react-icons/fa";
+import { getDoc, doc } from "firebase/firestore";
 
 export default function RegisterPage() {
   const [email, setEmail] = useState('');
@@ -59,15 +60,29 @@ export default function RegisterPage() {
   const handleSignUp = async (e) => {
     e.preventDefault();
     setMsg(''); // Clear previous messages
+  
     if (!validateInputs()) return;
+  
     try {
+      // 👉 Overenie e-mailu v kolekcii whitelistEmails
+      const whitelistRef = doc(db, "whitelistEmails", email);
+      const whitelistSnap = await getDoc(whitelistRef);
+  
+      if (!whitelistSnap.exists()) {
+        setMsg("Tento e-mail nie je povolený na registráciu.");
+        return;
+      }
+  
+      // ✅ E-mail je na whitelist, pokračuj v registrácii
       const userCredential = await createUserWithEmailAndPassword(auth, email, password);
       const user = userCredential.user;
       await updateProfile(user, { displayName: userName });
+  
       setMsg('Registrácia bola úspešná, môžeš sa prihlásiť !');
       document.getElementById('regForm').style.display = 'none';
       setIsButtonVisible(true);
       await signOut(auth);
+  
     } catch (error) {
       if (error.code === 'auth/email-already-in-use') {
         setMsg('Zadaný email už je registrovaný !');
@@ -80,6 +95,7 @@ export default function RegisterPage() {
       }
     }
   };
+  
 
   return (
     <div className="container-fluid d-flex justify-content-center align-items-center vh-100 pageBG">
