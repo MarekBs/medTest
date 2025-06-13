@@ -217,7 +217,10 @@ input[type="number"] {
     #resolve{
       margin-top: 1rem !important;
     }
-    
+    .loginMenu{
+      justify-content: center;
+      margin-bottom: 1rem;
+    }
 }
 
 @media (max-width: 364px) { 
@@ -231,4 +234,8 @@ input[type="number"] {
   .toggler{
     margin-bottom: 1rem;
   }
+  .rangeHolder{
+    width: 310px !important;
+  }
+
 }
