@@ -327,7 +327,7 @@ export default function Question({mode, setMode}) {
                     key={key}
                   >
                     <input
-                      className={`form-check-input me-2 hvrOption ${mode ? 'border-0' : 'border-dark'}`}
+                      className={`form-check-input me-2 hvrOption ${mode ? 'border-0' : 'border-secondary'}`}
                       type="checkbox"
                       id={`checkbox-${key}`}
                       checked={!!selectedOptions[key.toUpperCase()]}

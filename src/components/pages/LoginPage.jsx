@@ -100,13 +100,13 @@ export default function LoginPage() {
               />
               {passwordError && <div className="invalid-feedback">{passwordError}</div>}
             </div>
-            <button type="submit" className="btn btn-primary w-100">
+            <button type="submit" className="btn btn-secondary w-100">
               <FiLogIn /> Prihlásiť sa
             </button>
           </form>
           <div className="mt-3 text-center">
             <small className='text-secondary p-2'> Chcem sa zaregistrovať:</small>
-            <Link to="/register" className="link-primary">Zaregistruj sa!</Link>
+            <Link to="/register" className="link-warning">Zaregistruj sa!</Link>
           </div>
         </div>
       </div>

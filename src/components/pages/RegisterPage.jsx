@@ -137,7 +137,7 @@ export default function RegisterPage() {
               />
               {confirmPasswordError && <div className="invalid-feedback">{confirmPasswordError}</div>}
             </div>
-            <button type="submit" className="btn btn-primary w-100">
+            <button type="submit" className="btn btn-secondary w-100">
               <FaUserPlus /> Registrovať sa
             </button>
           </form>
@@ -146,7 +146,7 @@ export default function RegisterPage() {
           </Link>
           <div className="mt-3 text-center">
             <small className='p-2 text-secondary'>Už mám účet:</small>
-            <Link to="/" className="link-primary">Prihlásiť sa!</Link>
+            <Link to="/" className="link-warning">Prihlásiť sa!</Link>
           </div>
         </div>
       </div>
