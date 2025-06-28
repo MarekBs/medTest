@@ -1,8 +1,10 @@
 import React, { useState, useEffect } from "react";
 import 'bootstrap';
+import { getFirestore, doc, setDoc, updateDoc, arrayUnion } from "firebase/firestore";
+const db = getFirestore();
 
 
-export default function Question({mode, setMode}) {
+export default function Question({mode, setMode, user}) {
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0); // Index aktuálnej otázky
   const [answers, setAnswers] = useState({}); // Načítané odpovede
   const [questions, setQuestions] = useState([]); // Načítané otázky
@@ -169,20 +171,35 @@ export default function Question({mode, setMode}) {
   const evaluateAnswers = () => {
     const correctAnswer = (isBiology ? answers : answers2)[currentQuestionIndex + 1] || ""; // Odpovede sú indexované od 1
     const newResults = {};
+    let correct = true;
 
-    // Prejdite cez všetky možnosti
     options.forEach((option, index) => {
-      if (correctAnswer[index] === "S") {
+      const isCorrectAnswer = correctAnswer[index] === "S";
+      const isSelected = !!selectedOptions[option]; // true ak zvolené, false ak nezvolené
+
+      if (isCorrectAnswer) {
         // Správna odpoveď
-        newResults[option] =
-          selectedOptions[option] === true ? "correct" : "missed"; // Ak nebola zvolená, označte ako "missed"
+        newResults[option] = isSelected ? "correct" : "missed";
+
+        if (!isSelected) {
+          // Ak správnu odpoveď nezvolil, odpoveď nie je správna
+          correct = false;
+        }
       } else {
         // Nesprávna odpoveď
-        newResults[option] =
-          selectedOptions[option] === true ? "wrong" : "neutral"; // Neutral pre nezvolenú nesprávnu
+        newResults[option] = isSelected ? "wrong" : "neutral";
+
+        if (isSelected) {
+          // Ak zvolil nesprávnu odpoveď, odpoveď nie je správna
+          correct = false;
+        }
       }
     });
 
+    if(isBiology){
+
+    }
+    ulozOdpoved(user.email,isBiology ? "bio" :"che",currentQuestionIndex+1,correct)
     setResults(newResults);
     handleCountChange();
   };
@@ -252,6 +269,34 @@ export default function Question({mode, setMode}) {
     }
     setIsFirst(false);
   }
+
+ async function ulozOdpoved(email, testNazov, cisloOtazky, spravna) {
+  const testDocRef = doc(db, "users", email, "tests", testNazov);
+
+  const odpovedObjekt = {
+    cisloOtazky,
+    spravna,
+    timestamp: Date.now()
+  };
+
+  try {
+    await updateDoc(testDocRef, {
+      odpovede: arrayUnion(odpovedObjekt)
+    });
+    console.log("Odpoveď uložená.");
+  } catch (error) {
+    if (error.code === 'not-found') {
+      await setDoc(testDocRef, {
+        odpovede: [odpovedObjekt]
+      });
+      console.log("Dokument vytvorený a odpoveď uložená.");
+    } else {
+      console.error("Chyba pri ukladaní odpovede:", error);
+    }
+  }
+}
+
+
   
   return (
     <div className="d-flex flex-column mainContainer">

@@ -1,11 +1,13 @@
 import Question from '../Question'
 import Footer from '../Footer'
+import Stats from '../Stats'
 import '../../App.css'
 import { useNavigate } from 'react-router-dom';
 import { signOut } from 'firebase/auth';
 import { auth } from '../../firebase';
 import { FiLogOut } from "react-icons/fi";
 import { useState } from 'react'
+import { FaChartPie } from 'react-icons/fa';
 
 function Test({user}) {
 
@@ -29,9 +31,10 @@ function Test({user}) {
       <button type="button" className={`btn ${mode ? "btn-dark" : "btn-light"} d-flex  align-items-center gap-1 ms-2`} onClick={handleLogOut}>
       <FiLogOut size={20} />Odhlásiť sa
       </button>
+      <button  data-bs-toggle="modal" data-bs-target="#scrollableModal" className={`btn ${mode ? "btn-dark" : "btn-light"} d-flex  align-items-center gap-1 ms-2`}><FaChartPie  size={25}/></button>
       </div>
-      
-      <Question mode={mode} setMode={setMode}></Question>
+      <Stats email={user.email}></Stats>
+      <Question mode={mode} user={user} setMode={setMode}></Question>
       <Footer></Footer>
     </div>
   )
