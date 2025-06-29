@@ -7,6 +7,26 @@
     margin: auto;
 }
 
+.modalStyle{
+  background-color: rgba(12, 13, 14, 0.6) !important;
+  backdrop-filter: blur(3px);           /* štandardný zápis */
+  -webkit-backdrop-filter: blur(3px);   /* podpora pre Safari */
+
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.1);
+  color: white; 
+}
+
+.modal-body {
+  display: flex;
+  justify-content: space-evenly;
+
+}
+
+.pieGraph {
+  height: 350px;
+  width: 350px;
+  margin: auto;
+}
 
 .toast{
   position: fixed;
@@ -192,6 +212,12 @@ input[type="number"] {
       margin-top: 2rem;
     }
 }
+@media (max-width: 995px) {
+    .modal-body{
+      display: block ;
+
+    }
+}
 
 @media (max-width: 940px) { 
   .logoIMG{
@@ -221,6 +247,20 @@ input[type="number"] {
       justify-content: center;
       margin-bottom: 1rem;
     }
+}
+
+@media(max-width: 400px){
+  .pieGraph{
+    width: 280px;
+    height: 280px;
+  }
+}
+
+@media(max-width: 386px){
+  .pieGraph{
+    width: 250px;
+    height: 250px;
+  }
 }
 
 @media (max-width: 364px) { 

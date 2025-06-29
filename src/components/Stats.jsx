@@ -5,7 +5,8 @@ import { db } from "../firebase"; // správna cesta k firebase config
 // import Chart.js komponenty
 import { Pie } from "react-chartjs-2";
 import { Chart, ArcElement, Tooltip, Legend } from "chart.js";
-Chart.register(ArcElement, Tooltip, Legend);
+import ChartDataLabels from 'chartjs-plugin-datalabels';
+Chart.register(ArcElement, Tooltip, Legend, ChartDataLabels );
 
 export default function Stats({ email }) {
   const [stats, setStats] = useState({
@@ -54,8 +55,9 @@ export default function Stats({ email }) {
       {
         label: "Bio odpovede",
         data: [stats.bio.spravne, stats.bio.nespravne],
-        backgroundColor: ["#4CAF50", "#F44336"], // zelená a červená
-        hoverOffset: 20,
+        backgroundColor: ["#43a047", "#ef5350"], // zelená a červená
+        hoverOffset: 25,
+        offset: 15
       },
     ],
   };
@@ -66,8 +68,9 @@ export default function Stats({ email }) {
       {
         label: "Che odpovede",
         data: [stats.che.spravne, stats.che.nespravne],
-        backgroundColor: ["#2196F3", "#FF9800"], // modrá a oranžová
-        hoverOffset: 20,
+        backgroundColor: ["#43a047", "#ef5350"], // modrá a oranžová
+        hoverOffset: 25,
+        offset: 15
       },
     ],
   };
@@ -80,8 +83,8 @@ export default function Stats({ email }) {
       aria-labelledby="scrollableModalLabel"
       aria-hidden="true"
     >
-      <div className="modal-dialog modal-dialog-scrollable">
-        <div className="modal-content bg-dark text-light">
+      <div className="modal-dialog modal-dialog-scrollable modal-xl">
+        <div className="modal-content modalStyle text-light">
           <div className="modal-header border-secondary">
             <h5 className="modal-title" id="scrollableModalLabel">
               Štatistika
@@ -94,24 +97,69 @@ export default function Stats({ email }) {
             ></button>
           </div>
           <div className="modal-body">
-            <h6>Bio</h6>
-            <div style={{ width: 350, height: 350, margin: "auto", }}>
-            <Pie data={dataBio} 
-                options={{
+            <div className="text-center">
+            <h6>Biológia</h6>
+            <div className="pieGraph" >
+            <Pie
+              data={dataBio}
+              options={{
                 responsive: true,
                 maintainAspectRatio: false,
-                radius: '80%',
-            }}/>
+                plugins: {
+                  legend: {
+                    position: 'bottom',
+                    labels: {
+                      color: 'white',
+                    },
+                  },
+                  datalabels: {
+                    color: 'black', // farba čísel
+                    font: {
+                      weight: 'bold',
+                      size: 20,
+                    },
+                    formatter: (value, context) => {
+                      return value; // alebo `${value}%` ak chceš percentá
+                    },
+                  },
+                },
+              }}
+            />
+
+
+            </div>
             </div>
             <hr />
-            <h6>Che</h6>
-            <div style={{ width: 350, height: 350, margin: "auto", }}>
-            <Pie data={dataChe} 
-                options={{
+            <div className="text-center">
+            <h6>Chémia</h6>
+            <div className="pieGraph">
+            <Pie
+              data={dataChe}
+              options={{
                 responsive: true,
                 maintainAspectRatio: false,
-                radius: '80%',
-            }}/>
+                plugins: {
+                  legend: {
+                    position: 'bottom',
+                    labels: {
+                      color: 'white',
+                    },
+                  },
+                  datalabels: {
+                    color: 'black', // farba čísel
+                    font: {
+                      weight: 'bold',
+                      size: 20,
+                    },
+                    formatter: (value, context) => {
+                      return value; // alebo `${value}%` ak chceš percentá
+                    },
+                  },
+                },
+              }}
+            />
+
+            </div>
             </div>
           </div>
           <div className="modal-footer border-secondary">
