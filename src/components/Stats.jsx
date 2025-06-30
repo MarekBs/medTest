@@ -25,8 +25,6 @@ Chart.register(
 );
 
 export default function Stats({ email, stats }) {
-  
-
   // Dáta pre koláčové grafy
   const dataBio = {
     labels: ["Správne", "Nesprávne"],
@@ -96,6 +94,7 @@ export default function Stats({ email, stats }) {
                 <h6>Všetky odpovede</h6>
                 <div className="pieGraph">
                   <Pie
+                    key={Date.now()}
                     data={dataAll}
                     options={{
                       responsive: true,
@@ -130,6 +129,7 @@ export default function Stats({ email, stats }) {
                 <h6>Biológia</h6>
                 <div className="pieGraph">
                   <Pie
+                    key={Date.now()}
                     data={dataBio}
                     options={{
                       responsive: true,
@@ -160,11 +160,11 @@ export default function Stats({ email, stats }) {
                   />
                 </div>
               </div>
-              <hr />
-              <div className="text-center">
+              <div className="text-center graphHolder">
                 <h6>Chémia</h6>
                 <div className="pieGraph">
                   <Pie
+                    key={Date.now()}
                     data={dataChe}
                     options={{
                       responsive: true,
@@ -196,12 +196,18 @@ export default function Stats({ email, stats }) {
                 </div>
               </div>
             </div>
+            <br />
+            <hr />
+            <br />
             <div className="barChart">
-              <h6 className="text-center">Počet otázok za posledných 7 dní</h6>
+              <h6 className="text-center mb-3">
+                Počet zodpovedaných otázok za posledných 7 dní
+              </h6>
               <Bar
+                key={Date.now()}
                 data={{
-                  labels: Object.keys(stats.answersLast7Days || {}).map(
-                    (d) => d.slice(5)
+                  labels: Object.keys(stats.answersLast7Days || {}).map((d) =>
+                    d.slice(5)
                   ), // MM-DD
                   datasets: [
                     {
@@ -240,16 +246,6 @@ export default function Stats({ email, stats }) {
                 }}
               />
             </div>
-          </div>
-
-          <div className="modal-footer border-secondary">
-            <button
-              type="button"
-              className="btn btn-secondary"
-              data-bs-dismiss="modal"
-            >
-              Zavrieť
-            </button>
           </div>
         </div>
       </div>
