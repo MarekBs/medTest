@@ -23,9 +23,14 @@
 }
 
 .pieGraph {
-  height: 350px;
-  width: 350px;
+  height: 250px;
+  width: 250px;
   margin: auto;
+}
+
+.barChart {
+  height: 15rem;
+  margin: 40px 20px 40px 20px;
 }
 
 .toast{
@@ -215,9 +220,11 @@ input[type="number"] {
 @media (max-width: 995px) {
     .modal-body{
       display: block ;
-
     }
-}
+    .graphHolder{
+      margin-top: 2rem;
+    }
+  }
 
 @media (max-width: 940px) { 
   .logoIMG{
