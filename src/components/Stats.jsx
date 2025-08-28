@@ -76,16 +76,20 @@ export default function Stats({ email, stats, mode }) {
       aria-hidden="true"
     >
       <div className="modal-dialog modal-dialog-scrollable modal-xl">
-        <div className={`modal-content modalStyle ${
+        <div
+          className={`modal-content modalStyle ${
             mode ? "bg-dark text-light" : "bg-light text-dark"
-          }`}>
+          }`}
+        >
           <div className={`modal-header border-secondary`}>
             <h5 className="modal-title" id="scrollableModalLabel">
               Štatistika
             </h5>
             <button
               type="button"
-              className="btn-close btn-close-white"
+              className={`btn-close ${
+                mode ? "btn-close-white" : "btn-close-dark"
+              }`}
               data-bs-dismiss="modal"
               aria-label="Zavrieť"
             ></button>
@@ -110,11 +114,11 @@ export default function Stats({ email, stats, mode }) {
                         legend: {
                           position: "bottom",
                           labels: {
-                            color: "white",
+                            color: `${mode ? "white" : "black"}`,
                           },
                         },
                         datalabels: {
-                          color: "black", // farba čísel
+                          color: "white",
                           font: {
                             size: 20,
                           },
@@ -145,11 +149,11 @@ export default function Stats({ email, stats, mode }) {
                         legend: {
                           position: "bottom",
                           labels: {
-                            color: "white",
+                            color: `${mode ? "white" : "black"}`,
                           },
                         },
                         datalabels: {
-                          color: "black", // farba čísel
+                          color: "white", // farba čísel
                           font: {
                             size: 20,
                           },
@@ -180,11 +184,11 @@ export default function Stats({ email, stats, mode }) {
                         legend: {
                           position: "bottom",
                           labels: {
-                            color: "white",
+                            color: `${mode ? "white" : "black"}`,
                           },
                         },
                         datalabels: {
-                          color: "black", // farba čísel
+                          color: "white", // farba čísel
                           font: {
                             size: 20,
                           },
@@ -228,7 +232,7 @@ export default function Stats({ email, stats, mode }) {
                       display: false,
                     },
                     datalabels: {
-                      color: "white",
+                      color: `${mode ? "white" : "black"}`,
                       font: { size: 14 },
                       anchor: "end",
                       align: "top",
@@ -236,13 +240,33 @@ export default function Stats({ email, stats, mode }) {
                   },
                   scales: {
                     x: {
-                      ticks: { color: "white" },
-                      grid: { color: "rgba(255,255,255,0.1)" },
+                      ticks: { color: `${mode ? "white" : "black"}` },
+                      grid: {
+                        color: `${
+                          mode
+                            ? "rgba(255,255,255,0.1)"
+                            : "rgba(109, 109, 109, 0.17)"
+                        }`,
+                      },
                     },
                     y: {
                       beginAtZero: true,
-                      ticks: { color: "white", stepSize: 1, precision: 0 },
-                      grid: { color: "rgba(255,255,255,0.1)" },
+                      ticks: {
+                        color: `${mode ? "white" : "black"}`,
+                        stepSize: 1,
+                        precision: 0,
+                      },
+                      grid: {
+                        color: `${
+                          mode
+                            ? "rgba(255,255,255,0.1)"
+                            : "rgba(109, 109, 109, 0.17)"
+                        }`,
+                      },
+                      suggestedMax:
+                        Math.max(
+                          ...Object.values(stats.answersLast7Days || {})
+                        ) + 1, // posunie vrch
                     },
                   },
                 }}
