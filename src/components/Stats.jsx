@@ -24,7 +24,7 @@ Chart.register(
   BarElement
 );
 
-export default function Stats({ email, stats }) {
+export default function Stats({ email, stats, mode }) {
   // Dáta pre koláčové grafy
   const dataBio = {
     labels: ["Správne", "Nesprávne"],
@@ -76,8 +76,10 @@ export default function Stats({ email, stats }) {
       aria-hidden="true"
     >
       <div className="modal-dialog modal-dialog-scrollable modal-xl">
-        <div className="modal-content modalStyle text-light">
-          <div className="modal-header border-secondary">
+        <div className={`modal-content modalStyle ${
+            mode ? "bg-dark text-light" : "bg-light text-dark"
+          }`}>
+          <div className={`modal-header border-secondary`}>
             <h5 className="modal-title" id="scrollableModalLabel">
               Štatistika
             </h5>

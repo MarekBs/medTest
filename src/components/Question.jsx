@@ -9,7 +9,7 @@ import {
 } from "firebase/firestore";
 const db = getFirestore();
 
-export default function Question({ mode, setMode, user }) {
+export default function Question({ mode, user }) {
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0); // Index aktuálnej otázky
   const [answers, setAnswers] = useState({}); // Načítané odpovede
   const [questions, setQuestions] = useState([]); // Načítané otázky
@@ -88,18 +88,8 @@ export default function Question({ mode, setMode, user }) {
   useEffect(() => {
     loadFiles("B_otazky.txt", "B_odpovede.txt", true);
     loadFiles("C_otazky.txt", "C_odpovede.txt", false);
-    setMode(true);
     document.body.style.background = "#212529";
   }, []);
-
-  const changeMode = () => {
-    setMode((prev) => !prev);
-    if (mode) {
-      document.body.style.background = "#F8F9FA";
-    } else {
-      document.body.style.background = "#212529";
-    }
-  };
 
   const loadNextQuestion = () => {
     const min = range.min === "" ? 1 : range.min; // Default na 1, ak je prázdne
@@ -304,16 +294,6 @@ export default function Question({ mode, setMode, user }) {
     <div className="d-flex flex-column mainContainer">
       <div className="input-group mb-3 rangeHolder ms-auto fixed-top mb-5 d-flex justify-content-center">
         <div className="d-flex mb-3 doubleMenu justify-content-center align-items-center m-0">
-          <div className="form-check form-switch modeWrapper">
-            <input
-              className="form-check-input toggler"
-              type="checkbox"
-              role="switch"
-              id="flexSwitchCheckDefault"
-              onChange={changeMode}
-              checked={mode ? true : false}
-            ></input>
-          </div>
           <div
             className="btn-group"
             role="group"
