@@ -15,12 +15,29 @@
 }
 
 .custom-sidebar{
-  width: 100px !important;
+  width: 90px !important;
   
 }
 
+.custom-sidebar-bg {
+  height: 100vh;
+}
+.custom-sidebar-bg.light {
+  background-color: white !important;
+}
+
+.custom-sidebar-bg.dark {
+  background-color: #18181B !important;
+}
+
+
+
 .offcanvas-header{
   justify-content: center;
+}
+
+.offcanvas-body {
+  padding: 0 !important;
 }
 
 .userName {
@@ -28,6 +45,7 @@
   word-wrap: break-word; 
   overflow-wrap: break-word;
   text-align: center;
+  font-size: 16px;
 }
 
 
@@ -52,7 +70,7 @@
 
 .welcomeMsg {
   background-color: #ffeb79;
-  padding: 0.5rem;
+  padding: 0.3rem;
   border-radius: 8px;
 }
 
@@ -109,9 +127,11 @@
   padding: 0 !important;
 }
 .modeWrapper{
-  margin-right: 1rem;
-  margin-left: 1rem !important;
-  margin-top: 0.5rem;
+  margin: 0 auto 0 auto;
+}
+
+.logoutBtn{
+  margin: auto 1rem 1rem 1rem;
 }
 
 .input-group-text{

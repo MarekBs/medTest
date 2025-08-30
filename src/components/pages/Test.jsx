@@ -12,6 +12,7 @@ import { TfiAlignLeft } from "react-icons/tfi";
 import { IoMdPerson } from "react-icons/io";
 import { doc, getDoc } from "firebase/firestore";
 import { db } from "../../firebase"; // správna cesta k firebase config
+import Offcanvas from "bootstrap/js/dist/offcanvas";
 
 function Test({ user }) {
   const navigate = useNavigate();
@@ -113,6 +114,11 @@ function Test({ user }) {
     }
     setMode(true);
     changeOffcanvasCloseMode();
+    const offcanvasEl = document.getElementById("offcanvasScrolling");
+    if (offcanvasEl) {
+      const bsOffcanvas = new Offcanvas(offcanvasEl);
+      bsOffcanvas.show();
+    }
   }, [user.email]);
 
   return (
@@ -128,54 +134,64 @@ function Test({ user }) {
       </button>
 
       <div
-        className="offcanvas offcanvas-start custom-sidebar"
+        className={`offcanvas offcanvas-start custom-sidebar `}
         data-bs-scroll="true"
         data-bs-backdrop="false"
         tabIndex="-1"
         id="offcanvasScrolling"
         aria-labelledby="offcanvasScrollingLabel"
       >
-        <div className="offcanvas-header ">
-          <div className="welcomeMsg d-flex flex-column justify-content-center">
-            <IoMdPerson size={25} className="m-auto" />
-            <h6 className="m-0 userName">{user.displayName}</h6>
+        <div
+          className={` custom-sidebar-bg d-flex flex-column h-100  ${
+            mode ? "dark " : "light"
+          }`}
+        >
+          <div className="offcanvas-header ">
+            <div className="welcomeMsg d-flex flex-column justify-content-center">
+              <IoMdPerson size={25} className="m-auto" />
+              <h6 className="m-0 userName">{user.displayName}</h6>
+            </div>
           </div>
-        </div>
-        <hr />
-        <div className="offcanvas-body d-flex flex-column justify-content-center gap-2">
-          <button
-            onClick={fetchStats}
-            data-bs-toggle="modal"
-            data-bs-target="#scrollableModal"
-            className={`btn  ${mode ? "text-dark" : "text-dark"}`}
-          >
-            <FaChartPie size={25} />
-          </button>
-          <hr />
-          <div className="form-check form-switch modeWrapper">
-            <input
-              className="form-check-input toggler"
-              type="checkbox"
-              role="switch"
-              id="flexSwitchCheckDefault"
-              onChange={changeMode}
-              checked={mode ? true : false}
-            ></input>
+          <hr className={`${mode ? "text-light" : "text-dark"}`} />
+          <div className="offcanvas-body d-flex flex-column justify-content-center gap-2">
+            <button
+              onClick={fetchStats}
+              data-bs-toggle="modal"
+              data-bs-target="#scrollableModal"
+              className={`btn  ${mode ? "text-light" : "text-dark"}`}
+            >
+              <FaChartPie size={25} />
+            </button>
+            <hr className={`${mode ? "text-light" : "text-dark"}`} />
+            <div className="form-check form-switch modeWrapper">
+              <input
+                className="form-check-input toggler"
+                type="checkbox"
+                role="switch"
+                id="flexSwitchCheckDefault"
+                onChange={changeMode}
+                checked={mode ? true : false}
+              ></input>
+            </div>
+            <hr className={`${mode ? "text-light" : "text-dark"}`} />
+            <button
+              type="button"
+              className={`btn-close  mx-auto ${
+                mode ? "btn-close-white" : "btn-close-dark"
+              }`}
+              data-bs-dismiss="offcanvas"
+              aria-label="Close"
+            ></button>
+            <button
+              type="button"
+              className={`btn logoutBtn ${
+                mode ? "btn-outline-light" : "btn-outline-dark"
+              } `}
+              onClick={handleLogOut}
+            >
+              <IoMdPower size={20} />
+            </button>
           </div>
-          <hr />
-          <button
-            type="button"
-            className="btn-close text-reset mx-auto"
-            data-bs-dismiss="offcanvas"
-            aria-label="Close"
-          ></button>
-          <button
-            type="button"
-            className={`btn mt-auto btn-outline-dark `}
-            onClick={handleLogOut}
-          >
-            <IoMdPower size={20} />
-          </button>
         </div>
       </div>
 
