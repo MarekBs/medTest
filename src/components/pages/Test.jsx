@@ -97,11 +97,22 @@ function Test({ user }) {
     }
   };
 
+  const changeOffcanvasCloseMode = () => {
+    let offcanvas = document.getElementById("offcanvasScrolling");
+
+    if (window.innerWidth < 950) {
+      offcanvas.setAttribute("data-bs-backdrop", "true");
+    } else {
+      offcanvas.setAttribute("data-bs-backdrop", "false");
+    }
+  };
+
   useEffect(() => {
     if (user.email) {
       fetchStats();
     }
     setMode(true);
+    changeOffcanvasCloseMode();
   }, [user.email]);
 
   return (
@@ -154,7 +165,7 @@ function Test({ user }) {
           <hr />
           <button
             type="button"
-            class="btn-close text-reset mx-auto"
+            className="btn-close text-reset mx-auto"
             data-bs-dismiss="offcanvas"
             aria-label="Close"
           ></button>
