@@ -119,6 +119,14 @@ function Test({ user }) {
       const bsOffcanvas = new Offcanvas(offcanvasEl);
       bsOffcanvas.show();
     }
+
+    document.addEventListener("click", function (e) {
+      if (e.target.classList.contains("offcanvas-backdrop")) {
+        document
+          .querySelectorAll(".offcanvas-backdrop")
+          .forEach((el) => el.remove());
+      }
+    });
   }, [user.email]);
 
   return (
