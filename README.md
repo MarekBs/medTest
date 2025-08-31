@@ -4,4 +4,4 @@ Interaktívna webová aplikácia, ktorá slúži pre študentov pripravujúcich 
 
 
 ## Technológie
-Vite, React, JS, CSS HTML
+Vite, React, JS, CSS HTML, Firebase, Bootstrap
