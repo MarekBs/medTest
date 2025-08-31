@@ -8,7 +8,7 @@ Interaktívna webová aplikácia, ktorá slúži pre študentov pripravujúcich 
 Vite, React, JS, CSS HTML, Firebase, Bootstrap
 
 ## Funkcie
-Registrácia, prihlásenie, štatistiky, vyhodnotenie odpovede, výber rozsahu otázok, výber biológia/chémia, tmavý/svetlý mód,  náhodný výber otázok/podľa poradia. 
+Registrácia, prihlásenie, štatistiky, vyhodnotenie odpovede, výber rozsahu otázok, výber biológia/chémia, tmavý/svetlý mód,  náhodný výber otázok/podľa poradia. Responzívny dizajn.
 
 ## Ukážka
 
