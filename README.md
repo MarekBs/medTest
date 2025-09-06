@@ -3,7 +3,12 @@
 Interaktívna webová aplikácia, ktorá slúži pre študentov pripravujúcich sa na príjmačky na medicínu.
 
 [medTest webová aplikácia](https://marekbs.github.io/medTest/)
-Pre ukážku je možné použiť prihlasovacie údaje: m@gmail.com a heslo: 123123
+
+Pre ukážku je možné použiť prihlasovacie údaje:
+
+email: m@gmail.com a heslo: 123123
+
+##
 Registrácia je možná iba pre whitelisted emaily.
 
 ## Technológie
